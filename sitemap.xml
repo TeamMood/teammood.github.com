@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://TeamMood.github.com/blog/archives/</loc>
-        <lastmod>2013-04-05T11:32:56+02:00</lastmod>
+        <loc>http://blog.teammood.com/blog/2013/03/31/the-idea/</loc>
+        <lastmod>2013-04-07T20:49:02+02:00</lastmod>
     </url>
     <url>
-        <loc>http://TeamMood.github.com/</loc>
-        <lastmod>2013-04-05T11:32:56+02:00</lastmod>
+        <loc>http://blog.teammood.com/blog/archives/</loc>
+        <lastmod>2013-04-07T20:49:02+02:00</lastmod>
     </url>
     <url>
-        <loc>http://TeamMood.github.com/robots.txt</loc>
+        <loc>http://blog.teammood.com/</loc>
+        <lastmod>2013-04-07T20:49:02+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://blog.teammood.com/robots.txt</loc>
         <lastmod>2013-04-05T11:32:56+02:00</lastmod>
     </url>
 </urlset>

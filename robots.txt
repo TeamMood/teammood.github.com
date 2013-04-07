@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://TeamMood.github.com/sitemap.xml 
+Sitemap: http://blog.teammood.com/sitemap.xml 

@@ -4,7 +4,7 @@
   <title><![CDATA[TeamMood's Blog]]></title>
   <link href="http://blog.teammood.com/atom.xml" rel="self"/>
   <link href="http://blog.teammood.com/"/>
-  <updated>2013-04-08T08:52:05+02:00</updated>
+  <updated>2013-04-18T15:36:28+02:00</updated>
   <id>http://blog.teammood.com/</id>
   <author>
     <name><![CDATA[TeamMood]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Twitter effect]]></title>
+    <link href="http://blog.teammood.com/blog/2013/04/18/the-twitter-effect/"/>
+    <updated>2013-04-18T15:23:00+02:00</updated>
+    <id>http://blog.teammood.com/blog/2013/04/18/the-twitter-effect</id>
+    <content type="html"><![CDATA[<p>At last, I finally &#8220;officially&#8221; launched the TeamMood project by using two announce ments through Twitter, this is the one in English (another one was made in French):</p>
+
+<blockquote class="twitter-tweet" lang="fr"><p>Guys, I&#8217;m launching my first side-project !! <a href="http://t.co/9h4lyIIMtc" title="http://teammood.com">teammood.com</a>, feel free to share the love ;-) <a href="https://twitter.com/search/%23teammood">#teammood</a> <a href="https://twitter.com/search/%23nikoniko">#nikoniko</a> <a href="https://twitter.com/search/%23happy">#happy</a></p>&mdash; Nicolas Deverge (@ndeverge) <a href="https://twitter.com/ndeverge/status/324860646296539136">18 avril 2013</a></blockquote>
+
+
+<script async src="http://blog.teammood.com//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>So far so good, in just hour, I had 29 people who registred by giving their email for about 179 unique visitors.</p>
+
+<p>And I also received many positive feedbacks from some people.</p>
+
+<p>I think that my first MVP has quite a good result, so now, I have to keep on the adventure !!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Idea]]></title>

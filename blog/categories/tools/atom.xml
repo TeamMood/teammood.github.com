@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: the idea | TeamMood's Blog]]></title>
-  <link href="http://blog.teammood.com/blog/categories/the-idea/atom.xml" rel="self"/>
+  <title><![CDATA[Category: tools | TeamMood's Blog]]></title>
+  <link href="http://blog.teammood.com/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://blog.teammood.com/"/>
   <updated>2013-04-19T16:46:00+02:00</updated>
   <id>http://blog.teammood.com/</id>
@@ -31,25 +31,6 @@
 <p>Also note that these guys are expecting a lot of feedback, and they are super reactive.</p>
 
 <p>So if you have an idea, and you don't know where to start, go on <a href="http://startitup.co">StartitUp</a> !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Idea]]></title>
-    <link href="http://blog.teammood.com/blog/2013/03/31/the-idea/"/>
-    <updated>2013-03-31T15:07:00+02:00</updated>
-    <id>http://blog.teammood.com/blog/2013/03/31/the-idea</id>
-    <content type="html"><![CDATA[<p>It's been a while since I wanted to build a project of my own. On a daily basis, I give advices to IT companies about technologies, methodologies and strategies to build awesome products. And now it is my turn !</p>
-
-<p>So I finally took the time to build my first side project: <a href="http://teammood.com" class="teammood">TeamMood</a> !</p>
-
-<p><a href="http://teammood.com"><img class="center" src="/images/posts/coming-soon.png" title="" ></a></p>
-
-<p>I will not explain what the project is about in this post, I prefer to let you discover the idea through the very first MVP which is a simple "<a href="http://teammood.com">coming soon</a>" page and let you give me a lot of <a href="mailto:hello@teammood.com">feedback</a>.</p>
-
-<p>Basically, the idea scratched me since many months because I feel that it can bring a lot in some companies that I work with. But it took me a lot of time before starting to build something, probably because I thought that if I begin to do this, I'd have to pull it to the end, ie some kind of commitment.</p>
-
-<p>And yes, I use LeanStartup to explore the idea, because I don't know if it will be a good one and if people will be interested. So let's learn with this first MVP and we'll see :-)</p>
 ]]></content>
   </entry>
   

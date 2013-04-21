@@ -4,7 +4,7 @@
   <title><![CDATA[TeamMood's Blog]]></title>
   <link href="http://blog.teammood.com/atom.xml" rel="self"/>
   <link href="http://blog.teammood.com/"/>
-  <updated>2013-04-21T21:49:01+02:00</updated>
+  <updated>2013-04-21T21:51:11+02:00</updated>
   <id>http://blog.teammood.com/</id>
   <author>
     <name><![CDATA[TeamMood]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.teammood.com/blog/2013/04/21/what-is-the-niko-niko</id>
     <content type="html"><![CDATA[<p>The Niko-niko calendar is an Agile practice which aims to detect patterns of change of mood of a team over time.</p>
 
-<p><img class="right" src="http://blog.teammood.com/images/posts/niko-niko.jpg" title="An example of Niko-niko calendar" ></p>
+<p><img class="right" src="http://blog.teammood.com/images/posts/niko-niko.JPG" title="An example of Niko-niko calendar" ></p>
 
 <p>The technic is very easy: at the end of the day, each team member paste a sticker on a calendar to tell if he had a good day at work.</p>
 

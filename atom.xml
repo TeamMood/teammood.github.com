@@ -4,7 +4,7 @@
   <title><![CDATA[TeamMood's Blog]]></title>
   <link href="http://blog.teammood.com/atom.xml" rel="self"/>
   <link href="http://blog.teammood.com/"/>
-  <updated>2014-09-07T14:36:03+02:00</updated>
+  <updated>2014-09-07T14:59:48+02:00</updated>
   <id>http://blog.teammood.com/</id>
   <author>
     <name><![CDATA[TeamMood]]></name>
@@ -23,6 +23,9 @@
 <p><img class="right" src="http://blog.teammood.com/images/posts/niko-niko.JPG" title="An example of Niko-niko calendar" ></p>
 
 <p>The technic is very easy: at the end of the day, each team member paste a sticker on a calendar to tell if he had a good day at work.</p>
+
+<!--More-->
+
 
 <p>In other word, you probably ever went back to home from work and feel that you had a bad day, or you did not feel &#8220;productive&#8221;. That&#8217;s a red sticker.</p>
 
@@ -53,6 +56,9 @@
     <id>http://blog.teammood.com/blog/2013/04/19/great-tool-to-polish-your-idea</id>
     <content type="html"><![CDATA[<p>When you search the Web for resources about entrepreneurship, (lean)startup and so on, you&#8217;ll find a lot of articles and advices, but it is very hard to know how to begin, and what&#8217;s could be your next move.</p>
 
+<!--More-->
+
+
 <p>I don&#8217;t remember how I get on this when I was doing some research for my <a href="http://teammood.com">TeamMood project</a>, but I found an awesome gold nugget : <a href="http://startitup.co">StartitUp</a></p>
 
 <p><a href="http://startitup.co"><img class="center" src="http://blog.teammood.com/images/posts/startitup.png" title="" ></a></p>
@@ -80,6 +86,11 @@
 <script async src="http://blog.teammood.com//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
+
+<!--More-->
+
+
 <p>So far so good, in just hour, I had 29 people who registred by giving their email for about 179 unique visitors.</p>
 
 <p>And I also received many positive feedbacks from some people.</p>
@@ -94,6 +105,9 @@
     <updated>2013-03-31T15:07:00+02:00</updated>
     <id>http://blog.teammood.com/blog/2013/03/31/the-idea</id>
     <content type="html"><![CDATA[<p>It&#8217;s been a while since I wanted to build a project of my own. On a daily basis, I give advices to IT companies about technologies, methodologies and strategies to build awesome products. And now it is my turn !</p>
+
+<!--More-->
+
 
 <p>So I finally took the time to build my first side project: <a href="http://teammood.com" class="teammood">TeamMood</a> !</p>
 

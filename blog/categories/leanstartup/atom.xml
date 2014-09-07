@@ -4,7 +4,7 @@
   <title><![CDATA[Category: leanstartup | TeamMood's Blog]]></title>
   <link href="http://blog.teammood.com/blog/categories/leanstartup/atom.xml" rel="self"/>
   <link href="http://blog.teammood.com/"/>
-  <updated>2014-09-07T14:36:03+02:00</updated>
+  <updated>2014-09-07T14:59:48+02:00</updated>
   <id>http://blog.teammood.com/</id>
   <author>
     <name><![CDATA[TeamMood]]></name>
@@ -19,6 +19,9 @@
     <updated>2013-03-31T15:07:00+02:00</updated>
     <id>http://blog.teammood.com/blog/2013/03/31/the-idea</id>
     <content type="html"><![CDATA[<p>It's been a while since I wanted to build a project of my own. On a daily basis, I give advices to IT companies about technologies, methodologies and strategies to build awesome products. And now it is my turn !</p>
+
+<!--More-->
+
 
 <p>So I finally took the time to build my first side project: <a href="http://teammood.com" class="teammood">TeamMood</a> !</p>
 

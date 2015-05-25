@@ -11,3 +11,7 @@ $> jekyll serve
 ```
 
 Deploy :
+
+```
+$> octopress deploy
+```

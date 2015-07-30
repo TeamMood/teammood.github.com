@@ -5,7 +5,28 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Mon, 08 Jun 2015 17:28:22 +0200</pubDate>
+    <pubDate>Thu, 30 Jul 2015 20:31:24 +0200</pubDate>
+    
+      <item>
+        <title>TeamMood Now On Your Wall</title>
+        <link>http://blog.teammood.com/features/tips/2015/07/30/teammood-now-on-your-wall.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/features/tips/2015/07/30/teammood-now-on-your-wall.html</guid>
+        <description>&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/dashboard_monitor.jpg&quot; alt=&quot;Dashboard Monitor&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to a contribution by &lt;a href=&quot;https://twitter.com/nrichand&quot;&gt;Nathaniel Richand&lt;/a&gt; (a TeamMood power user), it is now possible to display the latest moods of your team on your monitoring display in real time.&lt;/p&gt;
+
+&lt;p&gt;He wrote a widget for &lt;a href=&quot;http://dashing.io/&quot;&gt;Dashing&lt;/a&gt;, a great and easy to use free dashboard framework.&lt;/p&gt;
+
+&lt;p&gt;The TeamMood widget looks like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/teammood_widget.png&quot; alt=&quot;TeamMood Widget&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Feel free to use it and don’t forget to send us pictures ;-)&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://gist.github.com/nrichand/265342903eabc4ad0050&quot;&gt;Go get the widget&lt;/a&gt;&lt;/div&gt;
+</description>
+        <pubDate>Thu, 30 Jul 2015 15:47:39 +0200</pubDate>
+      </item>
     
       <item>
         <title>The Importance of Employee Recognition in the Workplace</title>

@@ -5,7 +5,7 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Thu, 30 Jul 2015 20:31:24 +0200</pubDate>
+    <pubDate>Sun, 13 Dec 2015 08:08:31 +0100</pubDate>
     
       <item>
         <title>TeamMood Now On Your Wall</title>
@@ -26,6 +26,53 @@
 &lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://gist.github.com/nrichand/265342903eabc4ad0050&quot;&gt;Go get the widget&lt;/a&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 15:47:39 +0200</pubDate>
+      </item>
+    
+      <item>
+        <title>How to Effectively Remove Google Analytics Spam</title>
+        <link>http://blog.teammood.com/tech/2014/12/13/how-to-effectively-remove-google-analytics-spam.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/tech/2014/12/13/how-to-effectively-remove-google-analytics-spam.html</guid>
+        <description>&lt;p&gt;Since several months, you certainly have seen some strange referral sources in your Google Analytics reports. Those are spam:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/spam.png&quot; alt=&quot;Spam in Google Analytics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You have several ways to avoid this, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;using segment by excluding these domains in Google Analytics reports&lt;/li&gt;
+  &lt;li&gt;excluding these domains in Google Analytics filter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But you have to know which domains to exclude for both methods, and they are evolving everyday.&lt;/p&gt;
+
+&lt;p&gt;The most effective way I found is to only include traffic that go to your website (the spam does not really go on your website, they just mess with the Google Analytics API).&lt;/p&gt;
+
+&lt;p&gt;To do that, just go to the Google Analytics Admin Panel, and choose “Filter”:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/ga_admin.png&quot; alt=&quot;Filters in Google Analytics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then add a new filter:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/ga_filters.png&quot; alt=&quot;Add a new filter in Google Analytics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And the last steps are to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;choose a name for your filter, such as “Exclude Spam”&lt;/li&gt;
+  &lt;li&gt;select “Custom”&lt;/li&gt;
+  &lt;li&gt;click “Include”&lt;/li&gt;
+  &lt;li&gt;choose “Hostname” in the “Filter field”&lt;/li&gt;
+  &lt;li&gt;in the “Filter Pattern” field, use the following syntax &lt;code&gt;.*teammood.com| translate.googleusercontent.com&lt;/code&gt; and replace &lt;a href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=how-to-effectively-remove-google-analytics-spam&amp;amp;utm_campaign=blog_how-to-effectively-remove-google-analytics-spam&quot;&gt;teammood.com&lt;/a&gt; by your domain name (Google Translate is there in case people are using it to translate your page with Chrome).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/ga_remove_spam.png&quot; alt=&quot;Remove Spam in Google Analytics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It will not remove the old spam, but from now, the spam will not ever be recorded.&lt;/p&gt;
+
+&lt;p&gt;Is this tip made your day? If so, take a look at how TeamMood is helping teams to have better days :-)&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=how-to-effectively-remove-google-analytics-spam&amp;amp;utm_campaign=blog_how-to-effectively-remove-google-analytics-spam&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 13 Dec 2014 07:11:00 +0100</pubDate>
       </item>
     
       <item>

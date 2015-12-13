@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<title>How to Effectively Remove Google Analytics Spam | TeamMood's Blog</title>
+	<meta name="description" content="Since several months, you certainly have seen some strange referral sources in your Google Analytics reports. Those are spam:">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://blog.teammood.com/tech/2014/12/13/how-to-effectively-remove-google-analytics-spam.html">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="TeamMood's Blog" href="http://blog.teammood.com/feed.xml" />
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	
+	<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css">
+	
+
+	<!-- Google Analytics -->
+	
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-39772075-2', 'auto');
+	ga('send', 'pageview');
+	</script>
+	
+</head>
+
+  <body>
+    <header class="site-header">
+	<div class="branding">
+		
+		<h1 class="site-title">
+			<a href="/">TeamMood's Blog</a>
+		</h1>
+	</div>
+	<nav class="site-nav">
+		<ul>
+			<!-- Social icons from Font Awesome, if enabled -->
+			
+<li>
+	<a href="https://www.teammood.com/?utm_source=blog&utm_medium=header&utm_campaign=blog_header">
+		<i class="fa fa-fw fa-globe"></i>
+	</a>
+</li>
+
+
+<li>
+	<a href="http://blog.teammood.com/feed.xml" title="Follow RSS feed">
+		<i class="fa fa-fw fa-rss"></i>
+	</a>
+</li>
+
+
+
+<li>
+	<a href="mailto:hello@teammood.com" title="Email">
+		<i class="fa fa-fw fa-envelope"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.facebook.com/TeamMood" title="Follow on Facebook">
+		<i class="fa fa-fw fa-facebook"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+<li>
+	<a href="https://plus.google.com/+Teammood" title="Follow on Google+">
+		<i class="fa fa-fw fa-google-plus"></i>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://twitter.com/teammood" title="Follow on Twitter">
+		<i class="fa fa-fw fa-twitter"></i>
+	</a>
+</li>
+
+
+
+
+
+
+		</ul>
+	</nav>
+</header>
+
+    <div class="content">
+      <article class="feature-image">
+  <header style="background-image: url('/images/headers/rain.jpg')">
+    <h1 class="title">How to Effectively Remove Google Analytics Spam</h1>
+    <p class="meta">
+    December 13, 2014
+    
+    </p>
+  </header>
+  <section class="post-content"><p>Since several months, you certainly have seen some strange referral sources in your Google Analytics reports. Those are spam:</p>
+
+<p><img class="center" src="/images/posts/spam.png" alt="Spam in Google Analytics" /></p>
+
+<p>You have several ways to avoid this, such as:</p>
+
+<ul>
+  <li>using segment by excluding these domains in Google Analytics reports</li>
+  <li>excluding these domains in Google Analytics filter</li>
+</ul>
+
+<p>But you have to know which domains to exclude for both methods, and they are evolving everyday.</p>
+
+<p>The most effective way I found is to only include traffic that go to your website (the spam does not really go on your website, they just mess with the Google Analytics API).</p>
+
+<p>To do that, just go to the Google Analytics Admin Panel, and choose “Filter”:</p>
+
+<p><img class="center" src="/images/posts/ga_admin.png" alt="Filters in Google Analytics" /></p>
+
+<p>Then add a new filter:</p>
+
+<p><img class="center" src="/images/posts/ga_filters.png" alt="Add a new filter in Google Analytics" /></p>
+
+<p>And the last steps are to:</p>
+
+<ul>
+  <li>choose a name for your filter, such as “Exclude Spam”</li>
+  <li>select “Custom”</li>
+  <li>click “Include”</li>
+  <li>choose “Hostname” in the “Filter field”</li>
+  <li>in the “Filter Pattern” field, use the following syntax <code>.*teammood.com| translate.googleusercontent.com</code> and replace <a href="https://www.teammood.com/?utm_source=blog&amp;utm_medium=post&amp;utm_content=how-to-effectively-remove-google-analytics-spam&amp;utm_campaign=blog_how-to-effectively-remove-google-analytics-spam">teammood.com</a> by your domain name (Google Translate is there in case people are using it to translate your page with Chrome).</li>
+</ul>
+
+<p><img class="center" src="/images/posts/ga_remove_spam.png" alt="Remove Spam in Google Analytics" /></p>
+
+<p>It will not remove the old spam, but from now, the spam will not ever be recorded.</p>
+
+<p>Is this tip made your day? If so, take a look at how TeamMood is helping teams to have better days :-)</p>
+<div align="center"><a class="button" href="https://www.teammood.com/?utm_source=blog&amp;utm_medium=post&amp;utm_content=how-to-effectively-remove-google-analytics-spam&amp;utm_campaign=blog_how-to-effectively-remove-google-analytics-spam">Discover TeamMood</a></div>
+</section>
+</article>
+
+<!-- Disqus -->
+
+<div class="comments">
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+	var disqus_shortname = 'teammoodsblog';
+	(function() {
+		var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+</div>
+
+
+    </div>
+    
+
+
+  </body>
+</html>

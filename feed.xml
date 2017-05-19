@@ -5,7 +5,7 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Tue, 11 Apr 2017 15:12:15 +0200</pubDate>
+    <pubDate>Fri, 19 May 2017 14:20:03 +0200</pubDate>
     
       <item>
         <title>8 Warnings That a Crisis Is Looming Among Your Teammates.</title>
@@ -261,17 +261,19 @@ Si vous ne dégagez pas quelque chose de positif, vos collègues vous fuiront et
         <guid isPermaLink="true">http://blog.teammood.com/features/tips/2015/07/30/teammood-now-on-your-wall.html</guid>
         <description>&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/dashboard_monitor.jpg&quot; alt=&quot;Dashboard Monitor&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Thanks to a contribution by &lt;a href=&quot;https://twitter.com/nrichand&quot;&gt;Nathaniel Richand&lt;/a&gt; (a TeamMood power user), it is now possible to display the latest moods of your team on your monitoring display in real time.&lt;/p&gt;
+&lt;p&gt;Thanks to contributions from some of our power users (&lt;a href=&quot;https://twitter.com/nrichand&quot;&gt;Nathaniel Richand&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/guillaume_patry&quot;&gt;Guillaume Patry&lt;/a&gt;), it is now possible to display the latest moods of your team on your monitoring display in real time.&lt;/p&gt;
 
-&lt;p&gt;He wrote a widget for &lt;a href=&quot;http://dashing.io/&quot;&gt;Dashing&lt;/a&gt;, a great and easy to use free dashboard framework.&lt;/p&gt;
+&lt;p&gt;They wrote widgets for &lt;a href=&quot;http://dashing.io/&quot;&gt;Dashing&lt;/a&gt; and &lt;a href=&quot;https://github.com/Smashing/smashing&quot;&gt;Smashing&lt;/a&gt;, a great and easy to use free dashboard frameworks.&lt;/p&gt;
 
-&lt;p&gt;The TeamMood widget looks like this:&lt;/p&gt;
+&lt;p&gt;The TeamMood widgets look like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/teammood_widget.png&quot; alt=&quot;TeamMood Widget&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/teammood_widget.png&quot; /&gt;
+&lt;em&gt;Dashing TeamMood Widget (&lt;a href=&quot;https://gist.github.com/nrichand/265342903eabc4ad0050&quot;&gt;source code&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Feel free to use it and don’t forget to send us pictures ;-)&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/teammood_smashing_widget.png&quot; /&gt;
+&lt;em&gt;Smashing TeamMood Widget (&lt;a href=&quot;https://github.com/gpatry/Smashing-SparklineMood&quot;&gt;source code&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 
-&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://gist.github.com/nrichand/265342903eabc4ad0050&quot;&gt;Go get the widget&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Feel free to use them and don’t forget to send us pictures ;-)&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 15:47:39 +0200</pubDate>
       </item>

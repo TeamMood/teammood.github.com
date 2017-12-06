@@ -5,7 +5,68 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Thu, 29 Jun 2017 14:31:27 +0200</pubDate>
+    <pubDate>Wed, 06 Dec 2017 12:23:00 +0100</pubDate>
+    
+      <item>
+        <title>Best Practices From Our Users</title>
+        <link>http://blog.teammood.com/2017/12/06/best-practices-from-our-users.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2017/12/06/best-practices-from-our-users.html</guid>
+        <description>&lt;p&gt;Knowledge is good, but you still need to act on it. Many of our customers have asked us advice on how to make the best use of the data collected thanks to TeamMood. So, here comes a compilation of the best practices to leverage TeamMood and have a real impact on your team.&lt;/p&gt;
+
+&lt;h3 id=&quot;giving-the-floor-to-team-members-during-daily-meetings&quot;&gt;Giving the floor to team members during daily meetings…&lt;/h3&gt;
+
+&lt;p&gt;According to our users, one of the great advantages of TeamMood is its daily tracking. Other similar tools work weekly or monthly, which is not enough to really track the mood of your team and follow trends. And once you track the mood of your team daily, you can share the results daily too.&lt;/p&gt;
+
+&lt;p&gt;Nathaniel is an agile coach who intervenes as a consultant in different IT teams. He uses TeamMood during his daily meetings in order to talk openly about the bad moods and comments. It triggers the discussions and helps the team quickly find a solution.&lt;/p&gt;
+
+&lt;p&gt;Another client of ours also started to share daily the results from the previous day, an average and the overall trend.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;body&quot;&gt; “During our daily meeting, people started to speak up and explain the reasons behind a certain grade or comment. It released the floor and initiated dialog among the team.”&lt;/span&gt; - &lt;span class=&quot;author&quot;&gt;Guillaume&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;and-lightening-up-the-mood&quot;&gt;… and lightening up the mood&lt;/h3&gt;
+
+&lt;p&gt;TeamMood doesn’t have to be all serious.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/laughing.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One of our clients, &lt;a href=&quot;https://www.guestonline.io/&quot;&gt;GuestOnline&lt;/a&gt;, created a game based on TeamMood’s results. At the end of some particularly long meetings, to relax everyone, they share some of the comments from TeamMood and make a quiz ‘guess who wrote this comment’. They also invented a variant to this game at the end of summer, with holiday pictures.&lt;/p&gt;
+
+&lt;p class=&quot;quote&quot;&gt;
+    &lt;span class=&quot;body&quot;&gt; “At the beginning, I felt the team was a bit feebleness, but after a while it became a time of relaxing and fun at the end of a big meeting. Everyone participates, and sometimes people share the story behind a certain mood. We all have a good time and finish the meeting on a positive and happy note :)”&lt;/span&gt; - &lt;span class=&quot;author&quot;&gt;Emilie, GuestOnline&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;improving-retrospectives&quot;&gt;Improving retrospectives&lt;/h3&gt;
+
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/postits.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Running retrospectives with your teammates on a regular basis is crucial to learn from past mistakes and try to do better. That’s why the best companies take the time to review past projects, analyse what went wrong or could be improved upon, and share new ideas.&lt;/p&gt;
+
+&lt;p&gt;Whether you run retrospectives every week, two weeks of every months, it’s hard to remember everything that happened during your timeframe. Without a tool like TeamMood, your retrospectives end up focusing on the past few days, leaving aside older events or issues.&lt;/p&gt;
+
+&lt;p&gt;Thanks to TeamMood, you can have access to daily feedback and comments from your team members. Your retrospective are richer and more accurate.&lt;/p&gt;
+
+&lt;h3 id=&quot;using-teammood-as-a-management-tool&quot;&gt;Using TeamMood as a management tool&lt;/h3&gt;
+
+&lt;p&gt;More than the result of the daily poll on itself, what is important is how you react on it. Indeed, TeamMood provides managers with data and feedback to gauge their team’s feeling and well-being, but they still have to act on it.&lt;/p&gt;
+
+&lt;p&gt;Jean-Baptiste, an IT manager at a big French retail outfit company, shares: “I don’t just look at the score for each team. What’s more important is to see how a Scrum Master responds and helps the team navigate their way through any problems that arise.” (Read the full story &lt;a href=&quot;https://www.teammood.com/en/success/Success-story-scrum-masters-en.pdf&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;identifying-the-most-urging-topics&quot;&gt;Identifying the most urging topics&lt;/h3&gt;
+
+&lt;p&gt;TeamMood doesn’t provide just a grade but also gives the opportunity for team members to share a comment, providing more context or information on a specific issue. In order to identify the most urging topic, one of our clients, working in a research company, classifies the daily comments by category.&lt;/p&gt;
+
+&lt;p&gt;This way, he can directly pinpoint his efforts to the most recurring and urging topics, and relieve his teammates of their issues. It helps him identify trends on different topics, for instance a need in recruitment or a tight deadline. It also gives him insights to whether the subject has been addressed and solved.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=TeamMood%20is%20a%20true%20managerial%20help.%20https://blog.teammood.com/2017/12/06/best-practices-from-our-users.html&quot;&gt;
+    “TeamMood is a true managerial help.”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 06 Dec 2017 10:55:44 +0100</pubDate>
+      </item>
     
       <item>
         <title>How to Defuse Conflicts at Work in 5 Steps</title>
@@ -724,29 +785,6 @@ Si vous ne dégagez pas quelque chose de positif, vos collègues vous fuiront et
 &lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=great-tool-to-polish-your-idea&amp;amp;utm_campaign=blog_great-tool-to-polish-your-idea&quot;&gt;I want to discover TeamMood !&lt;/a&gt;&lt;/div&gt;
 </description>
         <pubDate>Fri, 19 Apr 2013 19:20:00 +0200</pubDate>
-      </item>
-    
-      <item>
-        <title>The Twitter effect</title>
-        <link>http://blog.teammood.com/marketing/social%20media/2013/04/18/the-twitter-effect.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/marketing/social%20media/2013/04/18/the-twitter-effect.html</guid>
-        <description>&lt;p&gt;At last, I finally “officially” launched the TeamMood project by using two announce ments through Twitter, this is the one in English (another one was made in French):&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;fr&quot;&gt;&lt;p&gt;Guys, I&#39;m launching my first side-project !! &lt;a href=&quot;http://t.co/9h4lyIIMtc&quot; title=&quot;http://teammood.com&quot;&gt;teammood.com&lt;/a&gt;, feel free to share the love ;-) &lt;a href=&quot;https://twitter.com/search/%23teammood&quot;&gt;#teammood&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search/%23nikoniko&quot;&gt;#nikoniko&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search/%23happy&quot;&gt;#happy&lt;/a&gt;&lt;/p&gt;&amp;mdash; Nicolas Deverge (@ndeverge) &lt;a href=&quot;https://twitter.com/ndeverge/status/324860646296539136&quot;&gt;18 avril 2013&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;!--More--&gt;
-
-&lt;p&gt;So far so good, in just hour, I had 29 people who registred by giving their email for about 179 unique visitors.&lt;/p&gt;
-
-&lt;p&gt;And I also received many positive feedbacks from some people.&lt;/p&gt;
-
-&lt;p&gt;I think that my first MVP has quite a good result, so now, I have to keep on the adventure !!&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=the-twitter-effect&amp;amp;utm_campaign=blog_the-twitter-effect&quot;&gt;I want to discover TeamMood !&lt;/a&gt;&lt;/div&gt;
-
-</description>
-        <pubDate>Thu, 18 Apr 2013 15:23:00 +0200</pubDate>
       </item>
     
   </channel>

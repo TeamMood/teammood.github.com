@@ -5,7 +5,63 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Wed, 06 Dec 2017 12:23:00 +0100</pubDate>
+    <pubDate>Wed, 07 Feb 2018 15:46:04 +0100</pubDate>
+    
+      <item>
+        <title>A Simple Guide to Run Agile Retrospectives</title>
+        <link>http://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html</guid>
+        <description>&lt;p&gt;In our ever-evolving environment, we hear more and more about Scrum, XP, and other Agile methods. If they have their differences, they all have in common one principle: teams must adapt over time and continuously improve the way they work. And &lt;strong&gt;retrospectives&lt;/strong&gt; are the cornerstone to this principle.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-retrospective&quot;&gt;What is a retrospective?&lt;/h1&gt;
+
+&lt;p&gt;In a context of continuous improvement, a retrospective helps team members improve the way they work together based on the past weeks’ events. During a retrospective, the team reflects on what happened in the timeframe and identifies actions for improvement going forward. It lays halfway between between lessons learned and an action plan.&lt;/p&gt;
+
+&lt;p&gt;You may wonder: &lt;em&gt;do I really need retrospectives&lt;/em&gt;?&lt;/p&gt;
+
+&lt;p&gt;While you may think your team organization is already optimized, you probably don’t realize some of the issues and frustrations your teammates encounter daily. Taking the time to discuss them and find solutions is key to improve the way your team works, and overall to improve your productivity.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/are-you-too-busy-to-improve2.png&quot; alt=&quot;Too Busy To Improve: use retrospectives to reflect on your process&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;how-does-a-retrospective-work&quot;&gt;How does a retrospective work?&lt;/h1&gt;
+
+&lt;p&gt;There are thousands of formats of retrospectives, and none that you should adopt for good – otherwise it will become too repetitive and end up being inefficient. But whatever the format, it should always include 2 axes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Celebrate successes&lt;/strong&gt;: a new client, a feature release, …&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Discuss the issues and irritants&lt;/strong&gt; – from the smallest (the coffee is bad) to the biggest (we need new fundings)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The objective is to identify the 2 or 3 most urging and important issues, define some actions to solve them and distribute them among the teammates. At the next retrospective, people will share their feedback: were they able to put the measures in place? Have they had a positive impact? If not, should we insist or give up? And the cycle goes on. In this type of organization, the manager is no longer the only one responsible for making his or her team happy and efficient.&lt;/p&gt;
+
+&lt;p&gt;Retrospectives usually last for half an hour to one hour, and occur at the end of a cycle or iteration – ideally every two weeks, at most every month. And should include all team members: it’s the collective that makes it work.&lt;/p&gt;
+
+&lt;h1 id=&quot;tools-to-make-your-retrospective-work-better&quot;&gt;3 tools to make your retrospective work better&lt;/h1&gt;
+
+&lt;p&gt;There are plenty of tools available there, those are the ones we enjoy the most.&lt;/p&gt;
+
+&lt;h2 id=&quot;retromathttpsplans-for-retrospectivescomen--to-get-inspiration-on-retrospective-formats&quot;&gt;&lt;a href=&quot;https://plans-for-retrospectives.com/en/&quot;&gt;Retromat&lt;/a&gt; – to get inspiration on retrospective formats&lt;/h2&gt;
+
+&lt;p&gt;As I said earlier, it’s better to use a new format for each of your retrospectives in order to maintain their efficiency. Retromat helps you find inspiration for your retrospectives. You can browse around or select a random plan, change it to fit the team’s situation, print it and share the URL to your teammates. It’s that easy!&lt;/p&gt;
+
+&lt;h2 id=&quot;retriumhttpswwwretriumcom--to-run-retrospectives-with-distributed-teams&quot;&gt;&lt;a href=&quot;https://www.retrium.com/&quot;&gt;Retrium&lt;/a&gt; – to run retrospectives with distributed teams&lt;/h2&gt;
+
+&lt;p&gt;Retrospectives are even more important for multi-located teams – and at the same time more difficult to run. If you are managing a distributed team, you should consider using a tool like Retrium.&lt;/p&gt;
+
+&lt;p&gt;Retrium is a web-app that helps you run your retrospectives. It provides you with the tools and methodology to run effective retrospectives and identify concrete, outside-of-the-box ideas on how to improve the way you work.&lt;/p&gt;
+
+&lt;p&gt;Being online, Retrium helps you organize your retrospective even with a distributed team. Everyone has access to the ideas and comments their colleagues shared. It provides the opportunity for teammates to bring up topics that would normally stay buried.&lt;/p&gt;
+
+&lt;h2 id=&quot;teammoodhttpswwwteammoodcomutmsourceblogutmmediumpostutmcontenta-simple-guide-to-run-agile-retrospectivesutmcampaignbloga-simple-guide-to-run-agile-retrospectives--to-get-topics-from-the-teammates-to-discuss-about&quot;&gt;&lt;a href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=a-simple-guide-to-run-agile-retrospectives&amp;amp;utm_campaign=blog_a-simple-guide-to-run-agile-retrospectives&quot;&gt;TeamMood&lt;/a&gt; – to get topics from the teammates to discuss about&lt;/h2&gt;
+
+&lt;p&gt;It’s not us, it’s our clients who say it! If you run retrospectives every two weeks or every month, it’s hard to remember everything that happened during this timeframe. You usually end up focusing on the last few days.&lt;/p&gt;
+
+&lt;p&gt;With TeamMood, you can have access to daily feedback and comments from your team members during the whole period. It works as a team’s diary. Using this data during your retrospectives helps you get a comprehensive view of what happened, and enriches or starts interesting  discussions.&lt;/p&gt;
+
+&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=a-simple-guide-to-run-agile-retrospectives&amp;amp;utm_campaign=blog_a-simple-guide-to-run-agile-retrospectives&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 07 Feb 2018 15:16:35 +0100</pubDate>
+      </item>
     
       <item>
         <title>Best Practices From Our Users</title>
@@ -760,31 +816,6 @@ Si vous ne dégagez pas quelque chose de positif, vos collègues vous fuiront et
 &lt;p&gt;But now, if you work with remote teams, and if it is not possible to use a physical calendar in the room, take a look at our service : &lt;a href=&quot;http://teammood.com/?utm_source=what-is-niko-niko&amp;amp;utm_medium=blog&amp;amp;utm_campaign=blog-what-is-niko-niko &quot; target=&quot;_blank&quot;&gt;TeamMood&lt;/a&gt;, an easy way to get a glimpse of the happiness of your coworkers !&lt;/p&gt;
 </description>
         <pubDate>Sun, 21 Apr 2013 21:57:00 +0200</pubDate>
-      </item>
-    
-      <item>
-        <title>Great tool to polish your idea</title>
-        <link>http://blog.teammood.com/the%20idea/tools/2013/04/19/great-tool-to-polish-your-idea.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/the%20idea/tools/2013/04/19/great-tool-to-polish-your-idea.html</guid>
-        <description>&lt;p&gt;When you search the Web for resources about entrepreneurship, (lean)startup and so on, you’ll find a lot of articles and advices, but it is very hard to know how to begin, and what’s could be your next move.&lt;/p&gt;
-
-&lt;!--More--&gt;
-
-&lt;p&gt;I don’t remember how I get on this when I was doing some research for my &lt;a href=&quot;http://teammood.com&quot;&gt;TeamMood project&lt;/a&gt;, but I found an awesome gold nugget : &lt;a href=&quot;http://startitup.co&quot;&gt;StartitUp&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://startitup.co&quot;&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/startitup.png&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Based on the Lean Startup, it helps me lot with valuable advices, and a lot of articles containing several samples.&lt;/p&gt;
-
-&lt;p&gt;It is very simple to use : you go through the step by step guide, answer some questions about your idea/team/competition etc… and it progressively builds your Lean Canvas and helps you to structure your mind.&lt;/p&gt;
-
-&lt;p&gt;Also note that these guys are expecting a lot of feedback, and they are super reactive.&lt;/p&gt;
-
-&lt;p&gt;So if you have an idea, and you don’t know where to start, go on &lt;a href=&quot;http://startitup.co&quot;&gt;StartitUp&lt;/a&gt; !&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=great-tool-to-polish-your-idea&amp;amp;utm_campaign=blog_great-tool-to-polish-your-idea&quot;&gt;I want to discover TeamMood !&lt;/a&gt;&lt;/div&gt;
-</description>
-        <pubDate>Fri, 19 Apr 2013 19:20:00 +0200</pubDate>
       </item>
     
   </channel>

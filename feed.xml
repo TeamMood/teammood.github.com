@@ -5,7 +5,7 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Sun, 18 Mar 2018 14:53:51 +0100</pubDate>
+    <pubDate>Mon, 19 Mar 2018 09:50:08 +0100</pubDate>
     
       <item>
         <title>A Simple Guide to Run Agile Retrospectives</title>
@@ -34,6 +34,8 @@
 
 &lt;p&gt;The objective is to identify the 2 or 3 most urging and important issues, define some actions to solve them and distribute them among the teammates. At the next retrospective, people will share their feedback: were they able to put the measures in place? Have they had a positive impact? If not, should we insist or give up? And the cycle goes on. In this type of organization, the manager is no longer the only one responsible for making his or her team happy and efficient.&lt;/p&gt;
 
+&lt;p&gt;Make sure to select 2 to 3 items only, because the team will have a hard time focusing on more during the next Sprint.&lt;/p&gt;
+
 &lt;p&gt;Retrospectives usually last for half an hour to one hour, and occur at the end of a cycle or iteration – ideally every two weeks, at most every month. And should include all team members: it’s the collective that makes it work.&lt;/p&gt;
 
 &lt;h1 id=&quot;tools-to-make-your-retrospective-work-better&quot;&gt;3 tools to make your retrospective work better&lt;/h1&gt;
@@ -42,7 +44,7 @@
 
 &lt;h2 id=&quot;retromathttpsplans-for-retrospectivescomen--to-get-inspiration-on-retrospective-formats&quot;&gt;&lt;a href=&quot;https://plans-for-retrospectives.com/en/&quot;&gt;Retromat&lt;/a&gt; – to get inspiration on retrospective formats&lt;/h2&gt;
 
-&lt;p&gt;As I said earlier, it’s better to use a new format for each of your retrospectives in order to maintain their efficiency. Retromat helps you find inspiration for your retrospectives. You can browse around or select a random plan, change it to fit the team’s situation, print it and share the URL to your teammates. It’s that easy!&lt;/p&gt;
+&lt;p&gt;As I said earlier, it’s better to use a new format for each of your retrospectives in order to maintain their efficiency. Retromat is an online tool which helps you find inspiration for your retrospectives. You can browse around or select a random plan, change it to fit the team’s situation, print it and share the URL to your teammates. It’s that easy!&lt;/p&gt;
 
 &lt;h2 id=&quot;retriumhttpswwwretriumcom--to-run-retrospectives-with-distributed-teams&quot;&gt;&lt;a href=&quot;https://www.retrium.com/&quot;&gt;Retrium&lt;/a&gt; – to run retrospectives with distributed teams&lt;/h2&gt;
 
@@ -59,6 +61,7 @@
 &lt;p&gt;With TeamMood, you can have access to daily feedback and comments from your team members during the whole period. It works as a team’s diary. Using this data during your retrospectives helps you get a comprehensive view of what happened, and enriches or starts interesting  discussions.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=a-simple-guide-to-run-agile-retrospectives&amp;amp;utm_campaign=blog_a-simple-guide-to-run-agile-retrospectives&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/div&gt;
+
 </description>
         <pubDate>Wed, 07 Feb 2018 15:16:35 +0100</pubDate>
       </item>

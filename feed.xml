@@ -5,7 +5,7 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Sun, 15 Apr 2018 14:09:59 +0200</pubDate>
+    <pubDate>Mon, 16 Apr 2018 09:02:54 +0200</pubDate>
     
       <item>
         <title>Managers, do you know how to work with millennials?</title>
@@ -611,10 +611,22 @@ More than ever, hour after, our work is never over&quot;
       </item>
     
       <item>
-        <title>Les Facteurs Qui Influent Sur L’humeur Au Travail</title>
-        <link>http://blog.teammood.com/fr/2015/10/15/les-facteurs-qui-influent-sur-lhumeur-au-travail.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/fr/2015/10/15/les-facteurs-qui-influent-sur-lhumeur-au-travail.html</guid>
-        <description>&lt;p&gt;Adopter la positive attitude au bureau n’est pas toujours facile. À force de côtoyer les mêmes personnes dans les mêmes bureaux toute la semaine, on finit par voir les sourires disparaître sur les visages. La courbe de notre humeur vacille sans vraiment que nous en comprenions les raisons.&lt;/p&gt;
+        <title>Les Facteurs Qui Influent Sur Lhumeur Au Travail</title>
+        <link>http://blog.teammood.com/2015/10/15/les-facteurs-qui-influent-sur-lhumeur-au-travail.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2015/10/15/les-facteurs-qui-influent-sur-lhumeur-au-travail.html</guid>
+        <description>&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: “Les Facteurs Qui Influent Sur L’humeur Au Travail”
+categories: [fr]
+date: 2015-10-15T11:35:51+02:00
+feature-img: “images/headers/stones.jpg”
+facebook_tag: les-facteurs-qui-influent-sur-lhumeur-au-travail
+excerpt: “Cultiver la bonne humeur au travail : vous avez tout à y gagner !”
+keywords: [“humeur au travail”, “luminosité”, “attitude”, “bien être”]&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Adopter la positive attitude au bureau n’est pas toujours facile. À force de côtoyer les mêmes personnes dans les mêmes bureaux toute la semaine, on finit par voir les sourires disparaître sur les visages. La courbe de notre humeur vacille sans vraiment que nous en comprenions les raisons.&lt;/p&gt;
 
 &lt;p&gt;Quels sont les facteurs qui rentrent en compte dans notre humeur ? Comment cultiver la bonne humeur au travail ?&lt;/p&gt;
 
@@ -662,7 +674,7 @@ Si vous ne dégagez pas quelque chose de positif, vos collègues vous fuiront et
 
 &lt;p&gt;Cultiver la bonne humeur au travail : vous avez tout à y gagner !&lt;/p&gt;
 </description>
-        <pubDate>Thu, 15 Oct 2015 11:35:51 +0200</pubDate>
+        <pubDate>Thu, 15 Oct 2015 00:00:00 +0200</pubDate>
       </item>
     
       <item>

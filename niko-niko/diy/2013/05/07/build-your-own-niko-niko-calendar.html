@@ -5,7 +5,6 @@
 	<title>Build your own niko-niko calendar | TeamMood's Blog</title>
 	<meta name="description" content="Now that you know what is the Niko-Niko practice, it is now time to build your own !">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
 	
 
@@ -179,8 +178,14 @@
 </header>
 
     <div class="content">
-      <!-- SumoMe -->
-<script src="//load.sumome.com/" data-sumo-site-id="06bf688ba960491e6746bc6121876122c50c3d1b4d127f12bdb0e90f5708aabb" async="async"></script>
+      
+<script>
+    fbq('track', 'ViewContent', {
+        content_name: 'build-your-own-niko-niko-calendar',
+        source: 'blog'
+    });
+</script>
+
 
 <article class="feature-image">
   <header style="background-image: url('/images/headers/calendar.jpg')">

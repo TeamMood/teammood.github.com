@@ -5,7 +5,6 @@
 	<title>Best Practices From Our Users | TeamMood's Blog</title>
 	<meta name="description" content="How our customers benefit from TeamMood, and how they use the data.">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
 	
 
@@ -179,8 +178,14 @@
 </header>
 
     <div class="content">
-      <!-- SumoMe -->
-<script src="//load.sumome.com/" data-sumo-site-id="06bf688ba960491e6746bc6121876122c50c3d1b4d127f12bdb0e90f5708aabb" async="async"></script>
+      
+<script>
+    fbq('track', 'ViewContent', {
+        content_name: 'best-practices-from-our-users',
+        source: 'blog'
+    });
+</script>
+
 
 <article class="feature-image">
   <header style="background-image: url('/images/headers/analytics_meeting.png')">

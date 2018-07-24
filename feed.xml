@@ -5,7 +5,63 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Tue, 17 Jul 2018 21:52:30 +0200</pubDate>
+    <pubDate>Tue, 24 Jul 2018 16:30:57 +0200</pubDate>
+    
+      <item>
+        <title>Evaluating Your Team’s Health With the Niko-Niko Calendar</title>
+        <link>http://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html</guid>
+        <description>&lt;p&gt;Would you go out of your house with a rain coat if it wasn’t for the weather forecast to warn you of the rain coming up? How about the stock market: would you invest in shares without checking their values and trend? Probably not.&lt;/p&gt;
+
+&lt;p&gt;In team management, you can have all sorts of KPIs to measure and display how well your team is doing: productivity, lead time, bugs, … Tracking those metrics helps the team to identify problems early and improve. The only one that is missing is the actual mood and motivation of your team members. And I don’t need to tell you &lt;a href=&quot;https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html&quot;&gt;how important it is for the good of the project&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;That’s the reason why, a few years ago (in 2006 more precisely), Akinori SAKATA invented the &lt;a href=&quot;http://www.geocities.jp/nikonikocalendar/index_en.html&quot;&gt;Niko-niko calendar&lt;/a&gt;, a.k.a. the smiley calendar or the happiness index.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/happy.gif&quot; alt=&quot;Happy worker&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-the-niko-niko-calendar&quot;&gt;What is the Niko-niko calendar?&lt;/h2&gt;
+
+&lt;p&gt;The Niko-niko calendar is the application of a very important principle in Agile project management defined by american engineer and Agile expert Tom Gilb:&lt;/p&gt;
+
+&lt;p&gt;“Anything you need to quantify can be measured in some way that is superior to not measuring it at all.”&lt;/p&gt;
+
+&lt;p&gt;The measure doesn’t have to be perfect nor precise. The objective is to quantify something that wasn’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/nikoniko-calendar.jpg&quot; alt=&quot;Niko-Niko calendar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, how does the Niko-niko calendar work? It’s a simple calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy :-), straight :-| or frowning :-( or color stickers on it. That’s actually where its name comes from: Niko means smile in Japanese.&lt;/p&gt;
+
+&lt;p&gt;The Niko-niko doesn’t provide an exact measure of the team’s mood, but it helps quantifying the well-being, morale and motivation – three factors that are usually difficult to measure.&lt;/p&gt;
+
+&lt;p&gt;The team’s spirit is even more important for an Agile team as the success of the project relies on it. It’s the reason why the Niko-niko calendar was first invented for Agile teams. It provides a general view of how well the team is doing, and not just at individual level.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-use-the-niko-niko-method&quot;&gt;How to use the Niko-niko method?&lt;/h2&gt;
+
+&lt;p&gt;The Niko-niko must follow some principles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Everyone’s mood should be visible to the others&lt;/li&gt;
+  &lt;li&gt;It should never be hold against someone or be considered as an individual objective&lt;/li&gt;
+  &lt;li&gt;The moods should be observed during the next day’s &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;daily meeting&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;The manager / team leader / scrum master should try to understand and treat “abnormality”, good or bad: a common bad day shared by the whole team, a person that is constantly happy while the rest of the team is unhappy and vice-versa, a general deterioration of the team’s mood, a shared “happy” mood even if the project isn’t good wel…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/sad.gif&quot; alt=&quot;Sad worker&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In concrete terms, to use the Niko-niko method, you can build &lt;a href=&quot;https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html&quot;&gt;your own Niko-niko calendar&lt;/a&gt; with a daily calendar and a stack of color stickers. Or &lt;a href=&quot;https://www.teammood.com/l/Niko-Niko/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=evaluating-your-team-s-health-with-the-niko-niko-calendar&amp;amp;utm_campaign=blog_evaluating-your-team-s-health-with-the-niko-niko-calendar&quot;&gt;choose to use an online tool&lt;/a&gt; if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-leverage-the-niko-niko-calendar&quot;&gt;How to leverage the Niko-niko calendar&lt;/h2&gt;
+
+&lt;p&gt;Don’t let your Niko-niko hang there for nothing! Quantifying your team’s mood is only the first step, you need to be able to act on it, where your team is in a good or bad mood.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2018/05/16/your-team-is-in-a-bad-mood-heres-what-you-need-to-do.html&quot;&gt;Reacting to one of several teammates’ bad mood&lt;/a&gt; can seem pretty obvious: you don’t want a bad situation to degenerate, and you need your team to be at its best in order to deliver results. But &lt;a href=&quot;https://blog.teammood.com/2018/06/12/how-to-leverage-your-teams-good-mood.html&quot;&gt;understanding and leveraging your team’s good mood&lt;/a&gt; is also very important.&lt;/p&gt;
+
+&lt;p&gt;Data from a Niko-niko calendar is a huge opportunity for reflection. You can get instant feedback from changes that are altering the work environment. It can also be included in a reporting for top management (leaving it anonymous).&lt;/p&gt;
+
+&lt;p&gt;Are you convinced? Start implementing a Niko-niko calendar in your team, either by &lt;a href=&quot;https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html&quot;&gt;building it yourself&lt;/a&gt;, of &lt;a href=&quot;https://www.teammood.com/l/Niko-Niko/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=evaluating-your-team-s-health-with-the-niko-niko-calendar&amp;amp;utm_campaign=blog_evaluating-your-team-s-health-with-the-niko-niko-calendar&quot;&gt;using an online one such as TeamMood&lt;/a&gt; and tell us what you think.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 09:08:44 +0200</pubDate>
+      </item>
     
       <item>
         <title>How to Cultivate a Workplace Culture of Gratitude</title>
@@ -866,53 +922,6 @@ More than ever, hour after, our work is never over&quot;
 &lt;p&gt;Feel free to use them and don’t forget to send us pictures ;-)&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Jul 2015 15:47:39 +0200</pubDate>
-      </item>
-    
-      <item>
-        <title>How to Effectively Remove Google Analytics Spam</title>
-        <link>http://blog.teammood.com/tech/2014/12/13/how-to-effectively-remove-google-analytics-spam.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/tech/2014/12/13/how-to-effectively-remove-google-analytics-spam.html</guid>
-        <description>&lt;p&gt;Since several months, you certainly have seen some strange referral sources in your Google Analytics reports. Those are spam:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/spam.png&quot; alt=&quot;Spam in Google Analytics&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;You have several ways to avoid this, such as:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;using segment by excluding these domains in Google Analytics reports&lt;/li&gt;
-  &lt;li&gt;excluding these domains in Google Analytics filter&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;But you have to know which domains to exclude for both methods, and they are evolving everyday.&lt;/p&gt;
-
-&lt;p&gt;The most effective way I found is to only include traffic that go to your website (the spam does not really go on your website, they just mess with the Google Analytics API).&lt;/p&gt;
-
-&lt;p&gt;To do that, just go to the Google Analytics Admin Panel, and choose “Filter”:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/ga_admin.png&quot; alt=&quot;Filters in Google Analytics&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then add a new filter:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/ga_filters.png&quot; alt=&quot;Add a new filter in Google Analytics&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And the last steps are to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;choose a name for your filter, such as “Exclude Spam”&lt;/li&gt;
-  &lt;li&gt;select “Custom”&lt;/li&gt;
-  &lt;li&gt;click “Include”&lt;/li&gt;
-  &lt;li&gt;choose “Hostname” in the “Filter field”&lt;/li&gt;
-  &lt;li&gt;in the “Filter Pattern” field, use the following syntax &lt;code&gt;.*teammood.com| translate.googleusercontent.com&lt;/code&gt; and replace &lt;a href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=how-to-effectively-remove-google-analytics-spam&amp;amp;utm_campaign=blog_how-to-effectively-remove-google-analytics-spam&quot;&gt;teammood.com&lt;/a&gt; by your domain name (Google Translate is there in case people are using it to translate your page with Chrome).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/ga_remove_spam.png&quot; alt=&quot;Remove Spam in Google Analytics&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It will not remove the old spam, but from now, the spam will not ever be recorded.&lt;/p&gt;
-
-&lt;p&gt;Is this tip made your day? If so, take a look at how TeamMood is helping teams to have better days :-)&lt;/p&gt;
-&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/?utm_source=blog&amp;amp;utm_medium=post&amp;amp;utm_content=how-to-effectively-remove-google-analytics-spam&amp;amp;utm_campaign=blog_how-to-effectively-remove-google-analytics-spam&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/div&gt;
-</description>
-        <pubDate>Sat, 13 Dec 2014 07:11:00 +0100</pubDate>
       </item>
     
   </channel>

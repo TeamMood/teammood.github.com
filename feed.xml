@@ -5,7 +5,34 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Wed, 26 Sep 2018 13:03:27 +0000</pubDate>
+    <pubDate>Tue, 30 Oct 2018 11:58:55 +0000</pubDate>
+    
+      <item>
+        <title>The Emotional Seismograph, a Fun and Effective Retrospective Format</title>
+        <link>http://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</guid>
+        <description>&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;Retrospectives&lt;/a&gt; are fundamental to Agile teams, and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work. &lt;/p&gt;
+
+&lt;p&gt;The principle is simple: every set of time (a sprint or a period you decide), the team gathers to reflect on what happened in the timeframe and to identify actions for improvement going forward.&lt;/p&gt;
+
+&lt;p&gt;Retrospectives can follow thousands of formats: Positive &amp;amp; True, Learning Matrix, Worked Well Do Differently, AHA… (you can get inspiration from &lt;a href=&quot;https://retromat.org/&quot; target=&quot;_blank&quot;&gt;Retromat&lt;/a&gt;). But one is our favorite and dear to our heart: the &lt;strong&gt;Emotional Seismograph&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When to use the Emotional Seismograph?&lt;/strong&gt; Not all the time, but using it now and then can bring novelty to your retrospectives. It’s usually perceived as funner than the other formats.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to use it?&lt;/strong&gt; During your retrospective, each team member shares his or her mood throughout the sprint/timeframe and explains the reasons.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The first 3 days I was feeling very enthusiastic about the project. Then my kids at home got sick and I didn’t sleep much until the middle of the second week. It got a bit better, and then I chose a task that I struggled with way more than I expected. It got me very frustrated for a couple of days, until Mickael helped me get through it. And the last few days, I was a bit stressed to get everything done until the end of the sprint.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some moods can be the result of personal events, which means that the team cannot do anything about them – but it is still valuable to know. Others depend on the team and project itself, and can be food for thoughts to improve the internal functioning for the next spring.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Getting your Emotional Seismograph to the next level:&lt;/strong&gt; By using a tool like &lt;a href=&quot;https://teammood.com&quot;&gt;TeamMood&lt;/a&gt;, you can track your mood along the sprint and avoid forgetting personal and professional events.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Photo credit: &lt;a href=&quot;https://visualhunt.com/author2/0e544c&quot; target=&quot;_blank&quot;&gt;Crashmaster007&lt;/a&gt; on &lt;a href=&quot;https://visualhunt.com/re/6694b1&quot;&gt;Visual hunt&lt;/a&gt; / &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/2.0/&quot;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 10:10:00 +0000</pubDate>
+      </item>
     
       <item>
         <title>10 (Easy) Ways To Improve The Mood In The Workplace</title>
@@ -1009,23 +1036,6 @@ More than ever, hour after, our work is never over&quot;
 &lt;p&gt;Now it’s your turn to be creative. What are your top tips for improving well being at your workplace?&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Mar 2017 08:33:53 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>MoraleApp Is Shutting Down :-(</title>
-        <link>http://blog.teammood.com/en/2016/10/05/moraleapp-is-shutting-down.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/en/2016/10/05/moraleapp-is-shutting-down.html</guid>
-        <description>&lt;p&gt;On October 5th 2016, &lt;a href=&quot;https://moraleapp.com/shutdown&quot;&gt;MoraleApp announced that they are shutting down their service&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;That’s a sad news for their users that have to look for an alternative but also for TeamMood who lose a pretty great competitor.&lt;/p&gt;
-
-&lt;p&gt;Anyway, TeamMood has worked hard and it is now possible to migrate from MoraleApp to TeamMood seamlessly, without loosing your historical data.&lt;/p&gt;
-
-&lt;p&gt;If you want to import your MoraleApp data into TeamMood, just register there: 
-&lt;a href=&quot;https://www.getdrip.com/forms/14519314/submissions/new&quot;&gt;https://www.getdrip.com/forms/14519314/submissions/new&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Oct 2016 19:14:13 +0000</pubDate>
       </item>
     
   </channel>

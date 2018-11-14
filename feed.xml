@@ -5,39 +5,12 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Wed, 14 Nov 2018 10:51:45 +0000</pubDate>
-    
-      <item>
-        <title>The Emotional Seismograph, a Fun and Effective Retrospective Format</title>
-        <link>http://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</guid>
-        <description>&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;Retrospectives&lt;/a&gt; are fundamental to Agile teams, and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work. &lt;/p&gt;
-
-&lt;p&gt;The principle is simple: every set of time (a sprint or a period you decide), the team gathers to reflect on what happened in the timeframe and to identify actions for improvement going forward.&lt;/p&gt;
-
-&lt;p&gt;Retrospectives can follow thousands of formats: Positive &amp;amp; True, Learning Matrix, Worked Well Do Differently, AHA… (you can get inspiration from &lt;a href=&quot;https://retromat.org/&quot; target=&quot;_blank&quot;&gt;Retromat&lt;/a&gt;). But one is our favorite and dear to our heart: the &lt;strong&gt;Emotional Seismograph&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;When to use the Emotional Seismograph?&lt;/strong&gt; Not all the time, but using it now and then can bring novelty to your retrospectives. It’s usually perceived as funner than the other formats.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How to use it?&lt;/strong&gt; During your retrospective, each team member shares his or her mood throughout the sprint/timeframe and explains the reasons.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The first 3 days I was feeling very enthusiastic about the project. Then my kids at home got sick and I didn’t sleep much until the middle of the second week. It got a bit better, and then I chose a task that I struggled with way more than I expected. It got me very frustrated for a couple of days, until Mickael helped me get through it. And the last few days, I was a bit stressed to get everything done until the end of the sprint.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Some moods can be the result of personal events, which means that the team cannot do anything about them – but it is still valuable to know. Others depend on the team and project itself, and can be food for thoughts to improve the internal functioning for the next spring.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Getting your Emotional Seismograph to the next level:&lt;/strong&gt; By using a tool like &lt;a href=&quot;https://teammood.com&quot;&gt;TeamMood&lt;/a&gt;, you can track your mood along the sprint and avoid forgetting personal and professional events.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Photo credit: &lt;a href=&quot;https://visualhunt.com/author2/0e544c&quot; target=&quot;_blank&quot;&gt;Crashmaster007&lt;/a&gt; on &lt;a href=&quot;https://visualhunt.com/re/6694b1&quot;&gt;Visual hunt&lt;/a&gt; / &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/2.0/&quot;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 Oct 2018 10:10:00 +0000</pubDate>
-      </item>
+    <pubDate>Wed, 14 Nov 2018 10:52:56 +0000</pubDate>
     
       <item>
         <title>[Interview] Diving into Agile and Scrum, the personal experience of a startup founder</title>
-        <link>http://blog.teammood.com/2018/10/30/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/2018/10/30/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</guid>
+        <link>http://blog.teammood.com/2018/11/14/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2018/11/14/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</guid>
         <description>&lt;p&gt;&lt;em&gt;Former startupper, &lt;a href=&quot;https://www.linkedin.com/in/gregoiredepins/&quot; target=&quot;_blank&quot;&gt;Gregoire&lt;/a&gt; started working in digital 6 years ago. Since the closing of his startup Sharette (in 2016), he’s offering his services as a freelance consultant, sharing the experience he gained with small and medium-sized companies, and even big corporations: Open Innovation programs, Scrum/Agile coaching, digital marketing strategy (acquisition funnel, SEO, SEA, …).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;blob:https://app.cloudcannon.com/1b660950-5780-4ac0-999c-1c88978379db&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -128,6 +101,33 @@
 &lt;p&gt; &lt;/p&gt;
 
 &lt;p&gt;Over the last few years, I’ve had the opportunity to work and implement Scrum in several teams and companies. In the end, the most difficult in Scrum or other Agile methods is not to understand them, but to put them in place and to &lt;strong&gt;keep the rigor over time. But when you do so, it becomes an amazing playground!&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Nov 2018 10:10:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>The Emotional Seismograph, a Fun and Effective Retrospective Format</title>
+        <link>http://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</guid>
+        <description>&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;Retrospectives&lt;/a&gt; are fundamental to Agile teams, and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work. &lt;/p&gt;
+
+&lt;p&gt;The principle is simple: every set of time (a sprint or a period you decide), the team gathers to reflect on what happened in the timeframe and to identify actions for improvement going forward.&lt;/p&gt;
+
+&lt;p&gt;Retrospectives can follow thousands of formats: Positive &amp;amp; True, Learning Matrix, Worked Well Do Differently, AHA… (you can get inspiration from &lt;a href=&quot;https://retromat.org/&quot; target=&quot;_blank&quot;&gt;Retromat&lt;/a&gt;). But one is our favorite and dear to our heart: the &lt;strong&gt;Emotional Seismograph&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When to use the Emotional Seismograph?&lt;/strong&gt; Not all the time, but using it now and then can bring novelty to your retrospectives. It’s usually perceived as funner than the other formats.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How to use it?&lt;/strong&gt; During your retrospective, each team member shares his or her mood throughout the sprint/timeframe and explains the reasons.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The first 3 days I was feeling very enthusiastic about the project. Then my kids at home got sick and I didn’t sleep much until the middle of the second week. It got a bit better, and then I chose a task that I struggled with way more than I expected. It got me very frustrated for a couple of days, until Mickael helped me get through it. And the last few days, I was a bit stressed to get everything done until the end of the sprint.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some moods can be the result of personal events, which means that the team cannot do anything about them – but it is still valuable to know. Others depend on the team and project itself, and can be food for thoughts to improve the internal functioning for the next spring.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Getting your Emotional Seismograph to the next level:&lt;/strong&gt; By using a tool like &lt;a href=&quot;https://teammood.com&quot;&gt;TeamMood&lt;/a&gt;, you can track your mood along the sprint and avoid forgetting personal and professional events.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Photo credit: &lt;a href=&quot;https://visualhunt.com/author2/0e544c&quot; target=&quot;_blank&quot;&gt;Crashmaster007&lt;/a&gt; on &lt;a href=&quot;https://visualhunt.com/re/6694b1&quot;&gt;Visual hunt&lt;/a&gt; / &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/2.0/&quot;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Oct 2018 10:10:00 +0000</pubDate>
       </item>

@@ -5,7 +5,7 @@
     <atom:link href="http://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Wed, 14 Nov 2018 10:50:01 +0000</pubDate>
+    <pubDate>Wed, 14 Nov 2018 10:51:07 +0000</pubDate>
     
       <item>
         <title>The Emotional Seismograph, a Fun and Effective Retrospective Format</title>
@@ -30,6 +30,106 @@
 &lt;p&gt;&lt;strong&gt;Getting your Emotional Seismograph to the next level:&lt;/strong&gt; By using a tool like &lt;a href=&quot;https://teammood.com&quot;&gt;TeamMood&lt;/a&gt;, you can track your mood along the sprint and avoid forgetting personal and professional events.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Photo credit: &lt;a href=&quot;https://visualhunt.com/author2/0e544c&quot; target=&quot;_blank&quot;&gt;Crashmaster007&lt;/a&gt; on &lt;a href=&quot;https://visualhunt.com/re/6694b1&quot;&gt;Visual hunt&lt;/a&gt; / &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/2.0/&quot;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 10:10:00 +0000</pubDate>
+      </item>
+    
+      <item>
+        <title>[Interview] Diving into Agile and Scrum, the personal experience of a startup founder</title>
+        <link>http://blog.teammood.com/2018/10/30/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</link>
+        <guid isPermaLink="true">http://blog.teammood.com/2018/10/30/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</guid>
+        <description>&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Former startupper, &lt;a href=&quot;https://www.linkedin.com/in/gregoiredepins/&quot; target=&quot;_blank&quot;&gt;Gregoire&lt;/a&gt; started working in digital 6 years ago. Since the closing of his startup Sharette (in 2016), he’s offering his services as a freelance consultant, sharing the experience he gained with small and medium-sized companies, and even big corporations: Open Innovation programs, Scrum/Agile coaching, digital marketing strategy (acquisition funnel, SEO, SEA, …).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;blob:https://app.cloudcannon.com/1b660950-5780-4ac0-999c-1c88978379db&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;exploring-agile&quot;&gt;Exploring Agile&lt;/h2&gt;
+
+&lt;p&gt;I discovered Agile methods and more specifically Scrum when I launched my startup in 2012. Like everyone else, I had heard of it. But like everyone else, I didn’t really get it.&lt;/p&gt;
+
+&lt;p&gt;I was initially trying to define the best governance model in order to optimize the functioning of the team, without wasting people’s time or the company’s. The question was: when to gather who and what for?&lt;/p&gt;
+
+&lt;p&gt;The developers of the team told me about it, as Scrum is specifically well fitted for digital teams composed mainly of developers, and including a product owner. It was exactly our case. Plus we needed to constantly develop and test new functionalities.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started-with-scrum&quot;&gt;Getting started with Scrum&lt;/h2&gt;
+
+&lt;p&gt;Let’s be honest, I didn’t know anything about Scrum. I started reading articles and talking about it with the team and other entrepreneurs who were experiencing similar situations. I learned and trained myself on the field.&lt;/p&gt;
+
+&lt;p&gt;We started implementing meetings and made them evolve over time. For instance, at the beginning, we had weekly sprints: the sprint planning was taking place on Monday morning and on Friday afternoon we had our sprint demo and retrospective. But I soon realized that one week was too short: too often, developers were saying that they didn’t have time for the Friday retro as they had to finish working on tasks.&lt;/p&gt;
+
+&lt;p&gt;In the end, we adopted this format:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3-week sprints (in general)&lt;/li&gt;
+  &lt;li&gt;In the morning of the 1st day: 4-hour sprint planning meeting&lt;/li&gt;
+  &lt;li&gt;In the afternoon of the last day: 45-minute demo followed by a 45-minute &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;retrospective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Every morning of the sprint: short &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot; target=&quot;_blank&quot;&gt;daily meeting&lt;/a&gt; at a set time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These meetings included the developers (the “Team”), the product owner (making the link between the Team and the client), and the Scrum Master (bailer of the methodology, rotating among all the developers).&lt;/p&gt;
+
+&lt;h2 id=&quot;improving-our-scrum-practice&quot;&gt;Improving our Scrum practice&lt;/h2&gt;
+
+&lt;p&gt;One of the things we struggled most with was the sprint planning (and we’re not the only ones). We had a hard time dividing up the work into well-defined stories that were achievable during the sprint. Little by little, we started calculating/assessing the complexity of each task.&lt;/p&gt;
+
+&lt;p&gt;The complexity assessment is a very effective Scrum technique in order to better allocate the team’s time and effort. The idea is to break down each high-level User Story (also called an Epic) into smaller tasks, and to evaluate for each task its level of complexity using the Fibonacci suite: 1, 2, 3, 5, 8, 13… The gap between two levels of complexity grows bigger as the complexity increases, which forces the team to make a real choice. Any task above 8 should be broken down again.&lt;/p&gt;
+
+&lt;p&gt;1 = it’s very easy, I know how to do it and I’ll do it quickly.&lt;/p&gt;
+
+&lt;p&gt;2 = I don’t think it’s very complex but I have a small doubt.&lt;/p&gt;
+
+&lt;p&gt;3 = it’s rather easy but I need to do some researches.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;The product owner constantly receives feedback from the client on the new functionalities. He shares them with the team at the beginning of the new sprint. He also adds new ideas in the backlog every day, and order them by priority.&lt;/p&gt;
+
+&lt;p&gt;We also got stricter on the last day, even if everything that was planned during the sprint planning isn’t finished. On the set day, we stop everything and we compute the number of complexity points we managed to overcome, called the “Velocity”, in order to plan the next sprint. If the sprint was well planned and team members got exactly the right amount of complexity points to work on, this velocity can be used to plan the next sprint. Otherwise, the product owner can increase or decrease it, based on the team’s feedback.&lt;/p&gt;
+
+&lt;p&gt;Another trap of Scrum is the daily meeting: not having a fixed time, taking it for an operational meeting instead of only sharing information, and being too long. Over time, we chose a fixed hour in the morning (between 9 and 11 am depending on the team), and everyone was supposed to share his or her progress and difficulties in no more than 1 minute. Operational work was left for after the daily.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-limits-of-scrum&quot;&gt;The limits of Scrum&lt;/h2&gt;
+
+&lt;p&gt;Of course, it couldn’t be all rosy. Scrum is amazing in some contexts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Digital projects with a level of uncertainty&lt;/li&gt;
+  &lt;li&gt;With a Team (= developers) of 15 people maximum (if the team is bigger, it should be divided into smaller squads)&lt;/li&gt;
+  &lt;li&gt;The team members should be dedicated to the project (working at least 50% of their time on it)&lt;/li&gt;
+  &lt;li&gt;The overall project must be divided into some blocs (the stories) with regular releases and deployments&lt;/li&gt;
+  &lt;li&gt;Even in other areas of the company (marketing, HR, …), as long as the team isn’t in charge of long actions constrained by external dependencies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;but impossible in others:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If the project cannot be divided into small pieces&lt;/li&gt;
+  &lt;li&gt;If the team cannot get regular user feedbacks&lt;/li&gt;
+  &lt;li&gt;If developers are spread among several projects&lt;/li&gt;
+  &lt;li&gt;If the project is constrained by external dependencies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/when-is-scrum-appropriate.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;http://scrumreferencecard.com/scrum-reference-card/&quot; target=&quot;_blank&quot;&gt;http://scrumreferencecard.com/scrum-reference-card/&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;testing-other-agile-methodologies-extreme-programming-xp&quot;&gt;Testing other Agile methodologies: extreme programming (XP)&lt;/h2&gt;
+
+&lt;p&gt;We never used eXtreme Programming in my startup, but I experienced it with one of my clients. The principle of XP is to divide the Team into pairs: one developer does the coding, and the other one reviews the code along the way. And the tandems rotate at the beginning of each sprint.&lt;/p&gt;
+
+&lt;p&gt;It may seem a waste of time to have only one developer out of two actually coding – many think so. It’s true. But this methodology has a lot of advantages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It helps produce a code of higher quality and stronger, thus ultimately it saves money.&lt;/li&gt;
+  &lt;li&gt;It reduces the need for maintenance.&lt;/li&gt;
+  &lt;li&gt;It develops the competencies of the whole team, and developers love it.&lt;/li&gt;
+  &lt;li&gt;It fosters collaboration and friendliness among team members as they know each other better.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Over the last few years, I’ve had the opportunity to work and implement Scrum in several teams and companies. In the end, the most difficult in Scrum or other Agile methods is not to understand them, but to put them in place and to &lt;strong&gt;keep the rigor over time. But when you do so, it becomes an amazing playground!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 30 Oct 2018 10:10:00 +0000</pubDate>
       </item>
@@ -973,69 +1073,6 @@ More than ever, hour after, our work is never over&quot;
 
 </description>
         <pubDate>Tue, 11 Apr 2017 12:27:20 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>Wellbeing at Work: The Benefits of Happiness in the Workplace</title>
-        <link>http://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html</link>
-        <guid isPermaLink="true">http://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html</guid>
-        <description>&lt;p&gt;The world has never before seen such high levels of productivity – even in France with our 5 weeks of vacation – and it is very much a consequence of the digital revolution and the automatization of many tasks. But the side effects of this faster work pace are not always welcome: burnout, depression, lack of purpose… Is being “sick on the job” the scourge of our age?&lt;/p&gt;
-
-&lt;p&gt;One thing’s for sure: a good paycheck is no longer enough to attract and retain the best talent. And companies know this: chief happiness officers, stress management coaches, and wellbeing programs are emerging to improve happiness in the workplace. So, what is actually at stake?&lt;/p&gt;
-
-&lt;h3 id=&quot;happiness-at-work-the-key-to-increased-productivity&quot;&gt;Happiness at work, the key to increased productivity?&lt;/h3&gt;
-
-&lt;p&gt;Researchers from the University of Warwick in the UK have actually validated the theory. In 2014, Pr. Andrew J. Oswald, Pr. Eugenio Proto, and Pr. Daniel Sgroi published the striking results of their &lt;a href=&quot;http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf&quot;&gt;study&lt;/a&gt;: &lt;strong&gt;happy people were found to be 12% more productive, while unhappy workers proved 10% less productive.&lt;/strong&gt; According to the three economists, “human happiness has large and positive causal effects on productivity. Positive emotions appear to invigorate human beings.”&lt;/p&gt;
-
-&lt;p&gt;What is true for individuals is all the more true for organizations. Companies that invest in employee support and satisfaction tend to succeed in fostering happier workers. And happy workers tend to work better with others, to have more energy, to be more creative, to fix problems instead of complaining about them, and to make better decisions overall.&lt;/p&gt;
-
-&lt;p&gt;The proof is in the profit. In 2005, Jerome Dodson, the founder of Parnassus Investments, added a new branch to his activities: the Parnassus Workplace Fund, a mutual fund that invests exclusively in large American firms proven to have &lt;strong&gt;outstanding workplaces, where employees are really happy.&lt;/strong&gt; The kinds of firms that “genuinely cared about their employees as people, not just hired hands.”&lt;/p&gt;
-
-&lt;p&gt;Dodson scouted the country, not for the most promising companies, but for the companies that treated employees with profound respect and offered them ongoing training and personal development. Other criteria included:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Providing a meaningful form of profit sharing&lt;/li&gt;
-  &lt;li&gt;Offering healthcare and retirement benefits&lt;/li&gt;
-  &lt;li&gt;Being supportive of working mothers&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Happiness pays!&lt;/strong&gt; To Dodson’s delight, the Parnassus Workplace Fund proved immediately, enormously, and enduringly successful. Since the fund’s inception and for 8 years, it “has had returns over 4% better than the S&amp;amp;P Index every year.” I’m sure we’d all like to get the same yield!&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;(For those of you who are not familiar with market valuations, the Standard &amp;amp; Poor’s 500, is an American stock market index based on the market capitalizations of 500 large companies with common stock listed on the NYSE or NASDAQ. Now you know.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;So when the latest &lt;a href=&quot;http://www.gallup.com/poll/165269/worldwide-employees-engaged-work.aspx&quot;&gt;Gallup&lt;/a&gt; study tells you that “only 13 percent of employees are engaged at work worldwide” it makes you wonder &lt;strong&gt;why happiness in the workplace isn’t a higher priority.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;how-do-you-boost-wellbeing-at-work&quot;&gt;How do you boost wellbeing at work?&lt;/h3&gt;
-
-&lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/building-joy-planning-plans.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;After sharing those results, you must be wondering: how can I boost employee engagement and happiness in my company?&lt;/p&gt;
-
-&lt;p&gt;Well, there’s good news and bad news. The bad news is: you cannot impose happiness on your employees. They have their share of responsibility in their own happiness. However, you can still set up ground rules and working conditions that will help your employees and teammates blossom.&lt;/p&gt;
-
-&lt;h4 id=&quot;develop-a-culture-of-trust-and-transparency&quot;&gt;&lt;em&gt;Develop a culture of trust and transparency…&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;… where your employees can share their doubts and flaws, ask questions, challenge one another.. Keeping people afraid of failing or of showing weakness is the best way to hinder creativity. Your choice.&lt;/p&gt;
-
-&lt;h4 id=&quot;show-gratitude-and-value-positive-intelligence&quot;&gt;&lt;em&gt;Show gratitude and value positive intelligence&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;Lead by example. To set up a culture of gratitude and kindness, just display these qualities. If you are convincing enough, your teammates will follow your lead.&lt;/p&gt;
-
-&lt;h4 id=&quot;foster-empowerment-and-accountability&quot;&gt;&lt;em&gt;Foster empowerment and accountability&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;To stay engaged, a worker needs to feel that his job matters, and to be recognized for it. Empowering each individual to carry out his or her own tasks, and praising the results is the best way &lt;a href=&quot;http://blog.teammood.com/engagement/tips/2013/07/30/how-to-improve-the-employee-engagement-with-these-5-great-tips.html&quot;&gt;to boost employee engagement&lt;/a&gt; – which doesn’t mean disparaging them should they need help.&lt;/p&gt;
-
-&lt;h4 id=&quot;favor-breaks-and-downtime&quot;&gt;&lt;em&gt;Favor breaks and downtime&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;Contrary to what most people may think, procrastination is actually good for productivity. While at ease, our brain enters its default mode and starts processing and sorting out information. These default mode phases are essential to our brain. Promoting &lt;strong&gt;breaks and relaxation will boost your teammates’ productivity and creativity.&lt;/strong&gt; It will also lower stress and frustration. Once again, I’d advise you to lead by example. Take a real lunch break and invite your teammates to join you. Take the time for coffee breaks and talk about anything but work. You can even set up a space to meditate, nap or do some yoga.&lt;/p&gt;
-
-&lt;h4 id=&quot;launch-a-wellness-program&quot;&gt;&lt;em&gt;Launch a wellness program&lt;/em&gt;&lt;/h4&gt;
-
-&lt;p&gt;Set up a healthy lunch or snacks program, sponsor gym membership, dedicate a room to yoga or fitness… Did you know that exercise actually stimulates endorphins (endorphins are neurotransmitters that induce a feeling of euphoria) (what better way to get happy?).&lt;/p&gt;
-
-&lt;p&gt;Now it’s your turn to be creative. What are your top tips for improving well being at your workplace?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Mar 2017 08:33:53 +0000</pubDate>
       </item>
     
   </channel>

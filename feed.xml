@@ -5,7 +5,101 @@
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Fri, 29 Mar 2019 12:40:35 +0000</pubDate>
+    <pubDate>Fri, 29 Mar 2019 12:40:50 +0000</pubDate>
+    
+      <item>
+        <title>Why doing Team Health Checks?</title>
+        <link>https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html</guid>
+        <description>&lt;p&gt;Great success and achievements do not come overnight, and it’s rarely the result of a person alone, but rather by a group of individuals, what we commonly call a “team”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/proverb.png&quot; alt=&quot;If you want to go fast, go alone. If you want to go far, go together.&quot; title=&quot;If you want to go fast, go alone. If you want to go far, go together.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The ability to work together, as a true team, is far better than the expertise of each individual.&lt;/p&gt;
+
+&lt;h2 id=&quot;but-what-makes-a-team-great&quot;&gt;But what makes a team great?&lt;/h2&gt;
+
+&lt;p&gt;For instance, Google did &lt;a href=&quot;https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/&quot;&gt;its own research&lt;/a&gt; and found these 5 characteristics:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?&lt;/li&gt;
+  &lt;li&gt;Dependability: Can we count on each other to do high quality work on time?&lt;/li&gt;
+  &lt;li&gt;Structure &amp;amp; clarity: Are goals, roles, and execution plans on our team clear?&lt;/li&gt;
+  &lt;li&gt;Meaning of work: Are we working on something that is personally important for each of us?&lt;/li&gt;
+  &lt;li&gt;Impact of work: Do we fundamentally believe that the work we’re doing matters?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Team Health Check&lt;/strong&gt; is a great way to take the temperature of a team. And that’s a starting point for improvement.&lt;/p&gt;
+
+&lt;h2 id=&quot;goals-of-a-team-health-check&quot;&gt;Goals of a Team Health Check&lt;/h2&gt;
+
+&lt;p&gt;By doing regular checks, teams should be able to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increase trust and psychological safety within the team&lt;/li&gt;
+  &lt;li&gt;Have better relationships between teammates&lt;/li&gt;
+  &lt;li&gt;Create a culture of constructive criticism and feedback&lt;/li&gt;
+  &lt;li&gt;Raise issues and fix them quickly&lt;/li&gt;
+  &lt;li&gt;Share their feelings more easily and frequently&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/meditation.png&quot; alt=&quot;Keep your team zen thanks to regular Team Health Checks&quot; title=&quot;Keep your team zen thanks to regular Team Health Checks&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;how-to-do-a-team-health-check&quot;&gt;How to do a Team Health Check&lt;/h1&gt;
+
+&lt;p&gt;There are many ways to run a Team Health check.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-a-niko-niko-calendar&quot;&gt;Use a Niko-Niko Calendar&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;A &lt;a href=&quot;https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html&quot;&gt;Niko-Niko Calendar&lt;/a&gt; is a simple calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy :-), straight :-&lt;/td&gt;
+      &lt;td&gt;or frowning :-( or color stickers on it.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;create-an-emotional-seismograph-with-the-team&quot;&gt;Create an Emotional Seismograph with the team&lt;/h3&gt;
+
+&lt;p&gt;During, one of your retrospectives, try the &lt;a href=&quot;https://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html&quot;&gt;Emotional Seismograph&lt;/a&gt; format.&lt;/p&gt;
+
+&lt;p&gt;It’s an easy and fun way to get an overview of your team health.&lt;/p&gt;
+
+&lt;h3 id=&quot;run-team-health-check-like-spotify&quot;&gt;Run Team Health Check like Spotify&lt;/h3&gt;
+
+&lt;p&gt;The Team Health Check has been popularized by Spotify with their &lt;a href=&quot;https://labs.spotify.com/2014/09/16/squad-health-check-model/&quot;&gt;Squad Health Check model&lt;/a&gt;, where people are asked to score 11 different areas (Easy to release, Suitable process, Tech quality, Value, Speed, Mission, Fun, Learning, Support, Pawns or players) on three levels:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;green: good&lt;/li&gt;
+  &lt;li&gt;yellow: some problems&lt;/li&gt;
+  &lt;li&gt;red: really bad&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;suggest-improvements-from-a-team-health-check&quot;&gt;Suggest improvements from a Team Health Check&lt;/h2&gt;
+
+&lt;p&gt;As proposed by Aaron Gallagher from &lt;a href=&quot;https://www.linkedin.com/pulse/team-temp-aka-health-check-aaron-gallagher/&quot;&gt;his article about Team Health Check&lt;/a&gt;, you can combine a Team Health Check with a Perfection Game.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“[During a Perfection Game], people have to rate the value that they received on a scale from 1 to 10, based on how much value they think they could add themselves by improving the product or service. For example, when there is nothing that they think they can improve, they should rate with a 10. If they think that they could make it twice as valuable, they should give it a 5.&lt;/p&gt;
+
+  &lt;p&gt;(…)&lt;/p&gt;
+
+  &lt;p&gt;If somebody rates the value as 5, (s)he will have to provide suggestions how to make it a 10. People can only withhold points if they provide suggestions to improve it.”&lt;/p&gt;
+
+  &lt;p&gt;From Ben Linders, &lt;a href=&quot;https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/&quot;&gt;https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Starting from a Team Health Check, Aaron proposes to think about what could me made so that people would feel better on the workplace.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-turn&quot;&gt;Your turn!&lt;/h2&gt;
+
+&lt;p&gt;I’m still amazed of how the concept of Team Health check is so simple, but so rarely used by team leaders. So start now with your first Team Health check, and if you fall in love with it, use &lt;a href=&quot;https://www.teammood.com&quot;&gt;TeamMood&lt;/a&gt; to do it on a regular basis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/dance-the-music.png&quot; alt=&quot;Run your first Team Health Check, and be amazed!&quot; title=&quot;Run your first Team Health Check, and be amazed!&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Mar 2019 10:00:00 +0000</pubDate>
+      </item>
     
       <item>
         <title>Dare Benevolent Leadership!</title>
@@ -933,67 +1027,6 @@
 &lt;p&gt;&lt;small&gt;&lt;i&gt;Special thanks to Rene Martinussen for his feedback.&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 07 Feb 2018 14:16:35 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>Best Practices From Our Users</title>
-        <link>https://blog.teammood.com/2017/12/06/best-practices-from-our-users.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2017/12/06/best-practices-from-our-users.html</guid>
-        <description>&lt;p&gt;Knowledge is good, but you still need to act on it. Many of our customers have asked us advice on how to make the best use of the data collected thanks to TeamMood. So, here comes a compilation of the best practices to leverage TeamMood and have a real impact on your team.&lt;/p&gt;
-
-&lt;h3 id=&quot;giving-the-floor-to-team-members-during-daily-meetings&quot;&gt;Giving the floor to team members during daily meetings…&lt;/h3&gt;
-
-&lt;p&gt;According to our users, one of the great advantages of TeamMood is its daily tracking. Other similar tools work weekly or monthly, which is not enough to really track the mood of your team and follow trends. And once you track the mood of your team daily, you can share the results daily too.&lt;/p&gt;
-
-&lt;p&gt;Nathaniel is an agile coach who intervenes as a consultant in different IT teams. He uses TeamMood during his daily meetings in order to talk openly about the bad moods and comments. It triggers the discussions and helps the team quickly find a solution.&lt;/p&gt;
-
-&lt;p&gt;Another client of ours also started to share daily the results from the previous day, an average and the overall trend.&lt;/p&gt;
-
-&lt;p class=&quot;quote&quot;&gt;
-    &lt;span class=&quot;body&quot;&gt; “During our daily meeting, people started to speak up and explain the reasons behind a certain grade or comment. It released the floor and initiated dialog among the team.”&lt;/span&gt; - &lt;span class=&quot;author&quot;&gt;Guillaume&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&quot;and-lightening-up-the-mood&quot;&gt;… and lightening up the mood&lt;/h3&gt;
-
-&lt;p&gt;TeamMood doesn’t have to be all serious.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/laughing.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of our clients, &lt;a href=&quot;https://www.guestonline.io/&quot;&gt;GuestOnline&lt;/a&gt;, created a game based on TeamMood’s results. At the end of some particularly long meetings, to relax everyone, they share some of the comments from TeamMood and make a quiz ‘guess who wrote this comment’. They also invented a variant to this game at the end of summer, with holiday pictures.&lt;/p&gt;
-
-&lt;p class=&quot;quote&quot;&gt;
-    &lt;span class=&quot;body&quot;&gt; “At the beginning, I felt the team was a bit feebleness, but after a while it became a time of relaxing and fun at the end of a big meeting. Everyone participates, and sometimes people share the story behind a certain mood. We all have a good time and finish the meeting on a positive and happy note :)”&lt;/span&gt; - &lt;span class=&quot;author&quot;&gt;Emilie, GuestOnline&lt;/span&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&quot;improving-retrospectives&quot;&gt;Improving retrospectives&lt;/h3&gt;
-
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/postits.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Running retrospectives with your teammates on a regular basis is crucial to learn from past mistakes and try to do better. That’s why the best companies take the time to review past projects, analyse what went wrong or could be improved upon, and share new ideas.&lt;/p&gt;
-
-&lt;p&gt;Whether you run retrospectives every week, two weeks of every months, it’s hard to remember everything that happened during your timeframe. Without a tool like TeamMood, your retrospectives end up focusing on the past few days, leaving aside older events or issues.&lt;/p&gt;
-
-&lt;p&gt;Thanks to TeamMood, you can have access to daily feedback and comments from your team members. Your retrospective are richer and more accurate.&lt;/p&gt;
-
-&lt;h3 id=&quot;using-teammood-as-a-management-tool&quot;&gt;Using TeamMood as a management tool&lt;/h3&gt;
-
-&lt;p&gt;More than the result of the daily poll on itself, what is important is how you react on it. Indeed, TeamMood provides managers with data and feedback to gauge their team’s feeling and well-being, but they still have to act on it.&lt;/p&gt;
-
-&lt;p&gt;Jean-Baptiste, an IT manager at a big French retail outfit company, shares: “I don’t just look at the score for each team. What’s more important is to see how a Scrum Master responds and helps the team navigate their way through any problems that arise.” (Read the full story &lt;a href=&quot;https://www.teammood.com/en/success/Success-story-scrum-masters-en.pdf&quot;&gt;here&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h3 id=&quot;identifying-the-most-urging-topics&quot;&gt;Identifying the most urging topics&lt;/h3&gt;
-
-&lt;p&gt;TeamMood doesn’t provide just a grade but also gives the opportunity for team members to share a comment, providing more context or information on a specific issue. In order to identify the most urging topic, one of our clients, working in a research company, classifies the daily comments by category.&lt;/p&gt;
-
-&lt;p&gt;This way, he can directly pinpoint his efforts to the most recurring and urging topics, and relieve his teammates of their issues. It helps him identify trends on different topics, for instance a need in recruitment or a tight deadline. It also gives him insights to whether the subject has been addressed and solved.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=TeamMood%20is%20a%20true%20managerial%20help.%20https://blog.teammood.com/2017/12/06/best-practices-from-our-users.html&quot;&gt;
-    “TeamMood is a true managerial help.”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Dec 2017 09:55:44 +0000</pubDate>
       </item>
     
   </channel>

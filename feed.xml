@@ -5,7 +5,7 @@
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Mon, 01 Apr 2019 09:22:48 +0000</pubDate>
+    <pubDate>Mon, 08 Apr 2019 15:48:37 +0000</pubDate>
     
       <item>
         <title>Why doing Team Health Checks?</title>
@@ -974,7 +974,7 @@
 
 &lt;p&gt;You may wonder: &lt;em&gt;do I really need retrospectives&lt;/em&gt;?&lt;/p&gt;
 
-&lt;p&gt;While you may think your team organization is already optimized, you probably don’t realize some of the issues and frustrations your teammates encounter daily. Taking the time to discuss them and find solutions is key to improve the way your team works, and overall to improve your productivity.&lt;/p&gt;
+&lt;p&gt;While you may think your team organization is already optimized, you probably don’t realize some of the issues and frustrations your teammates encounter daily. Taking the time to discuss them and find solutions is key to &lt;a href=&quot;https://blog.teammood.com/2017/12/06/best-practices-from-our-users.html&quot;&gt;improve the way your team works&lt;/a&gt;, and overall to improve your productivity.&lt;/p&gt;
 
 &lt;p&gt;&lt;img class=&quot;center&quot; src=&quot;/images/posts/are-you-too-busy-to-improve2.png&quot; alt=&quot;Too Busy To Improve: use retrospectives to reflect on your process&quot; /&gt;&lt;/p&gt;
 
@@ -991,7 +991,7 @@
 
 &lt;p&gt;Make sure to select 2 to 3 items only, because the team will have a hard time focusing on more during the next Sprint.&lt;/p&gt;
 
-&lt;p&gt;Retrospectives usually last for half an hour to one hour, and occur at the end of a cycle or iteration – ideally every two weeks, at most every month. And should include all team members: it’s the collective that makes it work.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;Retrospectives usually last for half an hour to one hour&lt;/a&gt;, and occur at the end of a cycle or iteration – ideally every two weeks, at most every month. And should include all team members: it’s the collective that makes it work.&lt;/p&gt;
 
 &lt;h1 id=&quot;tools-to-make-your-retrospective-work-better&quot;&gt;3 tools to make your retrospective work better&lt;/h1&gt;
 
@@ -1013,13 +1013,13 @@
 
 &lt;p&gt;It’s not us, it’s our clients who say it! If you run retrospectives every two weeks or every month, it’s hard to remember everything that happened during this timeframe. You usually end up focusing on the last few days.&lt;/p&gt;
 
-&lt;p&gt;With TeamMood, you can have access to daily feedback and comments from your team members during the whole period. It works as a team’s diary. Using this data during your retrospectives helps you get a comprehensive view of what happened, and enriches or starts interesting discussions.&lt;/p&gt;
+&lt;p&gt;With TeamMood, you can have access to &lt;a href=&quot;https://www.teammood.com/en/features/&quot;&gt;daily feedback and comments&lt;/a&gt; from your team members during the whole period. It works as a team’s diary. Using this data during your retrospectives helps you get a comprehensive view of what happened, and enriches or starts interesting discussions.&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/en/continuous-improvement/&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/div&gt;
 
 &lt;p&gt;&lt;small&gt;&lt;i&gt;Special thanks to Rene Martinussen for his feedback.&lt;/i&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 07 Feb 2018 14:16:35 +0000</pubDate>
+        <pubDate>Wed, 07 Feb 2018 14:16:00 +0000</pubDate>
       </item>
     
   </channel>

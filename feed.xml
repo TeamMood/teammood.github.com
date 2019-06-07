@@ -5,7 +5,94 @@
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Fri, 07 Jun 2019 13:40:32 +0000</pubDate>
+    <pubDate>Fri, 07 Jun 2019 13:40:53 +0000</pubDate>
+    
+      <item>
+        <title>Top 5 Agile Blogs to Stay Up to Date</title>
+        <link>https://blog.teammood.com/2019/06/07/top-5-agile-blogs-to-stay-up-to-date.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/06/07/top-5-agile-blogs-to-stay-up-to-date.html</guid>
+        <description>&lt;p&gt;Knowledge cannot be fixed, it must evolve over time. I have been working in Agile – and coaching Agile teams – for years now, but I still feel the need to update my knowledge. Here is a selection of blogs that inspire me and help me stay up to date on Agile best practices and trends.&lt;/p&gt;
+
+&lt;h2 id=&quot;luis-goncalvess-bloghttpsluis-goncalvescomblog&quot;&gt;&lt;a href=&quot;https://luis-goncalves.com/blog&quot;&gt;&lt;strong&gt;Luis Goncalves’s Blog&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Luis is a Management Coach and Agile Coach, and the co-author of the book &lt;em&gt;Getting Value Out Of Agile Retrospectives&lt;/em&gt;. In his blog, he writes about ScrumMaster development, coaching, and organizational transformation. What I like the most about Luis Gonçalves’s blog is the fact that he shares practical ideas that can be implemented quickly.&lt;/p&gt;
+
+&lt;p&gt;If you only read one article from this blog, I would pick: &lt;a href=&quot;https://luis-goncalves.com/scrum-values/&quot;&gt;Scrum Values Are The Foundation Of Agile. Here’s Why… &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=.@lgoncalves1979%20blog%20is%20one%20of%20our%20top%205%20%23agile%20blogs%20&quot;&gt;
+    “.@lgoncalves1979 blog is one of our top 5 #agile blogs”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;agile42s-bloghttpswwwagile42comenblog&quot;&gt;&lt;a href=&quot;https://www.agile42.com/en/blog&quot;&gt;&lt;strong&gt;Agile42’s blog&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Agile42 is a coaching, training, and consulting agency in the areas of agility and leadership. In their blog, they share short and synthetic articles on all kinds of topics about Agile: events, metrics, lean, XP, …&lt;/p&gt;
+
+&lt;p&gt;My favorite article? &lt;a href=&quot;https://www.agile42.com/en/blog/2012/08/17/agile-bathtub/&quot;&gt;Agile in the Bathtub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=%23Top5%20%23agile%20blogs:%20love%20the%20short%20and%20synthetic%20articles%20by%20@agile42%20&quot;&gt;
+    “#Top5 #agile blogs: love the short and synthetic articles by @agile42”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;romain-pichlers-bloghttpswwwromanpichlercomblog&quot;&gt;&lt;a href=&quot;https://www.romanpichler.com/blog/&quot;&gt;&lt;strong&gt;Romain Pichler’s blog&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Roman Pichler is a product management expert specialized in digital products. An entire section of his blog is dedicated to Lean, Agile, and Scrum processes.&lt;/p&gt;
+
+&lt;p&gt;What differentiates his blog from others are the ready-to-use templates and resources he shares on a regular basis: a &lt;a href=&quot;https://www.romanpichler.com/blog/sprint-goal-template/&quot;&gt;template for formulating great sprint goals&lt;/a&gt;, a checklist for preparing a sprint planning, … They are priceless.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=%23Top5%20%23agile%20blogs:%20@romanpichler%20shares%20great%20templates%20and%20resources%20for%20%23Agile%20%23team%20&quot;&gt;
+    “#Top5 #agile blogs: @romanpichler shares great templates and resources for #Agile #team”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-nobl-academyhttpsacademynoblio&quot;&gt;&lt;a href=&quot;https://academy.nobl.io/&quot;&gt;&lt;strong&gt;The Nobl Academy&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Behind the Nobl Academy is a consulting firm helping leaders design cultures that deliver on strategy and adapt to change. This blog focuses more on company culture and leadership – but these themes are crucial for Agile teams too! Their tools, tips, and use cases are invaluable.&lt;/p&gt;
+
+&lt;p&gt;If you don’t know where to start, you can read this article: &lt;a href=&quot;https://academy.nobl.io/everything-you-ever-wanted-to-know-psychological-safety/&quot;&gt;Everything You Ever Wanted to Know about Psychological Safety&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=%23Top5%20%23agile%20blogs:%20the%20%23NoblAcademy%20by%20@WorkNOBL%20%23culture%20%23leadership%20&quot;&gt;
+    “#Top5 #agile blogs: the #NoblAcademy by @WorkNOBL #culture #leadership”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;leading-answershttpsleadinganswerstypepadcom-by-mike-griffiths&quot;&gt;&lt;a href=&quot;https://leadinganswers.typepad.com/&quot;&gt;&lt;strong&gt;Leading Answers&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;by Mike Griffiths&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mike Griffiths is an independent author, project manager, Agile trainer and consultant. In his blog, Mike shares ideas on leadership and agile project management. His articles are pretty advanced and thorough.&lt;/p&gt;
+
+&lt;p&gt;One of my favorite articles from Mike lists the most important leadership practices to manage a team: &lt;a href=&quot;https://leadinganswers.typepad.com/leading_answers/2008/03/top-10-team-pra.html&quot;&gt;Top 10 Team Practices&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=%23Top5%20%23agile%20blogs:%20Leading%20Answers%20by%20Mike%20Griffiths%20&quot;&gt;
+    “#Top5 #agile blogs: Leading Answers by Mike Griffiths”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bonusscrum-agiliteacute-et-rocknrollhttpwwwaubryconseilcom-by-claude-aubry-fr&quot;&gt;&lt;strong&gt;Bonus:&lt;/strong&gt;&lt;a href=&quot;http://www.aubryconseil.com/&quot;&gt;&lt;strong&gt;Scrum, Agilité… et Rock’n’Roll&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;by Claude Aubry (FR)&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Claude Aubry is a pioneer of Scrum in France and author of the book &lt;em&gt;Scrum&lt;/em&gt;. He recently published a new book, &lt;em&gt;The Art to Becoming an Agile Team&lt;/em&gt;, illustrated by Etienne Appert.&lt;/p&gt;
+
+&lt;p&gt;For our French-speaking readers, you can find the book here: &lt;a href=&quot;https://www.goodreads.com/book/show/45578791-l-art-de-devenir-une-quipe-agile&quot;&gt;L’Art de Devenir une Equipe Agile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=%23Top5%20%23agile%20blogs%20bonus:%20Scrum,%20Agilit&amp;eacute;%20et%20Rock&amp;rsquo;n&amp;rsquo;Roll%20by%20@claudeaubry%20&quot;&gt;
+    “#Top5 #agile blogs bonus: Scrum, Agilité et Rock’n’Roll by @claudeaubry”
+        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And you, what is your favorite blog on Agile?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Header photo by &lt;a href=&quot;https://unsplash.com/@impatrickt?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Patrick Tomasso&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      </item>
     
       <item>
         <title>How To Implement Positive Management As A Game-changer For Your Company</title>
@@ -922,59 +1009,6 @@
 &lt;p&gt;Of course, you cannot manage everything, some external sources can cause a happy or bad mood, beyond your control. The best thing you can do? &lt;a href=&quot;https://www.teammood.com/&quot;&gt;Ask your team members&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 Jun 2018 12:32:50 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>Your team is in a bad mood? Here’s what you need to do.</title>
-        <link>https://blog.teammood.com/2018/05/16/your-team-is-in-a-bad-mood-heres-what-you-need-to-do.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2018/05/16/your-team-is-in-a-bad-mood-heres-what-you-need-to-do.html</guid>
-        <description>&lt;p&gt;Either you are sensing there is an issue in your team or you are using a &lt;a href=&quot;https://www.teammood.com/&quot;&gt;tool&lt;/a&gt; that tells you so, you can’t afford to ignore it. Indeed, &lt;a href=&quot;https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html&quot;&gt;a bad mood will affect your team productivity&lt;/a&gt;: unhappy people are proven to be &lt;strong&gt;10% less productive&lt;/strong&gt; than usual.&lt;/p&gt;
-
-&lt;p&gt;So, if a bad situation arises, here is what you need to do.&lt;/p&gt;
-
-&lt;h2 id=&quot;get-to-the-roots-of-the-problem&quot;&gt;1 - Get to the roots of the problem&lt;/h2&gt;
-
-&lt;p&gt;If you feel some tension among team members, unspoken issues or a general growing discontent, you need to understand where it’s coming from. Small quarrels or disagreements are usually fueled by a deeper issue.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/why.gif&quot; alt=&quot;Chicken and pigs&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Is there a stressful deadline coming up? Were there a change in the strategic orientation of the product? Is the company to be going through a bad patch? A specific individual driving everyone’s morale down?&lt;/p&gt;
-
-&lt;p&gt;Start &lt;a href=&quot;https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html&quot;&gt;paying attention to the signs&lt;/a&gt;, big or small, or use a tool to anonymously question your team members such as &lt;a href=&quot;https://www.teammood.com/&quot;&gt;TeamMood&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;discuss-the-situation&quot;&gt;2 - Discuss the situation&lt;/h2&gt;
-
-&lt;p&gt;Now that you know (or think to know) the situation and its causes, you must discuss it with your team members, individually or as a team according to the situation.&lt;/p&gt;
-
-&lt;p&gt;If the bad mood is a general state shared by the whole or part of your team, you can address the issue quickly during a &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;Daily standup meeting&lt;/a&gt; or come back to it during a &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot;&gt;Retrospective&lt;/a&gt; (but beware not to let the situation settle in and worsen).&lt;/p&gt;
-
-&lt;p&gt;If it’s more an individual state, let everyone know that you are open and willing to discuss whatever problem they may have. And encourage your team to share their issue in an anonymous comment if they don’t want to discuss it openly.&lt;/p&gt;
-
-&lt;h2 id=&quot;find-a-solution-together&quot;&gt;3 - Find a solution together&lt;/h2&gt;
-
-&lt;p&gt;As they say, “Two heads are better than one.” If you try to find a solution on your own, it’s likely that it will fail: your team members may not subscribe to it, or you’ll just miss the point and the responsibility will fall on your shoulders.&lt;/p&gt;
-
-&lt;p&gt;You have different options here: you can choose to discuss the solution in a team meeting, to set up an anonymous idea box or an open board, to have one-on-one formal discussions or a group informal chat during a team afterwork…&lt;/p&gt;
-
-&lt;h2 id=&quot;arouse-friendliness&quot;&gt;4 - Arouse friendliness&lt;/h2&gt;
-
-&lt;p&gt;Studies show that &lt;strong&gt;&lt;a href=&quot;http://www.snacknation.com/blog/employee-happiness/&quot;&gt;close work friendships&lt;/a&gt; boost employee satisfaction by 50%&lt;/strong&gt; and that people with a &lt;strong&gt;best friend at work are 7 times more likely to engage fully in their work&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/friends-tv-show.jpg&quot; alt=&quot;Chicken and pigs&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As a manager, if you want your team to work hard and get results, you need to create the perfect environment. Of course, you can’t force your team members to become friends. But you can create the conditions for people to bond: team afterwork at the end of the sprint, lunch break together once in a while, team building activities…&lt;/p&gt;
-
-&lt;h2 id=&quot;lead-by-example&quot;&gt;5 - Lead by example&lt;/h2&gt;
-
-&lt;p&gt;Should you be in the middle of the storm or simply handle a temporary decrease in employee moral, don’t forget that your attitude as a manager will greatly impact your team members. Set the example by having a positive and open speech, sharing information transparently, being attentive and openly share your own problems. Don’t forget also to show gratitude to your employees and to praise their work.&lt;/p&gt;
-
-&lt;p&gt;Simply by acknowledging their issues and recognizing their effort and/or results, you can turn the situation around and motivate your team members again.&lt;/p&gt;
-
-&lt;p&gt;In my next article, I will share my advice on how to react to a good mood, instead of resting on one’s laurels. &lt;!-- Subscribe to our newsletter to receive our articles directly in your inbox!--&gt;&lt;/p&gt;
-
-&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; href=&quot;https://www.teammood.com/&quot;&gt;Start Using TeamMood To Monitor The Mood Of Your Team&lt;/a&gt;&lt;/div&gt;
-</description>
-        <pubDate>Wed, 16 May 2018 09:16:35 +0000</pubDate>
       </item>
     
   </channel>

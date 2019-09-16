@@ -5,7 +5,56 @@
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://blog.teammood.com/</link>
     <description>Some words about feeling good at work.</description>
-    <pubDate>Mon, 16 Sep 2019 17:12:30 +0000</pubDate>
+    <pubDate>Mon, 16 Sep 2019 17:12:41 +0000</pubDate>
+    
+      <item>
+        <title>How To Make Your Sprint Planning As Easy As Pie</title>
+        <link>https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html</guid>
+        <description>&lt;p&gt;In Agile methodologies, one of the most important meetings along with the &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot; target=&quot;_blank&quot;&gt;daily standup&lt;/a&gt; and the &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;retrospective&lt;/a&gt; is the &lt;strong&gt;sprint planning&lt;/strong&gt;. Its objective: getting a shared understanding of what there is to be done for the time of the sprint, and how to do it. The functionalities that are supposed to be developed are defined in “user stories”, a simple sentence that describes it including 3 elements: who? what? Why? It looks like this: “As a customer, I want to add an item to my shopping cart so that I can buy it.&lt;/p&gt;
+
+&lt;p&gt;Many Agile teams dread this moment, as they find it difficult to divide up the work into well-defined stories that are achievable during the sprint. But with some advice and a little practice, you’ll soon find it as easy as pie!&lt;/p&gt;
+
+&lt;h2 id=&quot;before-the-sprint-planning&quot;&gt;&lt;strong&gt;Before the sprint planning&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Before the sprint planning begins, the product owner has to prepare the user stories that will be addressed during the sprint. This preparation work will be decisive to the success of the meeting. To make sure your user stories are well defined, you can use the acronym &lt;a href=&quot;https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/&quot;&gt;INVEST&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I for Independent – from any other success story&lt;/li&gt;
+  &lt;li&gt;N for Negotiable – it isn’t constrained by a specific contract for features&lt;/li&gt;
+  &lt;li&gt;V for Valuable – it brings value to the user&lt;/li&gt;
+  &lt;li&gt;E for Estimable  – it can be assessed to a good approximation&lt;/li&gt;
+  &lt;li&gt;S for Small – it can be carried out in few person-weeks, or even person-days&lt;/li&gt;
+  &lt;li&gt;T for Testable – at least in principle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Therefore, a good user story should be independent, negotiable, valuable, estimable, small and testable.&lt;/p&gt;
+
+&lt;p&gt;The sprint planning only happens once during the sprint, but some product owners like to set up an intermediary meeting in the middle, called “backlog refinement”. This 30 to 60-minute meeting helps to prepare the next sprint planning by improving the user stories and making them more “INVEST”.&lt;/p&gt;
+
+&lt;h2 id=&quot;during-the-sprint-planning&quot;&gt;&lt;strong&gt;During the sprint planning&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The sprint planning cannot be too long to keep everyone engaged – 1 hour is best, 2 hours is a maximum. The product owner defines a common goal – for instance, improving the reporting. And inside this goal, team members assess the complexity of each task that composes the user story. &lt;/p&gt;
+
+&lt;p&gt;The complexity assessment is a great way to estimate the time to spend on a task, thus overall on the story. It helps to make sure you don’t overcharge your sprint or the opposite – but the opposite rarely happens. Each team member is asked to participate in the “planning poker” and allocate a level of complexity for every task, using the Fibonacci suite: 1, 2, 3, 5, 8, 13…&lt;/p&gt;
+
+&lt;p&gt;In this exercise, the most important isn’t just the number of points you get, but the discussion around that helps everyone understand clearly what needs to be done. &lt;/p&gt;
+
+&lt;h2 id=&quot;pitfalls-of-the-sprint-planning&quot;&gt;&lt;strong&gt;Pitfalls of the sprint planning&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Preparing the sprint planning can be more difficult than it seems. Two usual traps are :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;planning too many user stories for the sprint – it will just force your team to work overtime and damp their spirit ;&lt;/li&gt;
+  &lt;li&gt;not detailing enough the benefits for the user – the more detailed, the easier it is for the team to grasp the aim of the feature, and maybe to suggest a better solution.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However well prepared the sprint planning may be, discussions around the complexity assessment can easily veer off track when people disagree. Be careful not to let the discussion move on to technical details or endless arguing about complexity levels. The time spent on a user story shouldn’t exceed 10 minutes or so. Make sure that everyone participates. The animation of the sprint planning relies on the scrum master – he/she has to make sure that the most “mouthy” team members don’t hog the debate. &lt;/p&gt;
+
+&lt;p&gt;If you apply these pieces of advice, I can assure you your sprint planning will run more smoothly. Let us know how the next one goes in the comment section below!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Sep 2019 11:00:00 +0000</pubDate>
+      </item>
     
       <item>
         <title>10 Golden Rules For Running Productive Meetings</title>
@@ -969,63 +1018,6 @@
 &lt;/table&gt;
 </description>
         <pubDate>Tue, 24 Jul 2018 07:08:00 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>How to Cultivate a Workplace Culture of Gratitude</title>
-        <link>https://blog.teammood.com/2018/07/04/how-to-cultivate-a-workplace-culture-of-gratitude.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2018/07/04/how-to-cultivate-a-workplace-culture-of-gratitude.html</guid>
-        <description>&lt;p&gt;Around &lt;a href=&quot;https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf&quot;&gt;88% of employees and 94% of executives&lt;/a&gt; say that they believe company culture is crucial to success. If you want to create a powerful environment for your business, then you need to be willing to prize and prioritize the right ideas for your employees. For instance, one value worth cultivating is “gratitude”. Employees who are thankful for where they are and what they accomplish will constantly go above and beyond to serve their employers.&lt;/p&gt;
-
-&lt;p&gt;The question is, how do you bring a culture of gratitude into your workplace? The following steps could help.&lt;/p&gt;
-
-&lt;h2 id=&quot;start-by-setting-an-example&quot;&gt;1. Start by Setting an Example&lt;/h2&gt;
-
-&lt;p&gt;Whenever you want to implement a change in your company culture, the first thing you need to do is think about how you can set the right example. Remember, as the owner or manager of your business, you’re not just someone who cuts pay-checks and tells people what to do every day. You’re the leader that your employees turn to when they’re looking for advice and guidance.&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;right&quot; src=&quot;/images/posts/thanks.gif&quot; alt=&quot;Showing gratitude&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;When people see you &lt;a href=&quot;https://www.forbes.com/sites/karlsun/2017/12/18/how-to-create-a-culture-of-gratitude-in-the-workplace/&quot;&gt;practicing gratitude every day&lt;/a&gt;, they’ll start to embrace the concept as a natural part of your workplace culture. So, how do you bring gratitude into your life? That’s simple. All you need to do is start showing your appreciation for things - both little and big.&lt;/p&gt;
-
-&lt;p&gt;When someone accomplishes a task in your organization, show them how much you appreciate it by giving them a pat on the back. When you meet your goals or targets, share that with your team and show them how every success adds up in the long term. And more importantly, demonstrate &lt;strong&gt;the right values and behaviors&lt;/strong&gt;, because that’s what matters the most in the long term.&lt;/p&gt;
-
-&lt;h2 id=&quot;recognize-your-employees-in-the-way-they-prefer&quot;&gt;2. Recognize Your Employees in the Way They Prefer&lt;/h2&gt;
-
-&lt;p&gt;Recognition is one of the most powerful things changing modern workforces. In fact, according to some studies, approximately &lt;a href=&quot;http://www.workstars.com/recognition-and-engagement-blog/2017/08/18/10-knockout-employee-recognition-statistics-for-hr-infographic/&quot;&gt;69% of employees&lt;/a&gt; say that they would work harder and take on more responsibilities if they felt their efforts were appreciated. If you want to make sure that you’re building a culture of gratitude for your organization, start by thanking your employees for their hard work in a manner they can really resonate with.&lt;/p&gt;
-
-&lt;p&gt;For some small achievements, a simple “thank you” can be enough to make your staff feel better about their career. For bigger accomplishments, you might look for more significant ways to show your recognition. For instance, you could throw an office party celebrating a huge client win or share a company newsletter that highlights your top performers. Some organization still think that the “employee of the month” strategy works well as a way of keeping their hires happy too.&lt;/p&gt;
-
-&lt;h2 id=&quot;give-your-people-reasons-to-be-thankful&quot;&gt;3. Give Your People Reasons to be Thankful&lt;/h2&gt;
-
-&lt;p&gt;In a world where countless companies are beginning to explore ideas like remote working to help their employees tackle stress and workplace gyms for wellbeing, it pays to go above and beyond for your staff. If you want your employees to feel excited by the fact that they’re part of your team, and you’re hoping that your reputation as an excellent employer will spread to lure new talent to your company, then look for creative ways to make your staff smile.&lt;/p&gt;
-
-&lt;p&gt;The little extras and benefits you put into place to delight your team will depend on what they appreciate most. For instance, academic minds might like it if you sign them up for trips to regular conferences and training sessions. Plenty of employees like having an opportunity to expand and improve their skills. Providing this education not only makes your hires happy, but also gives you access to new talents too!&lt;/p&gt;
-
-&lt;p&gt;On the other hand, giving your employees a reason to be thankful could be as simple as signing them up for a &lt;a href=&quot;https://www.javapresse.com/pages/subscriptions-gifts&quot;&gt;monthly coffee subscription&lt;/a&gt;, so that they can enjoy fresh java every day. This not only stops people from complaining about the stale drinks you previously had in your office kitchen, it also gives your team the antioxidants and great flavor they need to boost their mood and their productivity.&lt;/p&gt;
-
-&lt;h2 id=&quot;look-for-ways-to-give-back&quot;&gt;4. Look for Ways to Give Back&lt;/h2&gt;
-
-&lt;p&gt;Embracing a true culture of gratitude means more than giving something back to your employees. It could also mean that you look for ways to support your community and local causes that need your help. Signing up for a partnership with a charity that your team cares about and giving them paid leave to go and offer their services to that organization is a great way to share the idea of gratitude far and wide.&lt;/p&gt;
-
-&lt;p&gt;Collaborating with charities gives your employees an opportunity to express their gratitude for the privileges they enjoy as part of your company, and essentially share the wealth. As well as allowing staff to take part in formal programs, you could also ask employees to come up with and suggest their own initiatives. You’d be surprised how much a caring nature matters to today’s hires. Modern employees - particularly those in the millennial demographic, like to feel as though they’re having an impact on the world around them.&lt;/p&gt;
-
-&lt;p&gt;Showing your team that you’re willing to give something back both improves your culture of gratitude and may help you to attract new candidates to your company too.&lt;/p&gt;
-
-&lt;h2 id=&quot;take-time-to-reflect&quot;&gt;5. Take Time to Reflect&lt;/h2&gt;
-
-&lt;p&gt;Finally, sometimes the best way to nurture a culture of gratitude in your company is to simply slow down. When you stop rushing around after deadlines and take the time to stop and smell the coffee every now and again, it’s easier to reflect on where you are, and where you came from. Although running a business can be hard work, when you begin to reflect, you’ll realize just how lucky you’ve been so far.&lt;/p&gt;
-
-&lt;p&gt;Even in the toughest of times, most of us have something to be grateful for. Whether it’s a family back home that supports you or a great USP in your business, make sure that you appreciate what you have. Try to encourage moments of reflection for your team, so that they never lose sight of the positive things in their lives.&lt;/p&gt;
-
-&lt;h2 id=&quot;give-a-purpose&quot;&gt;6. Give a Purpose&lt;/h2&gt;
-
-&lt;p&gt;A team should have clear, achievable milestones with a good plan, eg prioritized things to do. When the deliverables are shipped, make sure that the team gets the feedback about them, about how they really impacted the customers, so that the individuals feel they made a difference in something bigger.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About the author&lt;/strong&gt;: &lt;em&gt;Raj Jana is the CEO of &lt;a href=&quot;https://www.javapresse.com/pages/subscriptions-gifts&quot;&gt;JavaPresse&lt;/a&gt; and a strong advocate of the power of company culture. He enjoys sharing his advice on how to build a successful company and often uses his experiences to help him write insightful articles for blogs across the internet. Company culture has quickly become one of the most important components of a successful business. After all, your people can either make or break your company. If they’re happy and satisfied with their jobs, then they’re sure to be more productive and focused in their roles. On the other hand, if they’re constantly looking forward to the moment that they can clock out and go home, then your organization will struggle to thrive.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Kuddos to &lt;a href=&quot;https://www.linkedin.com/in/tobias-flanders-5a031656/&quot; target=&quot;_blank&quot;&gt;Tobias Flanders&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/emily-sattout-4a03b77b/&quot; target=&quot;_blank&quot;&gt;Emily Sattout&lt;/a&gt; for the comments and edits of the article&lt;/em&gt; 🙌&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 Jul 2018 08:32:54 +0000</pubDate>
       </item>
     
   </channel>

@@ -59,7 +59,7 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     mercenary (0.3.5)
-    mini_magick (4.7.0)
+    mini_magick (4.9.5)
     multi_json (1.12.1)
     octopress (3.0.5)
       jekyll (>= 2.0)

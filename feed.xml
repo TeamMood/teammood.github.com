@@ -5,13 +5,13 @@
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://blog.teammood.com/</link>
     <description>Some words about health, morale and feel good at work.</description>
-    <pubDate>Tue, 05 Nov 2019 10:33:56 +0000</pubDate>
+    <pubDate>Tue, 05 Nov 2019 10:44:26 +0000</pubDate>
     
       <item>
         <title>Who should and should not be included in a sprint retrospective</title>
         <link>https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</link>
         <guid isPermaLink="true">https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</guid>
-        <description>&lt;p&gt;If run well, a sprint retrospective can help the project team identify areas for improvement for individual roles as well as have conversations around how to work better as a team. If run poorly, the meeting can turn into a bashing session which ultimately results in missed opportunities for growth.&lt;/p&gt;
+        <description>&lt;p&gt;If run well, a sprint retrospective can help the project team identify areas for improvement for individual roles as well as discuss how to work better as a team. If run poorly, the meeting can turn into a bashing session which ultimately results in missed opportunities for growth.&lt;/p&gt;
 
 &lt;h2 id=&quot;collaboration-the-essence-of-a-good-spring-retrospective&quot;&gt;Collaboration: The Essence of a Good Spring Retrospective&lt;/h2&gt;
 
@@ -27,17 +27,17 @@
   &lt;li&gt;Development Team - Everyone who is designing, building, and testing the product.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The Scrum Master should always be in attendance during spring retrospectives because he or she is an integral part of the whole process. This person serves as the coach of the Scrum team and points out where the team is not adhering to its rules and values.&lt;/p&gt;
+&lt;p&gt;The Scrum Master should always be attending spring retrospectives because he or she is an integral part of the whole process. This person serves as the coach of the Scrum team and points out where the team is not adhering to its rules and values.&lt;/p&gt;
 
 &lt;p&gt;There is an existing debate as to whether or not the Product Owner should attend sprint retrospectives. Some think that his or her presence is vital but on the other hand, some feel that the product owner’s presence defeats the main purpose of retrospective meetings which is to provide a safe and open place for feedback discussions because it might inhibit the team from being completely honest or revealing difficult issues.&lt;/p&gt;
 
-&lt;p&gt;However, the Scrum Guide defines the Sprint Retrospective as “an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint”. This means that the event is meant for the Scrum Team as a whole: Development Team, Scrum Master and Product Owner. There is no way that the Scrum team will reach its full potential if only the developers discuss which areas they should improve on.&lt;/p&gt;
+&lt;p&gt;However, the Scrum Guide defines the Sprint Retrospective as &lt;em&gt;“an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint”&lt;/em&gt;. This means that the event is meant for the Scrum Team as a whole: Development Team, Scrum Master and Product Owner. There is no way that the Scrum team will reach its full potential if only the developers discuss which areas they should improve on.&lt;/p&gt;
 
-&lt;p&gt;If the Product Owner is not considered to be a part of the team, then this is an issue that needs to be overcome; in fact, it is a good topic to be discussed in the retrospective. If you and your team are tempted to hold a sprint retrospective without your product owner, think about why and discuss it. The Scrum team and the product owner needs to have complete trust. This is the only way that the team can perform at its maximum capacity.&lt;/p&gt;
+&lt;p&gt;If the Product Owner is not considered to be a part of the team, then this is an issue that needs to be overcome; in fact, it is a good topic to be discussed in the retrospective. If you and your team are tempted to hold a sprint retrospective without your product owner, think about why and discuss it. The Scrum team and the product owner need to share their trust. This is the only way that the team can perform at its maximum capacity.&lt;/p&gt;
 
 &lt;h2 id=&quot;who-shouldnt-be-attending-the-sprint-retrospective&quot;&gt;Who Shouldn’t Be Attending the Sprint Retrospective&lt;/h2&gt;
 
-&lt;p&gt;The meeting should be a “safe place” where the Scrum team discusses their recent sprint and the improvements they are going to implement on the next one. According to The Disciplined Agile Framework, the “safe place” is affected by the presence of people with positional authority, potential agendas or other implicit impacts. Having outsiders as guests at the retrospective will change the dynamics. However, it is the decision of the team if they will allow outsiders in their sprint retrospectives.&lt;/p&gt;
+&lt;p&gt;The meeting should be a “safe place” where the Scrum team discusses their recent sprint and the improvements they are going to implement for the next one. According to The Disciplined Agile Framework, the “safe place” is affected by the presence of people with positional authority, potential agendas or other implicit impacts. Having outsiders as guests at the retrospective will change the dynamics. However, it is the decision of the team if they will allow outsiders in their sprint retrospectives.&lt;/p&gt;
 
 &lt;h2 id=&quot;tips-for-product-owners-in-a-sprint-retrospective&quot;&gt;Tips for Product Owners in a Sprint Retrospective&lt;/h2&gt;
 

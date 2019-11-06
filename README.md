@@ -1,22 +1,34 @@
-Install :
+## Install :
 
 ```
 $> bundle
 ```
 
-Preview :
+## Preview :
 
 ```
 $> jekyll serve
 ```
 
-Deploy :
+## Deploy :
 
 ```
 $> octopress deploy
 ```
 
-New post :
+## New post :
 ```
 $> octopress new post "My Title"
+```
+
+## Change ruby version:
+
+### List of Ruby versions:
+```
+$> rvm list
+```
+
+### Install new version
+```
+$> rvm install ruby-2.3
 ```

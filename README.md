@@ -32,3 +32,5 @@ $> rvm list
 ```
 $> rvm install ruby-2.3
 ```
+
+And edit the `.ruby-version` with the new version.

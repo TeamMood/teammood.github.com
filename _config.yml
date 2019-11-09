@@ -1,0 +1,55 @@
+# Welcome to Amplified for Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Team Mood, Morale & Health
+name: TeamMood
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+email: hello@teammood.com
+description: 'Some words about feeling good at work.'
+logo: https://res.cloudinary.com/teammood/image/upload/b_rgb:ffffff/v1541855232/logo-1000px_transparent.png
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://blog.teammood.com
+paginate: 5
+
+author:
+  name: Nicolas Deverge
+  twitter: ndeverge
+twitter:
+  username: teammood
+  card: summary_large_image
+facebook:
+  publisher: https://www.facebook.com/teammood
+lang: en
+
+# Google Analytics
+analytics_id: "UA-39772075-1"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+- jekyll-redirect-from
+- jekyll-assets
+- jekyll-paginate
+- jekyll-seo-tag
+social:
+  name: TeamMood
+  links:
+    - https://twitter.com/teammood
+    - https://www.facebook.com/teammood
+    - https://www.linkedin.com/company/teammood/

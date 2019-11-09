@@ -1,0 +1,16 @@
+I"3<p><img class="center" src="/images/posts/dashboard_monitor.jpg" alt="Dashboard Monitor" /></p>
+
+<p>Thanks to contributions from some of our power users (<a href="https://twitter.com/nrichand">Nathaniel Richand</a> and <a href="https://twitter.com/guillaume_patry">Guillaume Patry</a>), it is now possible to display the latest moods of your team on your monitoring display in real time.</p>
+
+<p>They wrote widgets for <a href="http://dashing.io/">Dashing</a> and <a href="https://github.com/Smashing/smashing">Smashing</a>, a great and easy to use free dashboard frameworks.</p>
+
+<p>The TeamMood widgets look like this:</p>
+
+<p><img class="center" src="/images/posts/teammood_widget.png" />
+<em>Dashing TeamMood Widget (<a href="https://gist.github.com/nrichand/265342903eabc4ad0050">source code</a>)</em></p>
+
+<p><img class="center" src="/images/posts/teammood_smashing_widget.png" />
+<em>Smashing TeamMood Widget (<a href="https://github.com/gpatry/Smashing-SparklineMood">source code</a>)</em></p>
+
+<p>Feel free to use them and don’t forget to send us pictures ;-)</p>
+:ET

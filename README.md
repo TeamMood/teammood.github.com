@@ -21,6 +21,10 @@ $> octopress deploy
 $> octopress new post "My Title"
 ```
 
+## Adding a new Jekyll plugin
+
+Add the plugin to `Gemfile` and run `bundle`
+
 ## Change ruby version:
 
 ### List of Ruby versions:

@@ -12,13 +12,20 @@ $> jekyll serve
 
 ## Deploy :
 
+[Cloudcannon](https://app.cloudcannon.com/) deploys the site on Github.
+
+## Create content
+
+Check [https://github.com/jekyll/jekyll-compose](https://github.com/jekyll/jekyll-compose)
+
+### New draft
 ```
-$> octopress deploy
+$> jekyll draft "My draft"
 ```
 
-## New post :
+### New post :
 ```
-$> octopress new post "My Title"
+$> jekyll post "My Post"
 ```
 
 ## Adding a new Jekyll plugin

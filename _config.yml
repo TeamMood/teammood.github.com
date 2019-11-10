@@ -33,9 +33,6 @@ facebook:
   publisher: https://www.facebook.com/teammood
 lang: en
 
-# Google Analytics
-analytics_id: "UA-39772075-1"
-
 # Build settings
 markdown: kramdown
 

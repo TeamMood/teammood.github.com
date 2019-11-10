@@ -7,9 +7,7 @@ categories:
 - tips
 layout: post
 comments: true
-facebook_tag: the-importance-of-employee-recognition-in-the-workplace
 image: images/headers/field.jpg
-subscription: true
 ---
 
 According to the Canadian HR Council[^1], employee recognition is the "the acknowledgement of an individual or team's behavior, effort and accomplishments that support the organization's goals and values." 

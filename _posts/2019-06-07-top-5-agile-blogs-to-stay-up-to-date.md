@@ -3,11 +3,8 @@ title: Top 5 Agile Blogs to Stay Up to Date
 date: 2019-06-07 11:00:00
 layout: post
 image: images/headers/top-agile-blogs-TeamMood.jpg
-facebook_tag: Top-5-Agile-Blogs-to-Stay-Up-to-Date
 excerpt: The best articles and resources to stay up to date on Agile
 keywords: 'Agile, blogs, top 5'
-subscription: true
-title_color: '#fbfbfb'
 ---
 
 Knowledge cannot be fixed, it must evolve over time. I have been working in Agile – and coaching Agile teams – for years now, but I still feel the need to update my knowledge.

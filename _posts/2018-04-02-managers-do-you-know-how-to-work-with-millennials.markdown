@@ -3,12 +3,9 @@ title: Managers, do you know how to work with millennials?
 date: 2018-04-02 14:16:35 Z
 layout: post
 image: images/headers/millenials.jpg
-facebook_tag: managers-do-you-know-how-to-work-with-millennials
 excerpt: The Millenials are revolutioning the work in organizations.
 keywords: millenials, management, millenials management, millenials managers, millenials
   expectations
-subscription: true
-title_color: "#FFF"
 ---
 
 The key motivation factors in the workplace have shifted along generations, from job security to promotions and career evolution. But more recently, even high paychecks and bonuses don’t seem to matter that much for the new generation. 

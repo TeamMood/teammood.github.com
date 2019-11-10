@@ -3,13 +3,10 @@ title: Who should and should not be included in a sprint retrospective
 date: 2019-10-23 11:00:00
 layout: post
 image: images/headers/undraw_Group_chat_unwm.png
-facebook_tag: who-should-and-should-not-be-included-in-a-sprint-retrospective
 excerpt: >-
   Scrum comes with some ceremonies, such as the retros. One question often asked
   is who should attend to the retrospectives?
 keywords: 'retrospectives, scrum, remote team, team'
-subscription: true
-title_color: '#313131'
 canonical_url: 'https://blog.funretro.io/who-should-and-should-not-be-included-in-a-sprint-retrospective/'
 ---
 

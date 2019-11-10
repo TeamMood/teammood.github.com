@@ -7,8 +7,6 @@ categories:
 layout: post
 comments: true
 image: images/headers/calendar.jpg
-subscription: true
-facebook_tag: build-your-own-niko-niko-calendar
 redirect_from: "/blog/2013/05/07/build-your-own-niko-niko-calendar/"
 ---
 

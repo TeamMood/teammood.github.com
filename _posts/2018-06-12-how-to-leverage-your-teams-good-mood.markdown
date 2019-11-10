@@ -3,11 +3,8 @@ title: How to Leverage Your Team’s Good Mood
 date: 2018-06-12 12:32:50 Z
 layout: post
 image: images/headers/chocolate.jpg
-facebook_tag: how-to-leverage-your-teams-good-mood
 excerpt: Some tips of what you need to do when people are feeling good.
 keywords: good mood, improve well-being
-subscription: true
-title_color: "#FFF"
 ---
 
 Is happiness in the air? Are your teammates smiling and joking around? Is your team productivity skyrocketing? Congratulations, your team is in a good mood! And the results are there: your team delivers in no time, the job is well-done, they are more creative and thorough… The dream comes true :)

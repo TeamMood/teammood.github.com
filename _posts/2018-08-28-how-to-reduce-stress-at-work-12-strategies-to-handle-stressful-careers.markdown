@@ -3,12 +3,9 @@ title: 'How to Reduce Stress at Work: 12 Strategies to Handle Stressful Careers'
 date: 2018-08-28 13:10:07 Z
 layout: post
 image: images/headers/stress.jpeg
-facebook_tag: how-to-reduce-stress-at-work-12-strategies-to-handle-stressful-careers
 excerpt: Feeling the deadlines and work stress build up? Take back control with any
   of these proven stress-reducing tactics today!
 keywords: reduce stress at work
-subscription: true
-title_color: "#FFF"
 ---
 
 Overwhelmed. Nervous. Exhausted. Agitated. Pained. All at once.

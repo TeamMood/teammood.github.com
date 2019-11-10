@@ -6,11 +6,9 @@ categories:
 layout: post
 image: images/headers/clouds.jpg
 excerpt: The benefits of happier people at work!
-facebook_tag: wellbeing-at-work-the-benefits-of-happiness-in-the-workplace
 keywords:
   - Team happiness
   - well­being at work
-subscription: true
 ---
 
 The world has never before seen such high levels of productivity – even in France with our 5 weeks of vacation – and it is very much a consequence of the digital revolution and the automatization of many tasks. But the side effects of this faster work pace are not always welcome: burnout, depression, lack of purpose… Is being “sick on the job” the scourge of our age?

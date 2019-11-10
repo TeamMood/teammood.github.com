@@ -7,8 +7,6 @@ categories:
 layout: post
 comments: true
 image: images/headers/smiley-pills.jpg
-subscription: true
-facebook_tag: what-is-the-niko-niko
 redirect_from: "/blog/2013/04/21/what-is-the-niko-niko/"
 ---
 

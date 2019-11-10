@@ -3,9 +3,7 @@ title: 8 Exclusive Tools to Make Your Teammates Happier at Work
 date: 2017-05-23 12:25:54 Z
 layout: post
 image: images/headers/tools.jpg
-facebook_tag: 8-exclusive-tools-to-make-your-teammates-happier-at-work
 excerpt: Discover those not so well know tools to craft a better workplace.
-subscription: true
 ---
 
 <blockquote>

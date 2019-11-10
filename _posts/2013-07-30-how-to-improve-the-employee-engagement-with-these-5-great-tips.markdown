@@ -7,8 +7,6 @@ categories:
 layout: post
 comments: true
 image: images/headers/spring-flowers.jpg
-facebook_tag: how-to-improve-the-employee-engagement-with-these-5-great-tips
-subscription: true
 ---
 
 Each company works hard towards improvement.

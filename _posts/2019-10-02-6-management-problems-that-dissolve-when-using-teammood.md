@@ -3,13 +3,10 @@ title: 6 Management Problems That Dissolve When Using Teammood
 date: 2019-10-02 11:00:00
 layout: post
 image: images/headers/management-problems-dissolve-with-teammood.jpg
-facebook_tag: 6-management-problems-that-dissolve-when-using-teammood
 excerpt: >-
   Human relationships can be quite challenging at the workplace. If you're a
   manager, here are 6 management issues that dissolve thanks to TeamMood
 keywords: 'management, issues, engagement, feedback, teammood'
-subscription: true
-title_color: '#313131'
 ---
 
 In the workplace, no challenge is more complex than human relationships. Managing a team requires an incredible amount of so-called “soft-skills” that unfortunately aren’t taught at school: empathy, communication, leadership, intuition, trust, self-improvement, and more.&nbsp;

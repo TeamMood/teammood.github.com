@@ -3,11 +3,8 @@ title: How to Defuse Conflicts at Work in 5 Steps
 date: 2017-06-29 12:06:00 Z
 layout: post
 image: images/headers/conflicts.jpg
-facebook_tag: how-to-defuse-conflicts-at-work-in-5-steps
 excerpt: How to deal with conflicts in the workplace, and 5 strategies to resolve
   them.
-subscription: true
-title_color: "#FFFFFF"
 ---
 
 Once you’ve [identified the signs of an upcoming conflict at work](/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html), you need to resolve it before it burst. I’m going to kill the dream right away: conflicts don’t resolve by themselves. You have to make it happen.

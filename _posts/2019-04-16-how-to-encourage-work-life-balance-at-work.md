@@ -3,13 +3,10 @@ title: How to Encourage Work-Life Balance at Work
 date: 2019-04-16 09:00:00
 layout: post
 image: images/headers/How-to-encourage-work-life-balance-teammood.jpg
-facebook_tag: How-to-encourage-work-life-balance
 excerpt: >-
   Companies can help their employees achieve work-life balance by implementing
   these 7 policies
 keywords: 'Work-life balance, flexibility, well-being, work'
-subscription: true
-title_color: '#d6d6d6'
 ---
 
 Stress and burnout have become an increasing phenomenon worldwide over the last decade. According to a [YouGov survey](https://www.virgin.com/disruptors/infographic-how-stressed-are-uk-employees){: target="_blank"}, 51% of full-time UK employees said they have experienced anxiety or burnout in their current job. In France, [53% of employees and 68% of managers find their job too stressful](https://www.ringover.com/en/blog/burnout-the-epidemic-of-the-century){: target="_blank"}.

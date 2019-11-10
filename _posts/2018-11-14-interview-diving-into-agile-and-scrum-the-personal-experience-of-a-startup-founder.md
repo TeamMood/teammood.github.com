@@ -5,14 +5,10 @@ title: >-
 date: 2018-11-14 10:10:00
 layout: post
 image: images/headers/Interview-diving-agile-scrum-teammood.jpg
-facebook_tag: >-
-  interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder
 excerpt: >-
   Discover how Gregoire learned and implemented Scrum in his startup, and the
   lessons he learned
 keywords: 'Scrum, Agile, Interview, REX, experience'
-subscription: true
-title_color: '#ffffff'
 ---
 
 *Former startupper, [Gregoire](https://www.linkedin.com/in/gregoiredepins/){: target="_blank"} started working in digital 6 years ago. Since the closing of his startup Sharette (in 2016), he’s offering his services as a freelance consultant, sharing the experience he gained with small and medium-sized companies, and even big corporations: Open Innovation programs, Scrum/Agile coaching, digital marketing strategy (acquisition funnel, SEO, SEA, …).*

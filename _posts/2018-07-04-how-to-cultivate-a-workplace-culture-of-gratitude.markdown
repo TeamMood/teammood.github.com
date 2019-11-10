@@ -3,11 +3,8 @@ title: How to Cultivate a Workplace Culture of Gratitude
 date: 2018-07-04 08:32:54 Z
 layout: post
 image: images/headers/coffee.jpeg
-facebook_tag: how-to-cultivate-a-workplace-culture-of-gratitude
 excerpt: Some tips of what you need to do when people are feeling good.
 keywords: improve well-being, gratitude, culture, team
-subscription: true
-title_color: "#FFF"
 ---
 
 Around [88% of employees and 94% of executives](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf) say that they believe company culture is crucial to success. If you want to create a powerful environment for your business, then you need to be willing to prize and prioritize the right ideas for your employees. For instance, one value worth cultivating is "gratitude". Employees who are thankful for where they are and what they accomplish will constantly go above and beyond to serve their employers.

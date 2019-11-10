@@ -3,11 +3,8 @@ title: 10 Golden Rules For Running Productive Meetings
 date: 2019-07-08 11:00:00
 layout: post
 image: images/headers/10-golden-rules-for-running-productive-meetings.jpg
-facebook_tag: 10-Golden-Rules-For-Running-Productive-Meetings
 excerpt: A 10-point checklist to drastically improve your meetings
 keywords: 'meetings, productivity, rules'
-subscription: true
-title_color: '#fbfbfb'
 ---
 
 Do you know how much time you spend on meetings? According to [Atlassian](https://www.atlassian.com/time-wasting-at-work-infographic), most employees attend 62 meetings in a month on average, half of which are considered “time wasted”. In total, **31 hours a month wasted** on unnecessary meetings account for **$37 Billion of salary loss** for U.S. businesses.&nbsp;

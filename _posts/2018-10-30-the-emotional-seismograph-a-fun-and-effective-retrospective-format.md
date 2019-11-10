@@ -3,11 +3,8 @@ title: 'The Emotional Seismograph, a Fun and Effective Retrospective Format'
 date: 2018-10-30 10:10:00
 layout: post
 image: images/headers/Teammood-emotional-seismograph-retrospectives-smile.jpg
-facebook_tag:
 excerpt: 'Discover one of our favorite retrospective formats: the emotional seismograph'
 keywords: retrospectives emotional seismograph
-subscription: true
-title_color: '#ffffff'
 ---
 
 [Retrospectives](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html){: target="_blank"} are fundamental to Agile teams, and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work. 

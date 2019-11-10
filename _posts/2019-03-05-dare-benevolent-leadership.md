@@ -3,13 +3,10 @@ title: Dare Benevolent Leadership!
 date: 2019-03-05 10:00:00
 layout: post
 image: images/headers/Benevolent-leadership.jpg
-facebook_tag: Dare-benevolent-leadership
 excerpt: >-
   Benevolent leadership is a concept at the heart of discussions in companies
   that want to innovate and boost productivity.
 keywords: 'Management, leadership, benevolent'
-subscription: true
-title_color: '#1a1a1a'
 ---
 
 *This article is a translation of a [French article](https://www.linkedin.com/pulse/osez-le-management-bienveillant-julien-rigoulay/){: target="_blank"}, written by [Julien Rigoulay](https://www.linkedin.com/in/julienrigoulay/){: target="_blank"}.*

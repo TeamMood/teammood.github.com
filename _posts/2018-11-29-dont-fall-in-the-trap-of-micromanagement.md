@@ -3,13 +3,10 @@ title: Don’t fall in the trap of micromanagement!
 date: 2018-11-29 10:10:00
 layout: post
 image: images/headers/TeamMood-Dont-fall-in-the-trap-of-micromanagement.jpg
-facebook_tag: don-t-fall-in-the-trap-of-micromanagement
 excerpt: >-
   Discover the characteristiques of micromanagement, its causes, its damaging
   effets and how to go from micromanagement to trust and empowerment
 keywords: 'Management, micromanagement, tips'
-subscription: true
-title_color: '#000000'
 ---
 
 Every employee needs guidance and direction in order to translate the company’s vision and strategy in his•her day to day job. That’s where managers play a key role – and good ones can really make a difference in an organization. Issues arise when someone shifts from managing to micromanaging.

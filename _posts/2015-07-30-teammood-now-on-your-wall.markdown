@@ -6,7 +6,6 @@ categories:
 - tips
 layout: post
 comments: true
-facebook_tag: teammood-now-on-your-wall
 image: images/headers/dashing.jpg
 ---
 

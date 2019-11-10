@@ -3,13 +3,10 @@ title: How To Implement Positive Management As A Game-changer For Your Company
 date: 2019-05-15 07:45:00
 layout: post
 image: images/headers/how-to-implement-positive-management.jpg
-facebook_tag: How To Implement Positive-Management-As-A-Game-Changer-For-Your-Company
 excerpt: >-
   The best articles and resources to foster well-being in your workplace and
   improve your team productivity
 keywords: 'positive management, well-being, workplace'
-subscription: true
-title_color: '#fbfbfb'
 ---
 
 If you’re reading this blog, you are probably aware of the **benefits of fostering [well-being in the workplace](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)**, in terms of employee engagement and productivity.

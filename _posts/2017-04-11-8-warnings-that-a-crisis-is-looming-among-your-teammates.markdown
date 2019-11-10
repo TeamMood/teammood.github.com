@@ -5,12 +5,10 @@ categories:
 - en
 layout: post
 image: images/headers/steam.jpg
-facebook_tag: 8-warnings-that-a-crisis-is-looming-among-your-teammates
 excerpt: How to identify the canary in a mineshaft of a conflict in your team!
 keywords:
 - Team crisis
 - Team worker
-subscription: true
 ---
 
 My mum always told me: the most difficult thing about the workplace is not the work itself, but the relationships. Indeed, according to a [study](http://img.en25.com/Web/CPP/Conflict_report.pdf) conducted in 2008 in Europe, the US and Brazil, 85% of employees at all levels experience some degree of conflict.

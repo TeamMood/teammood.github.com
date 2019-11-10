@@ -3,13 +3,10 @@ title: 10 (Easy) Ways To Improve The Mood In The Workplace
 date: 2018-09-26 11:10:00
 layout: post
 image: images/headers/cupcakes-improve-mood-workplace.jpg
-facebook_tag:
 excerpt: >-
   From plants to healthy snacks or kudo card, discover 10 simple and concrete
   ways to improve your team's mood at work
 keywords: improve mood workplace
-subscription: true
-title_color: '#ffffff'
 ---
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}Your team’s mood depends on hundreds of criteria – many of whom you can’t control. But some simple gimmicks can lighten the mood and generate a better spirit in the long term, with little investment from your part.&nbsp;

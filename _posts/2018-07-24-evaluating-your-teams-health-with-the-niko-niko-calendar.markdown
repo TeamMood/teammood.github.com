@@ -3,13 +3,10 @@ title: Evaluating Your Team’s Health With the Niko-Niko Calendar
 date: 2018-07-24 07:08:00
 layout: post
 image: images/headers/smileys-nikoniko.jpg
-facebook_tag: evaluating-your-teams-health-with-the-niko-niko-calendar
 excerpt: 'What''s a Niko-Niko calendar, and how to get benefits from it.'
 keywords: >-
   niko niko, niko-niko, calendar, niko niko calendar, emotional seismograph,
   team health, team morale, niko niko calendar online
-subscription: true
-title_color: '#000000'
 ---
 
 Would you go out of your house with a rain coat if it wasn’t for the weather forecast to warn you of the rain coming up? How about the stock market: would you invest in shares without checking their values and trend? Probably not.

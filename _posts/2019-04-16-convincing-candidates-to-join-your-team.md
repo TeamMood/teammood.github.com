@@ -3,15 +3,12 @@ title: Convincing Candidates To Join Your Team
 date: 2019-04-16 10:00:00
 layout: post
 image: images/headers/tim-mossholder-563296-unsplash.jpg
-facebook_tag: convincing-candidates-to-join-your-team
 excerpt: >-
   Some customers use TeamMood for their recruitment process, to show the level
   of happiness of the team, and to seduce candidates.
 keywords: >-
   convincing candidates, hiring talent, teammood best practice, team happiness
   level
-subscription: true
-title_color: '#d4d4d4'
 ---
 
 You screened hundreds of CVs, had a lot of recruitment interviews, presented her•him to the team, negotiated the offer, and you finally found the perfect candidate.

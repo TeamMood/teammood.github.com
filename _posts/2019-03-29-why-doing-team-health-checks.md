@@ -3,14 +3,11 @@ title: Why doing Team Health Checks?
 date: 2019-03-29 10:00:00
 layout: post
 image: images/headers/why-doing-team-health-checks.jpg
-facebook_tag: why-doing-team-health-checks
 excerpt: >-
   Team Health Check helps to gather and monitor information about team
   effectiveness and improve its functioning with Agile tools, retrospective, and
   calendars.
 keywords: 'Team Health Check, Squad Health Check model'
-subscription: true
-title_color: '#d6d6d6'
 ---
 
 ## Importance of a team health check

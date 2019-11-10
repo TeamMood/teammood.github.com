@@ -3,12 +3,10 @@ title: Best Practices From Our Users
 date: 2017-12-06 09:55:00
 layout: post
 image: images/headers/analytics_meeting.png
-facebook_tag: best-practices-from-our-users
 excerpt: >-
   Compilation of the best practices to leverage TeamMood and have a real impact
   on your team management with analytics and mood meter charts, improve your
   retrospectives!
-subscription: true
 ---
 
 Knowledge is good, but you still need to act on it. Many of our customers have asked us advice on how to make the best use of the data collected thanks to TeamMood. So, here comes a compilation of the best practices to leverage TeamMood and have a real impact on your team.

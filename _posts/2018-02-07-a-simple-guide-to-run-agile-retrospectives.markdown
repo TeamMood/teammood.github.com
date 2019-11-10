@@ -3,7 +3,6 @@ title: A Simple Guide to Run Agile Retrospectives
 date: 2018-02-07 14:16:00
 layout: post
 image: images/headers/sticky_notes.jpg
-facebook_tag: a-simple-guide-to-run-agile-retrospectives
 excerpt: >-
   A quick introduction on how to run Agile retrospectives, and a list of online
   tools and ideas to help to host better retrospectives and upgrade your project
@@ -11,7 +10,6 @@ excerpt: >-
 keywords: >-
   retrospectives, retrospective, agile retrospective, sprint retrospective,
   scrum, xp
-subscription: true
 ---
 
 In our ever-evolving environment, we hear more and more about Scrum, XP, and other Agile methods. If they have their differences, they all have in common one principle: teams must adapt over time and continuously improve the way they work. And **retrospectives** are the cornerstone to this principle.

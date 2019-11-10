@@ -5,7 +5,6 @@ categories:
 - en
 layout: post
 image: images/headers/rainy.jpg
-facebook_tag: moraleapp-is-shutting-down
 keywords:
 - moraleapp
 ---

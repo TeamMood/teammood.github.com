@@ -3,14 +3,11 @@ title: 'Hire for Culture Fit, Not Competencies'
 date: 2019-02-19 00:00:00
 layout: post
 image: images/headers/Hire-for-culture-fit-not-competencies-blog-TeamMood.jpg
-facebook_tag: Hire-for-culture-fit-not-competencies
 excerpt: >-
   Do you want to hire the best employees? Hire for culture fit! A strong,
   differentiated company culture contributes to a strong, differentiated brand
   that will shine and attract both customers and employees.
 keywords: 'Management, hiring, culture, values'
-subscription: true
-title_color: '#ffffff'
 ---
 
 In the relentlessly competitive global climate, the key to success in business isn’t what you do but how you do it. Providing the best product or service isn’t enough – you need to differentiate yourself from the competition at team, department and company level. But how? That’s where your company culture can make all the difference.

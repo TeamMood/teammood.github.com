@@ -3,13 +3,10 @@ title: How To Make Your Sprint Planning As Easy As Pie
 date: 2019-09-16 11:00:00
 layout: post
 image: images/headers/sprint-planning-teammood.jpg
-facebook_tag: how-to-make-your-sprint-planning-as-easy-as-pie
 excerpt: >-
   Many Agile teams dread the sprint planning, but with some advice and a little
   practice, you’ll soon find it as easy as pie!
 keywords: 'meetings, agile, sprint planning, Scrum'
-subscription: true
-title_color: '#313131'
 ---
 
 In Agile methodologies, one of the most important meetings along with the [daily standup](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html){: target="_blank"} and the [retrospective](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html){: target="_blank"} is the **sprint planning**. Its objective: getting a shared understanding of what there is to be done for the time of the sprint, and how to do it. The functionalities that are supposed to be developed are defined in “user stories”, a simple sentence that describes it including 3 elements: who? what? Why? It looks like this: “As a customer, I want to add an item to my shopping cart so that I can buy it.”

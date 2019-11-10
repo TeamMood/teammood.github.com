@@ -5,12 +5,10 @@ categories:
   - en
 layout: post
 image: images/headers/boost.jpg
-facebook_tag: 5-easy-ways-to-boost-team-productivity
 excerpt: 'Happy teams are productive teams, let''s dig into that!'
 keywords:
   - Team happiness
   - well­being at work
-subscription: true
 ---
 
 As studies have shown time and time again, [happy teams are productive teams](http://www2.warwick.ac.uk/newsandevents/pressreleases/new_study_shows/). So if you want to boost your team’s productivity, team happiness is definitely one of the goals that you should be setting yourself. It’s not just a matter of teamwork. When people are happy&shy; they work better and faster, whether as a team [or as individuals](http://www.inc.com/jessica-stillman/happiness-makes-your-brain-work-better.html).

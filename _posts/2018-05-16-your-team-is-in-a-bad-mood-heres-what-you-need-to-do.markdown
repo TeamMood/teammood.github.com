@@ -3,11 +3,8 @@ title: Your team is in a bad mood? Here’s what you need to do.
 date: 2018-05-16 09:16:35 Z
 layout: post
 image: images/headers/rainy.jpg
-facebook_tag: your-team-is-in-a-bad-mood-heres-what-you-need-to-do
 excerpt: Some tips of what you need to do when people are feeling bad.
 keywords: bad mood, improve well-being
-subscription: true
-title_color: "#FFF"
 ---
 
 Either you are sensing there is an issue in your team or you are using a <a href="https://www.teammood.com/">tool</a> that tells you so, you can’t afford to ignore it. Indeed, <a href="https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html">a bad mood will affect your team productivity</a>: unhappy people are proven to be **10% less productive** than usual. 

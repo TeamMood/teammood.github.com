@@ -3,7 +3,6 @@ title: Best Practices To Run Effective Daily Standup Meetings
 date: 2018-04-18 14:16:00
 layout: post
 image: images/headers/spring-flowers.jpg
-facebook_tag: best-practices-to-run-effective-daily-standup-meetings
 excerpt: >-
   A small guide to run daily meetings effectively,  this meeting is one of the
   key elements of Scrum and agile methods. It happens every day to improve
@@ -11,8 +10,6 @@ excerpt: >-
 keywords: >-
   Daily Standup Meetings, Scrum meeting, Daily meeting, Daily Scrum, stand up
   meeting best practices, agile stand up best practices
-subscription: true
-title_color: '#000000'
 ---
 
 The Daily Meeting (or Daily Scrum) is one of the key elements of Scrum and some other agile methods. It is set to happen every day of a Sprint (= a set period of time during which specific work has to be completed) in order to foster **communication and collaboration between the whole team**. In order to be effective, a Daily standup Meeting should follow these 8 rules.

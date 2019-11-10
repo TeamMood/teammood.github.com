@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Team Morale &amp; Health</title>
-    <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <title>Team Mood, Morale &amp; Health</title>
+    <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
-    <description>Some words about health, morale and feel good at work.</description>
-    <pubDate>Sat, 09 Nov 2019 14:31:24 +0000</pubDate>
+    <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Nov 2019 14:39:02 +0000</pubDate>
+    <lastBuildDate>Sun, 10 Nov 2019 14:39:02 +0000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Who should and should not be included in a sprint retrospective</title>
-        <link>https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</guid>
         <description>&lt;p&gt;If run well, a sprint retrospective can help the project team identify areas for improvement for individual roles as well as discuss how to work better as a team. If run poorly, the meeting can turn into a bashing session which ultimately results in missed opportunities for growth.&lt;/p&gt;
 
 &lt;h2 id=&quot;collaboration-the-essence-of-a-good-spring-retrospective&quot;&gt;Collaboration: The Essence of a Good Spring Retrospective&lt;/h2&gt;
@@ -62,12 +62,14 @@
 &lt;p&gt;&lt;strong&gt;About the author:&lt;/strong&gt; &lt;em&gt;This is a guest post by the folks at &lt;a href=&quot;https://funretro.io&quot; target=&quot;_blank&quot;&gt;FunRetro&lt;/a&gt;. They know a lot about retrospectives, go check them out.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Oct 2019 11:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</guid>
+        
+        
       </item>
     
       <item>
         <title>6 Management Problems That Dissolve When Using Teammood</title>
-        <link>https://blog.teammood.com/2019/10/02/6-management-problems-that-dissolve-when-using-teammood.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/10/02/6-management-problems-that-dissolve-when-using-teammood.html</guid>
         <description>&lt;p&gt;In the workplace, no challenge is more complex than human relationships. Managing a team requires an incredible amount of so-called “soft-skills” that unfortunately aren’t taught at school: empathy, communication, leadership, intuition, trust, self-improvement, and more. &lt;/p&gt;
 
 &lt;p&gt;In our ever-evolving, complex environment, doing a good job at managing your team can be quite a challenge. Luckily, &lt;a href=&quot;http://teammood.com&quot; target=&quot;_blank&quot;&gt;TeamMood&lt;/a&gt; can help you dissolve some of the most common management issues you may encounter:&lt;/p&gt;
@@ -117,17 +119,21 @@
 
 &lt;p&gt;Want to try it for yourself?&lt;/p&gt;
 
-&lt;div align=&quot;center&quot;&gt;&lt;a class=&quot;button&quot; target=&quot;_blank&quot; href=&quot;https://www.teammood.com/en/continuous-improvement/&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/div&gt;
+&lt;div align=&quot;center&quot;&gt;
+  &lt;p&gt;&lt;a class=&quot;button&quot; target=&quot;_blank&quot; href=&quot;https://www.teammood.com/en/continuous-improvement/&quot;&gt;Discover TeamMood&lt;/a&gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;
+  &lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;
 </description>
         <pubDate>Wed, 02 Oct 2019 11:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/10/02/6-management-problems-that-dissolve-when-using-teammood.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/10/02/6-management-problems-that-dissolve-when-using-teammood.html</guid>
+        
+        
       </item>
     
       <item>
         <title>How To Make Your Sprint Planning As Easy As Pie</title>
-        <link>https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html</guid>
         <description>&lt;p&gt;In Agile methodologies, one of the most important meetings along with the &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot; target=&quot;_blank&quot;&gt;daily standup&lt;/a&gt; and the &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;retrospective&lt;/a&gt; is the &lt;strong&gt;sprint planning&lt;/strong&gt;. Its objective: getting a shared understanding of what there is to be done for the time of the sprint, and how to do it. The functionalities that are supposed to be developed are defined in “user stories”, a simple sentence that describes it including 3 elements: who? what? Why? It looks like this: “As a customer, I want to add an item to my shopping cart so that I can buy it.”&lt;/p&gt;
 
 &lt;p&gt;Many Agile teams dread this moment, as they find it difficult to divide up the work into well-defined stories that are achievable during the sprint. But with some advice and a little practice, you’ll soon find it as easy as pie!&lt;/p&gt;
@@ -171,12 +177,14 @@
 &lt;p&gt;If you apply these pieces of advice, I can assure you your sprint planning will run more smoothly. Let us know how the next one goes in the comment section below!&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Sep 2019 11:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html</guid>
+        
+        
       </item>
     
       <item>
         <title>10 Golden Rules For Running Productive Meetings</title>
-        <link>https://blog.teammood.com/2019/07/08/10-golden-rules-for-running-productive-meetings.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/07/08/10-golden-rules-for-running-productive-meetings.html</guid>
         <description>&lt;p&gt;Do you know how much time you spend on meetings? According to &lt;a href=&quot;https://www.atlassian.com/time-wasting-at-work-infographic&quot;&gt;Atlassian&lt;/a&gt;, most employees attend 62 meetings in a month on average, half of which are considered “time wasted”. In total, &lt;strong&gt;31 hours a month wasted&lt;/strong&gt; on unnecessary meetings account for &lt;strong&gt;$37 Billion of salary loss&lt;/strong&gt; for U.S. businesses. &lt;/p&gt;
 
 &lt;p&gt;To avoid pouring money (and hours) down the drain, here is a list of &lt;strong&gt;10 best practices to improve your meetings.&lt;/strong&gt; &lt;/p&gt;
@@ -236,12 +244,14 @@
 &lt;p&gt;&lt;small&gt;&lt;em&gt;Photo by &lt;/em&gt;&lt;a href=&quot;https://unsplash.com/@dylandgillis?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;&lt;em&gt;Dylan Gillis&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on &lt;/em&gt;&lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;&lt;em&gt;Unsplash&lt;/em&gt;&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Jul 2019 11:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/07/08/10-golden-rules-for-running-productive-meetings.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/07/08/10-golden-rules-for-running-productive-meetings.html</guid>
+        
+        
       </item>
     
       <item>
         <title>Top 5 Agile Blogs to Stay Up to Date</title>
-        <link>https://blog.teammood.com/2019/06/07/top-5-agile-blogs-to-stay-up-to-date.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/06/07/top-5-agile-blogs-to-stay-up-to-date.html</guid>
         <description>&lt;p&gt;Knowledge cannot be fixed, it must evolve over time. I have been working in Agile – and coaching Agile teams – for years now, but I still feel the need to update my knowledge.&lt;/p&gt;
 
 &lt;p&gt;Here is a selection of blogs that &lt;strong&gt;inspire me and help me  &lt;/strong&gt;&lt;strong&gt;stay up to date on Agile best practices and trends&lt;/strong&gt;.&lt;/p&gt;
@@ -252,23 +262,11 @@
 
 &lt;p&gt;If you only read one article from this blog, I would pick: &lt;a href=&quot;https://luis-goncalves.com/scrum-values/&quot;&gt;Scrum Values Are The Foundation Of Agile. Here’s Why… &lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=.@lgoncalves1979%20blog%20is%20one%20of%20our%20top%205%20#agile%20blogs%20bit.ly/2XwFAkT&quot;&gt;
-    “.@lgoncalves1979 blog is one of our top 5 #agile blogs”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;agile42s-blog&quot;&gt;&lt;a href=&quot;https://www.agile42.com/en/blog&quot;&gt;&lt;strong&gt;Agile42’s blog&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Agile42 is a coaching, training, and consulting agency in the areas of agility and leadership. In their blog, they share short and synthetic articles on all kinds of topics about Agile: events, metrics, lean, XP, …&lt;/p&gt;
 
 &lt;p&gt;My favorite article? &lt;a href=&quot;https://www.agile42.com/en/blog/2012/08/17/agile-bathtub/&quot;&gt;Agile in the Bathtub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=#Top5%20#agile%20blogs:%20love%20the%20short%20and%20synthetic%20articles%20by%20@agile42%20bit.ly/2XwFAkT&quot;&gt;
-    “#Top5 #agile blogs: love the short and synthetic articles by @agile42”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;romain-pichlers-blog&quot;&gt;&lt;a href=&quot;https://www.romanpichler.com/blog/&quot;&gt;&lt;strong&gt;Romain Pichler’s blog&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
 
@@ -276,23 +274,11 @@
 
 &lt;p&gt;What differentiates his blog from others are the ready-to-use templates and resources he shares on a regular basis: a &lt;a href=&quot;https://www.romanpichler.com/blog/sprint-goal-template/&quot;&gt;template for formulating great sprint goals&lt;/a&gt;, a checklist for preparing a sprint planning, … They are priceless.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=#Top5%20#agile%20blogs:%20@romanpichler%20shares%20great%20templates%20and%20resources%20for%20#Agile%20#team%20bit.ly/2XwFAkT&quot;&gt;
-    “#Top5 #agile blogs: @romanpichler shares great templates and resources for #Agile #team”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;the-nobl-academy&quot;&gt;&lt;a href=&quot;https://academy.nobl.io/&quot;&gt;&lt;strong&gt;The Nobl Academy&lt;/strong&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Behind the Nobl Academy is a consulting firm helping leaders design cultures that deliver on strategy and adapt to change. This blog focuses more on company culture and leadership – but these themes are crucial for Agile teams too! Their tools, tips, and use cases are invaluable.&lt;/p&gt;
 
 &lt;p&gt;If you don’t know where to start, you can read this article: &lt;a href=&quot;https://academy.nobl.io/everything-you-ever-wanted-to-know-psychological-safety/&quot;&gt;Everything You Ever Wanted to Know about Psychological Safety&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=#Top5%20#agile%20blogs:%20the%20#NoblAcademy%20by%20@WorkNOBL%20#culture%20#leadership%20bit.ly/2XwFAkT&quot;&gt;
-    “#Top5 #agile blogs: the #NoblAcademy by @WorkNOBL #culture #leadership”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;leading-answers-by-mike-griffiths&quot;&gt;&lt;a href=&quot;https://leadinganswers.typepad.com/&quot;&gt;&lt;strong&gt;Leading Answers&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;by Mike Griffiths&lt;/strong&gt;&lt;/h2&gt;
 
@@ -300,35 +286,25 @@
 
 &lt;p&gt;One of my favorite articles from Mike lists the most important leadership practices to manage a team: &lt;a href=&quot;https://leadinganswers.typepad.com/leading_answers/2008/03/top-10-team-pra.html&quot;&gt;Top 10 Team Practices&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=#Top5%20#agile%20blogs:%20Leading%20Answers%20by%20Mike%20Griffiths%20bit.ly/2XwFAkT&quot;&gt;
-    “#Top5 #agile blogs: Leading Answers by Mike Griffiths”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;bonusscrum-agilité-et-rocknroll-by-claude-aubry-fr&quot;&gt;&lt;strong&gt;Bonus: &lt;/strong&gt;&lt;a href=&quot;http://www.aubryconseil.com/&quot;&gt;&lt;strong&gt;Scrum, Agilité… et Rock’n’Roll&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;by Claude Aubry (FR)&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;Claude Aubry is a pioneer of Scrum in France and author of the book &lt;em&gt;Scrum&lt;/em&gt;. He recently published a new book, &lt;em&gt;The Art to Becoming an Agile Team&lt;/em&gt;, illustrated by Etienne Appert.&lt;/p&gt;
 
 &lt;p&gt;For our French-speaking readers, you can find the book here: &lt;a href=&quot;https://www.goodreads.com/book/show/45578791-l-art-de-devenir-une-quipe-agile&quot;&gt;L’Art de Devenir une Equipe Agile&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=#Top5%20#agile%20blogs%20bonus:%20Scrum,%20Agilit&amp;eacute;%20et%20Rock&amp;rsquo;n&amp;rsquo;Roll%20by%20@claudeaubry%20bit.ly/2XwFAkT&quot;&gt;
-    “#Top5 #agile blogs bonus: Scrum, Agilité et Rock’n’Roll by @claudeaubry”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;And you, what is your favorite blog on Agile?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Header photo by &lt;a href=&quot;https://unsplash.com/@impatrickt?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Patrick Tomasso&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Jun 2019 11:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/06/07/top-5-agile-blogs-to-stay-up-to-date.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/06/07/top-5-agile-blogs-to-stay-up-to-date.html</guid>
+        
+        
       </item>
     
       <item>
         <title>How To Implement Positive Management As A Game-changer For Your Company</title>
-        <link>https://blog.teammood.com/2019/05/15/how-to-implement-positive-management-as-a-game-changer-for-your-company.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/05/15/how-to-implement-positive-management-as-a-game-changer-for-your-company.html</guid>
         <description>&lt;p&gt;If you’re reading this blog, you are probably aware of the &lt;strong&gt;benefits of fostering &lt;a href=&quot;https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html&quot;&gt;well-being in the workplace&lt;/a&gt;&lt;/strong&gt;, in terms of employee engagement and productivity.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;(Note that we talk about well-being rather than happiness, which would be rather presumptuous as happiness depends on a number of factors that companies and managers cannot control).&lt;/em&gt;&lt;/p&gt;
@@ -371,21 +347,17 @@
 
 &lt;p&gt;If you feel some of these pieces of advice were especially useful to you, feel free to highlight them in the comment section and to share them on your favorite social media 😉 &lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;inv-tweet-sa&quot; target=&quot;_blank&quot; href=&quot;https://twitter.com/intent/tweet?text=How%20to%20implement%20#positive%20#management%20as%20a%20game%20changer%20for%20your%20company%20#wellbeingatwork%20http://bit.ly/2vXMkvN&quot;&gt;
-    “How to implement #positive #management as a game changer for your company #wellbeingatwork”
-        &lt;span class=&quot;sa-icon-twitter&quot;&gt;&lt;/span&gt;
-        &lt;span class=&quot;sa-icon-twitter-hover&quot;&gt;&lt;/span&gt;
-&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;em&gt;Photo by &lt;a href=&quot;https://unsplash.com/photos/qWlkCwBnwOE?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Pineapple Supply Co.&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 May 2019 07:45:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/05/15/how-to-implement-positive-management-as-a-game-changer-for-your-company.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/05/15/how-to-implement-positive-management-as-a-game-changer-for-your-company.html</guid>
+        
+        
       </item>
     
       <item>
         <title>Convincing Candidates To Join Your Team</title>
-        <link>https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html</guid>
         <description>&lt;p&gt;You screened hundreds of CVs, had a lot of recruitment interviews, presented her•him to the team, negotiated the offer, and you finally found the perfect candidate.&lt;/p&gt;
 
 &lt;p&gt;But s•he is having second thoughts?&lt;/p&gt;
@@ -411,12 +383,14 @@
 &lt;p&gt;&lt;em&gt;Header picture by &lt;a href=&quot;https://unsplash.com/photos/GOMhuCj-O9w?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Tim Mossholder&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/search/photos/hiring?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 16 Apr 2019 10:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html</guid>
+        
+        
       </item>
     
       <item>
         <title>How to Encourage Work-Life Balance at Work</title>
-        <link>https://blog.teammood.com/2019/04/16/how-to-encourage-work-life-balance-at-work.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/04/16/how-to-encourage-work-life-balance-at-work.html</guid>
         <description>&lt;p&gt;Stress and burnout have become an increasing phenomenon worldwide over the last decade. According to a &lt;a href=&quot;https://www.virgin.com/disruptors/infographic-how-stressed-are-uk-employees&quot; target=&quot;_blank&quot;&gt;YouGov survey&lt;/a&gt;, 51% of full-time UK employees said they have experienced anxiety or burnout in their current job. In France, &lt;a href=&quot;https://www.ringover.com/en/blog/burnout-the-epidemic-of-the-century&quot; target=&quot;_blank&quot;&gt;53% of employees and 68% of managers find their job too stressful&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The situation seems contradictory with the fact that &lt;a href=&quot;https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html&quot; target=&quot;_blank&quot;&gt;happy employees are more productive&lt;/a&gt; than unhappy ones. If someone’s health is his or her own responsibility, employers have an important part to play in their employees’ well-being. Here are &lt;strong&gt;7 policies you can implement to help your team members achieve work-life balance&lt;/strong&gt;:&lt;/p&gt;
@@ -492,12 +466,14 @@
 &lt;h3 id=&quot;do-you-want-to-improve-your-teams-work-life-balance-drop-us-a-note-at-helloteammoodcom-and-talk-to-our-experts&quot;&gt;Do you want to improve your team’s work-life balance? Drop us a note at &lt;a href=&quot;mailto:hello@teammood.com&quot;&gt;hello@teammood.com&lt;/a&gt; and talk to our experts.&lt;/h3&gt;
 </description>
         <pubDate>Tue, 16 Apr 2019 09:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/04/16/how-to-encourage-work-life-balance-at-work.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/04/16/how-to-encourage-work-life-balance-at-work.html</guid>
+        
+        
       </item>
     
       <item>
         <title>Why doing Team Health Checks?</title>
-        <link>https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html</guid>
         <description>&lt;h2 id=&quot;importance-of-a-team-health-check&quot;&gt;Importance of a team health check&lt;/h2&gt;
 
 &lt;p&gt;Great success and achievements do not come overnight, and are rarely the result of a person alone, but rather by a group of individuals what we commonly call a “team”.&lt;/p&gt;
@@ -603,12 +579,14 @@
 &lt;p&gt;&lt;em&gt;Thank you to James Willis for his previous comments and review of the article.&lt;br /&gt;Illustrations from &lt;a href=&quot;https://undraw.co&quot; target=&quot;_blank&quot;&gt;https://undraw.co&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 29 Mar 2019 10:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html</guid>
+        
+        
       </item>
     
       <item>
         <title>Dare Benevolent Leadership!</title>
-        <link>https://blog.teammood.com/2019/03/05/dare-benevolent-leadership.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/03/05/dare-benevolent-leadership.html</guid>
         <description>&lt;p class=&quot;present-before-paste&quot;&gt;&lt;em&gt;This article is a translation of a &lt;a href=&quot;https://www.linkedin.com/pulse/osez-le-management-bienveillant-julien-rigoulay/&quot; target=&quot;_blank&quot;&gt;French article&lt;/a&gt;, written by &lt;a href=&quot;https://www.linkedin.com/in/julienrigoulay/&quot; target=&quot;_blank&quot;&gt;Julien Rigoulay&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p class=&quot;present-before-paste&quot;&gt;Benevolent leadership is a concept at the heart of discussions in companies that want to innovate and boost productivity. Initially seen as naive or just a trend following on from the humanist movement, benevolence in the workplace is now considered a “strong lever” for attracting employees.&lt;/p&gt;
@@ -666,336 +644,10 @@
 &lt;p class=&quot;present-before-paste&quot;&gt;What about you, have you taken the plunge? Share your experience in the comments section below!&lt;br /&gt; &lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Mar 2019 10:00:00 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>Hire for Culture Fit, Not Competencies</title>
-        <link>https://blog.teammood.com/2019/02/19/hire-for-culture-fit-not-competencies.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/02/19/hire-for-culture-fit-not-competencies.html</guid>
-        <description>&lt;p&gt;In the relentlessly competitive global climate, the key to success in business isn’t what you do but how you do it. Providing the best product or service isn’t enough – you need to differentiate yourself from the competition at team, department and company level. But how? That’s where your company culture can make all the difference.&lt;/p&gt;
-
-&lt;h2 id=&quot;aligning-your-culture-and-brand&quot;&gt;Aligning your culture and brand&lt;/h2&gt;
-
-&lt;p&gt;A strong, differentiated company culture contributes to a strong, differentiated brand that will attract both customers and employees. Examples vary from one company to the next: offering generous employee benefits such as free drinks at Starbucks, encouraging employees to disagree with their managers at Amazon, empowering employees to be their own boss at Zappos, letting people set their own hours at Patagonia, unlimited vacation or no tracking policy at Netflix…&lt;/p&gt;
-
-&lt;p&gt;It’s obvious that if you want to win the battle for customers, your culture and brand need to be aligned and driven by a common purpose and set of values. And it all starts with recruitment. &lt;/p&gt;
-
-&lt;h2 id=&quot;4-reasons-you-should-hire-for-culture-fit-over-skill-set&quot;&gt;4 reasons you should hire for culture fit over skill set&lt;/h2&gt;
-
-&lt;h3 id=&quot;lower-turnover&quot;&gt;Lower turnover&lt;/h3&gt;
-
-&lt;p&gt;You probably want to be surrounded by the best – that’s par for the course. But “the best” doesn’t necessarily mean “the most qualified” or “the candidate with the best degree”. In fact, hiring top performers that don’t fit your company culture is a recipe for unhappy employees that won’t adjust to your organization or get along with their teammates. In the end, they will stagnate in their position until they find a better one elsewhere. This kind of bad fit is the reason why &lt;a href=&quot;https://www.forbes.com/sites/danschawbel/2012/01/23/89-of-new-hires-fail-because-of-their-attitude/#56acdf3f137a&quot; target=&quot;_blank&quot;&gt;50% of new hires fail in the first 18 months&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-feeling-of-belonging&quot;&gt;A feeling of belonging&lt;/h3&gt;
-
-&lt;p&gt;Integrating a highly qualified person who doesn’t fit your company culture will be more challenging than making a success of hiring a  good match for your company culture with a more average skill set. They will always feel like outsiders and integrating them will represent a considerable challenge. On the other hand, fitting in with your company culture gives your employees a feeling of belonging, thereby increasing their loyalty to the organization.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-smarter-bet-in-the-long-run&quot;&gt;A smarter bet in the long run&lt;/h3&gt;
-
-&lt;p&gt;Have you heard of the &lt;a href=&quot;https://www.youtube.com/watch?v=KUWn_TJTrnU&amp;amp;feature=youtu.be&quot; target=&quot;_blank&quot;&gt;growth versus fixed mindset model&lt;/a&gt;, put forth by psychologist Carol Dweck? It basically states that education should value effort over result in order to help us enjoy the process of learning about new topics and acquiring new skills. Giving too much importance to your employees’ skill set or achievements on the day you recruit them may not encourage them to be curious and explore new areas in the future. In our rapidly changing business landscape, it won’t be long before they start lagging behind. Choosing a candidate for his or her potential instead is the smarter bet.&lt;/p&gt;
-
-&lt;h3 id=&quot;increased-collaboration&quot;&gt;Increased collaboration&lt;/h3&gt;
-
-&lt;p&gt;Hiring a highly qualified person who doesn’t fit with your company culture can jeopardize the whole company’s equilibrium. Indeed, “unity is strength” is only valid when people actually want to work together. Team members that share the same values will get along better, improving team spirit and overall collaboration inside the company.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Hiring for culture fit involves defining your company, department or team culture first: the values, implicit rules, and interactions among employees that differentiate your tribe from any other organization.&lt;/p&gt;
-
-&lt;p&gt;❗Be careful not to confuse the lack of diversity with culture fit. Diversity is vital to your company’s ability to innovate and adapt to an ever-evolving environment.&lt;/p&gt;
-
-&lt;p&gt;Have you defined your company/department/team culture? Do you leverage it in your hiring process? Tell us in the comments  section :)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 19 Feb 2019 00:00:00 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>Don’t fall in the trap of micromanagement!</title>
-        <link>https://blog.teammood.com/2018/11/29/dont-fall-in-the-trap-of-micromanagement.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2018/11/29/dont-fall-in-the-trap-of-micromanagement.html</guid>
-        <description>&lt;p&gt;Every employee needs guidance and direction in order to translate the company’s vision and strategy in his•her day to day job. That’s where managers play a key role – and good ones can really make a difference in an organization. Issues arise when someone shifts from managing to micromanaging.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-micromanagement&quot;&gt;What is micromanagement?&lt;/h2&gt;
-
-&lt;p&gt;Micromanagement occurs when, instead of giving general instructions and supervising only the approach and the overall objective, the manager follows and evaluates every step of the project, failing to delegate to his•her subordinates or employees the responsibility they should bear.&lt;/p&gt;
-
-&lt;p&gt;Micromanagers tend to obsess on every little detail of everything instead of looking at the big picture. They are overly critical and controlling and push aside the qualification and experience of others. They are petty dictators and constantly interfere with their employees.&lt;/p&gt;
-
-&lt;p&gt;The corporate world is littered with such micromanagers. According to American consultant Harry Chambers, author of the book &lt;em&gt;My Way or the High­way : The Micro­mana­gement Survival Guide&lt;/em&gt;, nearly &lt;a href=&quot;https://www.getabstract.com/en/summary/leadership-and-management/my-way-or-the-highway/4658/&quot; target=&quot;_blank&quot;&gt;8 out of 10 employees report that they work for micromanagers or have in the past&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-do-managers-micromanage&quot;&gt;Why do managers micromanage?&lt;/h2&gt;
-
-&lt;p&gt;Managers who tend to micromanage do so for different reasons:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;An attention to detail taken to the extreme;&lt;/li&gt;
-  &lt;li&gt;Their incompetence;&lt;/li&gt;
-  &lt;li&gt;Their insecurity and lack of self-esteem, or even some kind of malignant narcissism or the expression of an obsessive-compulsive disorder;&lt;/li&gt;
-  &lt;li&gt;External pressure (organizational culture, pressure on delay and performance, instability of the job, etc.);&lt;/li&gt;
-  &lt;li&gt;A managerial tactic in order to make an unwanted employee leave. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This behavior is found more specifically with intermediary managers, who are being stranded between the high expectations of their boss and the pressure of their team members and tend to lose control of the situation little by little and take refuge in an oppressive behavior for others and themselves. In fact, according to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Peter_principle&quot; target=&quot;_blank&quot;&gt;Peter principle&lt;/a&gt;, the more you progress within your company, the more you’ll face such managers who’ve reached their “level of incompetence”.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-damaging-effects-of-micromanagement&quot;&gt;The damaging effects of micromanagement&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/quote-steve-jobs.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The effects of micromanagement are immediate for the company:&lt;/p&gt;
-
-&lt;h3 id=&quot;the-overall-productivity-decreases&quot;&gt;The overall productivity decreases&lt;/h3&gt;
-
-&lt;p&gt;Trust is the foundation of any successful relationship, whether professionally or personally. When employees feel they can’t trust their boss, they feel unsafe and spend more energy on survival than performing at their job.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-innovation-is-reduced&quot;&gt;The innovation is reduced&lt;/h3&gt;
-
-&lt;p&gt;When they distrust their manager, employees can’t share new idea openly by fear of being shut down. As a consequence, the team/company tends to be stuck in their way of doing things, blocking any form of innovation.&lt;/p&gt;
-
-&lt;h3 id=&quot;employees-are-infantilized-and-less-autonomous&quot;&gt;Employees are infantilized and less autonomous&lt;/h3&gt;
-
-&lt;p&gt;So long proactivity and independence. Micromanaged employees will increasingly lose their autonomy, asking for more and more from the micromanager, caught at his•her own game.&lt;/p&gt;
-
-&lt;h3 id=&quot;employees-are-under-stress-and-have-a-lower-morale&quot;&gt;Employees are under stress and have a lower morale&lt;/h3&gt;
-
-&lt;p&gt;Being micromanaged is highly demotivating for employees, all the more for the best ones. This toxic environment generates stress and a lower self-esteem, damaging the atmosphere of the whole company.&lt;/p&gt;
-
-&lt;h3 id=&quot;employees-have-a-low-scope-of-learning&quot;&gt;Employees have a low scope of learning&lt;/h3&gt;
-
-&lt;p&gt;By being constantly told what they should or shouldn’t do, employees can’t learn by themselves. As a result, their development is hindered, which is prejudicial for their evolution and the future needs of the company.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-turnover-rises&quot;&gt;The turnover rises&lt;/h3&gt;
-
-&lt;p&gt;Micromanagement tends to kill the feeling of loyalty of the employees. Out of demotivation, the best people will look for what they need elsewhere at some point: a healthy workplace where they can make good use of their talents.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-to-go-from-micromanagement-to-trust-and-empowerment&quot;&gt;How to go from micromanagement to trust and empowerment&lt;/h2&gt;
-
-&lt;p&gt;Here are a few “recipes” to cure yourself of your tendency to micromanage:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Learn to trust, while being attuned to your collaborators with &lt;a href=&quot;https://teammood.com&quot; target=&quot;_blank&quot;&gt;regular feedback&lt;/a&gt;;&lt;/li&gt;
-  &lt;li&gt;Stop focusing on the minor errors of your collaborators in order to appreciate the whole picture;&lt;/li&gt;
-  &lt;li&gt;Learn to delegate tasks and empower your team members;&lt;/li&gt;
-  &lt;li&gt;Instead of drowning your team with details, focus on the end result;&lt;/li&gt;
-  &lt;li&gt;Favor initiatives and autonomy;&lt;/li&gt;
-  &lt;li&gt;Don’t avoid the confrontation of points of view, but make your collaborators participate in the debate and use open questions;&lt;/li&gt;
-  &lt;li&gt;Accept the lack of control and tolerate failure – you can start with letting go of less strategical topics;&lt;/li&gt;
-  &lt;li&gt;Inject flexibility in the organization (remote working, flexible working hours, …) and set a global objective;&lt;/li&gt;
-  &lt;li&gt;Accept to waste time in the beginning in order to save some later;&lt;/li&gt;
-  &lt;li&gt;Think collectively;&lt;/li&gt;
-  &lt;li&gt;Believe in the qualification and experience of the team;&lt;/li&gt;
-  &lt;li&gt;Develop a solid line of communication with the team and foster open and honest discussions;&lt;/li&gt;
-  &lt;li&gt;Get help from a mentor or a coach.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As &lt;a href=&quot;https://www.linkedin.com/pulse/micromanagement-make-best-people-quit-brigette-hyacinth/&quot; target=&quot;_blank&quot;&gt;Brigette Hyacinth&lt;/a&gt;, author of &lt;em&gt;The Future of Leadership: Rise of Automation, Robotics and Artificial Intelligence,&lt;/em&gt; said:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“In this volatile global marketplace, happy and loyal employees are your biggest competitive advantage. If you want performance at scale: Select the right people, provide them with the proper training, tools, and support, and then give them room to get the job done!”&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Thu, 29 Nov 2018 10:10:00 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>[Interview] Diving into Agile and Scrum, the Personal Experience of a Startup Founder</title>
-        <link>https://blog.teammood.com/2018/11/14/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2018/11/14/interview-diving-into-agile-and-scrum-the-personal-experience-of-a-startup-founder.html</guid>
-        <description>&lt;p&gt;&lt;em&gt;Former startupper, &lt;a href=&quot;https://www.linkedin.com/in/gregoiredepins/&quot; target=&quot;_blank&quot;&gt;Gregoire&lt;/a&gt; started working in digital 6 years ago. Since the closing of his startup Sharette (in 2016), he’s offering his services as a freelance consultant, sharing the experience he gained with small and medium-sized companies, and even big corporations: Open Innovation programs, Scrum/Agile coaching, digital marketing strategy (acquisition funnel, SEO, SEA, …).&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;blob:https://app.cloudcannon.com/1b660950-5780-4ac0-999c-1c88978379db&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;exploring-agile&quot;&gt;Exploring Agile&lt;/h2&gt;
-
-&lt;p&gt;I discovered Agile methods and more specifically Scrum when I launched my startup in 2012. Like everyone else, I had heard of it. But like everyone else, I didn’t really get it.&lt;/p&gt;
-
-&lt;p&gt;I was initially trying to define the best governance model in order to optimize the functioning of the team, without wasting people’s time or the company’s. The question was: when to gather who and what for? &lt;/p&gt;
-
-&lt;p&gt;The developers of the team told me about it, as Scrum is specifically well fitted for digital teams composed mainly of developers, and including a product owner. It was exactly our case. Plus we needed to constantly develop and test new functionalities.&lt;/p&gt;
-
-&lt;h2 id=&quot;getting-started-with-scrum&quot;&gt;Getting started with Scrum&lt;/h2&gt;
-
-&lt;p&gt;Let’s be honest, I didn’t know anything about Scrum. I started reading articles and talking about it with the team and other entrepreneurs who were experiencing similar situations. I learned and trained myself on the field.&lt;/p&gt;
-
-&lt;p&gt;We started implementing meetings and made them evolve over time. For instance, at the beginning, we had weekly sprints: the sprint planning was taking place on Monday morning and on Friday afternoon we had our sprint demo and retrospective. But I soon realized that one week was too short: too often, developers were saying that they didn’t have time for the Friday retro as they had to finish working on tasks.&lt;/p&gt;
-
-&lt;p&gt;In the end, we adopted this format:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;3-week sprints (in general)&lt;/li&gt;
-  &lt;li&gt;In the morning of the 1st day: 4-hour sprint planning meeting&lt;/li&gt;
-  &lt;li&gt;In the afternoon of the last day: 45-minute demo followed by a 45-minute &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;retrospective&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Every morning of the sprint: short &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot; target=&quot;_blank&quot;&gt;daily meeting&lt;/a&gt; at a set time&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These meetings included the developers (the “Team”), the product owner (making the link between the Team and the client), and the Scrum Master (bailer of the methodology, rotating among all the developers).&lt;/p&gt;
-
-&lt;h2 id=&quot;improving-our-scrum-practice&quot;&gt;Improving our Scrum practice&lt;/h2&gt;
-
-&lt;p&gt;One of the things we struggled most with was the sprint planning (and we’re not the only ones). We had a hard time dividing up the work into well-defined stories that were achievable during the sprint. Little by little, we started calculating/assessing the complexity of each task.&lt;/p&gt;
-
-&lt;p&gt;The complexity assessment is a very effective Scrum technique in order to better allocate the team’s time and effort. The idea is to break down each high-level User Story (also called an Epic) into smaller tasks, and to evaluate for each task its level of complexity using the Fibonacci suite: 1, 2, 3, 5, 8, 13… The gap between two levels of complexity grows bigger as the complexity increases, which forces the team to make a real choice. Any task above 8 should be broken down again.&lt;/p&gt;
-
-&lt;p&gt;1 = it’s very easy, I know how to do it and I’ll do it quickly.&lt;/p&gt;
-
-&lt;p&gt;2 = I don’t think it’s very complex but I have a small doubt.&lt;/p&gt;
-
-&lt;p&gt;3 = it’s rather easy but I need to do some research.&lt;/p&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;p&gt;The product owner constantly receives feedback from the client on the new functionalities. He shares them with the team at the beginning of the new sprint. He also adds new ideas in the backlog every day, and order them by priority.&lt;/p&gt;
-
-&lt;p&gt;We also got stricter on the last day, even if everything that was planned during the sprint planning isn’t finished. On the set day, we stop everything and we compute the number of complexity points we managed to overcome, called the “Velocity”, in order to plan the next sprint. If the sprint was well planned and team members got exactly the right amount of complexity points to work on, this velocity can be used to plan the next sprint. Otherwise, the product owner can increase or decrease it, based on the team’s feedback.&lt;/p&gt;
-
-&lt;p&gt;Another trap of Scrum is the daily meeting: not having a fixed time, taking it for an operational meeting instead of only sharing information, and being too long. Over time, we chose a fixed hour in the morning (between 9 and 11 am depending on the team), and everyone was supposed to share his or her progress and difficulties in no more than 1 minute. Operational work was left for after the daily.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-limits-of-scrum&quot;&gt;The limits of Scrum&lt;/h2&gt;
-
-&lt;p&gt;Of course, it couldn’t be all rosy. Scrum is amazing in some contexts:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Digital projects with a level of uncertainty&lt;/li&gt;
-  &lt;li&gt;With a Team (= developers) of 15 people maximum (if the team is bigger, it should be divided into smaller squads)&lt;/li&gt;
-  &lt;li&gt;The team members should be dedicated to the project (working at least 50% of their time on it)&lt;/li&gt;
-  &lt;li&gt;The overall project must be divided into blocs (the stories) with regular releases and deployments&lt;/li&gt;
-  &lt;li&gt;Even in other areas of the company (marketing, HR, …), as long as the team isn’t in charge of long actions constrained by external dependencies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;but impossible in others:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;If the project cannot be divided into small pieces&lt;/li&gt;
-  &lt;li&gt;If the team cannot get regular user feedback&lt;/li&gt;
-  &lt;li&gt;If developers are spread among several projects&lt;/li&gt;
-  &lt;li&gt;If the project is constrained by external dependencies&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/when-is-scrum-appropriate.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Source: &lt;a href=&quot;http://scrumreferencecard.com/scrum-reference-card/&quot; target=&quot;_blank&quot;&gt;http://scrumreferencecard.com/scrum-reference-card/&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;testing-other-agile-methodologies-extreme-programming-xp&quot;&gt;Testing other Agile methodologies: extreme programming (XP)&lt;/h2&gt;
-
-&lt;p&gt;We never used eXtreme Programming in my startup, but I experienced it with one of my clients. The principle of XP is to divide the Team into pairs: one developer does the coding, and the other one reviews the code along the way. And the tandems rotate at the beginning of each sprint.&lt;/p&gt;
-
-&lt;p&gt;It may seem a waste of time to have only one developer out of two actually coding – many think so. It’s true. But this methodology has a lot of advantages:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;It helps produce a code of higher quality and stronger, thus ultimately it saves money.&lt;/li&gt;
-  &lt;li&gt;It reduces the need for maintenance.&lt;/li&gt;
-  &lt;li&gt;It develops the competencies of the whole team, and developers love it.&lt;/li&gt;
-  &lt;li&gt;It fosters collaboration and friendliness among team members as they know each other better.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Over the last few years, I’ve had the opportunity to work and implement Scrum in several teams and companies. In the end, the most difficult in Scrum or other &lt;a href=&quot;https://www.teammood.com/en/agile-retrospective-tools-ideas/&quot;&gt;Agile methods&lt;/a&gt; is not to understand them, but to put them in place and to &lt;strong&gt;keep the rigor over time. But when you do so, it becomes an amazing playground!&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Nov 2018 10:10:00 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>The Emotional Seismograph, a Fun and Effective Retrospective Format</title>
-        <link>https://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html</guid>
-        <description>&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;Retrospectives&lt;/a&gt; are fundamental to Agile teams, and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work. &lt;/p&gt;
-
-&lt;p&gt;The principle is simple: every set of time (a sprint or a period you decide), the team gathers to reflect on what happened in the timeframe and to identify actions for improvement going forward.&lt;/p&gt;
-
-&lt;p&gt;Retrospectives can follow thousands of formats: Positive &amp;amp; True, Learning Matrix, Worked Well Do Differently, AHA… (you can get inspiration from &lt;a href=&quot;https://retromat.org/&quot; target=&quot;_blank&quot;&gt;Retromat&lt;/a&gt;). But one is our favorite and dear to our heart: the &lt;strong&gt;Emotional Seismograph&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;When to use the Emotional Seismograph?&lt;/strong&gt; Not all the time, but using it now and then can bring novelty to your retrospectives. It’s usually perceived as funner than the other formats.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How to use it?&lt;/strong&gt; During your retrospective, each team member shares his or her mood throughout the sprint/timeframe and explains the reasons.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The first 3 days I was feeling very enthusiastic about the project. Then my kids at home got sick and I didn’t sleep much until the middle of the second week. It got a bit better, and then I chose a task that I struggled with way more than I expected. It got me very frustrated for a couple of days, until Mickael helped me get through it. And the last few days, I was a bit stressed to get everything done until the end of the sprint.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Some moods can be the result of personal events, which means that the team cannot do anything about them – but it is still valuable to know. Others depend on the team and project itself, and can be food for thoughts to improve the internal functioning for the next spring.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Getting your Emotional Seismograph to the next level:&lt;/strong&gt; By using a tool like &lt;a href=&quot;https://www.teammood.com/en/agile-retrospective/&quot;&gt;TeamMood&lt;/a&gt;, you can track your mood along the sprint and avoid forgetting personal and professional events.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Photo credit: &lt;a href=&quot;https://visualhunt.com/author2/0e544c&quot; target=&quot;_blank&quot;&gt;Crashmaster007&lt;/a&gt; on &lt;a href=&quot;https://visualhunt.com/re/6694b1&quot;&gt;Visual hunt&lt;/a&gt; / &lt;a href=&quot;http://creativecommons.org/licenses/by-nc/2.0/&quot;&gt;CC BY-NC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 30 Oct 2018 10:10:00 +0000</pubDate>
-      </item>
-    
-      <item>
-        <title>10 (Easy) Ways To Improve The Mood In The Workplace</title>
-        <link>https://blog.teammood.com/2018/09/26/10-easy-ways-to-improve-the-mood-in-the-workplace.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2018/09/26/10-easy-ways-to-improve-the-mood-in-the-workplace.html</guid>
-        <description>&lt;p&gt;&lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==&quot; alt=&quot;&quot; class=&quot;cms-image-placeholder&quot; /&gt;Your team’s mood depends on hundreds of criteria – many of whom you can’t control. But some simple gimmicks can lighten the mood and generate a better spirit in the long term, with little investment from your part. &lt;/p&gt;
-
-&lt;p&gt;Here are some &lt;strong&gt;simple and concrete ways to improve your team’s mood&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;1-introduce-plants-in-the-office&quot;&gt;#1 Introduce plants in the office&lt;/h2&gt;
-
-&lt;p&gt;Introducing plants in your office can be beneficial on all levels. First, studies show that &lt;a href=&quot;http://ellisonchair.tamu.edu/health-and-well-being-benefits-of-plants/#.VgrduivNMUk&quot; target=&quot;_blank&quot;&gt;plants can help people better focus and concentrate on their work&lt;/a&gt;, leading to higher overall productivity. Moreover, by producing oxygen all day long, they help freshen the air.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/office-1696739-640.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Plants also serve as a reminder of the natural world outside, and create a calmer, more welcoming environment. They’re certainly easier on the eyes than a sterile white wall or boring office furniture.&lt;/p&gt;
-
-&lt;h2 id=&quot;2-offer-healthy-snacks&quot;&gt;#2 Offer healthy snacks&lt;/h2&gt;
-
-&lt;p&gt;Many offices offer coffee or sweet snacks to their employees. Why not differentiate yourself by offering some healthy snacks as well? Fruits, vegetables, and nuts are great examples and boost your employees’ energy throughout the day.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/apples-bananas-basket-235294.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;By taking care of your &lt;a href=&quot;/2019/03/29/why-doing-team-health-checks.html&quot;&gt;employees and health&lt;/a&gt;, you show them that you care about them. You’ll improve both their mood and productivity, and foster loyalty at the same time.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-set-up-some-fun-goals-or-challenges-for-your-team&quot;&gt;#3 Set up some fun goals or challenges for your team&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.themuse.com/career/what-i-learned-about-management-from-a-road-trip/&quot; target=&quot;_blank&quot;&gt;Setting team goals&lt;/a&gt; is the backbone of every management strategy, but projects goals and yearly performance metrics can be hard to relate to on a daily basis. Involve your team to define immediate goals and challenges, and not only work-related. They can be goofy things like reaching a team bagel consumption goal or competing to find the weirdest daily news story. This will set up a work environment where fun is appreciated as much as hard work.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-run-retrospectives&quot;&gt;#4 Run retrospectives&lt;/h2&gt;
-
-&lt;p&gt;Taking the time to reflect on your past Sprint / month / the set of time you’d like is an amazing way to reflect on past events, to praise your employees’ work, and to identify issues you need to resolve. Having this time and space to express themselves will encourage your employees to invest in improving the processes and internal functioning of the team. By running &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;retrospectives&lt;/a&gt;, your team will grow stronger and happier.&lt;/p&gt;
-
-&lt;h2 id=&quot;5-bring-pastries-or-croissants-at-weeklymonthly-team-meetings&quot;&gt;#5 Bring pastries or croissants at weekly/monthly team meetings&lt;/h2&gt;
-
-&lt;p&gt;Meetings. We all need them but we all fear them. If &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot; target=&quot;_blank&quot;&gt;daily meetings&lt;/a&gt; should stay short, why not lighting up the mood for longer ones (weekly meetings, monthly retrospectives…) by bringing some nice pastries or croissants? You don’t have to do it yourself all the time, the bringer can rotate.&lt;/p&gt;
-
-&lt;p&gt;Plus, with this ritual, you’ll make sure everyone arrives on time if they don’t want to see their croissant taken from their hand.&lt;/p&gt;
-
-&lt;h2 id=&quot;6-encourage-fitness-or-sports-activities&quot;&gt;#6 Encourage fitness or sports activities&lt;/h2&gt;
-
-&lt;p&gt;Sport is good for your health, your concentration… and &lt;a href=&quot;https://www.muhealth.org/conditions-treatments/pediatrics/adolescent-medicine/benefits-of-sports&quot; target=&quot;_blank&quot;&gt;your spirit&lt;/a&gt;. Encouraging your employees to practice a sport (if they want to) will help them be at ease with themselves. If you have some spare space in your office, you can schedule fitness or yoga classes during the lunch break or install a gym. Another (smaller) alternative is to install a bathroom for runners to take a shower before going back to work.&lt;/p&gt;
-
-&lt;p&gt;If indoor is out of the question, you can also participate in a yearly gym membership, or set aside an hour each week from work for your employees to participate in yoga, wall climbing, volleyball, or any sport they may like.&lt;/p&gt;
-
-&lt;p&gt;Last but not least, you can promote team sports as team building activities all along the year, or during a company outing.&lt;/p&gt;
-
-&lt;h2 id=&quot;7-celebrate-personal-events&quot;&gt;#7 Celebrate personal events&lt;/h2&gt;
-
-&lt;p&gt;By investing in your employees’ personal lives, you can show them that they matter for the company. Not everyone likes to share openly their personal life and events (birthday, wedding, birth of a child…), but if you pay attention to your teammates, you can find a way to demonstrate your true interest: bringing a birthday cake, have flowers or a gift sent over their home, …&lt;/p&gt;
-
-&lt;h2 id=&quot;8-show-some-gratitude&quot;&gt;#8 Show some gratitude &lt;/h2&gt;
-
-&lt;p&gt;By managing your team or a project, you can easily forget that they are human beings. Recognizing their effort and good work can have a huge impact on their morale. A simple way to demonstrate gratitude among your teammates is to implement &lt;a href=&quot;https://management30.com/product/kudo-cards/&quot; target=&quot;_blank&quot;&gt;Kudo cards&lt;/a&gt;: small tokens of appreciation that managers and teammates can give each other. “Congratulations”, “Thank you”, “You rock”, “Great job”, “Well done”, the options are endless.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/kudo-cards-300x197.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kudo cards are very efficient to increase recognition of valued work, which encourages intrinsic motivation within an organization.&lt;/p&gt;
-
-&lt;h2 id=&quot;9-offer-time-away-from-the-office-to-do-some-good&quot;&gt;#9 Offer time away from the office to do some good&lt;/h2&gt;
-
-&lt;p&gt;Taking part in a charity or a volunteering action encourages both the company and employees to give back to the community. &lt;a href=&quot;https://blog.teammood.com/2018/04/02/managers-do-you-know-how-to-work-with-millennials.html&quot; target=&quot;_blank&quot;&gt;Investing in causes they care about is especially important for millennial workers&lt;/a&gt; according to a Deloitte study. By dedicating some time during the year to volunteer, you can show your employees that they are aligned with the company’s values, and give them a feeling of empowerment and influence over world and local issues.&lt;/p&gt;
-
-&lt;p&gt;Why not ask your team for suggested charities and events, and make it a group decision? Not only will this help with to encourage team spirit but it also shows how the company seeks out ideas for their employees in decision making and suggestions.&lt;/p&gt;
-
-&lt;h2 id=&quot;10-grant-time-off-to-employees-to-pursue-projects-they-are-passionate-about&quot;&gt;#10 Grant time off to employees to pursue projects they are passionate about&lt;/h2&gt;
-
-&lt;p&gt;Taking on some personal projects can provide an energizing break from regular responsibilities, and can be a source of innovation for your company. At Google for instance, employees are given a day every week to pursue a personal project, no questions asked.&lt;/p&gt;
-
-&lt;p&gt;If you grant some free time to your employees to work on personal projects, some may lead to new ideas for the company, most of them will probably not. But most of all, you are giving them a breath of fresh air they will be thankful for.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Your turn now. &lt;strong&gt;Have you implemented any other technique to improve your team’s mood?&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Sep 2018 11:10:00 +0000</pubDate>
+        <link>https://blog.teammood.com/2019/03/05/dare-benevolent-leadership.html</link>
+        <guid isPermaLink="true">https://blog.teammood.com/2019/03/05/dare-benevolent-leadership.html</guid>
+        
+        
       </item>
     
   </channel>

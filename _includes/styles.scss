@@ -86,6 +86,24 @@ body {
           color: #333333;
         }
       }
+
+      .button {
+        border-radius: 0.3em;
+        margin: 0 auto;
+        padding: 0.5em 0.75em;
+        background: $green-color;
+        color: #fff;
+        border: 1px solid $green-color;
+        font-family: $font-sans;
+        font-weight: bolder;
+        text-decoration: none;
+        text-align: center;
+        width: max-content;
+        &:hover {
+          color: #fff;
+          background: darken($green-color, 5%);
+        }
+      }
   }
 
 }
@@ -93,7 +111,7 @@ body {
 .blog-header {
   width: 100%;
   max-width: 700px;
-  margin: 0 auto;
+  margin: 0 0 30px 0;
   position: relative;
   padding: 0;
   @include box-sizing(border-box);
@@ -388,6 +406,10 @@ body {
       text-decoration: none;
       text-align: center;
       width: max-content;
+      &:hover {
+        color: #fff;
+        background: darken($green-color, 5%);
+      }
     }
   }
   .bottom-teaser {

@@ -59,4 +59,6 @@ Don’t let your Niko-niko hang there for nothing\! Quantifying your team’s mo
 
 Data from a Niko-niko calendar is a huge opportunity for reflection. You can get instant feedback from changes that are altering the work environment. It can also be included in a reporting for top management (leaving it anonymous).
 
-| Are you convinced? Start implementing a Niko-niko calendar in your team, either by [building it yourself](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html), of [using an online one such as TeamMood](https://www.teammood.com/en/Niko-Niko/) and tell us what you think. |
+Are you convinced? Start implementing a Niko-niko calendar in your team, either by [building it yourself](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html), of [using an online one such as TeamMood](https://www.teammood.com/en/Niko-Niko/) and tell us what you think.
+
+[Run Your Niko-Niko Calendar Online](https://www.teammood.com/en/Niko-Niko/){: .button}

@@ -8,6 +8,7 @@
 # Site settings
 title: Team Mood, Morale & Health
 name: TeamMood
+bio: 'With TeamMood, make your team great!'
 timezone: UTC
 collections:
   posts:

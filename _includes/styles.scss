@@ -257,7 +257,7 @@ div.post-header {
     margin-bottom: 50px;
   }
   .author-image {
-    background-image: url({{ site.baseurl }}{{site.author_image}});
+    background-image: url({{ site.baseurl }}{{site.logo}});
     display: inline-block;
     width: 30px;
     height: 30px;
@@ -266,7 +266,6 @@ div.post-header {
     margin-bottom: -10px;
     float: left;
     background-size: cover;
-    border-radius: 100%;
     text-indent: -9999px;
   }
   .post-meta-text {
@@ -461,10 +460,9 @@ div.post-header {
       .author-image {
         display: block;
         width: 80px;
-        height: 80px;
+        height: 50px;
         float: left;
         background-size: cover;
-        border-radius: 100%;
         text-indent: -9999px;
       }
       h4 {

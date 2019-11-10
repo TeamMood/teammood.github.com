@@ -24,7 +24,7 @@ layout: default
     </footer>
     <div class="bottom-teaser cf">
       <div class="isLeft">
-        <h5 class="index-headline featured"><span>Written by</span></h5>
+        <h5 class="index-headline featured"><span>Proudly built with ❤️ by</span></h5>
         <section class="author">
           <div class="author-image"></div>
           <h4>{{ site.name }}</h4>
@@ -43,17 +43,19 @@ layout: default
               {% endif %}
             </span>
           </p>
-          <hr>
-          <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
         </section>
       </div>
       <div class="isRight">
-        <h5 class="index-headline featured"><span>Supported by</span></h5>
+        <h5 class="index-headline featured"><span>Say hi 👋</span></h5>
         <footer class="site-footer">
-          <section class="poweredby">Proudly published with <a href="http://jekyllrb.com"> Jekyll</a> and <a href="https://github.com/ageitgey/amplify">Amplify</a></section>
-          <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> You should subscribe to my feed.</span></a>
+          <section class="poweredby">
+            <a href="https://www.linkedin.com/company/teammood/" target="_blank">LinkedIn</a> |
+            <a href="https://www.facebook.com/teammood" target="_blank">Facebook</a> | 
+            <a href="https://twitter.com/teammood" target="_blank">Twitter</a> | 
+            <a href="mailto:{{ site.email }}">Email</a>
+          </section>
           <div class="inner">
-            <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{site.name}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+            <section class="copyright">Copyright &copy; {{ 'now' | date: '%Y' }} - <a href="https://www.teammood.com">{{ site.name }}</a></section>
           </div>
         </footer>
       </div>

@@ -24,4 +24,4 @@ Basically, the idea scratched me since many months because I feel that it can br
 
 And yes, I use LeanStartup to explore the idea, because I don't know if it will be a good one and if people will be interested. So let's learn with this first MVP and we'll see :-)
 
-<div align="center"><a class="button" href="https://www.teammood.com/">I want to discover TeamMood !</a></div>
+<a class="button" href="https://www.teammood.com/">I want to discover TeamMood !</a>

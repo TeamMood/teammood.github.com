@@ -85,3 +85,6 @@ Here are a few “recipes” to cure yourself of your tendency to micromanage:
 As [Brigette Hyacinth](https://www.linkedin.com/pulse/micromanagement-make-best-people-quit-brigette-hyacinth/){: target="_blank"}, author of *The Future of Leadership: Rise of Automation, Robotics and Artificial Intelligence,* said:
 
 > “In this volatile global marketplace, happy and loyal employees are your biggest competitive advantage. If you want performance at scale: Select the right people, provide them with the proper training, tools, and support, and then give them room to get the job done!”
+
+
+[Start a discussion about micromanagement on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}

@@ -39,10 +39,11 @@ Have you heard of the [growth versus fixed mindset model](https://www.youtube.co
 
 Hiring a highly qualified person who doesn’t fit with your company culture can jeopardize the whole company’s equilibrium. Indeed, “unity is strength” is only valid when people actually want to work together. Team members that share the same values will get along better, improving team spirit and overall collaboration inside the company.
 
- 
 
 Hiring for culture fit involves defining your company, department or team culture first: the values, implicit rules, and interactions among employees that differentiate your tribe from any other organization.
 
 ❗Be careful not to confuse the lack of diversity with culture fit. Diversity is vital to your company’s ability to innovate and adapt to an ever-evolving environment.
 
-Have you defined your company/department/team culture? Do you leverage it in your hiring process? Tell us in the comments  section :)
+Have you defined your company/department/team culture? Do you leverage it in your hiring process? 
+
+[Tell us by starting a post on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}

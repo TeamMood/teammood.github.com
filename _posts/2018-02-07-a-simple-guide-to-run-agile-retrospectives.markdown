@@ -61,6 +61,6 @@ It’s not us, it’s our clients who say it! If you run retrospectives every tw
 
 With TeamMood, you can have access to [daily feedback and comments](https://www.teammood.com/en/features/) from your team members during the whole period. It works as a team’s diary. Using this data during your retrospectives helps you get a comprehensive view of what happened, and enriches or starts interesting discussions.
 
-<div align="center"><a class="button" href="https://www.teammood.com/en/continuous-improvement/">Discover TeamMood</a></div>
+<a class="button" href="https://www.teammood.com/en/continuous-improvement/">Discover TeamMood</a>
 
 <small><i>Special thanks to Rene Martinussen for his feedback.</i></small>

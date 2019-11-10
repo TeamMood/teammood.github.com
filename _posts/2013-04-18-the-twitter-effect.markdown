@@ -23,5 +23,5 @@ And I also received many positive feedbacks from some people.
 
 I think that my first MVP has quite a good result, so now, I have to keep on the adventure !!
 
-<div align="center"><a class="button" href="https://www.teammood.com/">I want to discover TeamMood !</a></div>
+<a class="button" href="https://www.teammood.com/">I want to discover TeamMood !</a>
 

@@ -54,4 +54,4 @@ Simply by acknowledging their issues and recognizing their effort and/or results
 
 In my next article, I will share my advice on how to react to a good mood, instead of resting on one’s laurels. <!-- Subscribe to our newsletter to receive our articles directly in your inbox!-->
 
-<div align="center"><a class="button" href="https://www.teammood.com/">Start Using TeamMood To Monitor The Mood Of Your Team</a></div>
+<a class="button" href="https://www.teammood.com/">Start Using TeamMood To Monitor The Mood Of Your Team</a>

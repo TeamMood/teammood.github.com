@@ -55,8 +55,6 @@ This doesn’t mean that what you’d like to get done isn’t important. But yo
 
 Again, studies show that a cluttered desk helps raise work stress levels. Often when everything else feels unruly, taking 30 minutes to organize your workspace can bring a relieving feeling of calm.
 
-<center><iframe src="https://giphy.com/embed/oCGjUWkj8vz9u" width="480" height="271" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></center>
-
 Note: this same strategy applies to your apartment, your house, your car, your briefcase, or any other place you keep your stuff.
 
 ## 7. Show up Early

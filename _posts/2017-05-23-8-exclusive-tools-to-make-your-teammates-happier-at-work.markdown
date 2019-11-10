@@ -104,4 +104,6 @@ What started as an internal tool just turned into a project all of its own. Briq
 
 ### Your turn
 
-And you, do you have other tools for wellbeing at the office you'd like to share? Feel free to tell us in the comments below.
+And you, do you have other tools for wellbeing at the office you'd like to share?
+
+[Tell us on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}

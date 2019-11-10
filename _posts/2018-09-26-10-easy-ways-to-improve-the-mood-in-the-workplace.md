@@ -81,3 +81,5 @@ If you grant some free time to your employees to work on personal projects, some
 &nbsp;
 
 Your turn now. **Have you implemented any other technique to improve your team’s mood?**
+
+[Tell us by starting a discussion on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}

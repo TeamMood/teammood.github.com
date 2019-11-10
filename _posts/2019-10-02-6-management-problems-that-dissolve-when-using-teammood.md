@@ -59,6 +59,6 @@ By inverting the streams and listening to their team members, managers can:
 
 Want to try it for yourself?
 
-<div align="center"><a class="button" target="_blank" href="https://www.teammood.com/en/continuous-improvement/">Discover TeamMood</a></div>
+<a class="button" target="_blank" href="https://www.teammood.com/en/continuous-improvement/">Discover TeamMood</a>
 
 &nbsp;

@@ -23,6 +23,13 @@ module Jekyll
             # so let's just force the path
             src = File.join(Dir.pwd, '_site', image['src'])
           end
+
+          if !File.exist?(src)
+            src = "https://blog.teammood.com" + image['src']
+          end
+
+          puts 'img src = ' + src
+
           # Jekyll generates static assets after the build process.
           # This causes problems when trying to determine the dimensions of a locally stored image.
           # For now, the only solution is to skip the build and generate the AMP files after the site has beem successfully built.

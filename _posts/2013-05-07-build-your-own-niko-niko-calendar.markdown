@@ -24,12 +24,12 @@ You need:
 
 You can print some monthly calendars using this [free service](http://www.vertex42.com/calendars/printable-calendars.html).
 
-<a href="http://www.vertex42.com/calendars/printable-calendars.html"><img class="center" src="/images/posts/printable-calendar.png" alt="Printable calendar"></a>
+<a href="http://www.vertex42.com/calendars/printable-calendars.html"><img src="/images/posts/printable-calendar.png" alt="Printable calendar"></a>
 
 
 Then, buy some stickers, take these ones for instance, which are available on [Amazon US](http://www.amazon.com/Color-Coding-Labels-Inches-Stickers/dp/B00DRGXBIM/) :
 
-<img class="center" src="/images/posts/stickers.jpg" alt="Stickers">
+<img src="/images/posts/stickers.jpg" alt="Stickers">
 
 ## Let's build it !
 

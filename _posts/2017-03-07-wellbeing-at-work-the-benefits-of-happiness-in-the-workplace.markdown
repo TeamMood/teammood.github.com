@@ -37,7 +37,7 @@ So when the latest [Gallup](http://www.gallup.com/poll/165269/worldwide-employee
 
 ### How do you boost wellbeing at work?
 
-<img class="center" src="/images/posts/building-joy-planning-plans.jpg">
+<img src="/images/posts/building-joy-planning-plans.jpg">
 
 After sharing those results, you must be wondering: how can I boost employee engagement and happiness in my company?
 

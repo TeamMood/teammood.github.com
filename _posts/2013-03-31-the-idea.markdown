@@ -16,7 +16,7 @@ It's been a while since I wanted to build a project of my own. On a daily basis,
 
 So I finally took the time to build my first side project: <a href="http://teammood.com" class="teammood">TeamMood</a> !
 
-<a href="http://teammood.com"><img class="center" src="/images/posts/coming-soon.png" alt=""></a>
+<a href="http://teammood.com"><img src="/images/posts/coming-soon.png" alt=""></a>
 
 I will not explain what the project is about in this post, I prefer to let you discover the idea through the very first MVP which is a simple "[coming soon](http://teammood.com)" page and let you give me a lot of [feedback](mailto:hello@teammood.com).
 

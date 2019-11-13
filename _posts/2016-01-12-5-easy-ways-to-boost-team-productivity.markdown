@@ -21,7 +21,7 @@ Daily meetings (short daily meetings of course) are an excellent way to start of
 
 These meetings should be open to all, meaning that any team member can speak their mind and offer their own opinion. They can bring their own ideas to the table, and feel that they have a real and tangible contribution to the team’s work, and the company’s success as a whole. When people are ‘engaged’ like this in the company’s decisions, they are more dedicated, and yes, happier.
 
-<img class="center" src="/images/posts/daily_meeting.png" alt="Daily meeting">
+<img src="/images/posts/daily_meeting.png" alt="Daily meeting">
 
 By the way, you can also have these meetups in the middle of the day, as that creates a nice little break for your team, and they can have a breather before going on with the rest of their day.
 

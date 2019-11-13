@@ -22,7 +22,7 @@ You may wonder: *do I really need retrospectives*?
 
 While you may think your team organization is already optimized, you probably don’t realize some of the issues and frustrations your teammates encounter daily. Taking the time to discuss them and find solutions is key to [improve the way your team works](https://blog.teammood.com/2017/12/06/best-practices-from-our-users.html), and overall to improve your productivity.
 
-<img class="center" src="/images/posts/are-you-too-busy-to-improve2.png" alt="Too Busy To Improve: use retrospectives to reflect on your process">
+<img src="/images/posts/are-you-too-busy-to-improve2.png" alt="Too Busy To Improve: use retrospectives to reflect on your process">
 
 # How does a retrospective work?
 

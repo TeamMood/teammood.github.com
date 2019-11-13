@@ -16,7 +16,7 @@ Indeed, for this new generation, work cannot just be a trivial, down-to-earth ac
 
 As a result, historical incentives don’t work anymore: bonus, promotion, and profit-sharing are unable to motivate employees on their own. Indeed, millennials don’t share their elders’ unbreakable loyalty to their company and can switch easily to a more attractive one – or just leave their job to travel around the world.
 
-<img class="center" src="/images/posts/working_with_millenials.png" alt="Working With Millenials">
+<img src="/images/posts/working_with_millenials.png" alt="Working With Millenials">
 
 In the same time, attracting and retaining the best talents is of strategic importance for companies. As the environment becomes increasingly competitive, key resources are companies’ most valuable asset. And the process of recruiting and training new employees on a specific job can be very costly. So, here are the 4 main drivers to attract, motivate and retain millennial workers.
 
@@ -58,7 +58,7 @@ In our digital world, not only the motivation drivers have changed, the work its
 
 Indeed, freelance workers already make up [35% of the US](http://www.marketwired.com/press-release/new-study-finds-freelance-economy-grew-55-million-americans-this-year-35-total-us-workforce-2164446.htm) workforce and [24% in Europe](https://www2.staffingindustry.com/eng/Editorial/Daily-News/EU-Number-of-freelancers-grows-by-24-in-7-years-38211?) – and the numbers keep growing. Who knows where this trend can drive us? Imagine a world where workers are no longer employed by a single company, but provide services for different companies according to the business needs and their competencies. Of course this situation would require some evolutions in terms of freelance security and rights. 
 
-<img class="center" src="/images/posts/critisism_millenials.jpg" alt="New Ways Of Working Between Generations">
+<img src="/images/posts/critisism_millenials.jpg" alt="New Ways Of Working Between Generations">
 
 In this futuristic world, managers are conductors of a multi-located team of workers. They have to get everyone aligned with the company’s strategic objectives and working towards the same goal, despite their time engagement on the project (a few hours, a few days per week, …). Managers will have to leverage new technologies and communication tools in order to share the company culture and foster a sense of belonging to the company. Understanding individual aspirations and feelings will be crucial to the overall performance of the team.
 

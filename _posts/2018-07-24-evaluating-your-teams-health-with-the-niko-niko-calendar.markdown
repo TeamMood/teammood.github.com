@@ -15,7 +15,7 @@ In team management, you can have all sorts of KPIs to measure and display how we
 
 That’s the reason why, a few years ago (in 2006 more precisely), [Akinori SAKATA](http://www.geocities.jp/nikonikocalendar/index_en.html) invented the **Niko Niko calendar**, a.k.a. the smiley calendar or the happiness index.
 
-<img class="center" src="/images/posts/happy.gif" alt="Happy worker">
+<img src="/images/posts/happy.gif" alt="Happy worker">
 
 
 ## What is the Niko-niko calendar?
@@ -26,7 +26,7 @@ The Niko-niko calendar is the application of a very important principle in Agile
 
 The measure doesn’t have to be perfect nor precise. The objective is to quantify something that wasn’t.
 
-<img class="right" src="/images/posts/nikoniko-calendar.jpg" alt="Niko-Niko calendar">
+<img src="/images/posts/nikoniko-calendar.jpg" alt="Niko-Niko calendar">
 
 
 So, how does the Niko-niko calendar work? It’s a simple calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it. That’s actually where its name comes from: Niko means smile in Japanese.
@@ -44,7 +44,7 @@ The Niko-niko must follow some principles:
 * The moods should be observed during the next day’s [daily meeting](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html))
 * The manager / team leader / scrum master should try to understand and treat “abnormality”, good or bad: a common bad day shared by the whole team, a person that is constantly happy while the rest of the team is unhappy and vice-versa, a general deterioration of the team’s mood, a shared “happy” mood even if the project isn’t good wel…
 
-<img class="right" src="/images/posts/sad.gif" alt="Sad worker">
+<img src="/images/posts/sad.gif" alt="Sad worker">
 
 In concrete terms, to use the Niko-niko method, you can build [your own Niko-niko calendar](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html) with a daily calendar and a stack of color stickers. Or [choose to use an online tool](https://www.teammood.com/en/Niko-Niko/) if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.
 

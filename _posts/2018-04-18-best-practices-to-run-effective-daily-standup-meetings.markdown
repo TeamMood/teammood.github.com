@@ -56,7 +56,7 @@ During the Daily Meeting, each team member can select a task he or she feels lik
 
 One of the golden rules is: **the Daily Standup Meeting is a meeting for and by those who are committed**, who are really working on the project. The very aim of the Daily Meeting is to provide a space and time for teammates to discuss. They should be central to the meeting – if other people who are just “involved” (directors, stakeholders…) want to speak, they should wait for the end of the stand-up.
 
-<img class="center" src="http://www.implementingscrum.com/images/060911-scrumtoon.jpg" alt="Don't be the Chicken during the standup meetings">
+<img src="http://www.implementingscrum.com/images/060911-scrumtoon.jpg" alt="Don't be the Chicken during the standup meetings">
 
 ## 7 - The Scrum Master makes the connection with the outside
 

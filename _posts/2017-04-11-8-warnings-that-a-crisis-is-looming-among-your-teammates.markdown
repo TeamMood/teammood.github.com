@@ -31,7 +31,7 @@ Anyone can be  late now and then. But if it becomes an everyday occurrence, then
 
 ### 3. Abnormal sick leave
 
-<img class="right" src="/images/posts/sick-leave.jpg">
+<img src="/images/posts/sick-leave.jpg">
 
 Conflict in the workplace is an huge source of stress. If left to fester, this stress can cause a variety of illnesses and medical conditions: increased rates of heart attack, hypertension, and even burnouts. Indeed, according to a study conducted among employees in North America in 2016, [31 percent of respondents reported that work relationships were a source of stress](https://www.statista.com/statistics/315848/employee-stress-sources-at-work-in-north-america/).
 
@@ -43,7 +43,7 @@ If team members are not showing up to meetings, if they are reluctant to partici
 
 ### 5. Lack of cooperation and exclusion
 
-<img class="right" src="/images/posts/exclusion.jpg">
+<img src="/images/posts/exclusion.jpg">
 
 Teammates who are reluctant to work together are probably having some interpersonal problems. Conflict can even bring people together in factions against individuals they see as causing problems in the workplace. Behaviors such as sitting in cliques at coffee or lunch breaks, or ‘secretly’ arranging gatherings to which a few specific people are not invited, should warn the manager that something is off within the team and make him or her react quickly to avoid escalation.
 
@@ -59,7 +59,7 @@ If staff turnover is high, whether it be due to  resignation or transfer request
 
 ### 8. Formal complaints
 
-<img class="right" src="/images/posts/formal-complaint.jpg">
+<img src="/images/posts/formal-complaint.jpg">
 
 If unresolved, conflict between employees can lead to workmates  filing complaints and holding grudges  against each other. And rest assured that investigations, disciplinary proceedings and adjudications don’t bring people together - they just drive people further apart.
 

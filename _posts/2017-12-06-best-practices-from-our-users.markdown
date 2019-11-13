@@ -25,7 +25,7 @@ Another client of ours also started to share daily the results from the previous
 
 TeamMood doesn’t have to be all serious.
 
-<img class="right" src="/images/posts/laughing.jpg">
+<img src="/images/posts/laughing.jpg">
 
 One of our clients, [GuestOnline](https://www.guestonline.io/), created a game based on TeamMood’s results. At the end of some particularly long meetings, to relax everyone, they share some of the comments from TeamMood and make a quiz ‘guess who wrote this comment’. They also invented a variant to this game at the end of summer, with holiday pictures.
 
@@ -33,7 +33,7 @@ One of our clients, [GuestOnline](https://www.guestonline.io/), created a game b
 
 ### Improving retrospectives
 
-<img class="right" src="/images/posts/postits.jpg">
+<img src="/images/posts/postits.jpg">
 
 
 [Running retrospectives](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html) with your teammates on a regular basis is crucial to learn from past mistakes and try to do better. That’s why the best companies take the time to review past projects, analyse what went wrong or could be improved upon, and share new ideas.

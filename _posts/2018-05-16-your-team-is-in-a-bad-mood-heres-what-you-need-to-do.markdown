@@ -15,7 +15,7 @@ So, if a bad situation arises, here is what you need to do.
 
 If you feel some tension among team members, unspoken issues or a general growing discontent, you need to understand where it’s coming from. Small quarrels or disagreements are usually fueled by a deeper issue. 
 
-<img class="right" src="/images/posts/why.gif" alt="Chicken and pigs">
+<img src="/images/posts/why.gif" alt="Chicken and pigs">
 
 Is there a stressful deadline coming up? Were there a change in the strategic orientation of the product? Is the company to be going through a bad patch? A specific individual driving everyone’s morale down?
 
@@ -39,7 +39,7 @@ You have different options here: you can choose to discuss the solution in a tea
 
 Studies show that **<a href="http://www.snacknation.com/blog/employee-happiness/">close work friendships</a> boost employee satisfaction by 50%** and that people with a **best friend at work are 7 times more likely to engage fully in their work**.
 
-<img class="right" src="/images/posts/friends-tv-show.jpg" alt="Chicken and pigs">
+<img src="/images/posts/friends-tv-show.jpg" alt="Chicken and pigs">
 
 As a manager, if you want your team to work hard and get results, you need to create the perfect environment. Of course, you can’t force your team members to become friends. But you can create the conditions for people to bond: team afterwork at the end of the sprint, lunch break together once in a while, team building activities...
 

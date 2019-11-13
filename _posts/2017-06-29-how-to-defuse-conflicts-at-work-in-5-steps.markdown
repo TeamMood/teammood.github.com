@@ -13,7 +13,7 @@ Conflicts are sensitive subjects for most people, whether they fight it or decid
 
 Let’s take an example. You’ve recently been hired to handle a 2-year project that just started. The team seems nice overall, but you feel some resistance from one of the members – let’s call him Alex. Rumours warn you that this person was actually seeking this position, but even if he was showing a lot of enthusiasm, the management decided he wasn’t senior enough so his application was turned down. How do you handle it?
 
-<img class="right" src="/images/posts/handshake.jpg">
+<img src="/images/posts/handshake.jpg">
 
 ### 1 - Talk about the conflict
 

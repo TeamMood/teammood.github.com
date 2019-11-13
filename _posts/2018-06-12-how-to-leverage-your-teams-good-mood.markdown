@@ -17,7 +17,7 @@ Have you recently noticed a sudden change of mood or is the situation more or le
 
 Half a century ago, American researcher and professor of educational psychology Bruce Wayne Tuckman developed a theory of group dynamics, published in his article [Developmental sequence in small groups](http://psycnet.apa.org/record/1965-12187-001). According to the Tuckman’s theory of group development, every group grows through 4 phases: Forming, Storming, Norming, Performing and Adjourning. These phases are necessary and inevitable in order for the team to grow, face up to challenges, tackle problems, find solutions, plan work, and deliver results. They are usually followed by a fifth phase named “Adjourning”, that involves completing the task and breaking up the team, paving the way for a new exciting project to come.
 
-<img class="center" src="/images/posts/tuckman_s_stages_of_development.png" alt="Tuckman's Stages of Development">
+<img src="/images/posts/tuckman_s_stages_of_development.png" alt="Tuckman's Stages of Development">
 *Source: http://margarethillary.com/team-work/*
 
  

@@ -12,7 +12,7 @@ redirect_from: "/blog/2013/04/21/what-is-the-niko-niko/"
 
 The [Niko-niko calendar](/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html) is an Agile practice which aims to detect patterns of change of mood of a team over time.
 
-<img class="right" src="/images/posts/niko-niko.jpg" alt="An example of Niko-niko calendar">
+<img src="/images/posts/niko-niko.jpg" alt="An example of Niko-niko calendar">
 
 The technic is very easy: at the end of the day, each team member paste a sticker on a calendar to tell if he had a good day at work.
 <!--base32-9nqq4t8-base32-->

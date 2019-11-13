@@ -23,7 +23,7 @@ Don’t worry, you can still keep all stakeholders in the loop and send them the
 
 ## 3\.&nbsp;**…and let attendees leave the meeting if they don’t feel useful**
 
-<img class="right" src="/images/posts/leave-meeting.gif" alt="Goodbye">
+<img src="/images/posts/leave-meeting.gif" alt="Goodbye">
 
 Even if you’ve carefully prepared the list of participants to the meeting, some of them may feel out of place anyway. After all, to err is human. To avoid wasting their time, make it a rule in your company that **attendees can leave a meeting at any time,** without having to explain themselves. Those who decide to stay will feel all the more involved.
 
@@ -43,7 +43,7 @@ The human brain is not able to absorb loads of information all at once. If you w
 
 The attendees’ time is precious. Don’t make them waste it by waiting for the meeting to start. Those who are punctual will appreciate starting on time, and the latecomers will learn their lesson for the next meeting. Likewise, make an effort to honor people’s busy schedule by ending on time, even if a conclusion hasn’t been made on a topic. You can either discuss it later with the appropriate person or schedule a meeting if the matter requires it.
 
-<img class="center" src="/images/posts/time.gif" alt="Watch">
+<img src="/images/posts/time.gif" alt="Watch">
 
 But try to understand why the meeting was too short, in order to improve it next time. Running meetings is like anything else, you won’t get it right on the first time, it needs to improve over time.
 
@@ -51,7 +51,7 @@ But try to understand why the meeting was too short, in order to improve it next
 
 If you want to keep your meeting short and efficient, one-on-one discussions must happen outside. Don’t let debates or technical discussions between two people happen in the middle of the meeting at the risk of boring all the other attendees. If the focus deviates, kindly invite the participants to get back on track.&nbsp;
 
-<img class="right" src="/images/posts/no-cellphones.gif" alt="No cell phones">
+<img src="/images/posts/no-cellphones.gif" alt="No cell phones">
 
 ## ​​​​​​​9.&nbsp;**Forbid cell-phones and computers**
 

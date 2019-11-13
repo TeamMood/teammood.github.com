@@ -28,7 +28,7 @@ module Jekyll
             src = "https://blog.teammood.com" + image['src']
           end
 
-          puts 'img src = ' + src
+          # puts 'img src = ' + src
 
           # Jekyll generates static assets after the build process.
           # This causes problems when trying to determine the dimensions of a locally stored image.

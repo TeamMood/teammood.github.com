@@ -9,7 +9,7 @@ excerpt: >-
 keywords: improve mood workplace
 ---
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQYV2NYtWrVfwAG/gL+NbCogwAAAABJRU5ErkJggg==){: .cms-image-placeholder}Your team’s mood depends on hundreds of criteria – many of whom you can’t control. But some simple gimmicks can lighten the mood and generate a better spirit in the long term, with little investment from your part.&nbsp;
+Your team’s mood depends on hundreds of criteria – many of whom you can’t control. But some simple gimmicks can lighten the mood and generate a better spirit in the long term, with little investment from your part.&nbsp;
 
 Here are some **simple and concrete ways to improve your team’s mood**.
 

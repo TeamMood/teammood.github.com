@@ -13,8 +13,6 @@ keywords: 'Scrum, Agile, Interview, REX, experience'
 
 *Former startupper, [Gregoire](https://www.linkedin.com/in/gregoiredepins/){: target="_blank"} started working in digital 6 years ago. Since the closing of his startup Sharette (in 2016), he’s offering his services as a freelance consultant, sharing the experience he gained with small and medium-sized companies, and even big corporations: Open Innovation programs, Scrum/Agile coaching, digital marketing strategy (acquisition funnel, SEO, SEA, …).*
 
-![](blob:https://app.cloudcannon.com/1b660950-5780-4ac0-999c-1c88978379db)
-
 ## Exploring Agile
 
 I discovered Agile methods and more specifically Scrum when I launched my startup in 2012. Like everyone else, I had heard of it. But like everyone else, I didn’t really get it.

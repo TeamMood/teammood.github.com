@@ -62,6 +62,8 @@ Assumptions can be a huge waste of your time. When your intuitions about the wor
 
 <center>*****</center>
 
+<center>&nbsp;</center>
+
 With his book [The 4-hour workweek](https://fourhourworkweek.com/), Tim Ferris has taken the idea of cutting working hours a step further. In this best-seller, the American entrepreneur defends a lifestyle of *“living more and working less.”* But this ideal of a 4-hour workweek actually goes back to the last century.&nbsp;
 
 In his 1932 essay, “In Praise of Idleness”, British philosopher Bertrand Russel reckoned that if society were better managed the average person would only need to work four hours a day. Such a small working day would *“entitle a man to the necessities and elementary comforts of life.”* The rest of the day could be devoted to the pursuit of science, painting, and writing.

@@ -1,14 +1,11 @@
 ---
 title: Less is more – how working less results in a higher productivity
-date: 2019-10-23 11:00:00
+date: 2019-11-25 11:00:00
 layout: post
-image: images/headers/undraw_Group_chat_unwm.png
-excerpt: >-
-  Scrum comes with some ceremonies, such as the retros. One question often asked
-  is who should attend to the retrospectives?
-keywords: 'retrospectives, scrum, remote team, team'
-canonical_url: >-
-  https://blog.funretro.io/who-should-and-should-not-be-included-in-a-sprint-retrospective/
+image: /images/headers/Less-is-more-teammood.jpg
+excerpt: Working fewer hours can actually result in a higher productivity
+keywords: 'work-life balance, productivity'
+canonical_url:
 ---
 
 In a world ruled by economics, the cult of productivity is omnipresent in most companies. Productivity gurus share their rules, hacks and morning routines to newbies eager to better manage their time. Days are sliced into time slots and carefully monitored. But what if the solution was simply to work fewer hours?&nbsp;
@@ -69,4 +66,4 @@ In his 1932 essay, “In Praise of Idleness”, British philosopher Bertrand Rus
 
 Some people say that robots are going to replace most jobs in companies. Are the coming decades going to see the end of work as we know it? Only the future will tell. Until them, it’s up to you (or your company) to preserve [a good work-life balance – like we did at TeamMood](https://www.teammood.com/en/about/).
 
-<small><em>Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)</em><small>
+<small><em>Photo by <a href="https://unsplash.com/@giulia_bertelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Giulia Bertelli</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

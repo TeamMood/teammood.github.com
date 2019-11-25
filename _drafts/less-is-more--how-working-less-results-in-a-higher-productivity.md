@@ -69,4 +69,4 @@ In his 1932 essay, “In Praise of Idleness”, British philosopher Bertrand Rus
 
 Some people say that robots are going to replace most jobs in companies. Are the coming decades going to see the end of work as we know it? Only the future will tell. Until them, it’s up to you (or your company) to preserve [a good work-life balance – like we did at TeamMood](https://www.teammood.com/en/about/).
 
-Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+<small><em>Photo by [Giulia Bertelli](https://unsplash.com/@giulia_bertelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)</em><small>

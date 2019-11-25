@@ -20,6 +20,8 @@ According to [OECD’s last statistics](https://stats.oecd.org/Index.aspx?DataSe
 * US: -46 hours&nbsp;
 * France: -38 hours&nbsp;
 
+<a href="https://www.teammood.com/"><img src="/images/posts/Average-annual-hours-actually-worked-per-worker.png" alt="Average annual hours actually worked per worker in OECD countries"></a>
+
 &nbsp;
 
 What is striking in this graph is the difference in hours worked among countries, and how this relates to economic growth. According to OECD data, across the world’s richest countries, higher productivity correlates with lower working hours.&nbsp;
@@ -60,7 +62,7 @@ Energy management, as opposed to time management, forces you to think of results
 
 Assumptions can be a huge waste of your time. When your intuitions about the world don’t match the way it works, you can never be efficient. The only way to combat false assumptions is to test them and follow them up with numbers. For instance, you can A/B test 2 methods or version of the same product/website/ newsletter…
 
-\*\*\*\*\*
+<center>\*\*\*\*\*</center>
 
 With his book [The 4-hour workweek](https://fourhourworkweek.com/), Tim Ferris has taken the idea of cutting working hours a step further. In this best-seller, the American entrepreneur defends a lifestyle of *“living more and working less.”* But this ideal of a 4-hour workweek actually goes back to the last century.&nbsp;
 

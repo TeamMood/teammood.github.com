@@ -1,6 +1,6 @@
 ---
 title: Less is more – how working less results in a higher productivity
-date: 2019-11-25 11:00:00
+date: 2019-11-26 11:00:00
 layout: post
 image: /images/headers/Less-is-more-teammood.jpg
 excerpt: Working fewer hours can actually result in a higher productivity
@@ -68,6 +68,6 @@ With his book [The 4-hour workweek](https://fourhourworkweek.com/), Tim Ferris h
 
 In his 1932 essay, “In Praise of Idleness”, British philosopher Bertrand Russel reckoned that if society were better managed the average person would only need to work four hours a day. Such a small working day would *“entitle a man to the necessities and elementary comforts of life.”* The rest of the day could be devoted to the pursuit of science, painting, and writing.
 
-Some people say that robots are going to replace most jobs in companies. Are the coming decades going to see the end of work as we know it? Only the future will tell. Until them, it’s up to you (or your company) to preserve [a good work-life balance – like we did at TeamMood](https://www.teammood.com/en/about/).
+Some people say that robots are going to replace most jobs in companies. Are the coming decades going to see the end of work as we know it? Only the future will tell. Until them, it’s up to you (or your company) to preserve [a good work-life balance – as we did at TeamMood](https://www.teammood.com/en/about/).
 
 <small><em>Photo by <a href="https://unsplash.com/@giulia_bertelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Giulia Bertelli</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

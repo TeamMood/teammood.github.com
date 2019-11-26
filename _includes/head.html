@@ -21,8 +21,6 @@
   <!--Favicon-->
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-
   {% seo %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">

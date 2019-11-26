@@ -8,7 +8,7 @@ keywords: 'work-life balance, productivity'
 canonical_url:
 ---
 
-In a world ruled by economics, the cult of productivity is omnipresent in most companies. Productivity gurus share their rules, hacks and morning routines to newbies eager to better manage their time. Days are sliced into time slots and carefully monitored. But what if the solution was simply to work fewer hours?&nbsp;
+In a world ruled by economics, the cult of productivity is omnipresent in most companies. Productivity gurus share their rules, hacks and morning routines to newbies eager to better manage their time. Days are sliced into time slots and carefully monitored. But what if the solution was simply to work fewer hours?
 
 *“A shorter working week could improve our mental and physical health,''* [research shows](https://www.economist.com/free-exchange/2013/09/24/get-a-life). And this is far from being a novelty. At the beginning of the XXth century, Ford’s original workers were found less productive working more than 40 hours a week – a situation likely to be even more the case for people who work with knowledge rather manually. When you think about it, whoever had their best ideas when they were exhausted?
 

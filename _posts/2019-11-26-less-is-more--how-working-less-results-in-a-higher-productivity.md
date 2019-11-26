@@ -2,7 +2,7 @@
 title: Less is more – how working less results in a higher productivity
 date: 2019-11-26 11:00:00
 layout: post
-image: images/headers/Less-is-more-teammood.jpg
+image: /uploads/Less-is-more-teammood-.jpeg
 excerpt: Working fewer hours can actually result in a higher productivity
 keywords: 'work-life balance, productivity'
 canonical_url:

@@ -12,7 +12,7 @@ In a world ruled by economics, the cult of productivity is omnipresent in most c
 
 *“A shorter working week could improve our mental and physical health,''* [research shows](https://www.economist.com/free-exchange/2013/09/24/get-a-life). And this is far from being a novelty. At the beginning of the XXth century, Ford’s original workers were found less productive working more than 40 hours a week – a situation likely to be even more the case for people who work with knowledge rather manually. When you think about it, whoever had their best ideas when they were exhausted?
 
-## **Stats: 37-Hour Workweeks For OECD Workers**
+## **Stats: 37-Hour Workweeks For OECD Workers&nbsp;**
 
 According to [OECD’s last statistics](https://stats.oecd.org/Index.aspx?DataSetCode=ANHRS#), their members’ average number of hours worked per year has dropped from 1804 in 2000 to 1734 hours in 2018. And apart from one exception (Lithuania), every country has followed the same path, but in different proportions. For instance:
 

@@ -1,5 +1,5 @@
 ---
-title: Less is more – how working less results in a higher productivity
+title: Less Is More – How Working Less Results In A Higher Productivity
 date: 2019-11-26 11:00:00
 layout: post
 image: /uploads/Less-is-more-teammood-.jpeg
@@ -12,7 +12,7 @@ In a world ruled by economics, the cult of productivity is omnipresent in most c
 
 *“A shorter working week could improve our mental and physical health,''* [research shows](https://www.economist.com/free-exchange/2013/09/24/get-a-life). And this is far from being a novelty. At the beginning of the XXth century, Ford’s original workers were found less productive working more than 40 hours a week – a situation likely to be even more the case for people who work with knowledge rather manually. When you think about it, whoever had their best ideas when they were exhausted?
 
-## **Stats: 37-hour workweeks for OECD workers**
+## **Stats: 37-Hour Workweeks For OECD Workers**
 
 According to [OECD’s last statistics](https://stats.oecd.org/Index.aspx?DataSetCode=ANHRS#), their members’ average number of hours worked per year has dropped from 1804 in 2000 to 1734 hours in 2018. And apart from one exception (Lithuania), every country has followed the same path, but in different proportions. For instance:
 
@@ -28,7 +28,7 @@ Let’s dive into the situation in the United States, where the number of annual
 
 Although a 40-hour workweek is widely regarded as the standard for full-time employment in the United-States, 42% of American workers stated that they **work 45 hours a week or more** in [the last Gallup Work & Workplace poll](https://news.gallup.com/poll/1720/Work-Work-Place.aspx). But is it really a problem?
 
-## **The logic behind a shorter workweek**
+## **The Logic Behind A Shorter Workweek**
 
 Economists have suspected for some time that longer work hours could eat into productivity. John Hicks, a British economist, reckoned that *“it has probably never entered the heads of most employers… that hours could be shortened and output maintained.”* But the fact is that with longer hours, output per hour inevitably falls. Do you still doubt it? Examples are legion:
 
@@ -40,7 +40,7 @@ So, how can we explain such an increase in productivity when working fewer hours
 
 *"Work a short time, rest well and learn a lot. It's necessary to have an environment that allows you to feel your purpose in life and make a greater impact at work,"&nbsp;*[said Microsoft Japan president and CEO Takuya Hirano](https://www.economist.com/free-exchange/2013/09/24/get-a-life). *"I want employees to think about and experience how they can achieve the same results with 20 percent less working time."*
 
-## **Working less and better**
+## **Working Less And Better**
 
 As blogger Scott H Young said, *“Working smart beats working hard.”* Here are a few of [Scott’s tips to get more accomplished without increasing your to-do list](https://www.lifehack.org/articles/featured/6-rules-to-work-less-and-get-more-accomplished.html)\:&nbsp;
 

@@ -1,5 +1,5 @@
 ---
-title: Who should and should not be included in a sprint retrospective
+title: Who Should And Should Not Be Included In A Sprint Retrospective
 date: 2019-10-23 11:00:00
 layout: post
 image: images/headers/undraw_Group_chat_unwm.png
@@ -7,7 +7,8 @@ excerpt: >-
   Scrum comes with some ceremonies, such as the retros. One question often asked
   is who should attend to the retrospectives?
 keywords: 'retrospectives, scrum, remote team, team'
-canonical_url: 'https://blog.funretro.io/who-should-and-should-not-be-included-in-a-sprint-retrospective/'
+canonical_url: >-
+  https://blog.funretro.io/who-should-and-should-not-be-included-in-a-sprint-retrospective/
 ---
 
 If run well, a sprint retrospective can help the project team identify areas for improvement for individual roles as well as discuss how to work better as a team. If run poorly, the meeting can turn into a bashing session which ultimately results in missed opportunities for growth.

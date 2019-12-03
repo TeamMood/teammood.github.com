@@ -82,4 +82,4 @@ By using a [tool](https://www.teammood.com/en/agile-retrospective-tools-ideas/) 
 
 An information radiator culture can improve collaboration within the team, with other Scrum teams, and other parts of the organization. It can also help the Agile team adopt deeper ownership of its processes, of its decisions, and of the product. So, what are you waiting for?
 
-*Photo by&nbsp;[Jo Szczepanska](https://unsplash.com/@joszczepanska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*
+<small>*Photo by&nbsp;[Jo Szczepanska](https://unsplash.com/@joszczepanska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*</small>

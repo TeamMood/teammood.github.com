@@ -68,6 +68,8 @@ Gathering regular feedback from a heterogeneous Scrum team located in different 
 
 By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!
 
+<a class="button" target="_blank" href="https://app.teammood.com/signup/">Visualize your team’s health and boost your information radiator!</a>
+
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 
 In Agile teams, there is a time when everyone gathers to evaluate the past sprint, the good and the bad, in order to make some changes for the next one: it’s the [sprint retrospective](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html). Retrospectives are fundamental to Agile teams – and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work.&nbsp;

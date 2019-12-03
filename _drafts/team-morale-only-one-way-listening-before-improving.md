@@ -1,8 +1,8 @@
 ---
 title: 'Team Morale, Only One Way: Listening Before Improving'
-date: 2019-12-03 11:00:00
+date: 2019-12-03 00:00:00
 layout: post
-image: /uploads/information-radiator-teammood.jpg
+image: /uploads/team-morale-listening-teammood.jpg
 excerpt: >-
   An information radiator can be beneficial for your organization. Discover how
   to exploit its data in a Scrum team.
@@ -53,7 +53,7 @@ The Niko-Niko calendar helps quantify the well-being, morale, and motivation of 
 
 If you don’t want to build your own physical Niko-Niko calendar with a stack of color stickers, or if your team is working remotely, you can choose to use an online tool such as TeamMood. An online tool can also help you gather anonymous comments more easily, and provides statistics that can help you analyze trends.
 
-<a class="button" target="_blank" href="https://www.teammood.com/en/">Start measuring your team health today! </a>
+[Start measuring your team health today\!](https://www.teammood.com/en/){: .button target="_blank"}
 
 ## Improving Your Team Morale In The Long Term
 
@@ -97,4 +97,4 @@ Do you want more? We’ve listed a few extra ideas in [this article](https://blo
 
 Doing your best to improve your team morale can prove the best investment for the future. Don’t miss the coach\!
 
-<small>*Photo by&nbsp;[Amy Hirschi](https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*</small>
+<small><em>Photo by&nbsp;<a href="https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Amy Hirschi</a>&nbsp;on&nbsp;<a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

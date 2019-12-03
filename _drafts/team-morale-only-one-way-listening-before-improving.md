@@ -1,12 +1,12 @@
 ---
 title: 'Team Morale, Only One Way: Listening Before Improving'
-date: 2019-12-03 00:00:00
+date: 2019-12-03 11:00:00
 layout: post
 image: /uploads/team-morale-listening-teammood.jpg
 excerpt: >-
-  An information radiator can be beneficial for your organization. Discover how
-  to exploit its data in a Scrum team.
-keywords: 'information radiator, Agile, scrum'
+  Team morale is crucial in terms of productivity and retention. Learn how to
+  measure it and leverage it.
+keywords: team morale
 canonical_url:
 ---
 

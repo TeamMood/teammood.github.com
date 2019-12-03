@@ -10,8 +10,6 @@ keywords: 'information radiator, Agile, scrum'
 canonical_url:
 ---
 
-&nbsp;
-
 Are you worried about your team morale? Would you like to do something about it and improve its productivity? You’re in luck\!
 
 In this article, we will explain how to identify the issues at the bottom of low team morale and how to turn the tide. Are you ready for some introspection?
@@ -54,10 +52,6 @@ The Niko-Niko calendar helps quantify the well-being, morale, and motivation of 
 ### \#3 Using An Automated Tool Such As TeamMood
 
 If you don’t want to build your own physical Niko-Niko calendar with a stack of color stickers, or if your team is working remotely, you can choose to use an online tool such as TeamMood. An online tool can also help you gather anonymous comments more easily, and provides statistics that can help you analyze trends.
-
-&nbsp;
-
-&lt;a class="button" target="\_blank" href="https://www.teammood.com/en/"&gt;Start measuring your team health today! &lt;/a&gt;
 
 ## Improving Your Team Morale In The Long Term
 

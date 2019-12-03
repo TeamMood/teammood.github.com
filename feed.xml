@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Dec 2019 15:05:24 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Dec 2019 15:05:24 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Dec 2019 15:07:06 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Dec 2019 15:07:06 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -71,7 +71,9 @@
 
 &lt;p&gt;By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results!&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;button&quot; target=&quot;_blank&quot; href=&quot;https://app.teammood.com/signup/&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://app.teammood.com/signup/&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
 
 &lt;h2 id=&quot;3-information-radiator-in-scrum-enhanced-retrospectives&quot;&gt;3. Information Radiator In Scrum: Enhanced Retrospectives&lt;/h2&gt;
 

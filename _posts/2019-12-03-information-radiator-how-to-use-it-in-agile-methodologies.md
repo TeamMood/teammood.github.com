@@ -68,7 +68,9 @@ Gathering regular feedback from a heterogeneous Scrum team located in different 
 
 By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!
 
-<a class="button" target="_blank" href="https://app.teammood.com/signup/">Visualize your team’s health and boost your information radiator!</a>
+[Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup/){: .button target="_blank"}
+
+&nbsp;
 
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 

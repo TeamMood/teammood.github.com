@@ -97,4 +97,4 @@ Do you want more? We’ve listed a few extra ideas in [this article](https://blo
 
 Doing your best to improve your team morale can prove the best investment for the future. Don’t miss the coach\!
 
-*Photo by&nbsp;[Amy Hirschi](https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*
+<small>*Photo by&nbsp;[Amy Hirschi](https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*</small>

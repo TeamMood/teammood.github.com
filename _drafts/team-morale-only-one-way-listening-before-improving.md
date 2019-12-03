@@ -53,6 +53,8 @@ The Niko-Niko calendar helps quantify the well-being, morale, and motivation of 
 
 If you don’t want to build your own physical Niko-Niko calendar with a stack of color stickers, or if your team is working remotely, you can choose to use an online tool such as TeamMood. An online tool can also help you gather anonymous comments more easily, and provides statistics that can help you analyze trends.
 
+<a class="button" target="_blank" href="https://www.teammood.com/en/">Start measuring your team health today! </a>
+
 ## Improving Your Team Morale In The Long Term
 
 If a one-of survey can help solve a specific situation, gathering regular feedback from your collaborators is key to continuously improve your team morale. Indeed, the situation is bound to evolve over time. A deadline moved forward, a change in the organization or a set-back in the project can destabilize the team members.&nbsp;

@@ -15,7 +15,7 @@ You are convinced that representing project key information in an information ra
 Table of content:
 
 * Information radiator: definition in Agile methodology
-* Information radiator: examples
+* The benefits of implementing an information radiator
 * Information radiator in Scrum: enhanced retrospectives
 
 ## 1\. Information Radiator: Definition In Agile Methodology
@@ -66,9 +66,9 @@ One of the elements that can be included in the information radiator, more speci
 
 Gathering regular feedback from a heterogeneous Scrum team located in different sites, or even partially working on remote, can be a real challenge. The key is to adapt to the team and let each individual express him/herself at the most appropriate time for him/her.
 
-By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results!
+By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!
 
-<a class="button" target="_blank" href="https://app.teammood.com/signup/">Visualize your team’s health and boost your information radiator!</a>
+[Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup/){: .button target="_blank"}
 
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 

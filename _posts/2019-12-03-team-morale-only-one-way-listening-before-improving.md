@@ -8,6 +8,8 @@ excerpt: >-
   measure it and leverage it.
 keywords: team morale
 canonical_url:
+redirect_from: "/2019/12/03/team-morale-only-one-way-listening-before-improving.html"
+permalink: "/2019/12/03/team-morale"
 ---
 
 Are you worried about your team morale? Would you like to do something about it and improve its productivity? You’re in luck\!

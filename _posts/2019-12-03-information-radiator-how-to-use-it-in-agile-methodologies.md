@@ -17,8 +17,8 @@ You are convinced that representing project key information in an information ra
 Table of content:
 
 * [Information radiator: definition in Agile methodology](#information-radiator-definition)
-* [Information radiator: the benefits](information-radiator-benefits)
-* [Information radiator in Scrum: enhanced retrospectives](information-radiator-in-scrum)
+* [Information radiator: the benefits](#information-radiator-benefits)
+* [Information radiator in Scrum: enhanced retrospectives](#information-radiator-in-scrum)
 
 ## 1\. Information Radiator: Definition In Agile Methodology
 

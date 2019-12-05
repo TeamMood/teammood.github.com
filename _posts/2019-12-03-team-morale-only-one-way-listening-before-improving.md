@@ -23,6 +23,8 @@ Table of content:
 * [Improving your team morale in the long term](#improving-team-morale)
 * [Team morale boosters: best off \!](#team-moral-boosters)
 
+<a name="team-morale-definition"></a>
+
 ## Team Morale: Definition
 
 Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure.&nbsp;
@@ -30,6 +32,8 @@ Happy is the new rich. The culture of happiness has invaded our lives, pressurin
 If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
 
 Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is [looming among your teammates](https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html){: target="_blank"}, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.
+
+<a name="team-morale-survey"></a>
 
 ## Team Morale: Survey Your Team Members To Identify Issues&nbsp;
 
@@ -57,11 +61,15 @@ If you don’t want to build your own physical Niko-Niko calendar with a stack o
 
 [Start measuring your team health today\!](https://www.teammood.com/en/){: .button target="_blank"}
 
+<a name="improving-team-morale"></a>
+
 ## Improving Your Team Morale In The Long Term
 
 If a one-of survey can help solve a specific situation, gathering regular feedback from your collaborators is key to continuously improve your team morale. Indeed, the situation is bound to evolve over time. A deadline moved forward, a change in the organization or a set-back in the project can destabilize the team members.&nbsp;
 
 Moreover, by measuring team morale over time, you can measure the impact of past optimizations, and verify whether they were useful, or if you need to change them.&nbsp;
+
+<a name="team-moral-boosters"></a>
 
 ## Team Morale Boosters: Best Off&nbsp;
 

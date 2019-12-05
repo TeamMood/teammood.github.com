@@ -29,7 +29,7 @@ If information radiators can be displayed in various formats (handwritten, drawn
 
 Information radiators help boost feedback and communication, empower teams and focus on results. In addition to the information itself, the use of an information radiator conveys 2 main messages: the team has nothing to hide to itself nor to visitors (customers, stakeholders, …).
 
-To be useful, the information radiator must apply the following best practices:
+To be useful, the information radiator must apply the following **best practices**\:
 
 ### Accurate Information
 
@@ -71,7 +71,7 @@ One of the elements that can be included in the information radiator, more speci
 
 <small><em>Image by&nbsp;<a target="_blank" href="https://pixabay.com/fr/users/AbsolutVision-6158753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107">Gino Crescoli</a>&nbsp;from&nbsp;<a target="_blank" href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107">Pixabay</a></em></small>
 
-Gathering regular feedback from a heterogeneous Scrum team located in different sites, or even partially working on remote, can be a real challenge. The key is to adapt to the team and let each individual express him/herself at the most appropriate time for him/her.
+**Gathering regular feedback** from a heterogeneous Scrum team located in different sites, or even partially working on remote, can be a real challenge. The key is to adapt to the team and let each individual express him/herself at the most appropriate time for him/her.
 
 By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!
 

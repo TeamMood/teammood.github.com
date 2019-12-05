@@ -17,10 +17,8 @@ You are convinced that representing project key information in an information ra
 Table of content:
 
 * [Information radiator: definition in Agile methodology](#information-radiator-definition)
-* Information radiator: the benefits&nbsp;
-* Information radiator in Scrum: enhanced retrospectives
-
-<a name="information-radiator-definition"></a>
+* [Information radiator: the benefits](information-radiator-benefits)
+* [Information radiator in Scrum: enhanced retrospectives](information-radiator-in-scrum)
 
 ## 1\. Information Radiator: Definition In Agile Methodology
 
@@ -68,7 +66,7 @@ The most classical information present in an information radiator is the progres
 
 One of the elements that can be included in the information radiator, more specifically in an Agile team, is the **team’s health**. Indeed, doing a regular [team health check](https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html){: target="_blank"} helps uncover underlying issues that could otherwise slow down the project.
 
-![](/uploads/information-radiator-checking-team-health-teammood.jpg){: width="1280" height="719"}
+![Team health check in information radiator](/uploads/information-radiator-checking-team-health-teammood.jpg "Team health check in information radiator"){: width="1280" height="719"}
 
 <small><em>Image by&nbsp;<a target="_blank" href="https://pixabay.com/fr/users/AbsolutVision-6158753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107">Gino Crescoli</a>&nbsp;from&nbsp;<a target="_blank" href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107">Pixabay</a></em></small>
 

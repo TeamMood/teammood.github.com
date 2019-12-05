@@ -27,7 +27,7 @@ Table of content:
 
 Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure.&nbsp;
 
-If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers from the University of Warwick in the UK have proven](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
+If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
 
 Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is [looming among your teammates](https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html){: target="_blank"}, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.
 
@@ -47,7 +47,7 @@ By understanding employee opinions, job satisfaction or dissatisfaction, and mot
 
 ### \#2 Measuring The Team Morale With A Niko-Niko
 
-The Niko Niko calendar, a.k.a. the smiley calendar or the happiness index is a [simple tool](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html) to measure team morale over time. It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it.&nbsp;
+The Niko Niko calendar, a.k.a. the smiley calendar or the happiness index is a [simple tool](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html){: target="_blank"} to measure team morale over time. It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it.&nbsp;
 
 The Niko-Niko calendar helps quantify the well-being, morale, and motivation of the team, and identify if something is going wrong.
 
@@ -81,7 +81,7 @@ Moreover, providing adequate training is a key argument for engaging and retaini
 
 ### \#3 Cultivate A Culture Of Gratitude
 
-Employees are more likely to thrive in a positive environment that values individuals and [cultivates a culture of gratitude](https://blog.teammood.com/2018/07/04/how-to-cultivate-a-workplace-culture-of-gratitude.html). Even in the toughest of times, most of us have something to be grateful for. Whether it’s a family back home that supports you or the latest achievement in your team, make sure that you appreciate what you have. By encouraging moments of reflection for your team, they will never lose sight of the positive things in their lives.
+Employees are more likely to thrive in a positive environment that values individuals and [cultivates a culture of gratitude](https://blog.teammood.com/2018/07/04/how-to-cultivate-a-workplace-culture-of-gratitude.html){: target="_blank"}. Even in the toughest of times, most of us have something to be grateful for. Whether it’s a family back home that supports you or the latest achievement in your team, make sure that you appreciate what you have. By encouraging moments of reflection for your team, they will never lose sight of the positive things in their lives.
 
 ### \#4 Encourage Real Lunch Breaks And Vacations (Or Even Sabbaticals)
 
@@ -91,12 +91,12 @@ Likewise, true vacation time – with no work email, no phone calls, no laptop o
 
 ### \#5 Limit Office Hours
 
-*“A shorter working week could improve our mental and physical health,’’* [research shows](https://www.economist.com/free-exchange/2013/09/24/get-a-life). By limiting office hours, you can help your team members meet a work-life balance, and improve their quality of life. By having more time to rest or do a hobby they like, your employees will feel a higher motivation for work, as well as improve their productivity and creativity.
+*“A shorter working week could improve our mental and physical health,’’* [research shows](https://www.economist.com/free-exchange/2013/09/24/get-a-life){: target="_blank"}. By limiting office hours, you can help your team members meet a work-life balance, and improve their quality of life. By having more time to rest or do a hobby they like, your employees will feel a higher motivation for work, as well as improve their productivity and creativity.
 
-Do you want more? We’ve listed a few extra ideas in [this article](https://blog.teammood.com/2018/09/26/10-easy-ways-to-improve-the-mood-in-the-workplace.html).&nbsp;
+Do you want more? We’ve listed a few extra ideas in [this article](https://blog.teammood.com/2018/09/26/10-easy-ways-to-improve-the-mood-in-the-workplace.html){: target="_blank"}.&nbsp;
 
 **Conclusion**
 
 Doing your best to improve your team morale can prove the best investment for the future. Don’t miss the coach\!
 
-<small><em>Photo by&nbsp;<a href="https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Amy Hirschi</a>&nbsp;on&nbsp;<a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>
+<small><em>Photo by&nbsp;<a target="_blank" href="https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Amy Hirschi</a>&nbsp;on&nbsp;<a target="_blank" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

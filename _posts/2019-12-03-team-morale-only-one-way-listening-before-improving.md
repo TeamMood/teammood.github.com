@@ -8,8 +8,8 @@ excerpt: >-
   measure it and leverage it.
 keywords: team morale
 canonical_url:
-redirect_from: "/2019/12/03/team-morale-only-one-way-listening-before-improving.html"
-permalink: "/2019/12/03/team-morale"
+redirect_from: /2019/12/03/team-morale-only-one-way-listening-before-improving.html
+permalink: /2019/12/03/team-morale
 ---
 
 Are you worried about your team morale? Would you like to do something about it and improve its productivity? You’re in luck\!
@@ -18,18 +18,18 @@ In this article, we will explain how to identify the issues at the bottom of low
 
 Table of content:
 
-* Team morale: Definition
-* Team morale: survey pour identifier
-* Team morale: improving dans le temps
-* Team morale: les booster toujours valables \!
+* [Team morale: definition](#team-morale-definition)
+* [Team morale: survey your team members to identify issues](#team-morale-survey)
+* [Improving your team morale in the long term](#improving-team-morale)
+* [Team morale boosters: best off \!](#team-moral-boosters)
 
 ## Team Morale: Definition
 
 Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure.&nbsp;
 
-If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers from the University of Warwick in the UK have proven](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf) that happy people are 12% more productive than usual, while unhappy workers are 10% less productive. [Good team morale can enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
+If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers from the University of Warwick in the UK have proven](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
 
-Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is [looming among your teammates](https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html), the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.
+Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is [looming among your teammates](https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html){: target="_blank"}, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.
 
 ## Team Morale: Survey Your Team Members To Identify Issues&nbsp;
 
@@ -47,7 +47,7 @@ By understanding employee opinions, job satisfaction or dissatisfaction, and mot
 
 ### \#2 Measuring The Team Morale With A Niko-Niko
 
-The Niko Niko calendar, a.k.a. the smiley calendar or the happiness index is a [simple tool to measure team morale over time](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html). It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it.&nbsp;
+The Niko Niko calendar, a.k.a. the smiley calendar or the happiness index is a [simple tool](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html) to measure team morale over time. It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it.&nbsp;
 
 The Niko-Niko calendar helps quantify the well-being, morale, and motivation of the team, and identify if something is going wrong.
 

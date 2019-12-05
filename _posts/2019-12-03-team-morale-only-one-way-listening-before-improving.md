@@ -28,7 +28,12 @@ Table of content:
 
 Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure.&nbsp;
 
-If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
+If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\:
+
+* improving employee productivity,
+* fostering collaboration among colleagues,
+* boosting employee creativity,
+* …&nbsp;
 
 Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is [looming among your teammates](https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html){: target="_blank"}, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.
 

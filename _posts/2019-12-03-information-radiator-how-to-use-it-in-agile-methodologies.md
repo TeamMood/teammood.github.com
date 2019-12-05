@@ -20,6 +20,8 @@ Table of content:
 * Information radiator: the benefits&nbsp;
 * Information radiator in Scrum: enhanced retrospectives
 
+<a name="information-radiator-definition"></a>
+
 ## 1\. Information Radiator: Definition In Agile Methodology
 
 An **information radiator** is a comprehensive display of key team information, openly shared with all team members and other stakeholders and continuously updated. It includes information such as the task board, the count of automated tests, the team velocity, incident reports, continuous integration status, the state of work packages, or the progress of the team.&nbsp;

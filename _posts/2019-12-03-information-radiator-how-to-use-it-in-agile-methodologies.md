@@ -4,8 +4,9 @@ date: 2019-12-03 11:00:00
 layout: post
 image: /uploads/information-radiator-teammood.jpg
 excerpt: >-
-  An information radiator can be beneficial for your organization. Discover how
-  to exploit its data in a Scrum team.
+  An information radiator can be beneficial for your organization. Learn the
+  information radiator best practices and discover how to exploit its data in a
+  Scrum team.
 keywords: 'information radiator, Agile, scrum'
 canonical_url:
 redirect_from: /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
@@ -19,8 +20,6 @@ Table of content:
 * [Information radiator: definition in Agile methodology](#information-radiator-definition)
 * [Information radiator: the benefits](#information-radiator-benefits)
 * [Information radiator in Scrum: enhanced retrospectives](#information-radiator-in-scrum)
-
-<a name="information-radiator-definition"></a>
 
 ## 1\. Information Radiator: Definition In Agile Methodology
 
@@ -52,8 +51,6 @@ Every team members and stakeholders are supposed to have access to the latest ve
 
 The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.
 
-<a name="information-radiator-benefits"></a>
-
 ## 2\. Information Radiator: The Benefits&nbsp;
 
 If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the **information radiator’s main benefits:**
@@ -79,8 +76,6 @@ Gathering regular feedback from a heterogeneous Scrum team located in different 
 By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!
 
 [Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup){: .button target="_blank"}
-
-<a name="information-radiator-in-scrum"></a>
 
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 

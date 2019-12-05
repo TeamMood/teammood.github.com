@@ -20,7 +20,7 @@ According to [OECD’s last statistics](https://stats.oecd.org/Index.aspx?DataSe
 * US: -46 hours&nbsp;
 * France: -38 hours&nbsp;
 
-[![Average annual hours actually worked per worker in OECD countries](/images/posts/Average-annual-hours-actually-worked-per-worker.png)](https://www.teammood.com/)
+[![Average annual hours actually worked per worker in OECD countries](/images/posts/Average-annual-hours-actually-worked-per-worker.png "Average annual hours actually worked per worker in OECD countries")](https://www.teammood.com/)
 
 What is striking in this graph is the difference in hours worked among countries, and how this relates to economic growth. According to OECD data, across the world’s richest countries, higher productivity correlates with lower working hours.&nbsp;
 

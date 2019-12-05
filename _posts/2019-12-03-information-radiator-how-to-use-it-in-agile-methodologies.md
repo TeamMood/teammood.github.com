@@ -73,13 +73,13 @@ One of the elements that can be included in the information radiator, more speci
 
 **Gathering regular feedback** from a heterogeneous Scrum team located in different sites, or even partially working on remote, can be a real challenge. The key is to adapt to the team and let each individual express him/herself at the most appropriate time for him/her.
 
-By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!
+By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!&nbsp;
 
 [Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup){: .button target="_blank"}
 
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 
-In Agile teams, there is a time when everyone gathers to evaluate the past sprint, the good and the bad, in order to make some changes for the next one: it’s the [sprint retrospective](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html){: target="_blank"}. Retrospectives are fundamental to Agile teams – and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work.&nbsp;
+In Agile teams, there is a time when everyone gathers to evaluate the past sprint, the good and the bad, in order to make some changes for the next one: it’s the sprint retrospective. Retrospectives are fundamental to Agile teams – and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work.&nbsp;
 
 Collecting precise information on every topic is crucial to fuel the discussions during the retrospective. Indeed, if you run Agile retrospectives every two to four weeks (depending on your Sprint length), remembering everything that happened during this timeframe can be quite the challenge. Scrum retrospectives that don’t lean on an information radiator recording events, feedback, ideas, and comments along the sprint tend to focus on the last few days. And a great part of its benefits gets lost.&nbsp;
 

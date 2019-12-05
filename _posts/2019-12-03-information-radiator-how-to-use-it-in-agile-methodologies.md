@@ -68,7 +68,7 @@ One of the elements that can be included in the information radiator, more speci
 
 ![](/uploads/information-radiator-checking-team-health-teammood.jpg){: width="1280" height="719"}
 
-*Image by&nbsp;[Gino Crescoli](https://pixabay.com/fr/users/AbsolutVision-6158753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107){: target="_blank"}&nbsp;from&nbsp;[Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107){: target="_blank"}*
+<small>*Image by&nbsp;[Gino Crescoli](https://pixabay.com/fr/users/AbsolutVision-6158753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107){: target="_blank"}&nbsp;from&nbsp;[Pixabay](https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2979107){: target="_blank"}*</small>
 
 Gathering regular feedback from a heterogeneous Scrum team located in different sites, or even partially working on remote, can be a real challenge. The key is to adapt to the team and let each individual express him/herself at the most appropriate time for him/her.
 

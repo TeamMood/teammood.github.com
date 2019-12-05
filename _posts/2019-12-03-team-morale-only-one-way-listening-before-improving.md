@@ -22,7 +22,7 @@ Table of content:
 * [Team morale: definition](#team-morale-definition)
 * [Team morale: survey your team members to identify issues](#team-morale-survey)
 * [Improving your team morale in the long term](#improving-team-morale)
-* [Team morale boosters: best off \!](#team-moral-boosters)
+* [Team morale boosters: best off](#team-moral-boosters)
 
 ## Team Morale: Definition
 

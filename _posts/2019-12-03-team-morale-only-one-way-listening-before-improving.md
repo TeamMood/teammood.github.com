@@ -24,8 +24,6 @@ Table of content:
 * [Improving your team morale in the long term](#improving-team-morale)
 * [Team morale boosters: best off](#team-moral-boosters)
 
-<a name="team-morale-definition"></a>
-
 ## Team Morale: Definition
 
 Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure.&nbsp;
@@ -33,8 +31,6 @@ Happy is the new rich. The culture of happiness has invaded our lives, pressurin
 If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"}\: improving employee productivity, fostering collaboration among colleagues, boosting employee creativity, …&nbsp;
 
 Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is [looming among your teammates](https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html){: target="_blank"}, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.
-
-<a name="team-morale-survey"></a>
 
 ## Team Morale: Survey Your Team Members To Identify Issues&nbsp;
 
@@ -44,15 +40,15 @@ Here are 3 methods you can implement in your team:
 
 ### \#1 Sending An Anonymous Survey
 
-Employee morale surveys can provide crucial feedback that can lead to measures being taken to increase employee well-being. They give everyone the opportunity to share comments about the company or their team. Surveys can help identify issues before they become a bigger problem.&nbsp;
+**Employee morale surveys** can provide crucial feedback that can lead to measures being taken to increase employee well-being. They give everyone the opportunity to share comments about the company or their team. Surveys can help identify issues before they become a bigger problem.&nbsp;
 
-Anonymous surveys are even more effective for introverts or any employee fearing to get reproved for their ideas or comments. Anonymity helps to collect more honest feedback.
+**Anonymous surveys** are even more effective for introverts or any employee fearing to get reproved for their ideas or comments. Anonymity helps to collect more honest feedback.
 
 By understanding employee opinions, job satisfaction or dissatisfaction, and motivation, you can improve employee well-being, boost team morale in the workplace, and foster a productive environment where your employees thrive.
 
 ### \#2 Measuring The Team Morale With A Niko-Niko
 
-The Niko Niko calendar, a.k.a. the smiley calendar or the happiness index is a [simple tool](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html){: target="_blank"} to measure team morale over time. It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it.&nbsp;
+The **Niko-Niko calendar**, a.k.a. the smiley calendar or the happiness index is a [simple tool](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html){: target="_blank"} to measure team morale over time. It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it.&nbsp;
 
 The Niko-Niko calendar helps quantify the well-being, morale, and motivation of the team, and identify if something is going wrong.
 
@@ -62,15 +58,11 @@ If you don’t want to build your own physical Niko-Niko calendar with a stack o
 
 [Start measuring your team health today\!](https://www.teammood.com/en/){: .button target="_blank"}
 
-<a name="improving-team-morale"></a>
-
 ## Improving Your Team Morale In The Long Term
 
 If a one-of survey can help solve a specific situation, gathering regular feedback from your collaborators is key to continuously improve your team morale. Indeed, the situation is bound to evolve over time. A deadline moved forward, a change in the organization or a set-back in the project can destabilize the team members.&nbsp;
 
 Moreover, by measuring team morale over time, you can measure the impact of past optimizations, and verify whether they were useful, or if you need to change them.&nbsp;
-
-<a name="team-moral-boosters"></a>
 
 ## Team Morale Boosters: Best Off&nbsp;
 
@@ -94,7 +86,7 @@ Employees are more likely to thrive in a positive environment that values indivi
 
 ### \#4 Encourage Real Lunch Breaks And Vacations (Or Even Sabbaticals)
 
-Your employees need to step away from their desks during the day. According to management professor Kimberly Elsbach, “staying inside, in the same location, is really detrimental to creative thinking.” Getting team members to take a coffee break, go for a walk, take a real lunch break or practice some sport will improve the overall team morale.&nbsp;
+Your employees need to step away from their desks during the day. According to management professor Kimberly Elsbach, *“staying inside, in the same location, is really detrimental to creative thinking.”* Getting team members to take a coffee break, go for a walk, take a real lunch break or practice some sport will improve the overall team morale.&nbsp;
 
 Likewise, true vacation time – with no work email, no phone calls, no laptop on the beach – can be a true booster of team morale.&nbsp;
 

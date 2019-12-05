@@ -45,9 +45,22 @@ plugins:
 - jekyll-assets
 - jekyll-paginate
 - jekyll-seo-tag
+- jekyll-webp
+
 social:
   name: TeamMood
   links:
     - https://twitter.com/teammood
     - https://www.facebook.com/teammood
     - https://www.linkedin.com/company/teammood/
+
+############################################################
+# Site configuration for the WebP Generator Plugin
+# https://github.com/sverrirs/jekyll-webp
+webp:
+  enabled: true
+  # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
+  img_dir: ["/images/posts","/uploads"]
+
+  # Whether to search in nested directories or not
+  nested: true

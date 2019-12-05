@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Dec 2019 10:05:27 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Dec 2019 10:05:27 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2019 10:11:09 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2019 10:11:09 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -116,10 +116,12 @@
 &lt;p&gt;Table of content:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Information radiator: definition in Agile methodology&lt;/li&gt;
-  &lt;li&gt;The benefits of implementing an information radiator&lt;/li&gt;
-  &lt;li&gt;Information radiator in Scrum: enhanced retrospectives&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#information-radiator-definition&quot;&gt;Information radiator: definition in Agile methodology&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#information-radiator-benefits&quot;&gt;The benefits of implementing an information radiator&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#information-radiator-retrospectives&quot;&gt;Information radiator in Scrum: enhanced retrospectives&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a name=&quot;information-radiator-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;1-information-radiator-definition-in-agile-methodology&quot;&gt;1. Information Radiator: Definition In Agile Methodology&lt;/h2&gt;
 
@@ -151,6 +153,8 @@
 
 &lt;p&gt;The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;information-radiator-benefits&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;2-the-benefits-of-implementing-an-information-radiator&quot;&gt;2. The Benefits Of Implementing An Information Radiator&lt;/h2&gt;
 
 &lt;p&gt;If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the information radiator’s main benefits:&lt;/p&gt;
@@ -172,6 +176,8 @@
 &lt;p&gt;By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://app.teammood.com/signup/&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;information-radiator-retrospectives&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;3-information-radiator-in-scrum-enhanced-retrospectives&quot;&gt;3. Information Radiator In Scrum: Enhanced Retrospectives&lt;/h2&gt;
 

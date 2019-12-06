@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Dec 2019 12:03:38 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Dec 2019 12:03:38 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Dec 2019 13:43:27 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Dec 2019 13:43:27 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -136,8 +136,6 @@
   &lt;li&gt;&lt;a href=&quot;#information-radiator-in-scrum&quot;&gt;Information radiator in Scrum: enhanced retrospectives&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a name=&quot;information-radiator-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;1-information-radiator-definition-in-agile-methodology&quot;&gt;1. Information Radiator: Definition In Agile Methodology&lt;/h2&gt;
 
 &lt;p&gt;An &lt;strong&gt;information radiator&lt;/strong&gt; is a comprehensive display of key team information, openly shared with all team members and other stakeholders and continuously updated. It includes information such as the task board, the count of automated tests, the team velocity, incident reports, continuous integration status, the state of work packages, or the progress of the team. &lt;/p&gt;
@@ -154,7 +152,7 @@
 
 &lt;h3 id=&quot;continuous-updates&quot;&gt;Continuous Updates &lt;/h3&gt;
 
-&lt;p&gt;The information is only relevant if constantly updated. In some teams, all members are free to update the data. In others, there can be some rules about how they are updated. For instance, for Agile teams, it’s usually updated during the &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot; target=&quot;_blank&quot;&gt;Daily Meeting&lt;/a&gt; or the &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot; target=&quot;_blank&quot;&gt;Sprint Retrospective&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The information is only relevant if constantly updated. In some teams, all members are free to update the data. In others, there can be some rules about how they are updated. For instance, for Agile teams, it’s usually updated during the &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;Daily Meeting&lt;/a&gt; or the &lt;a href=&quot;https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html&quot;&gt;Sprint Retrospective&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;simplicity-for-a-better-readability&quot;&gt;Simplicity For A Better Readability&lt;/h3&gt;
 
@@ -167,8 +165,6 @@
 &lt;h3 id=&quot;in-some-cases-anonymity-can-foster-sincerity&quot;&gt;In Some Cases, Anonymity Can Foster Sincerity&lt;/h3&gt;
 
 &lt;p&gt;The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;information-radiator-benefits&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;2-information-radiator-the-benefits&quot;&gt;2. Information Radiator: The Benefits &lt;/h2&gt;
 
@@ -184,7 +180,7 @@
 
 &lt;h3 id=&quot;checking-the-team-health&quot;&gt;Checking The Team Health&lt;/h3&gt;
 
-&lt;p&gt;One of the elements that can be included in the information radiator, more specifically in an Agile team, is the &lt;strong&gt;team’s health&lt;/strong&gt;. Indeed, doing a regular &lt;a href=&quot;https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html&quot; target=&quot;_blank&quot;&gt;team health check&lt;/a&gt; helps uncover underlying issues that could otherwise slow down the project.&lt;/p&gt;
+&lt;p&gt;One of the elements that can be included in the information radiator, more specifically in an Agile team, is the &lt;strong&gt;team’s health&lt;/strong&gt;. Indeed, doing a regular &lt;a href=&quot;https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html&quot;&gt;team health check&lt;/a&gt; helps uncover underlying issues that could otherwise slow down the project.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/information-radiator-checking-team-health-teammood.jpg&quot; alt=&quot;Team health check in information radiator&quot; title=&quot;Team health check in information radiator&quot; width=&quot;1280&quot; height=&quot;719&quot; /&gt;&lt;/p&gt;
 
@@ -194,9 +190,7 @@
 
 &lt;p&gt;By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results! &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://app.teammood.com/signup&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;information-radiator-in-scrum&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://app.teammood.com/signup&quot; class=&quot;button&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;3-information-radiator-in-scrum-enhanced-retrospectives&quot;&gt;3. Information Radiator In Scrum: Enhanced Retrospectives&lt;/h2&gt;
 
@@ -204,7 +198,7 @@
 
 &lt;p&gt;Collecting precise information on every topic is crucial to fuel the discussions during the retrospective. Indeed, if you run Agile retrospectives every two to four weeks (depending on your Sprint length), remembering everything that happened during this timeframe can be quite the challenge. Scrum retrospectives that don’t lean on an information radiator recording events, feedback, ideas, and comments along the sprint tend to focus on the last few days. And a great part of its benefits gets lost. &lt;/p&gt;
 
-&lt;p&gt;By using a &lt;a href=&quot;https://www.teammood.com/en/agile-retrospective-tools-ideas/&quot; target=&quot;_blank&quot;&gt;tool&lt;/a&gt; such as TeamMood in your retrospectives, you can open up conversations, uncover hidden issues, and get a clear picture of the actions that need to be taken. &lt;/p&gt;
+&lt;p&gt;By using a &lt;a href=&quot;https://www.teammood.com/en/agile-retrospective-tools-ideas/&quot;&gt;tool&lt;/a&gt; such as TeamMood in your retrospectives, you can open up conversations, uncover hidden issues, and get a clear picture of the actions that need to be taken. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Conclusion &lt;/strong&gt;&lt;/p&gt;
 

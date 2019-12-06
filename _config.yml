@@ -19,7 +19,7 @@ collections:
     output: true
 email: hello@teammood.com
 description: 'Some words about feeling good at work.'
-logo: https://res.cloudinary.com/teammood/image/upload/b_rgb:ffffff/v1541855232/logo-1000px_transparent.png
+logo: https://res.cloudinary.com/teammood/image/upload/b_rgb:ffffff/c_scale,h_48,w_76/v1541855232/logo-1000px_transparent.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://blog.teammood.com
 paginate: 8

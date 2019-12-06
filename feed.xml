@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Dec 2019 11:59:25 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Dec 2019 11:59:25 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Dec 2019 12:03:03 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Dec 2019 12:03:03 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -136,6 +136,8 @@
   &lt;li&gt;&lt;a href=&quot;#information-radiator-in-scrum&quot;&gt;Information radiator in Scrum: enhanced retrospectives&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;a name=&quot;information-radiator-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;1-information-radiator-definition-in-agile-methodology&quot;&gt;1. Information Radiator: Definition In Agile Methodology&lt;/h2&gt;
 
 &lt;p&gt;An &lt;strong&gt;information radiator&lt;/strong&gt; is a comprehensive display of key team information, openly shared with all team members and other stakeholders and continuously updated. It includes information such as the task board, the count of automated tests, the team velocity, incident reports, continuous integration status, the state of work packages, or the progress of the team. &lt;/p&gt;
@@ -166,6 +168,8 @@
 
 &lt;p&gt;The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;information-radiator-benefits&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;2-information-radiator-the-benefits&quot;&gt;2. Information Radiator: The Benefits &lt;/h2&gt;
 
 &lt;p&gt;If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the &lt;strong&gt;information radiator’s main benefits:&lt;/strong&gt;&lt;/p&gt;
@@ -191,6 +195,8 @@
 &lt;p&gt;By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results! &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://app.teammood.com/signup&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;information-radiator-in-scrum&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;3-information-radiator-in-scrum-enhanced-retrospectives&quot;&gt;3. Information Radiator In Scrum: Enhanced Retrospectives&lt;/h2&gt;
 

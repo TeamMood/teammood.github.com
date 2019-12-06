@@ -23,8 +23,6 @@ Table of content:
 * [Information radiator: the benefits](#information-radiator-benefits)
 * [Information radiator in Scrum: enhanced retrospectives](#information-radiator-in-scrum)
 
-<a name="information-radiator-definition"></a>
-
 ## 1\. Information Radiator: Definition In Agile Methodology
 
 An **information radiator** is a comprehensive display of key team information, openly shared with all team members and other stakeholders and continuously updated. It includes information such as the task board, the count of automated tests, the team velocity, incident reports, continuous integration status, the state of work packages, or the progress of the team.&nbsp;
@@ -41,7 +39,7 @@ To be worth consulting, the information must be precise and accurate.&nbsp;
 
 ### Continuous Updates&nbsp;
 
-The information is only relevant if constantly updated. In some teams, all members are free to update the data. In others, there can be some rules about how they are updated. For instance, for Agile teams, it’s usually updated during the [Daily Meeting](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html){: target="_blank"} or the [Sprint Retrospective](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html){: target="_blank"}.
+The information is only relevant if constantly updated. In some teams, all members are free to update the data. In others, there can be some rules about how they are updated. For instance, for Agile teams, it’s usually updated during the [Daily Meeting](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html) or the [Sprint Retrospective](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html).
 
 ### Simplicity For A Better Readability
 
@@ -54,8 +52,6 @@ Every team members and stakeholders are supposed to have access to the latest ve
 ### In Some Cases, Anonymity Can Foster Sincerity
 
 The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.
-
-<a name="information-radiator-benefits"></a>
 
 ## 2\. Information Radiator: The Benefits&nbsp;
 
@@ -71,7 +67,7 @@ The most classical information present in an information radiator is the progres
 
 ### Checking The Team Health
 
-One of the elements that can be included in the information radiator, more specifically in an Agile team, is the **team’s health**. Indeed, doing a regular [team health check](https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html){: target="_blank"} helps uncover underlying issues that could otherwise slow down the project.
+One of the elements that can be included in the information radiator, more specifically in an Agile team, is the **team’s health**. Indeed, doing a regular [team health check](https://blog.teammood.com/2019/03/29/why-doing-team-health-checks.html) helps uncover underlying issues that could otherwise slow down the project.
 
 ![Team health check in information radiator](/uploads/information-radiator-checking-team-health-teammood.jpg "Team health check in information radiator"){: width="1280" height="719"}
 
@@ -81,9 +77,7 @@ One of the elements that can be included in the information radiator, more speci
 
 By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!&nbsp;
 
-[Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup){: .button target="_blank"}
-
-<a name="information-radiator-in-scrum"></a>
+[Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup){: .button}
 
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 
@@ -91,7 +85,7 @@ In Agile teams, there is a time when everyone gathers to evaluate the past sprin
 
 Collecting precise information on every topic is crucial to fuel the discussions during the retrospective. Indeed, if you run Agile retrospectives every two to four weeks (depending on your Sprint length), remembering everything that happened during this timeframe can be quite the challenge. Scrum retrospectives that don’t lean on an information radiator recording events, feedback, ideas, and comments along the sprint tend to focus on the last few days. And a great part of its benefits gets lost.&nbsp;
 
-By using a [tool](https://www.teammood.com/en/agile-retrospective-tools-ideas/){: target="_blank"} such as TeamMood in your retrospectives, you can open up conversations, uncover hidden issues, and get a clear picture of the actions that need to be taken.&nbsp;
+By using a [tool](https://www.teammood.com/en/agile-retrospective-tools-ideas/) such as TeamMood in your retrospectives, you can open up conversations, uncover hidden issues, and get a clear picture of the actions that need to be taken.&nbsp;
 
 **Conclusion&nbsp;**
 

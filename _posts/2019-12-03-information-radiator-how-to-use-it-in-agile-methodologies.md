@@ -9,8 +9,10 @@ excerpt: >-
   Scrum team.
 keywords: 'information radiator, Agile, scrum'
 canonical_url:
-redirect_from: /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
-permalink: /2019/12/03/information-radiator
+redirect_from: 
+- /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
+- /2019/12/03/information-radiator
+permalink: /information-radiator
 ---
 
 You are convinced that representing project key information in an information radiator can be beneficial in an Agile organization, and you’d like to know how to implement it in your Scrum team? In this article, we explain in detail the requirements for an efficient and agile Information Radiator. We also prove how it can be beneficial for your organization, and explain how to exploit its data in a Scrum team.

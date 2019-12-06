@@ -60,7 +60,10 @@ social:
 webp:
   enabled: true
   # List of directories containing images to optimize, nested directories will only be checked if `nested` is true
-  img_dir: ["/images/posts","/uploads"]
+  img_dir: ["/images/posts","/images/headers","/images/posts/8-tools","/uploads"]
 
   # Whether to search in nested directories or not
   nested: true
+
+  # Set to true to always regenerate existing webp files
+  regenerate: false

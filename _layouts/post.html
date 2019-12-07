@@ -2,8 +2,19 @@
 layout: default
 ---
 
+<!-- CSS background background in webp format if the browser supports it -->
+<style>
+  .no-webp .post-header {
+    background-image: url('{{ site.url }}/{{ page.image }}');
+  }
+
+  .webp .post-header {
+    background-image: url('{{ site.url }}/{{ page.image | to_webp }}');
+  }
+</style>
+
 <main class="content" role="main">
-  <div class="post-header" style="background-image: url('{{ site.url }}/{{ page.image }}')" title="{{ page.title }}">
+  <div class="post-header" title="{{ page.title }}">
 </div>
   <article class="post">
     <div class="post-meta">

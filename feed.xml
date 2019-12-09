@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Dec 2019 14:57:09 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Dec 2019 14:57:09 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Dec 2019 14:03:11 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Dec 2019 14:03:11 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -24,6 +24,8 @@
   &lt;li&gt;&lt;a href=&quot;#team-moral-boosters&quot;&gt;Team morale boosters: best off&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;a name=&quot;team-morale-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;team-morale-definition&quot;&gt;Team Morale: Definition&lt;/h2&gt;
 
 &lt;p&gt;Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure. &lt;/p&gt;
@@ -38,6 +40,8 @@
 &lt;/ul&gt;
 
 &lt;p&gt;Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is &lt;a href=&quot;https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html&quot;&gt;looming among your teammates&lt;/a&gt;, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;team-morale-survey&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;team-morale-survey-your-team-members-to-identify-issues&quot;&gt;Team Morale: Survey Your Team Members To Identify Issues &lt;/h2&gt;
 
@@ -65,11 +69,15 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.teammood.com/en/&quot; class=&quot;button&quot;&gt;Start measuring your team health today!&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;improving-team-morale&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;improving-your-team-morale-in-the-long-term&quot;&gt;Improving Your Team Morale In The Long Term&lt;/h2&gt;
 
 &lt;p&gt;If a one-of survey can help solve a specific situation, gathering regular feedback from your collaborators is key to continuously improve your team morale. Indeed, the situation is bound to evolve over time. A deadline moved forward, a change in the organization or a set-back in the project can destabilize the team members. &lt;/p&gt;
 
 &lt;p&gt;Moreover, by measuring team morale over time, you can measure the impact of past optimizations, and verify whether they were useful, or if you need to change them. &lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;team-moral-boosters&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;team-morale-boosters-best-off&quot;&gt;Team Morale Boosters: Best Off &lt;/h2&gt;
 
@@ -128,6 +136,8 @@
   &lt;li&gt;&lt;a href=&quot;#information-radiator-in-scrum&quot;&gt;Information radiator in Scrum: enhanced retrospectives&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;a name=&quot;information-radiator-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;1-information-radiator-definition-in-agile-methodology&quot;&gt;1. Information Radiator: Definition In Agile Methodology&lt;/h2&gt;
 
 &lt;p&gt;An &lt;strong&gt;information radiator&lt;/strong&gt; is a comprehensive display of key team information, openly shared with all team members and other stakeholders and continuously updated. It includes information such as the task board, the count of automated tests, the team velocity, incident reports, continuous integration status, the state of work packages, or the progress of the team. &lt;/p&gt;
@@ -158,6 +168,8 @@
 
 &lt;p&gt;The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;information-radiator-benefits&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;2-information-radiator-the-benefits&quot;&gt;2. Information Radiator: The Benefits &lt;/h2&gt;
 
 &lt;p&gt;If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the &lt;strong&gt;information radiator’s main benefits:&lt;/strong&gt;&lt;/p&gt;
@@ -183,6 +195,8 @@
 &lt;p&gt;By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results! &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://app.teammood.com/signup&quot; class=&quot;button&quot;&gt;Visualize your team’s health and boost your information radiator!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;information-radiator-in-scrum&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;3-information-radiator-in-scrum-enhanced-retrospectives&quot;&gt;3. Information Radiator In Scrum: Enhanced Retrospectives&lt;/h2&gt;
 

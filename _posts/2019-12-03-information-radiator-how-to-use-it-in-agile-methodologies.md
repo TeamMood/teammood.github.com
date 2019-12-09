@@ -9,9 +9,9 @@ excerpt: >-
   Scrum team.
 keywords: 'information radiator, Agile, scrum'
 canonical_url:
-redirect_from: 
-- /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
-- /2019/12/03/information-radiator
+redirect_from:
+  - /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
+  - /2019/12/03/information-radiator
 permalink: /information-radiator
 ---
 
@@ -22,8 +22,6 @@ Table of content:
 * [Information radiator: definition in Agile methodology](#information-radiator-definition)
 * [Information radiator: the benefits](#information-radiator-benefits)
 * [Information radiator in Scrum: enhanced retrospectives](#information-radiator-in-scrum)
-
-<a name="information-radiator-definition"></a>
 
 ## 1\. Information Radiator: Definition In Agile Methodology
 
@@ -55,8 +53,6 @@ Every team members and stakeholders are supposed to have access to the latest ve
 
 The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.
 
-<a name="information-radiator-benefits"></a>
-
 ## 2\. Information Radiator: The Benefits&nbsp;
 
 If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the **information radiator’s main benefits:**
@@ -83,13 +79,11 @@ By allowing teams to pick the hour of reception of our daily email, the number o
 
 [Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup){: .button}
 
-<a name="information-radiator-in-scrum"></a>
-
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 
 In Agile teams, there is a time when everyone gathers to evaluate the past sprint, the good and the bad, in order to make some changes for the next one: it’s the sprint retrospective. Retrospectives are fundamental to Agile teams – and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work.&nbsp;
 
-Collecting precise information on every topic is crucial to fuel the discussions during the retrospective. Indeed, if you run Agile retrospectives every two to four weeks (depending on your Sprint length), remembering everything that happened during this timeframe can be quite the challenge. Scrum retrospectives that don’t lean on an information radiator recording events, feedback, ideas, and comments along the sprint tend to focus on the last few days. And a great part of its benefits gets lost.&nbsp;
+Collecting precise information on every topic is crucial to fuel the discussions during the retrospective. Indeed, if you run Agile retrospectives every two to four weeks (depending on your Sprint length), remembering everything that happened during this timeframe can be quite the challenge. Scrum retrospectives that don’t lean on an information radiator recording events, feedback, ideas, and comments throughout the sprint tend to focus on the last few days. And a great part of its benefits gets lost.&nbsp;
 
 By using a [tool](https://www.teammood.com/en/agile-retrospective-tools-ideas/) such as TeamMood in your retrospectives, you can open up conversations, uncover hidden issues, and get a clear picture of the actions that need to be taken.&nbsp;
 

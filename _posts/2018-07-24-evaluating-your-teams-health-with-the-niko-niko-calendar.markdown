@@ -48,6 +48,8 @@ The Niko-niko must follow some principles:
 
 In concrete terms, to use the Niko-niko method, you can build [your own Niko-niko calendar](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html) with a daily calendar and a stack of color stickers. Or [choose to use an online tool](https://www.teammood.com/en/Niko-Niko/) if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.
 
+<div class='mailmunch-forms-widget-762513'></div>
+
 ## How to leverage the Niko-niko calendar
 
 Don’t let your Niko-niko hang there for nothing\! Quantifying your team’s mood is only the first step, you need to be able to act on it, where your team is in a good or bad mood.

@@ -28,6 +28,8 @@ An easy solution is to hold the meeting in a room without chairs or to put all t
 
 There are some exceptions here, some teams may comfortably sit down if they are using an online Scrum board; in that case, they share the screen, and everyone focuses on it.
 
+<div class='mailmunch-forms-widget-762513'></div>
+
 ## 3 - 3-question agenda
 
 During the Daily Scrum, everyone is supposed to answer those three questions:

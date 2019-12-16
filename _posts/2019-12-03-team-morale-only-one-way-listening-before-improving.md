@@ -24,7 +24,7 @@ Table of content:
 * [Team morale: definition](#team-morale-definition)
 * [Team morale: survey your team members to identify issues](#team-morale-survey)
 * [Improving your team morale in the long term](#improving-team-morale)
-* [Team morale boosters: best off](#team-moral-boosters)
+* [Team morale boosters: best of](#team-moral-boosters)
 
 <a name="team-morale-definition"></a>
 
@@ -79,7 +79,9 @@ Moreover, by measuring team morale over time, you can measure the impact of past
 
 <a name="team-moral-boosters"></a>
 
-## Team Morale Boosters: Best Off&nbsp;
+<div class='mailmunch-forms-widget-762513'></div>
+
+## Team Morale Boosters: Best Of
 
 Ideas to improve your team morale are legion, so we’ve selected the top 5 morale boosters that you can apply in all situations:
 

@@ -64,6 +64,8 @@ The Team Health Check has been popularized by Spotify with their [Squad Health C
 * yellow: some problems
 * red: really bad
 
+<div class='mailmunch-forms-widget-762513'></div>
+
 ## How to leverage a Team Health Check
 
 As James Willis, an Agile coach, told us, “Simply doing a health check things will not change anything, just like looking at a metric every day, won’t improve it”. So, how do you leverage your Team Health Check?

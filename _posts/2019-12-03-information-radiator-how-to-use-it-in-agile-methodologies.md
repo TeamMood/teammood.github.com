@@ -53,6 +53,8 @@ Every team members and stakeholders are supposed to have access to the latest ve
 
 The main objective of an information radiator is to implement transparency into the team/company. In some cases (such as sensitive information, personal mood, …), enabling team members to share some information anonymously can free their words.
 
+<div class='mailmunch-forms-widget-762513'></div>
+
 ## 2\. Information Radiator: The Benefits&nbsp;
 
 If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the **information radiator’s main benefits:**

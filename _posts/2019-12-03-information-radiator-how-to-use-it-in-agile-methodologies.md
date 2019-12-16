@@ -31,6 +31,8 @@ If information radiators can be displayed in various formats (handwritten, drawn
 
 Information radiators help boost feedback and communication, empower teams and focus on results. In addition to the information itself, the use of an information radiator conveys 2 main messages: the team has nothing to hide to itself nor to visitors (customers, stakeholders, …).
 
+[Get Your Team's Mood Right Now](https://www.teammood.com/){: .button target="_blank"}
+
 To be useful, the information radiator must apply the following **best practices**\:
 
 ### Accurate Information

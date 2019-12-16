@@ -47,6 +47,8 @@ Even if you have the desire to keep your team morale up, reality may not always 
 
 The first step to improve a low team morale is to gather feedback from all team members. Providing a safe “place” for everyone to express oneself openly is key to identify the roots of the problem. Indeed, as a manager, you might be part of the problem. Or else, your team member might not feel comfortable in spilling the beans in front of everyone.&nbsp;
 
+[Try a Survey Now](https://www.teammood.com/){: .button target="_blank"}
+
 Here are 3 methods you can implement in your team:
 
 ### \#1 Sending An Anonymous Survey

@@ -48,6 +48,8 @@ The third question of the Daily Standup Meeting is key: it’s the perfect occas
 
 Likewise, new ideas should be addressed outside the Daily Meeting, in order to leave some space for discussion (which can’t happen in a 15-minute meeting).
 
+[Discover Issues In Your Team](https://www.teammood.com/){: .button target="_blank"}
+
 ## 5 - The team decides what to do next
 
 As I said earlier, the Daily Scrum Meeting is not an opportunity for the Scrum Master to micro-manage and impose what to do next. In fact, his or her main task is to ensure that the Daily Meetings are held, that the 3 main questions are answered, and that impediments are identified so that a possible resolution can be set in motion. Once the habit of holding Daily Meeting every day is set and the team understand the value of the meeting, they can hold it on their own, the Scrum Master no longer has to attend.

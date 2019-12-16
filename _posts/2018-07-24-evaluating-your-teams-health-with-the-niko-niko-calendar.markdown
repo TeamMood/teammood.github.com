@@ -35,6 +35,8 @@ The Niko-niko doesn’t provide an exact measure of the team’s mood, but it he
 
 The [team’s spirit](/2019/03/29/why-doing-team-health-checks.html) is even more important for an Agile team as the success of the project relies on it. It’s the reason why the Niko-niko calendar was first invented for Agile teams. It provides a general view of how well the team is doing, and not just at individual level.
 
+[Try A Niko-Niko Calendar](https://www.teammood.com/en/niko-niko){: .button target="_blank"}
+
 ## How to use the Niko-niko method?
 
 The Niko-niko must follow some principles:

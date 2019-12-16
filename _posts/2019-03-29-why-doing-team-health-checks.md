@@ -50,6 +50,8 @@ There are many ways to run a Team Health Check.
 
 A [Niko-Niko Calendar](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html){: target="_blank"} is a simple calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy :-), straight :-, or frowning :-( or color stickers on it.
 
+[Try A Niko-Niko Calendar](https://www.teammood.com/en/niko-niko){: .button target="_blank"}
+
 ### Create an Emotional Seismograph with the team
 
 During, one of your retrospectives, try the [Emotional Seismograph](https://blog.teammood.com/2018/10/30/the-emotional-seismograph-a-fun-and-effective-retrospective-format.html){: target="_blank"} format.

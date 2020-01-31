@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2020 11:10:19 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2020 11:10:19 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2020 11:12:07 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 11:12:07 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -26,17 +26,13 @@
   &lt;li&gt;&lt;a href=&quot;#agile-retrospective-outcomes&quot;&gt;Agile Retrospective: Outcomes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a name=&quot;agile-retrospective-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&quot;agile-retrospective-definition-of-a-successful-retrospective&quot;&gt;Agile Retrospective: Definition of a Successful Retrospective&lt;/h2&gt;
 
-&lt;p&gt;According to the official definition from the &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#events-retro&quot;&gt;Scrum Guide&lt;/a&gt;: &lt;em&gt;“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”&lt;/em&gt; It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.&lt;/p&gt;
+&lt;p&gt;According to the official definition from the &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#events-retro&quot; target=&quot;_blank&quot;&gt;Scrum Guide&lt;/a&gt;: &lt;em&gt;“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”&lt;/em&gt; It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.&lt;/p&gt;
 
 &lt;p&gt;Ideally, the Agile retrospective takes place at the end of the sprint, right or soon after the sprint review (and before the next sprint planning). Indeed, you don’t want to wait too long and risk your team members to forget about what happens during the sprint that could be improved.&lt;/p&gt;
 
 &lt;p&gt;An Agile retrospective is considering “successful” if team members are confident that their functioning as a team will ameliorate for the next sprint and the trend shows a continuous improvement over time. &lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;agile-retrospective-format&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;agile-retrospective-the-ideal-format&quot;&gt;Agile Retrospective: the Ideal Format&lt;/h2&gt;
 
@@ -57,7 +53,7 @@
   &lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;and none that you should adopt for good if you want your team to keep feeling excited about their retrospectives. If you want to find inspiration in order to vary your retrospective format, you can pick ideas from &lt;a href=&quot;https://retromat.org/&quot;&gt;Retromat&lt;/a&gt; unreservedly.&lt;/p&gt;
+&lt;p&gt;and none that you should adopt for good if you want your team to keep feeling excited about their retrospectives. If you want to find inspiration in order to vary your retrospective format, you can pick ideas from &lt;a href=&quot;https://retromat.org/&quot; target=&quot;_blank&quot;&gt;Retromat&lt;/a&gt; unreservedly.&lt;/p&gt;
 
 &lt;p&gt;A creative format is not enough. If you want your &lt;strong&gt;Agile retrospective to be successful&lt;/strong&gt;, be careful to these warnings: &lt;/p&gt;
 
@@ -72,8 +68,6 @@
 &lt;p&gt;Using a tool like TeamMood to measure your team members’ mood and feelings over the Sprint can provide you with great insights for your Agile retrospective. &lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.teammood.com/en/&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Start measuring the health of your team now!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;agile-retrospective-agenda&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;agile-retrospective-agenda&quot;&gt;Agile Retrospective: Agenda&lt;/h2&gt;
 
@@ -123,8 +117,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;💡Tip: You can also ask for feedback on the retrospective itself, in order to keep improving it. &lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;agile-retrospective-outcomes&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;agile-retrospective-outcomes&quot;&gt;Agile Retrospective: Outcomes&lt;/h2&gt;
 

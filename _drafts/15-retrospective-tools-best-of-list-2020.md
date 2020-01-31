@@ -19,21 +19,23 @@ Especially useful for multi located teams, these Agile retrospective online tool
 
 In this article, we share **the 15 best retrospective tools:&nbsp;**
 
-* Retrospective tool \#1: TeamMood
-* Retrospective tool \#2: Reetro
-* Retrospective tool \#3: FunRetro
-* Retrospective tool \#4: goReflect
-* Retrospective tool \#5: TeamRetro
-* Retrospective tool \#6: ScatterSpoke
-* Retrospective tool \#7: Retrium
-* Retrospective tool \#8: IdeaBoardz
-* Retrospective tool \#9: MindMeister
-* Retrospective tool \#10: Lino
-* Retrospective tool \#11: Sensei
-* Retrospective tool \#12: Sprint Boards
-* Retrospective tool \#13: Padlet
-* Retrospective tool \#14: RetroTime
-* Retrospective tool \#15: Parabol
+* [Retrospective tool \#1: TeamMood](#retrospective-tool-teammood)
+* [Retrospective tool \#2: Reetro](#retrospective-tool-reetro)
+* [Retrospective tool \#3: FunRetro](#retrospective-tool-funretro)
+* [Retrospective tool \#4: goReflect](#retrospective-tool-goreflect)
+* [Retrospective tool \#5: TeamRetro](#retrospective-tool-teamretro)
+* [Retrospective tool \#6: ScatterSpoke](#retrospective-tool-scatterspoke)
+* [Retrospective tool \#7: Retrium](#retrospective-tool-retrium)
+* [Retrospective tool \#8: IdeaBoardz](#retrospective-tool-ideaboardz)
+* [Retrospective tool \#9: MindMeister](#retrospective-tool-mindmeister)
+* [Retrospective tool \#10: Lino](#retrospective-tool-lino)
+* [Retrospective tool \#11: Sensei](#retrospective-tool-sensei)
+* [Retrospective tool \#12: Sprint Boards](#retrospective-tool-sprintboards)
+* [Retrospective tool \#13: Padlet](#retrospective-tool-padlet)
+* [Retrospective tool \#14: RetroTime](#retrospective-tool-retrotime)
+* [Retrospective tool \#15: Parabol](#retrospective-tool-parabol)
+
+<a name="retrospective-tool-teammood"></a>
 
 ## Retrospective tool \#1: TeamMood
 
@@ -53,6 +55,8 @@ Website: [TeamMood](https://www.teammood.com/en/)
 
 alt text: TeamMood, retrospective tool
 
+<a name="retrospective-tool-reetro"></a>
+
 ## Retrospective tool \#2: Reetro
 
 Reetro is an online retrospective tool for remote agile teams. It fosters collaboration and automates the retrospective process.
@@ -70,6 +74,8 @@ Website: [Reetro.io](https://reetro.io/)
 *Image*
 
 Alt text: Reetro, retrospective tool
+
+<a name="retrospective-tool-funretro"></a>
 
 ## Retrospective tool \#3: FunRetro
 
@@ -89,6 +95,8 @@ Image
 
 Alt text: FunRetro, retrospective tool
 
+<a name="retrospective-tool-goreflect"></a>
+
 ## Retrospective tool \#4: goReflect&nbsp;
 
 goReflect is a retrospective tool that promotes continuous process review. It allows teams to share ideas in a stream or on customizable boards. The dashboard makes it easy to monitor the commitments you make as a team.&nbsp;
@@ -106,6 +114,8 @@ Website: [goReflect](https://www.goreflect.com/)
 Image
 
 Alt text: goReflect, retrospective tool
+
+<a name="retrospective-tool-teamretro"></a>
 
 ## Retrospective tool \#5: TeamRetro&nbsp;
 
@@ -125,6 +135,8 @@ Image
 
 Alt text: TeamRetro, retrospective tool
 
+<a name="retrospective-tool-scatterspoke"></a>
+
 ## Retrospective tool \#6: ScatterSpoke
 
 With ScatterSpoke, anyone on the team can quickly launch and share a retrospective with the other team members. Everyone can share cards in real-time, vote on issues, create groups, or pin items for follow up.&nbsp;
@@ -142,6 +154,8 @@ Website: [ScatterSpoke](http://www.scatterspoke.com/)
 Image
 
 Alt text: ScatterSpoke, retrospective tool
+
+<a name="retrospective-tool-retrium"></a>
 
 ## Retrospective tool \#7: Retrium&nbsp;
 
@@ -161,6 +175,8 @@ Image
 
 Alt text: Retrium, retrospective tool
 
+<a name="retrospective-tool-ideaboardz"></a>
+
 ## Retrospective tool \#8: IdeaBoardz&nbsp;
 
 IdeaBoardz is a collaborative ideation tool. It allows teams to collectively brainstorm, gather ideas, reflect, and retrospect on the past period (sprint or else). It is especially useful for remote teams.
@@ -178,6 +194,8 @@ Website: [IdeaBoardz](http://www.ideaboardz.com/)
 Image
 
 Alt text: IdeaBoardz, retrospective tool
+
+<a name="retrospective-tool-mindmeister"></a>
 
 ## Retrospective tool \#9: MindMeister
 
@@ -197,6 +215,8 @@ Image
 
 Alt text: MindMeister, retrospective tool
 
+<a name="retrospective-tool-lino"></a>
+
 ## Retrospective tool \#10: Lino
 
 Lino is an online corkboard that enables team members to share ideas with the rest of the team on virtual sticky notes. It encourages ongoing feedback and lets you move the stickies around to sort them.&nbsp;
@@ -214,6 +234,8 @@ Website: [Lino](https://en.linoit.com/)
 Image
 
 Alt text: Lino, retrospective tool
+
+<a name="retrospective-tool-sensei"></a>
 
 ## Retrospective tool \#11: Sensei&nbsp;
 
@@ -233,6 +255,8 @@ Image
 
 Alt text: Sensei, retrospective tool
 
+<a name="retrospective-tool-sprintboards"></a>
+
 ## Retrospective tool \#12: Sprint Boards
 
 Sprint Boards is built for Agile developers. With keyboard shortcuts for adding and saving cards and support for merging duplicates, it makes retrospectives simple and easy. You can also lock boards when you’re done to prevent further changes.
@@ -250,6 +274,8 @@ Website: [Sprint Boards](https://sprintboards.io/)
 Image
 
 Alt text: Sprint Boards, retrospective tool
+
+<a name="retrospective-tool-padlet"></a>
 
 ## Retrospective tool \#13: Padlet
 
@@ -269,6 +295,8 @@ Image
 
 Alt text: Padlet, retrospective tool
 
+<a name="retrospective-tool-retrotime"></a>
+
 ## Retrospective tool \#14: RetroTime
 
 More than enabling sticky-note sharing, RetroTime is a real help for teams to learn from their mistakes quickly and adapt to regular challenges. It helps you identify patterns in feedback and troubleshoot your own processes.&nbsp;
@@ -286,6 +314,8 @@ Website: [RetroTime](https://retroti.me/)
 Image
 
 Alt text: RetroTime, retrospective tool
+
+<a name="retrospective-tool-parabol"></a>
 
 ## Retrospective tool \#15: Parabol
 

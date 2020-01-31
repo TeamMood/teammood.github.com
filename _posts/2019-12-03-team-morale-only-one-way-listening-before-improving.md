@@ -26,7 +26,7 @@ Table of content:
 * [Improving your team morale in the long term](#improving-team-morale)
 * [Team morale boosters: best of](#team-moral-boosters)
 
-<a name="team-morale-definition"></a>
+<a name="team-morale-definition"></a> 
 
 ## Team Morale: Definition
 

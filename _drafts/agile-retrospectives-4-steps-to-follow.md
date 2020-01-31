@@ -2,7 +2,7 @@
 title: 'Agile Retrospectives: 4 Steps to Follow'
 date: 2019-12-03 11:00:00
 layout: post
-image: /uploads/information-radiator-teammood.jpg
+image: /uploads/teammood-agile-retrospectives-4-steps-to-follow.jpg
 excerpt: >-
   An information radiator can be beneficial for your organization. Learn the
   information radiator best practices and discover how to exploit its data in a
@@ -28,8 +28,6 @@ Table of content:
 * [Agile Retrospective: Agenda](#agile-retrospective-agenda)
 * [Agile Retrospective: Outcomes](#agile-retrospective-outcomes)
 
-<a name="agile-retrospective-definition"></a>
-
 ## Agile Retrospective: Definition of a Successful Retrospective
 
 According to the official definition from the [Scrum Guide](https://www.scrumguides.org/scrum-guide.html#events-retro)\: *“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”* It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.
@@ -38,13 +36,11 @@ Ideally, the Agile retrospective takes place at the end of the sprint, right or 
 
 An Agile retrospective is considering “successful” if team members are confident that their functioning as a team will ameliorate for the next sprint and the trend shows a continuous improvement over time.&nbsp;
 
-<a name="agile-retrospective-format"></a>
-
 ## Agile Retrospective: the Ideal Format
 
 Retrospectives usually last for ½ hour to 1 hour. It should always include these three axes:
 
-* **Celebrate successes:** a new client, a feature release, a past action identified during the last retrospective that led to the expected results, ...
+* **Celebrate successes:** a new client, a feature release, a past action identified during the last retrospective that led to the expected results, …
 * **Discuss the issues and irritants** – from the smallest (the coffee is bad) to the biggest (we need new fundings) – and take time to analyze them
 * **Identify the actions** to solve these issues and irritants&nbsp;
 
@@ -53,7 +49,7 @@ There are countless formats of retrospectives, such as:
 * **Three Words:** everybody sums up the last iteration in 3 words
 * **Remember the Future:** Imagine the next iteration is perfect. What is it like? What did you do?
 * **\#tweetmysprint:** Ask participants to write 3 or more tweets on sticky notes about the iteration they've just completed.
-* ...
+* …
 
 and none that you should adopt for good if you want your team to keep feeling excited about their retrospectives. If you want to find inspiration in order to vary your retrospective format, you can pick ideas from [Retromat](https://retromat.org/) unreservedly.
 
@@ -67,9 +63,7 @@ A creative format is not enough. If you want your **Agile retrospective to be su
 
 Using a tool like TeamMood to measure your team members’ mood and feelings over the Sprint can provide you with great insights for your Agile retrospective.&nbsp;
 
-[Start measuring the health of your team now!](https://www.teammood.com/en/){: .button target="_blank"}
-
-<a name="agile-retrospective-agenda"></a>
+[Start measuring the health of your team now\!](https://www.teammood.com/en/){: .button target="_blank"}
 
 ## Agile Retrospective: Agenda
 
@@ -116,8 +110,6 @@ If you want your retrospective to be useful, you must end up the meeting with:
 
 💡Tip: You can also ask for feedback on the retrospective itself, in order to keep improving it.&nbsp;
 
-<a name="agile-retrospective-outcomes"></a>
-
 ## Agile Retrospective: Outcomes
 
 In the long run, your retrospective will only be useful if the participants see a real improvement in their work environment, process, tools, … Your role as a Scrum Master or team leader is to make sure that the 2 or 3 (relevant) actions that are selected during the retrospective are effectively implemented by the next one. Thus, make sure to favor quality over quantity.&nbsp;
@@ -138,4 +130,4 @@ Finally, you should consider these actions as fully-fledged tasks. You can even 
 
 Retrospectives help identify the small "pebbles in the shoe" of your team that, if unaddressed, can become real frustrations and brakes to the overall productivity. They don’t have to shake everything up. Common actions such as reviewing the DoD (Definition of Done) or changing the time of the daily meeting can have a real positive impact in the long run\!
 
-<small><em>Photo by [Marc Bustier](https://unsplash.com/@marcbustier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"} on [Unsplash](https://unsplash.com/s/photos/steps-sand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}</em></small>
+<small><em>Photo by <a target="_blank" href="https://unsplash.com/@marcbustier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Marc Bustier</a> on <a target="_blank" href="https://unsplash.com/s/photos/steps-sand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

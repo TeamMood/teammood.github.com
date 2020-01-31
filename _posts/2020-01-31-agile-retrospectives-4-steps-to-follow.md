@@ -26,17 +26,13 @@ Table of content:
 * [Agile Retrospective: Agenda](#agile-retrospective-agenda)
 * [Agile Retrospective: Outcomes](#agile-retrospective-outcomes)
 
-<a name="agile-retrospective-definition"></a>
-
 ## Agile Retrospective: Definition of a Successful Retrospective
 
-According to the official definition from the [Scrum Guide](https://www.scrumguides.org/scrum-guide.html#events-retro)\: *“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”* It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.
+According to the official definition from the [Scrum Guide](https://www.scrumguides.org/scrum-guide.html#events-retro){: target="_blank"}\: *“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”* It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.
 
 Ideally, the Agile retrospective takes place at the end of the sprint, right or soon after the sprint review (and before the next sprint planning). Indeed, you don’t want to wait too long and risk your team members to forget about what happens during the sprint that could be improved.
 
 An Agile retrospective is considering “successful” if team members are confident that their functioning as a team will ameliorate for the next sprint and the trend shows a continuous improvement over time.&nbsp;
-
-<a name="agile-retrospective-format"></a>
 
 ## Agile Retrospective: the Ideal Format
 
@@ -53,7 +49,7 @@ There are countless formats of retrospectives, such as:
 * **\#tweetmysprint:** Ask participants to write 3 or more tweets on sticky notes about the iteration they've just completed.
 * …
 
-and none that you should adopt for good if you want your team to keep feeling excited about their retrospectives. If you want to find inspiration in order to vary your retrospective format, you can pick ideas from [Retromat](https://retromat.org/) unreservedly.
+and none that you should adopt for good if you want your team to keep feeling excited about their retrospectives. If you want to find inspiration in order to vary your retrospective format, you can pick ideas from [Retromat](https://retromat.org/){: target="_blank"} unreservedly.
 
 A creative format is not enough. If you want your **Agile retrospective to be successful**, be careful to these warnings:&nbsp;
 
@@ -66,8 +62,6 @@ A creative format is not enough. If you want your **Agile retrospective to be su
 Using a tool like TeamMood to measure your team members’ mood and feelings over the Sprint can provide you with great insights for your Agile retrospective.&nbsp;
 
 [Start measuring the health of your team now\!](https://www.teammood.com/en/){: .button target="_blank"}
-
-<a name="agile-retrospective-agenda"></a>
 
 ## Agile Retrospective: Agenda
 
@@ -113,8 +107,6 @@ If you want your retrospective to be useful, you must end up the meeting with:
 * the date for the next retrospective
 
 💡Tip: You can also ask for feedback on the retrospective itself, in order to keep improving it.&nbsp;
-
-<a name="agile-retrospective-outcomes"></a>
 
 ## Agile Retrospective: Outcomes
 

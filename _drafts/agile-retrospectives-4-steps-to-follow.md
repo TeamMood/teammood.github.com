@@ -1,13 +1,12 @@
 ---
 title: 'Agile Retrospectives: 4 Steps to Follow'
-date: 2019-12-03 11:00:00
+date: 2020-01-31 11:00:00
 layout: post
 image: /uploads/teammood-agile-retrospectives-4-steps-to-follow.jpg
 excerpt: >-
-  An information radiator can be beneficial for your organization. Learn the
-  information radiator best practices and discover how to exploit its data in a
-  Scrum team.
-keywords: 'information radiator, Agile, scrum'
+  ideal structure for efficient sprint retrospectives and the outcomes you can
+  get.
+keywords: 'retrospective, agile, scrum'
 canonical_url:
 redirect_from:
   - /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
@@ -15,7 +14,7 @@ redirect_from:
 permalink: /information-radiator
 ---
 
-In an Agile team, work is punctuated by different team meetings and rituals, in particular: the [sprint planning](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), [standup daily meetings](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), the sprint reviews, and the retrospective.&nbsp;
+In an Agile team, work is punctuated by different team meetings and rituals, in particular: the [sprint planning](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), [standup daily meetings](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), the sprint review, and the retrospective.&nbsp;
 
 The main objective of an Agile retrospective is to identify potential improvements in the way the team works, based on the past weeks’ events. Thus, their success is essential for the well-being (and functioning) of the team in the long run. However, they require a great deal of preparation and some key success factors.
 

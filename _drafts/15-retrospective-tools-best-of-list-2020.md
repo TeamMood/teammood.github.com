@@ -1,6 +1,6 @@
 ---
 title: '15 Retrospective Tools: Best of List 2020'
-date: 2020-01-31 11:00:00
+date: 2020-02-03 10:00:00
 layout: post
 image: /uploads/teammood-agile-retrospectives-4-steps-to-follow.jpg
 excerpt: >-

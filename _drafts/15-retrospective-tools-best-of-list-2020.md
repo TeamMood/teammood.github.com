@@ -2,7 +2,7 @@
 title: '15 Retrospective Tools: Best of List 2020'
 date: 2020-02-03 10:00:00
 layout: post
-image: /uploads/teammood-agile-retrospectives-4-steps-to-follow.jpg
+image:
 excerpt: >-
   Agile retrospectives help agile teams to identify potential improvements in
   the way the team works. Discover its ideal structure for efficient sprint
@@ -35,8 +35,6 @@ In this article, we share **the 15 best retrospective tools:&nbsp;**
 * [Retrospective tool \#14: RetroTime](#retrospective-tool-retrotime)
 * [Retrospective tool \#15: Parabol](#retrospective-tool-parabol)
 
-<a name="retrospective-tool-teammood"></a>
-
 ## Retrospective tool \#1: TeamMood
 
 TeamMood helps you gather daily insights on how your team members are feeling. You can then use your team mood chart as a basis to open up discussions in your retrospectives.
@@ -54,8 +52,6 @@ Website: [TeamMood](https://www.teammood.com/en/)
 ![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}
 
 alt text: TeamMood, retrospective tool
-
-<a name="retrospective-tool-reetro"></a>
 
 ## Retrospective tool \#2: Reetro
 
@@ -75,8 +71,6 @@ Website: [Reetro.io](https://reetro.io/)
 
 Alt text: Reetro, retrospective tool
 
-<a name="retrospective-tool-funretro"></a>
-
 ## Retrospective tool \#3: FunRetro
 
 If you’re looking for optimizing your sprint retrospective efficiency, FunRetro is the way to go. With FunRetro, you can easily configure your dashboards and export your data to keep track of your sessions and action plans.
@@ -94,8 +88,6 @@ Website: [FunRetro](https://funretro.io/)
 Image
 
 Alt text: FunRetro, retrospective tool
-
-<a name="retrospective-tool-goreflect"></a>
 
 ## Retrospective tool \#4: goReflect&nbsp;
 
@@ -115,8 +107,6 @@ Image
 
 Alt text: goReflect, retrospective tool
 
-<a name="retrospective-tool-teamretro"></a>
-
 ## Retrospective tool \#5: TeamRetro&nbsp;
 
 TeamRetro is an enterprise-ready online retrospective meeting tool for Agile coaches, Scrum masters, and teams. All actions are stored in a single list that you can track from meeting to meeting. TeamRetro helps to run engaging and action-focused retrospectives with remote or co-located teams.
@@ -134,8 +124,6 @@ Website: [TeamRetro](https://www.teamretro.com/)
 Image
 
 Alt text: TeamRetro, retrospective tool
-
-<a name="retrospective-tool-scatterspoke"></a>
 
 ## Retrospective tool \#6: ScatterSpoke
 
@@ -155,8 +143,6 @@ Image
 
 Alt text: ScatterSpoke, retrospective tool
 
-<a name="retrospective-tool-retrium"></a>
-
 ## Retrospective tool \#7: Retrium&nbsp;
 
 Retrium is a retrospective tool specifically designed to identify problems that threaten to derail teamwork. Each participant gets the opportunity to privately brainstorm on what went well or not, vote for items, prioritize discussions, and create action plans to track progress.
@@ -174,8 +160,6 @@ Website: [Retrium](https://www.retrium.com/)
 Image
 
 Alt text: Retrium, retrospective tool
-
-<a name="retrospective-tool-ideaboardz"></a>
 
 ## Retrospective tool \#8: IdeaBoardz&nbsp;
 
@@ -195,8 +179,6 @@ Image
 
 Alt text: IdeaBoardz, retrospective tool
 
-<a name="retrospective-tool-mindmeister"></a>
-
 ## Retrospective tool \#9: MindMeister
 
 MindMeister is one of the best online mind-mapping apps currently on the market. It offers a number of powerful features that let users collaborate and brainstorm online, plan projects, develop business strategies, and identify ideas for improvement.
@@ -214,8 +196,6 @@ Website: [MindMeister](https://www.mindmeister.com/)
 Image
 
 Alt text: MindMeister, retrospective tool
-
-<a name="retrospective-tool-lino"></a>
 
 ## Retrospective tool \#10: Lino
 
@@ -235,8 +215,6 @@ Image
 
 Alt text: Lino, retrospective tool
 
-<a name="retrospective-tool-sensei"></a>
-
 ## Retrospective tool \#11: Sensei&nbsp;
 
 With Sensei, you begin each retrospective where the previous one ended. Team members can self-assess how well they and the team followed through on their commitments from the previous retro by answering routine questions raised by the facilitator.&nbsp;
@@ -254,8 +232,6 @@ Website: [Sensei](https://www.senseitool.com/)
 Image
 
 Alt text: Sensei, retrospective tool
-
-<a name="retrospective-tool-sprintboards"></a>
 
 ## Retrospective tool \#12: Sprint Boards
 
@@ -275,8 +251,6 @@ Image
 
 Alt text: Sprint Boards, retrospective tool
 
-<a name="retrospective-tool-padlet"></a>
-
 ## Retrospective tool \#13: Padlet
 
 Padlet is a collaborative product you can use to create a virtual environment to stale thinking patterns. It lets every team member participate, getting their ideas up in one pane of glass.&nbsp;
@@ -295,8 +269,6 @@ Image
 
 Alt text: Padlet, retrospective tool
 
-<a name="retrospective-tool-retrotime"></a>
-
 ## Retrospective tool \#14: RetroTime
 
 More than enabling sticky-note sharing, RetroTime is a real help for teams to learn from their mistakes quickly and adapt to regular challenges. It helps you identify patterns in feedback and troubleshoot your own processes.&nbsp;
@@ -314,8 +286,6 @@ Website: [RetroTime](https://retroti.me/)
 Image
 
 Alt text: RetroTime, retrospective tool
-
-<a name="retrospective-tool-parabol"></a>
 
 ## Retrospective tool \#15: Parabol
 

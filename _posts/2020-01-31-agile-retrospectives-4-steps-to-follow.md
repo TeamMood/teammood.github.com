@@ -10,9 +10,7 @@ excerpt: >-
 keywords: 'retrospective, agile, scrum'
 canonical_url:
 redirect_from:
-  - /2019/12/03/information-radiator-how-to-use-it-in-agile-methodologies.html
-  - /2019/12/03/information-radiator
-permalink: /information-radiator
+permalink: /agile-retrospectives
 ---
 
 In an Agile team, work is punctuated by different team meetings and rituals, in particular: the [sprint planning](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), [standup daily meetings](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), the sprint review, and the retrospective.&nbsp;

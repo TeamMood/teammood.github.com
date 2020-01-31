@@ -5,9 +5,149 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Jan 2020 10:56:32 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Jan 2020 10:56:32 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2020 10:57:16 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 10:57:16 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Agile Retrospectives: 4 Steps to Follow</title>
+        <description>&lt;p&gt;In an Agile team, work is punctuated by different team meetings and rituals, in particular: the &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;sprint planning&lt;/a&gt;, &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;standup daily meetings&lt;/a&gt;, the sprint review, and the retrospective. &lt;/p&gt;
+
+&lt;p&gt;The main objective of an Agile retrospective is to identify potential improvements in the way the team works, based on the past weeks’ events. Thus, their success is essential for the well-being (and functioning) of the team in the long run. However, they require a great deal of preparation and some key success factors.&lt;/p&gt;
+
+&lt;p&gt;In this article, we will share the ideal structure for efficient sprint retrospectives and the outcomes you can get. &lt;/p&gt;
+
+&lt;p&gt;Table of content:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#agile-retrospective-definition&quot;&gt;Agile Retrospective: Definition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#agile-retrospective-format&quot;&gt;Agile Retrospective: Format&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#agile-retrospective-agenda&quot;&gt;Agile Retrospective: Agenda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#agile-retrospective-outcomes&quot;&gt;Agile Retrospective: Outcomes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;agile-retrospective-definition-of-a-successful-retrospective&quot;&gt;Agile Retrospective: Definition of a Successful Retrospective&lt;/h2&gt;
+
+&lt;p&gt;According to the official definition from the &lt;a href=&quot;https://www.scrumguides.org/scrum-guide.html#events-retro&quot;&gt;Scrum Guide&lt;/a&gt;: &lt;em&gt;“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”&lt;/em&gt; It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.&lt;/p&gt;
+
+&lt;p&gt;Ideally, the Agile retrospective takes place at the end of the sprint, right or soon after the sprint review (and before the next sprint planning). Indeed, you don’t want to wait too long and risk your team members to forget about what happens during the sprint that could be improved.&lt;/p&gt;
+
+&lt;p&gt;An Agile retrospective is considering “successful” if team members are confident that their functioning as a team will ameliorate for the next sprint and the trend shows a continuous improvement over time. &lt;/p&gt;
+
+&lt;h2 id=&quot;agile-retrospective-the-ideal-format&quot;&gt;Agile Retrospective: the Ideal Format&lt;/h2&gt;
+
+&lt;p&gt;Retrospectives usually last for ½ hour to 1 hour. It should always include these three axes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Celebrate successes:&lt;/strong&gt; a new client, a feature release, a past action identified during the last retrospective that led to the expected results, …&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Discuss the issues and irritants&lt;/strong&gt; – from the smallest (the coffee is bad) to the biggest (we need new fundings) – and take time to analyze them&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Identify the actions&lt;/strong&gt; to solve these issues and irritants &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are countless formats of retrospectives, such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Three Words:&lt;/strong&gt; everybody sums up the last iteration in 3 words&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Remember the Future:&lt;/strong&gt; Imagine the next iteration is perfect. What is it like? What did you do?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;#tweetmysprint:&lt;/strong&gt; Ask participants to write 3 or more tweets on sticky notes about the iteration they’ve just completed.&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and none that you should adopt for good if you want your team to keep feeling excited about their retrospectives. If you want to find inspiration in order to vary your retrospective format, you can pick ideas from &lt;a href=&quot;https://retromat.org/&quot;&gt;Retromat&lt;/a&gt; unreservedly.&lt;/p&gt;
+
+&lt;p&gt;A creative format is not enough. If you want your &lt;strong&gt;Agile retrospective to be successful&lt;/strong&gt;, be careful to these warnings: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Amplify the good! Retrospectives do not only take place to improve the way the team works but also to celebrate successes.&lt;/li&gt;
+  &lt;li&gt;Avoid jumping too quickly to a solution. Instead, take the time to reflect on the raised issue and analyze it collectively.&lt;/li&gt;
+  &lt;li&gt;Make sure everyone can speak their mind.&lt;/li&gt;
+  &lt;li&gt;End each retrospective by asking for feedback on the retro itself: no process is perfect.&lt;/li&gt;
+  &lt;li&gt;Cover the whole period, not only the last few days. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using a tool like TeamMood to measure your team members’ mood and feelings over the Sprint can provide you with great insights for your Agile retrospective. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.teammood.com/en/&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Start measuring the health of your team now!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;agile-retrospective-agenda&quot;&gt;Agile Retrospective: Agenda&lt;/h2&gt;
+
+&lt;p&gt;An Agile retrospective usually follows these 5 steps (the timing should be adapted to the length of the retro):&lt;/p&gt;
+
+&lt;h3 id=&quot;1-set-the-stage--5&quot;&gt;1. Set the stage – 5’&lt;/h3&gt;
+
+&lt;p&gt;In the first moments of your retrospective, you want to get your team engaged. Start by taking a moment to thank your team members for their work and for investing their valued time in this continuous improvement process. You can also ask each attendee to explain briefly what they are expecting from the session. &lt;/p&gt;
+
+&lt;p&gt;💡Tip: You can use a timer to give everyone equal time to have their say.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-gather-data--10&quot;&gt;2. Gather data – 10’&lt;/h3&gt;
+
+&lt;p&gt;After setting the stage, you can start to paint a picture of the current sprint, good and bad, based on the retrospective format you picked. You can collect data on action items and results, decisions made during the sprint, milestones achieved, processes, new tools and technologies implemented… For each of these, ask your teammates what went well and not so well.&lt;/p&gt;
+
+&lt;p&gt;💡Tip: Physical supports such as whiteboards or paper boards and colorful sticky notes are very useful to get your team members engaged. &lt;/p&gt;
+
+&lt;h3 id=&quot;3-brainstorm-ideas--5&quot;&gt;3. Brainstorm ideas – 5’&lt;/h3&gt;
+
+&lt;p&gt;After having identified shortfalls, here comes the time to understand the why and link the cause to the effect. Understanding the reason behind problems will guide your team for smarter (and several) solutions. Also, make sure that your team has the right influence to address the problem. Some problems may just be too big to be solved at your scale.&lt;/p&gt;
+
+&lt;p&gt;💡Tip: To get to the root cause of one problem, you can use the “5-whys” method. It will help you come up with a range of viable solutions.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-pick-a-solution--5&quot;&gt;4. Pick a solution – 5’&lt;/h3&gt;
+
+&lt;p&gt;Once you have a handful of viable solutions, narrow down to two or three ideas you can reasonably take into your next iteration. Here are three decision-making processes you can use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the simple vote: each participant chooses the idea he/she likes the most&lt;/li&gt;
+  &lt;li&gt;the dot vote: each participant adds a dot to their top three priorities among the ideas&lt;/li&gt;
+  &lt;li&gt;the multiple vote: each participant gets a certain number of points that they can put on a single solution or divide up among solutions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But you can use any other system that you like. &lt;/p&gt;
+
+&lt;p&gt;💡Tip: To find solutions that get real results, don’t forget to consider their potential outcomes.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-close--5&quot;&gt;5. Close – 5’&lt;/h3&gt;
+
+&lt;p&gt;If you want your retrospective to be useful, you must end up the meeting with:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a clear summary of the past sprint&lt;/li&gt;
+  &lt;li&gt;a concrete action plan, broken into small and easy-to-implement tasks, assigned to an owner and with a fixed due date&lt;/li&gt;
+  &lt;li&gt;a clear process for follow-up, feedback, and measuring results&lt;/li&gt;
+  &lt;li&gt;the date for the next retrospective&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;💡Tip: You can also ask for feedback on the retrospective itself, in order to keep improving it. &lt;/p&gt;
+
+&lt;h2 id=&quot;agile-retrospective-outcomes&quot;&gt;Agile Retrospective: Outcomes&lt;/h2&gt;
+
+&lt;p&gt;In the long run, your retrospective will only be useful if the participants see a real improvement in their work environment, process, tools, … Your role as a Scrum Master or team leader is to make sure that the 2 or 3 (relevant) actions that are selected during the retrospective are effectively implemented by the next one. Thus, make sure to favor quality over quantity. &lt;/p&gt;
+
+&lt;p&gt;To make sure these actions are relevant and realist, you can turn them into &lt;strong&gt;SMART objectives&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;S for specific&lt;/li&gt;
+  &lt;li&gt;M for measurable&lt;/li&gt;
+  &lt;li&gt;A for achievable &lt;/li&gt;
+  &lt;li&gt;R for relevant&lt;/li&gt;
+  &lt;li&gt;T for time-bound&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;During the vote, you can also ask for volunteers to be responsible for an action. You’ll have a better chance to see them implemented than if you assign them yourself to your team members. &lt;/p&gt;
+
+&lt;p&gt;Finally, you should consider these actions as fully-fledged tasks. You can even add them to the backlog and prioritize them accordingly (in agreement with the Product Owner). &lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Retrospectives help identify the small “pebbles in the shoe” of your team that, if unaddressed, can become real frustrations and brakes to the overall productivity. They don’t have to shake everything up. Common actions such as reviewing the DoD (Definition of Done) or changing the time of the daily meeting can have a real positive impact in the long run!&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Photo by &lt;a target=&quot;_blank&quot; href=&quot;https://unsplash.com/@marcbustier?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Marc Bustier&lt;/a&gt; on &lt;a target=&quot;_blank&quot; href=&quot;https://unsplash.com/s/photos/steps-sand?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 31 Jan 2020 11:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/information-radiator</link>
+        <guid isPermaLink="true">https://blog.teammood.com/information-radiator</guid>
+        
+        
+      </item>
     
       <item>
         <title>Team Morale, Only One Way: Listening Before Improving</title>
@@ -645,39 +785,6 @@
         <pubDate>Wed, 15 May 2019 07:45:00 +0000</pubDate>
         <link>https://blog.teammood.com/2019/05/15/how-to-implement-positive-management-as-a-game-changer-for-your-company.html</link>
         <guid isPermaLink="true">https://blog.teammood.com/2019/05/15/how-to-implement-positive-management-as-a-game-changer-for-your-company.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Convincing Candidates To Join Your Team</title>
-        <description>&lt;p&gt;You screened hundreds of CVs, had a lot of recruitment interviews, presented her•him to the team, negotiated the offer, and you finally found the perfect candidate.&lt;/p&gt;
-
-&lt;p&gt;But s•he is having second thoughts?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/angry-meme-transparent-png.png&quot; alt=&quot;A recruiter after learning that the candidate has second thoughts&quot; title=&quot;A recruiter after learning that the candidate has second thoughts&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the hardest part for a candidate is to get an overview of the team’s culture and how they feel at work. They have to trust the recruiter that the company is their best option, but is it really?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/joinus.jpg&quot; alt=&quot;A trusty recruiter&quot; title=&quot;A trusty recruiter&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;teammood-to-the-rescue&quot;&gt;TeamMood To The Rescue&lt;/h2&gt;
-
-&lt;p&gt;Robin, one of TeamMood’s customers, had difficulties to convince candidates to join his team. It was for an IT position, and the competition is tough to hire software engineers.&lt;/p&gt;
-
-&lt;p&gt;To better reflect the team’s culture and what teammates were really living on a daily basis, he showed his TeamMood’s data to the candidate.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/uploads/teammood-analytics-1.png&quot; alt=&quot;TeamMood analytics&quot; title=&quot;TeamMood analytics&quot; class=&quot;center&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The Robin’s team is mainly happy, with some rough periods, as all teams have. But this level of transparency convinced the candidate to apply for the job in Robin’s team.&lt;/p&gt;
-
-&lt;p&gt;Now, Robin systematically shows the TeamMood’s history to new candidates, so that they can see what happened and how it has been handled. No more bad surprises ;)&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Header picture by &lt;a href=&quot;https://unsplash.com/photos/GOMhuCj-O9w?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Tim Mossholder&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/search/photos/hiring?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 16 Apr 2019 10:00:00 +0000</pubDate>
-        <link>https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html</guid>
         
         
       </item>

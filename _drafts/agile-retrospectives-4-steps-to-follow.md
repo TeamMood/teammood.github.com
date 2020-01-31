@@ -23,10 +23,12 @@ In this article, we will share the ideal structure for efficient sprint retrospe
 
 Table of content:
 
-* Agile Retrospective: Definition
-* Agile Retrospective: Format
-* Agile Retrospective: Agenda
-* Agile Retrospective: Outcomes
+* [Agile Retrospective: Definition](#agile-retrospective-definition)
+* [Agile Retrospective: Format](#agile-retrospective-format)
+* [Agile Retrospective: Agenda](#agile-retrospective-agenda)
+* [Agile Retrospective: Outcomes](#agile-retrospective-outcomes)
+
+<a name="agile-retrospective-definition"></a>
 
 ## Agile Retrospective: Definition of a Successful Retrospective
 
@@ -35,6 +37,8 @@ According to the official definition from the [Scrum Guide](https://www.scrumgui
 Ideally, the Agile retrospective takes place at the end of the sprint, right or soon after the sprint review (and before the next sprint planning). Indeed, you don’t want to wait too long and risk your team members to forget about what happens during the sprint that could be improved.
 
 An Agile retrospective is considering “successful” if team members are confident that their functioning as a team will ameliorate for the next sprint and the trend shows a continuous improvement over time.&nbsp;
+
+<a name="agile-retrospective-format"></a>
 
 ## Agile Retrospective: the Ideal Format
 
@@ -63,7 +67,9 @@ A creative format is not enough. If you want your **Agile retrospective to be su
 
 Using a tool like TeamMood to measure your team members’ mood and feelings over the Sprint can provide you with great insights for your Agile retrospective.&nbsp;
 
-CTA: Start measuring the health of your team now\! (https://www.teammood.com/en/)
+[Start measuring the health of your team now!](https://www.teammood.com/en/){: .button target="_blank"}
+
+<a name="agile-retrospective-agenda"></a>
 
 ## Agile Retrospective: Agenda
 
@@ -110,6 +116,8 @@ If you want your retrospective to be useful, you must end up the meeting with:
 
 💡Tip: You can also ask for feedback on the retrospective itself, in order to keep improving it.&nbsp;
 
+<a name="agile-retrospective-outcomes"></a>
+
 ## Agile Retrospective: Outcomes
 
 In the long run, your retrospective will only be useful if the participants see a real improvement in their work environment, process, tools, … Your role as a Scrum Master or team leader is to make sure that the 2 or 3 (relevant) actions that are selected during the retrospective are effectively implemented by the next one. Thus, make sure to favor quality over quantity.&nbsp;
@@ -130,4 +138,4 @@ Finally, you should consider these actions as fully-fledged tasks. You can even 
 
 Retrospectives help identify the small "pebbles in the shoe" of your team that, if unaddressed, can become real frustrations and brakes to the overall productivity. They don’t have to shake everything up. Common actions such as reviewing the DoD (Definition of Done) or changing the time of the daily meeting can have a real positive impact in the long run\!
 
-Photo by [Marc Bustier](https://unsplash.com/@marcbustier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"} on [Unsplash](https://unsplash.com/s/photos/steps-sand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}
+<small><em>Photo by [Marc Bustier](https://unsplash.com/@marcbustier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"} on [Unsplash](https://unsplash.com/s/photos/steps-sand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}</em></small>

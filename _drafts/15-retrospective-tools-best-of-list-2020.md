@@ -17,7 +17,7 @@ To take full advantage of your [Agile retrospective](https://blog.teammood.com/a
 
 Especially useful for multi located teams, these Agile retrospective online tools participate in enhancing your retrospectives, better organizing them, and following up actions over time.
 
-In this article, we share **the 15 best retrospective tools**\:&nbsp;
+In this article, we share **the 15 best retrospective tools:&nbsp;**
 
 * Retrospective tool \#1: TeamMood
 * Retrospective tool \#2: Reetro
@@ -49,7 +49,7 @@ TeamMood is easy as pie and lets you gather anonymous moods and feedback on a da
 
 Website: [TeamMood](https://www.teammood.com/en/)
 
-![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}
+![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}
 
 alt text: TeamMood, retrospective tool
 
@@ -117,7 +117,7 @@ Prices range from $25 per month for one team to $90 per month for 6 teams. An En
 
 ### Killing feature
 
-In addition to retrospectives, TeamRetro helps you gain insights into what is motivating and challenging your team members through different health dimensions: ownership, goal alignment, communication, ...
+In addition to retrospectives, TeamRetro helps you gain insights into what is motivating and challenging your team members through different health dimensions: ownership, goal alignment, communication, …
 
 Website: [TeamRetro](https://www.teamretro.com/)
 
@@ -171,7 +171,7 @@ Free
 
 ### Killing feature
 
-IdeaBoardz is not only a retrospective tool. It can be used for brainstorming exercises like six thinking hats, pros-cons, risks-opportunities, ...
+IdeaBoardz is not only a retrospective tool. It can be used for brainstorming exercises like six thinking hats, pros-cons, risks-opportunities, …
 
 Website: [IdeaBoardz](http://www.ideaboardz.com/)
 

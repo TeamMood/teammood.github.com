@@ -23,6 +23,8 @@ Table of content:
 * [Information radiator: the benefits](#information-radiator-benefits)
 * [Information radiator in Scrum: enhanced retrospectives](#information-radiator-in-scrum)
 
+<a name="information-radiator-definition"></a>
+
 ## 1\. Information Radiator: Definition In Agile Methodology
 
 An **information radiator** is a comprehensive display of key team information, openly shared with all team members and other stakeholders and continuously updated. It includes information such as the task board, the count of automated tests, the team velocity, incident reports, continuous integration status, the state of work packages, or the progress of the team.&nbsp;
@@ -57,6 +59,8 @@ The main objective of an information radiator is to implement transparency into 
 
 <div class='mailmunch-forms-widget-762513'></div>
 
+<a name="information-radiator-benefits"></a>
+
 ## 2\. Information Radiator: The Benefits&nbsp;
 
 If done the right way, the information radiator can be a game-changer in terms of transparency and team collaboration. Let’s dive into the **information radiator’s main benefits:**
@@ -82,6 +86,8 @@ One of the elements that can be included in the information radiator, more speci
 By allowing teams to pick the hour of reception of our daily email, the number of feedback grew by 20%. Today, our daily participation rate is about 60% on average for 150-people teams. You can apply this feedback loop methodology for your data and improve your results\!&nbsp;
 
 [Visualize your team’s health and boost your information radiator\!](https://app.teammood.com/signup){: .button}
+
+<a name="information-radiator-in-scrum"></a>
 
 ## 3\. Information Radiator In Scrum: Enhanced Retrospectives
 

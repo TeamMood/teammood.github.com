@@ -4,8 +4,9 @@ date: 2020-01-31 11:00:00
 layout: post
 image: /uploads/teammood-agile-retrospectives-4-steps-to-follow.jpg
 excerpt: >-
-  ideal structure for efficient sprint retrospectives and the outcomes you can
-  get.
+  Agile retrospectives help agile teams to identify potential improvements in
+  the way the team works. Discover its ideal structure for efficient sprint
+  retrospectives and the outcomes you can get.
 keywords: 'retrospective, agile, scrum'
 canonical_url:
 redirect_from:

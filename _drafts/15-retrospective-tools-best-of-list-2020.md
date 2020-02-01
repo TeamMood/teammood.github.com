@@ -2,7 +2,7 @@
 title: '15 Retrospective Tools: Best of List 2020'
 date: 2020-02-03 10:00:00
 layout: post
-image:
+image: /uploads/teammood-retrospective-tools-list-2020.jpg
 excerpt: >-
   Agile retrospectives help agile teams to identify potential improvements in
   the way the team works. Discover its ideal structure for efficient sprint
@@ -49,9 +49,7 @@ TeamMood is easy as pie and lets you gather anonymous moods and feedback on a da
 
 Website: [TeamMood](https://www.teammood.com/en/)
 
-![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}
-
-alt text: TeamMood, retrospective tool
+![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}![](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}![TeamMood, retrospective tool](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}
 
 ## Retrospective tool \#2: Reetro
 

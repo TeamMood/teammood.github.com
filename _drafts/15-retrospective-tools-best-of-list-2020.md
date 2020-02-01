@@ -63,11 +63,9 @@ Free.
 
 Reetro enables teams to run their retrospectives seamlessly. It integrates with the most used Scrum tools such as JIRA, Trello, Yodiz, and Asana.
 
-Website: [Reetro.io](https://reetro.io/)
+Website: [Reetro.io](https://reetro.io/){: target="_blank"}
 
-*Image*
-
-Alt text: Reetro, retrospective tool
+![Reetro, retrospective tool](/uploads/retrospective-board-reetro-io.png){: width="845" height="524"}
 
 ## Retrospective tool \#3: FunRetro
 
@@ -75,17 +73,15 @@ If you’re looking for optimizing your sprint retrospective efficiency, FunRetr
 
 ### Pricing
 
-FunRetro offers an evolutive pricing: free for up to 3 public boards, and from €22 to €78 per month (billed annually) for 1 to 5 teams. See more [here](https://funretro.io/pricing).
+FunRetro offers an evolutive pricing: free for up to 3 public boards, and from €22 to €78 per month (billed annually) for 1 to 5 teams. See more [here](https://funretro.io/pricing){: target="_blank"}.
 
 ### Killing feature
 
 FunRetro allows you to toggle your retrospectives to a secret mode in order to allow true honest feedback.&nbsp;&nbsp;
 
-Website: [FunRetro](https://funretro.io/)
+Website: [FunRetro](https://funretro.io/){: target="_blank"}
 
-Image
-
-Alt text: FunRetro, retrospective tool
+![FunRetro, retrospective tool](/uploads/funretro.png){: width="2206" height="838"}
 
 ## Retrospective tool \#4: goReflect&nbsp;
 
@@ -99,11 +95,9 @@ Free for 100 days then $2.67/user/month.
 
 Unlike typical retrospectives, goReflect encourages the idea of a perpetual retrospective to drive continuous improvement. All retrospective boards are available for the team members to share their thoughts anytime from anywhere.&nbsp;
 
-Website: [goReflect](https://www.goreflect.com/)
+Website: [goReflect](https://www.goreflect.com/){: target="_blank"}
 
-Image
-
-Alt text: goReflect, retrospective tool
+![goReflect, retrospective tool](/uploads/goreflect.png){: width="2824" height="1064"}
 
 ## Retrospective tool \#5: TeamRetro&nbsp;
 
@@ -117,11 +111,9 @@ Prices range from $25 per month for one team to $90 per month for 6 teams. An En
 
 In addition to retrospectives, TeamRetro helps you gain insights into what is motivating and challenging your team members through different health dimensions: ownership, goal alignment, communication, …
 
-Website: [TeamRetro](https://www.teamretro.com/)
+Website: [TeamRetro](https://www.teamretro.com/){: target="_blank"}
 
-Image
-
-Alt text: TeamRetro, retrospective tool
+![TeamRetro, retrospective tool](/uploads/teamretro.jpg){: width="2546" height="532"}
 
 ## Retrospective tool \#6: ScatterSpoke
 
@@ -135,11 +127,9 @@ Unlimited retros and team members are free. For premium services (unlimited hist
 
 ScatterSpoke also makes it easy for anyone to play the role of facilitator, an important part of keeping retrospectives as objective as possible.
 
-Website: [ScatterSpoke](http://www.scatterspoke.com/)
+Website: [ScatterSpoke](http://www.scatterspoke.com/){: target="_blank"}
 
-Image
-
-Alt text: ScatterSpoke, retrospective tool
+![ScatterSpoke, retrospective tool](/uploads/scatterspoke.png){: width="2000" height="908"}
 
 ## Retrospective tool \#7: Retrium&nbsp;
 
@@ -153,11 +143,11 @@ Prices start at $29 per month and per team.
 
 Retrium allows Agile teams to run anonymous surveys et get quick room-checks on safety, engagement, and team performance.
 
-Website: [Retrium](https://www.retrium.com/)
+Website: [Retrium](https://www.retrium.com/){: target="_blank"}
 
-Image
+![Retrium, retrospective tool](/uploads/retrium.png){: width="2228" height="1282"}
 
-Alt text: Retrium, retrospective tool
+&nbsp;
 
 ## Retrospective tool \#8: IdeaBoardz&nbsp;
 
@@ -171,11 +161,9 @@ Free
 
 IdeaBoardz is not only a retrospective tool. It can be used for brainstorming exercises like six thinking hats, pros-cons, risks-opportunities, …
 
-Website: [IdeaBoardz](http://www.ideaboardz.com/)
+Website: [IdeaBoardz](http://www.ideaboardz.com/){: target="_blank"}
 
-Image
-
-Alt text: IdeaBoardz, retrospective tool
+![IdeaBoardz, retrospective tool](/uploads/ideaboardz.png){: width="600" height="444"}
 
 ## Retrospective tool \#9: MindMeister
 
@@ -189,11 +177,9 @@ Prices range from €8.25 to €12.49 per user per month for business use.&nbsp;
 
 Like all mind-maps, ideas are displayed and structures on a treemap that fosters 360&deg; thinking on a specific situation. This type of ideation is crucial to improve internal efficiency and understanding your options for where to go next.
 
-Website: [MindMeister](https://www.mindmeister.com/)
+Website: [MindMeister](https://www.mindmeister.com/){: target="_blank"}
 
-Image
-
-Alt text: MindMeister, retrospective tool
+![MindMeister, retrospective tool](/uploads/mindmeister.png){: width="1290" height="808"}
 
 ## Retrospective tool \#10: Lino
 
@@ -207,11 +193,9 @@ Free
 
 Lino automatically turns the email message containing your idea into a virtual sticky note on your team board.&nbsp;
 
-Website: [Lino](https://en.linoit.com/)
+Website: [Lino](https://en.linoit.com/){: target="_blank"}
 
-Image
-
-Alt text: Lino, retrospective tool
+![Lino, retrospective tool](/uploads/linoit.jpg){: width="450" height="269"}
 
 ## Retrospective tool \#11: Sensei&nbsp;
 

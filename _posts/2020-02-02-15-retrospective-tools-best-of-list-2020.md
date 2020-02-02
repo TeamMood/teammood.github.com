@@ -275,3 +275,5 @@ Parabol lets you ask granular questions and dive back into prior experiences. It
 Website: [Parabol](https://www.parabol.co/){: target="_blank"}
 
 ![Parabol, retrospective tool](/uploads/parabol.png){: width="2050" height="1090"}
+
+Photo by [Fleur](https://unsplash.com/@yer_a_wizard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)

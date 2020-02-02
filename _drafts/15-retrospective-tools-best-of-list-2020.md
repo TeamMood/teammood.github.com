@@ -209,11 +209,9 @@ Free
 
 A summary report provides you the average rating of past retrospectives to assess your progress.
 
-Website: [Sensei](https://www.senseitool.com/)
+Website: [Sensei](https://www.senseitool.com/){: target="_blank"}
 
-Image
-
-Alt text: Sensei, retrospective tool
+![Sensei, retrospective tool](/uploads/sensei.png){: width="1670" height="1212"}
 
 ## Retrospective tool \#12: Sprint Boards
 
@@ -227,11 +225,11 @@ $7.99 per month per person.
 
 With Sprint Boards, you can prevent team members from influencing each other by masking each others' cards until the end of the retrospective.&nbsp;
 
-Website: [Sprint Boards](https://sprintboards.io/)
+Website: [Sprint Boards](https://sprintboards.io/){: target="_blank"}
 
 Image
 
-Alt text: Sprint Boards, retrospective tool
+![Sprint Boards, retrospective tool](/uploads/sprintboards.png){: width="588" height="344"}
 
 ## Retrospective tool \#13: Padlet
 
@@ -245,11 +243,9 @@ Plans start at $12 per user per month.
 
 Padlet can serve several purposes, from personal note-taking to to-do lists, party invitations, feedback collection, or anything that might need input from several people.
 
-Website: [Padlet](https://padlet.com/)
+Website: [Padlet](https://padlet.com/){: target="_blank"}
 
-Image
-
-Alt text: Padlet, retrospective tool
+![Padlet, retrospective tool](/uploads/padlet.png){: width="1763" height="1070"}
 
 ## Retrospective tool \#14: RetroTime
 
@@ -263,11 +259,9 @@ Free to participate in retrospectives, $8 per month to create up to 5 retrospect
 
 RetroTime allows participants to anonymize notes. This allows team members to clue you in on issues that might be tougher to express under perceived social pressure.
 
-Website: [RetroTime](https://retroti.me/)
+Website: [RetroTime](https://retroti.me/){: target="_blank"}
 
-Image
-
-Alt text: RetroTime, retrospective tool
+![RetroTime, retrospective tool](/uploads/retrotime.png){: width="668" height="540"}
 
 ## Retrospective tool \#15: Parabol
 
@@ -281,8 +275,6 @@ Parabol is free to use and open-source, but pro and Enterprise plans offer more 
 
 Parabol lets you ask granular questions and dive back into prior experiences. It’s a great tool for prompting people to think about their processes and how they are functioning as part of the team.
 
-Website: [Parabol](https://www.parabol.co/)
+Website: [Parabol](https://www.parabol.co/){: target="_blank"}
 
-Image
-
-Alt text: Parabol, retrospective tool
+![Parabol, retrospective tool](/uploads/parabol.png){: width="2050" height="1090"}

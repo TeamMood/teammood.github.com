@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Feb 2020 21:06:33 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Feb 2020 21:06:33 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Feb 2020 21:08:37 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Feb 2020 21:08:37 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -35,6 +35,8 @@
   &lt;li&gt;&lt;a href=&quot;#retrospective-tool-parabol&quot;&gt;Retrospective tool #15: Parabol&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-teammood&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-1-teammood&quot;&gt;Retrospective tool #1: TeamMood&lt;/h2&gt;
 
 &lt;p&gt;TeamMood helps you gather daily insights on how your team members are feeling. You can then use your team mood chart as a basis to open up discussions in your retrospectives.&lt;/p&gt;
@@ -50,6 +52,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://www.teammood.com/en/&quot;&gt;TeamMood&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png&quot; alt=&quot;TeamMood, retrospective tool&quot; width=&quot;1740&quot; height=&quot;1146&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-reetro&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-2-reetro&quot;&gt;Retrospective tool #2: Reetro&lt;/h2&gt;
 
@@ -67,6 +71,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/retrospective-board-reetro-io.png&quot; alt=&quot;Reetro, retrospective tool&quot; width=&quot;845&quot; height=&quot;524&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-funretro&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-3-funretro&quot;&gt;Retrospective tool #3: FunRetro&lt;/h2&gt;
 
 &lt;p&gt;If you’re looking for optimizing your sprint retrospective efficiency, FunRetro is the way to go. With FunRetro, you can easily configure your dashboards and export your data to keep track of your sessions and action plans.&lt;/p&gt;
@@ -82,6 +88,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://funretro.io/&quot; target=&quot;_blank&quot;&gt;FunRetro&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/funretro.png&quot; alt=&quot;FunRetro, retrospective tool&quot; width=&quot;2206&quot; height=&quot;838&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-goreflect&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-4-goreflect&quot;&gt;Retrospective tool #4: goReflect &lt;/h2&gt;
 
@@ -99,6 +107,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/goreflect.png&quot; alt=&quot;goReflect, retrospective tool&quot; width=&quot;2824&quot; height=&quot;1064&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-teamretro&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-5-teamretro&quot;&gt;Retrospective tool #5: TeamRetro &lt;/h2&gt;
 
 &lt;p&gt;TeamRetro is an enterprise-ready online retrospective meeting tool for Agile coaches, Scrum masters, and teams. All actions are stored in a single list that you can track from meeting to meeting. TeamRetro helps to run engaging and action-focused retrospectives with remote or co-located teams.&lt;/p&gt;
@@ -115,6 +125,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/teamretro.jpg&quot; alt=&quot;TeamRetro, retrospective tool&quot; width=&quot;2546&quot; height=&quot;532&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-scatterspoke&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-6-scatterspoke&quot;&gt;Retrospective tool #6: ScatterSpoke&lt;/h2&gt;
 
 &lt;p&gt;With ScatterSpoke, anyone on the team can quickly launch and share a retrospective with the other team members. Everyone can share cards in real-time, vote on issues, create groups, or pin items for follow up. &lt;/p&gt;
@@ -130,6 +142,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;http://www.scatterspoke.com/&quot; target=&quot;_blank&quot;&gt;ScatterSpoke&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/scatterspoke.png&quot; alt=&quot;ScatterSpoke, retrospective tool&quot; width=&quot;2000&quot; height=&quot;908&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-retrium&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-7-retrium&quot;&gt;Retrospective tool #7: Retrium &lt;/h2&gt;
 
@@ -149,6 +163,8 @@
 
 &lt;p&gt; &lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-ideaboardz&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-8-ideaboardz&quot;&gt;Retrospective tool #8: IdeaBoardz &lt;/h2&gt;
 
 &lt;p&gt;IdeaBoardz is a collaborative ideation tool. It allows teams to collectively brainstorm, gather ideas, reflect, and retrospect on the past period (sprint or else). It is especially useful for remote teams.&lt;/p&gt;
@@ -164,6 +180,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;http://www.ideaboardz.com/&quot; target=&quot;_blank&quot;&gt;IdeaBoardz&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/ideaboardz.png&quot; alt=&quot;IdeaBoardz, retrospective tool&quot; width=&quot;600&quot; height=&quot;444&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-mindmeister&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-9-mindmeister&quot;&gt;Retrospective tool #9: MindMeister&lt;/h2&gt;
 
@@ -181,6 +199,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/mindmeister.png&quot; alt=&quot;MindMeister, retrospective tool&quot; width=&quot;1290&quot; height=&quot;808&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-lino&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-10-lino&quot;&gt;Retrospective tool #10: Lino&lt;/h2&gt;
 
 &lt;p&gt;Lino is an online corkboard that enables team members to share ideas with the rest of the team on virtual sticky notes. It encourages ongoing feedback and lets you move the stickies around to sort them. &lt;/p&gt;
@@ -196,6 +216,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://en.linoit.com/&quot; target=&quot;_blank&quot;&gt;Lino&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/linoit.jpg&quot; alt=&quot;Lino, retrospective tool&quot; width=&quot;450&quot; height=&quot;269&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-sensei&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-11-sensei&quot;&gt;Retrospective tool #11: Sensei &lt;/h2&gt;
 
@@ -213,6 +235,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/sensei.png&quot; alt=&quot;Sensei, retrospective tool&quot; width=&quot;1670&quot; height=&quot;1212&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-sprintboards&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-12-sprint-boards&quot;&gt;Retrospective tool #12: Sprint Boards&lt;/h2&gt;
 
 &lt;p&gt;Sprint Boards is built for Agile developers. With keyboard shortcuts for adding and saving cards and support for merging duplicates, it makes retrospectives simple and easy. You can also lock boards when you’re done to prevent further changes.&lt;/p&gt;
@@ -228,6 +252,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://sprintboards.io/&quot; target=&quot;_blank&quot;&gt;Sprint Boards&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/sprintboards.png&quot; alt=&quot;Sprint Boards, retrospective tool&quot; width=&quot;588&quot; height=&quot;344&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-padlet&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-13-padlet&quot;&gt;Retrospective tool #13: Padlet&lt;/h2&gt;
 
@@ -245,6 +271,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/padlet.png&quot; alt=&quot;Padlet, retrospective tool&quot; width=&quot;1763&quot; height=&quot;1070&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-retrotime&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;retrospective-tool-14-retrotime&quot;&gt;Retrospective tool #14: RetroTime&lt;/h2&gt;
 
 &lt;p&gt;More than enabling sticky-note sharing, RetroTime is a real help for teams to learn from their mistakes quickly and adapt to regular challenges. It helps you identify patterns in feedback and troubleshoot your own processes. &lt;/p&gt;
@@ -260,6 +288,8 @@
 &lt;p&gt;Website: &lt;a href=&quot;https://retroti.me/&quot; target=&quot;_blank&quot;&gt;RetroTime&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/uploads/retrotime.png&quot; alt=&quot;RetroTime, retrospective tool&quot; width=&quot;668&quot; height=&quot;540&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a name=&quot;retrospective-tool-parabol&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;retrospective-tool-15-parabol&quot;&gt;Retrospective tool #15: Parabol&lt;/h2&gt;
 

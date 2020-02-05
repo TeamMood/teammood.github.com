@@ -5,8 +5,8 @@ layout: post
 image: /uploads/teammood-agile-retrospectives-4-steps-to-follow.jpg
 excerpt: >-
   Agile retrospectives help agile teams to identify potential improvements in
-  the way the team works. Discover its ideal structure for efficient sprint
-  retrospectives and the outcomes you can get.
+  the way the team works. Discover its ideal structure and the outcomes you can
+  get.
 keywords: 'retrospective, agile, scrum'
 canonical_url:
 redirect_from:
@@ -26,17 +26,13 @@ Table of content:
 * [Agile Retrospective: Agenda](#agile-retrospective-agenda)
 * [Agile Retrospective: Outcomes](#agile-retrospective-outcomes)
 
-<a name="agile-retrospective-definition"></a>
-
 ## Agile Retrospective: Definition of a Successful Retrospective
 
 According to the official definition from the [Scrum Guide](https://www.scrumguides.org/scrum-guide.html#events-retro){: target="_blank"}\: *“The Agile retrospective is the opportunity for an Agile team to examine itself and define a plan for improvement to be enacted during the next Sprint.”* It gathers all the active team members, including the Scrum master and product owner. And if necessary, people who contributed to the current sprint from other departments.
 
-Ideally, the Agile retrospective takes place at the end of the sprint, right or soon after the sprint review (and before the next sprint planning). Indeed, you don’t want to wait too long and risk your team members to forget about what happens during the sprint that could be improved.
+Ideally, the Agile retrospective takes place **at the end of the sprint**, right or soon after the sprint review (and before the next sprint planning). Indeed, you don’t want to wait too long and risk your team members to forget about what happens during the sprint that could be improved.
 
-An Agile retrospective is considering “successful” if team members are confident that their functioning as a team will ameliorate for the next sprint and the trend shows a continuous improvement over time.&nbsp;
-
-<a name="agile-retrospective-format"></a>
+An **Agile retrospective is considering “successful”** if team members are confident that their functioning as a team will meliorate for the next sprint and the trend shows a continuous improvement over time.&nbsp;
 
 ## Agile Retrospective: the Ideal Format
 
@@ -63,11 +59,9 @@ A creative format is not enough. If you want your **Agile retrospective to be su
 * End each retrospective by asking for feedback on the retro itself: no process is perfect.
 * Cover the whole period, not only the last few days.&nbsp;
 
-Using a tool like TeamMood to measure your team members’ mood and feelings over the Sprint can provide you with great insights for your Agile retrospective.&nbsp;
+Using a tool like TeamMood to **measure your team members’ mood and feelings** over the Sprint can provide you with great insights for your Agile retrospective.&nbsp;
 
 [Start measuring the health of your team now\!](https://www.teammood.com/en/){: .button target="_blank"}
-
-<a name="agile-retrospective-agenda"></a>
 
 ## Agile Retrospective: Agenda
 
@@ -105,7 +99,7 @@ But you can use any other system that you like.&nbsp;
 
 ### 5\. Close – 5’
 
-If you want your retrospective to be useful, you must end up the meeting with:
+If you want your **retrospective to be useful**, you must end up the meeting with:
 
 * a clear summary of the past sprint
 * a concrete action plan, broken into small and easy-to-implement tasks, assigned to an owner and with a fixed due date
@@ -113,8 +107,6 @@ If you want your retrospective to be useful, you must end up the meeting with:
 * the date for the next retrospective
 
 💡Tip: You can also ask for feedback on the retrospective itself, in order to keep improving it.&nbsp;
-
-<a name="agile-retrospective-outcomes"></a>
 
 ## Agile Retrospective: Outcomes
 
@@ -127,6 +119,8 @@ To make sure these actions are relevant and realist, you can turn them into **SM
 * A for achievable&nbsp;
 * R for relevant
 * T for time-bound
+
+![SMART goals for a successful retrospective action plan](/uploads/smart-goals-retrospectives-teammood.png){: width="792" height="341"}
 
 During the vote, you can also ask for volunteers to be responsible for an action. You’ll have a better chance to see them implemented than if you assign them yourself to your team members.&nbsp;
 

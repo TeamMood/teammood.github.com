@@ -37,7 +37,7 @@ In this article, we share **the 15 best retrospective tools:&nbsp;**
 
 ## Retrospective tool \#1: TeamMood
 
-TeamMood helps you gather daily insights on how your team members are feeling. You can then use your team mood chart as a basis to open up discussions in your retrospectives.
+TeamMood helps you gather daily insights on **how your team members are feeling**. You can then use your team mood chart as a basis to open up discussions in your retrospectives.
 
 ### Pricing
 
@@ -53,7 +53,7 @@ Website: [TeamMood](https://www.teammood.com/en/)
 
 ## Retrospective tool \#2: Reetro
 
-Reetro is an online retrospective tool for remote agile teams. It fosters collaboration and automates the retrospective process.
+Reetro is an **online retrospective tool for remote agile teams**. It fosters collaboration and automates the retrospective process.
 
 ### Pricing
 
@@ -69,7 +69,7 @@ Website: [Reetro.io](https://reetro.io/){: target="_blank"}
 
 ## Retrospective tool \#3: FunRetro
 
-If you’re looking for optimizing your sprint retrospective efficiency, FunRetro is the way to go. With FunRetro, you can easily configure your dashboards and export your data to keep track of your sessions and action plans.
+If you’re looking for optimizing your **sprint retrospective** efficiency, FunRetro is the way to go. With FunRetro, you can easily configure your dashboards and export your data to keep track of your sessions and action plans.
 
 ### Pricing
 
@@ -85,7 +85,7 @@ Website: [FunRetro](https://funretro.io/){: target="_blank"}
 
 ## Retrospective tool \#4: goReflect&nbsp;
 
-goReflect is a retrospective tool that promotes continuous process review. It allows teams to share ideas in a stream or on customizable boards. The dashboard makes it easy to monitor the commitments you make as a team.&nbsp;
+goReflect is a retrospective tool that promotes **continuous process review**. It allows teams to share ideas in a stream or on customizable boards. The dashboard makes it easy to monitor the commitments you make as a team.&nbsp;
 
 ### Pricing
 
@@ -101,7 +101,7 @@ Website: [goReflect](https://www.goreflect.com/){: target="_blank"}
 
 ## Retrospective tool \#5: TeamRetro&nbsp;
 
-TeamRetro is an enterprise-ready online retrospective meeting tool for Agile coaches, Scrum masters, and teams. All actions are stored in a single list that you can track from meeting to meeting. TeamRetro helps to run engaging and action-focused retrospectives with remote or co-located teams.
+TeamRetro is an enterprise-ready **online retrospective meeting tool** for Agile coaches, Scrum masters, and teams. All actions are stored in a single list that you can track from meeting to meeting. TeamRetro helps to run engaging and action-focused retrospectives with remote or co-located teams.
 
 ### Pricing
 
@@ -133,7 +133,7 @@ Website: [ScatterSpoke](http://www.scatterspoke.com/){: target="_blank"}
 
 ## Retrospective tool \#7: Retrium&nbsp;
 
-Retrium is a retrospective tool specifically designed to identify problems that threaten to derail teamwork. Each participant gets the opportunity to privately brainstorm on what went well or not, vote for items, prioritize discussions, and create action plans to track progress.
+Retrium is a retrospective tool specifically designed to **identify problems that threaten to derail teamwork**. Each participant gets the opportunity to privately brainstorm on what went well or not, vote for items, prioritize discussions, and create action plans to track progress.
 
 ### Pricing
 
@@ -147,11 +147,9 @@ Website: [Retrium](https://www.retrium.com/){: target="_blank"}
 
 ![Retrium, retrospective tool](/uploads/retrium.png){: width="2228" height="1282"}
 
-&nbsp;
-
 ## Retrospective tool \#8: IdeaBoardz&nbsp;
 
-IdeaBoardz is a collaborative ideation tool. It allows teams to collectively brainstorm, gather ideas, reflect, and retrospect on the past period (sprint or else). It is especially useful for remote teams.
+IdeaBoardz is a **collaborative ideation tool**. It allows teams to collectively brainstorm, gather ideas, reflect, and retrospect on the past period (sprint or else). It is especially useful for remote teams.
 
 ### Pricing
 
@@ -159,7 +157,7 @@ Free
 
 ### Killing feature
 
-IdeaBoardz is not only a retrospective tool. It can be used for brainstorming exercises like six thinking hats, pros-cons, risks-opportunities, …
+IdeaBoardz is not only a retrospective tool. It can be used for **brainstorming exercises** like six thinking hats, pros-cons, risks-opportunities, …
 
 Website: [IdeaBoardz](http://www.ideaboardz.com/){: target="_blank"}
 
@@ -167,7 +165,7 @@ Website: [IdeaBoardz](http://www.ideaboardz.com/){: target="_blank"}
 
 ## Retrospective tool \#9: MindMeister
 
-MindMeister is one of the best online mind-mapping apps currently on the market. It offers a number of powerful features that let users collaborate and brainstorm online, plan projects, develop business strategies, and identify ideas for improvement.
+MindMeister is one of the best online **mind-mapping apps** currently on the market. It offers a number of powerful features that let users collaborate and brainstorm online, plan projects, develop business strategies, and identify ideas for improvement.
 
 ### Pricing
 
@@ -183,7 +181,7 @@ Website: [MindMeister](https://www.mindmeister.com/){: target="_blank"}
 
 ## Retrospective tool \#10: Lino
 
-Lino is an online corkboard that enables team members to share ideas with the rest of the team on virtual sticky notes. It encourages ongoing feedback and lets you move the stickies around to sort them.&nbsp;
+Lino is an **online corkboard** that enables team members to share ideas with the rest of the team on virtual sticky notes. It encourages ongoing feedback and lets you move the stickies around to sort them.&nbsp;
 
 ### Pricing
 
@@ -215,7 +213,7 @@ Website: [Sensei](https://www.senseitool.com/){: target="_blank"}
 
 ## Retrospective tool \#12: Sprint Boards
 
-Sprint Boards is built for Agile developers. With keyboard shortcuts for adding and saving cards and support for merging duplicates, it makes retrospectives simple and easy. You can also lock boards when you’re done to prevent further changes.
+Sprint Boards is built for **Agile developers**. With keyboard shortcuts for adding and saving cards and support for merging duplicates, it makes retrospectives simple and easy. You can also lock boards when you’re done to prevent further changes.
 
 ### Pricing
 
@@ -247,7 +245,7 @@ Website: [Padlet](https://padlet.com/){: target="_blank"}
 
 ## Retrospective tool \#14: RetroTime
 
-More than enabling sticky-note sharing, RetroTime is a real help for teams to learn from their mistakes quickly and adapt to regular challenges. It helps you identify patterns in feedback and troubleshoot your own processes.&nbsp;
+More than enabling sticky-note sharing, RetroTime is a real help for teams to **learn from their mistakes** quickly and **adapt to regular challenges**. It helps you identify patterns in feedback and troubleshoot your own processes.&nbsp;
 
 ### Pricing
 
@@ -263,7 +261,7 @@ Website: [RetroTime](https://retroti.me/){: target="_blank"}
 
 ## Retrospective tool \#15: Parabol
 
-Parabol is an online retrospective tool that offers unique features, such as multi-user grouping, customizable retrospective templates, rich formatting and emojis, slack integration, and beautiful meeting summaries.&nbsp;
+Parabol is an **online retrospective tool** that offers unique features, such as multi-user grouping, customizable retrospective templates, rich formatting and emojis, slack integration, and beautiful meeting summaries.&nbsp;
 
 ### Pricing
 

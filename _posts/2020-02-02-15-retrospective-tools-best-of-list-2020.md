@@ -45,7 +45,7 @@ TeamMood starts at €2 per month per user, after a 30-day trial period. An Ente
 
 ### Killing feature
 
-TeamMood is easy as pie and lets you gather anonymous moods and feedback on a daily basis. Your team members simply click on their mood of the day on the email they receive each day at a specific time, no more than 2mn.
+TeamMood is easy as pie and lets you gather anonymous moods and feedback on a daily basis. Your team members simply click on their mood of the day on the email they receive each day at a specific time, no more than 2mn.&nbsp;
 
 Website: [TeamMood](https://www.teammood.com/en/)
 

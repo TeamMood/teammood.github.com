@@ -31,9 +31,7 @@ Defining or updating your company’s mission, values, and roadmap is one of the
 
 Learn how TeamMood can help you convince candidates to join your team:
 
-Button: Read the article&nbsp;
-
-[https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html](https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html)
+[Read the article](https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html){: .button}
 
 ## **3\. Offering transparency on salaries**
 

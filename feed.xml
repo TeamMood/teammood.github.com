@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Mar 2020 10:17:07 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2020 10:17:07 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2020 10:22:01 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2020 10:22:01 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -29,9 +29,7 @@
 
 &lt;p&gt;Learn how TeamMood can help you convince candidates to join your team:&lt;/p&gt;
 
-&lt;p&gt;Button: Read the article &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html&quot;&gt;https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html&quot; class=&quot;button&quot;&gt;Read the article&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;3-offering-transparency-on-salaries&quot;&gt;&lt;strong&gt;3. Offering transparency on salaries&lt;/strong&gt;&lt;/h2&gt;
 

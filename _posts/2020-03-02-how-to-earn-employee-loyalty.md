@@ -6,7 +6,7 @@ image: /uploads/Employee-loyalty-teammood.jpg
 excerpt: >-
   Hiring and training new employees is costly for companies. Understanding what
   makes your best talents loyal to your company can’t help but improve your
-  internal  in the long run!
+  internal in the long run!
 keywords: 'employee loyalty, management, retaining'
 canonical_url:
 redirect_from:
@@ -23,7 +23,7 @@ Loyalty comes in both ways – and some companies may have forgotten to play the
 
 Your employees are not a workforce that you can exploit and replace in a snap of a finger. They are the flesh and soul of your company. And they need to feel valued as such. A good healthcare coverage, an attractive vacation policy, flexible hours of work and such advantages are the cornerstone of a relationship based on trust and loyalty.
 
-## **2\. Aligning your recruitment with your company’s&nbsp; mission and values&nbsp;**
+## **2\. Aligning your recruitment with your company’s mission and values&nbsp;**
 
 A job is much more than a series of tasks to complete. Your mission, your “why” and your values can give your team members a sense of pride and build up their loyalty to the project, beyond the specifications of their job description. Today’s workers expect more than a list of responsibilities. They want to understand the meaning of their work, and even more: participate in building their company’s future.&nbsp;
 
@@ -49,4 +49,4 @@ For instance in France, some 250 companies have signed a “[Parental Act](https
 
 In the end, team members will always have personal interests in staying at your company or taking up new challenges. Don’t consider resigning as a betrayal. If you’ve followed all the points above, your team members will keep their sense of loyalty beyond your company walls. They may end up as clients, business partners, referrers for candidates, … who knows\!
 
-<small><em>Photo by&nbsp;[Chris Liverani](https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}</em></small>
+<small><em>Photo by&nbsp;<a target="_blank" href="https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Liverani</a>&nbsp;on&nbsp;<a target="_blank" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

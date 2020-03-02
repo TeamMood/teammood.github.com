@@ -49,4 +49,4 @@ For instance in France, some 250 companies have signed a “[Parental Act](https
 
 In the end, team members will always have personal interests in staying at your company or taking up new challenges. Don’t consider resigning as a betrayal. If you’ve followed all the points above, your team members will keep their sense of loyalty beyond your company walls. They may end up as clients, business partners, referrers for candidates, … who knows\!
 
-Photo by&nbsp;[Chris Liverani](https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}
+<small><em>Photo by&nbsp;[Chris Liverani](https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}</em></small>

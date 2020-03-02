@@ -41,7 +41,7 @@ That’s what [Buffer](https://open.buffer.com/introducing-open-salaries-at-buff
 
 Offering transparency on salaries is also a great way to fight against the pay gap between men and women, and help increase a sense of fairness in the distribution of the wealth that everyone in the company is creating.&nbsp;
 
-## **4\. Be human first**
+## **4\. Be humane first**
 
 The world of business can make us to forget who we are in the first place: humans. Having your wishes in terms of career evolution considered is key to imagine working in the long run for the same structure. Companies who want to earn their employees’ loyalty must show empathy towards the events of their personal lives too: a wedding, the birth of a child, a personal project, …&nbsp;
 

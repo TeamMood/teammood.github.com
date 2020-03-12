@@ -17,23 +17,7 @@ To take full advantage of your [Agile retrospective](https://blog.teammood.com/a
 
 Especially useful for multi located teams, these Agile retrospective online tools participate in enhancing your retrospectives, better organizing them, and following up actions over time.
 
-In this article, we share **the 15 best retrospective tools:&nbsp;**
-
-* [Retrospective tool \#1: TeamMood](#retrospective-tool-teammood)
-* [Retrospective tool \#2: Reetro](#retrospective-tool-reetro)
-* [Retrospective tool \#3: FunRetro](#retrospective-tool-funretro)
-* [Retrospective tool \#4: goReflect](#retrospective-tool-goreflect)
-* [Retrospective tool \#5: TeamRetro](#retrospective-tool-teamretro)
-* [Retrospective tool \#6: ScatterSpoke](#retrospective-tool-scatterspoke)
-* [Retrospective tool \#7: Retrium](#retrospective-tool-retrium)
-* [Retrospective tool \#8: IdeaBoardz](#retrospective-tool-ideaboardz)
-* [Retrospective tool \#9: MindMeister](#retrospective-tool-mindmeister)
-* [Retrospective tool \#10: Lino](#retrospective-tool-lino)
-* [Retrospective tool \#11: Sensei](#retrospective-tool-sensei)
-* [Retrospective tool \#12: Sprint Boards](#retrospective-tool-sprintboards)
-* [Retrospective tool \#13: Padlet](#retrospective-tool-padlet)
-* [Retrospective tool \#14: RetroTime](#retrospective-tool-retrotime)
-* [Retrospective tool \#15: Parabol](#retrospective-tool-parabol)
+In this article, we share **the 15 best retrospective tools.**
 
 ## Retrospective tool \#1: TeamMood
 
@@ -67,7 +51,9 @@ Website: [Reetro.io](https://reetro.io/){: target="_blank"}
 
 ![Reetro, retrospective tool](/uploads/retrospective-board-reetro-io.png){: width="845" height="524"}
 
+<hr/>
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
 
 ## Retrospective tool \#3: FunRetro
 

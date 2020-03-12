@@ -24,3 +24,7 @@ Some moods can be the result of personal events, which means that the team canno
 **Getting your Emotional Seismograph to the next level:** By using a tool like [TeamMood](https://www.teammood.com/en/agile-retrospective/), you can track your mood along the sprint and avoid forgetting personal and professional events.
 
 *Photo credit: [Crashmaster007](https://visualhunt.com/author2/0e544c){: target="_blank"} on [Visual hunt](https://visualhunt.com/re/6694b1) / [CC BY-NC](http://creativecommons.org/licenses/by-nc/2.0/)*
+
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>

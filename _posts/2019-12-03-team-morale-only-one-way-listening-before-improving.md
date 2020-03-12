@@ -79,7 +79,9 @@ If a one-of survey can help solve a specific situation, gathering regular feedba
 
 Moreover, by measuring team morale over time, you can measure the impact of past optimizations, and verify whether they were useful, or if you need to change them.&nbsp;
 
-<div class="mailmunch-forms-widget-762513">&nbsp;</div>
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
 
 <a name="team-morale-boosters"></a>
 

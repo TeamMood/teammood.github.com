@@ -126,6 +126,10 @@ During the vote, you can also ask for volunteers to be responsible for an action
 
 Finally, you should consider these actions as fully-fledged tasks. You can even add them to the backlog and prioritize them accordingly (in agreement with the Product Owner).&nbsp;
 
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
+
 ## Conclusion
 
 Retrospectives help identify the small "pebbles in the shoe" of your team that, if unaddressed, can become real frustrations and brakes to the overall productivity. They don’t have to shake everything up. Common actions such as reviewing the DoD (Definition of Done) or changing the time of the daily meeting can have a real positive impact in the long run\!

@@ -42,6 +42,10 @@ Mike Griffiths is an independent author, project manager, Agile trainer and cons
 
 One of my favorite articles from Mike lists the most important leadership practices to manage a team: [Top 10 Team Practices](https://leadinganswers.typepad.com/leading_answers/2008/03/top-10-team-pra.html).
 
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
+
 ## **Bonus:&nbsp;**[**Scrum, Agilit&eacute;… et Rock’n’Roll**](http://www.aubryconseil.com/) **by Claude Aubry (FR)**
 
 Claude Aubry is a pioneer of Scrum in France and author of the book *Scrum*. He recently published a new book, *The Art to Becoming an Agile Team*, illustrated by Etienne Appert.

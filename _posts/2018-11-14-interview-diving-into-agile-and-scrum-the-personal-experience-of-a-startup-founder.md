@@ -91,3 +91,7 @@ It may seem a waste of time to have only one developer out of two actually codin
 &nbsp;
 
 Over the last few years, I’ve had the opportunity to work and implement Scrum in several teams and companies. In the end, the most difficult in Scrum or other [Agile methods](https://www.teammood.com/en/agile-retrospective-tools-ideas/) is not to understand them, but to put them in place and to **keep the rigor over time. But when you do so, it becomes an amazing playground\!**
+
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>

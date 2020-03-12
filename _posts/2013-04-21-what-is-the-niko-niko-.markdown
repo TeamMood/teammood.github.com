@@ -30,3 +30,7 @@ The Niko-niko calendar is also know as "happiness index". Also note that "niko" 
 The first mention of the Niko-niko calendar is from an [article from Akinori SAKATA in 2006](http://www.geocities.jp/nikonikocalendar/index_en.html){: target="_blank"}.
 
 But now, if you work with remote teams, and if it is not possible to use a physical calendar in the room, take a look at our service : [TeamMood](http://www.teammood.com/en/Niko-Niko/){: target="_blank"}, an easy way to get a glimpse of the happiness of your coworkers \!
+
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>

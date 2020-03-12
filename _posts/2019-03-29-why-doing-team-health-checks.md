@@ -66,7 +66,9 @@ The Team Health Check has been popularized by Spotify with their [Squad Health C
 * yellow: some problems
 * red: really bad
 
-<div class='mailmunch-forms-widget-762513'></div>
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
 
 ## How to leverage a Team Health Check
 

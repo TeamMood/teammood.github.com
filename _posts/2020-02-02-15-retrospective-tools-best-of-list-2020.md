@@ -263,4 +263,18 @@ Website: [Parabol](https://www.parabol.co/){: target="_blank"}
 
 ![Parabol, retrospective tool](/uploads/parabol.png){: width="2050" height="1090"}
 
+## Bonus: Retrospective tool \#16: Neatro
+
+Neatro helps your team grow with a selection of useful and industry-proven retrospectives. Whether you are leading a remote or in-person retrospective, choose a template or build a custom retrospective activity that matches your team's context.
+
+### Pricing
+
+No credit card required to start using the 30-day trial period. Pricing starts at 20$ per month per team. Get a discount on every other team you create.
+
+### Killing feature
+
+When starting a new retrospective meeting, Neatro will automatically remind you there are incomplete action items from previous activities. Neatro is also a fully responsive web app, making it possible to assist a retrospective meeting from your smartphone, tablet, or laptop.
+
+Website: [Neatro](https://www.neatro.io){: target="_blank"}
+
 <small><em>Photo by <a href="https://unsplash.com/@yer_a_wizard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fleur</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

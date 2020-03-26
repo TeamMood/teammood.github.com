@@ -53,3 +53,5 @@ As a team manager, show some flexibility and understanding towards your team mem
 Facing such a crisis, looking after each other has never been so important. TeamMood can help you give the lie to the proverb “out of sight, out of mind”. Try it out for yourself\!
 
 &nbsp;
+
+[Try TeamMood for free for 30 days](https://www.teammood.com/){: .button target="_blank"}

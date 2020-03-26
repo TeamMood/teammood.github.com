@@ -4,9 +4,8 @@ date: 2020-03-26 10:00:00
 layout: post
 image: /uploads/teammood-coronavirus-working-from-home.jpeg
 excerpt: >-
-  Hiring and training new employees is costly for companies. Understanding what
-  makes your best talents loyal to your company can’t help but improve your
-  internal in the long run!
+  Discover four pieces of advice for first-time working-from-home teams and team
+  facilitators in times of confinement
 keywords: 'Coronavirus, working-from-home, WFH, TeamMood'
 canonical_url:
 redirect_from:

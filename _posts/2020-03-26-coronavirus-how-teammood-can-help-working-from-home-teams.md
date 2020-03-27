@@ -32,7 +32,7 @@ That’s what TeamMood was designed for in the first place: **a safe and anonymo
 * track the evolution of your team’s morale,
 * encourage feedback and ideas for improvement,
 * while ensuring people anonymity,
-* and openly discuss the feedback with the whole team
+* and openly discuss the feedback with the whole team.
 
 ## **3\. Organize daily challenges to “motivate the troops”**
 

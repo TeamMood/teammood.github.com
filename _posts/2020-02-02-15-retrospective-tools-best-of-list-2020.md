@@ -279,4 +279,20 @@ Website: [Neatro](https://www.neatro.io){: target="_blank"}
 
 ![Neatro, retrospective tool](/uploads/neatro.png){: width="2050" height="1090"}
 
+## Extra bonus: Retrospective tool \#17: Milanote
+
+Milanote is a tool for organizing creative projects into beautiful visual boards. By design, it feels a lot like working on the wall in a creative studio - visual, tactile and sometimes a bit messy - Milanote is a great fit for designers who work in teams remotely, and can be used for Retros.
+
+### Pricing
+
+Free version available with no time limit. PRO version $9.99 per month (monthly and annual plans)
+
+### Killing feature
+
+Write notes & to-do lists, upload images & files and save things you find on the web. Organize visually using the flexible drag and drop interface. And, Boards by default are a private place to think, but with a single click you can create a shared workspace for collaboration with your team.
+
+Website: [Milanote](https://milanote.com/){: target="_blank"}
+
+![Milanote, retrospective tool](/uploads/milanote.png){: width="2050" height="1090"}
+
 <small><em>Photo by <a href="https://unsplash.com/@yer_a_wizard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fleur</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

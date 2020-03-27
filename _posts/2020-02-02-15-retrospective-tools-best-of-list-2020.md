@@ -277,4 +277,6 @@ When starting a new retrospective meeting, Neatro will automatically remind you 
 
 Website: [Neatro](https://www.neatro.io){: target="_blank"}
 
+![Neatro, retrospective tool](/uploads/neatro.png){: width="2050" height="1090"}
+
 <small><em>Photo by <a href="https://unsplash.com/@yer_a_wizard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fleur</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

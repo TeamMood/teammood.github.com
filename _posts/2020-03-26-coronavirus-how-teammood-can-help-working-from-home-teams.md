@@ -28,11 +28,11 @@ Between the stress caused by the virus and the new organization, chances are tha
 
 That’s what TeamMood was designed for in the first place: **a safe and anonymous tool to share individual moods and bring up feedback**. In these troubled times, TeamMood can help you:&nbsp;
 
-* gauge the feeling of your team on a daily basis
-* track the evolution of your team’s morale
-* encourage feedback and ideas for improvement
-* while ensuring people anonymity&nbsp;
-* and talk about the feedback openly with the whole team
+* gauge the feeling of your team on a daily basis,
+* track the evolution of your team’s morale,
+* encourage feedback and ideas for improvement,
+* while ensuring people anonymity,
+* and openly discuss the feedback with the whole team
 
 ## **3\. Organize daily challenges to “motivate the troops”**
 

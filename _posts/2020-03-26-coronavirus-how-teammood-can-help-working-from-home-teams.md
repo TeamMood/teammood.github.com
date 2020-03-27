@@ -26,7 +26,7 @@ Your role as a manager is crucial to help your team members adapt to the new sit
 
 Between the stress caused by the virus and the new organization, chances are that your team morale isn’t great. While daily interactions used to help you identify low morale and jump in to listen to your affected team member (and find a solution whenever possible), the distance makes it harder to play this role.
 
-That’s what TeamMood was designed for in the first place: a safe and anonymous tool to share individual moods and bring up feedback. In these troubled times, TeamMood can help you:&nbsp;
+That’s what TeamMood was designed for in the first place: **a safe and anonymous tool to share individual moods and bring up feedback**. In these troubled times, TeamMood can help you:&nbsp;
 
 * gauge the feeling of your team on a daily basis
 * track the evolution of your team’s morale

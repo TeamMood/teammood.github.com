@@ -16,8 +16,6 @@ But picking a new format is not all. One should know what went well and what nee
 
 When ending a retrospective, Scrum Masters and other Agile team leaders may have a hard time stepping back and reflecting on what happened. So, to help you improve the improvement meeting (a.k.a. the retro), we’ve created a simple tool: the **Retro Canvas**.&nbsp;
 
-![](/uploads/retrospective-outcomes-canvas-v1-2.png){: width="1000" height="647"}
-
 👉The left part can be used as a diary to **introspect and reflect on what happened during the retro**. It is divided into 3 sections:
 
 &gt; In the **“Outcomes”** section, write down the main discussions and learnings you want to remember from the meeting.
@@ -40,3 +38,4 @@ If you want to do it properly, take the time to fill the Retro Canvas soon after
 
 Last piece of advice: improving your Retrospectives is a virtuous process, one that can also involve your team members or your peers (on [Reddit](https://www.reddit.com/r/agile/){: target="_blank"}, [Agile Uprising](https://coalition.agileuprising.com/){: target="_blank"}, or directly from your network). Good luck\!
 
+Header picture by [Alexa\_Fotos](https://pixabay.com/users/Alexas_Fotos-686414/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=4330453){: target="_blank"}&nbsp;from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=4330453){: target="_blank"}

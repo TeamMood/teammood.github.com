@@ -1,15 +1,13 @@
 ---
 title: 'Retro Canvas: Improving the Improvement Process'
-date: 2020-04-27 10:00:00
+date: 2020-05-04 10:00:00
 layout: post
-image:
-excerpt: >-
-  Discover four pieces of advice for first-time working-from-home teams and team
-  facilitators in times of confinement
-keywords: 'Coronavirus, working-from-home, WFH, TeamMood'
+image: /uploads/Retro-canvas-teammood.png
+excerpt: Download our free retro canvas and improve your Agile retrospectives
+keywords: 'Retrospective, improving, agile'
 canonical_url:
 redirect_from:
-permalink: /coronavirus-working-from-home
+permalink: /retro-canvas-improving-the-improvement-process
 ---
 
 Do you know how well your retrospectives are going on? If you’ve read our last article on [Agile retrospectives](https://blog.teammood.com/agile-retrospectives#agile-retrospective-agenda), you probably remember that we strongly advised all Scrum Masters and Agile team leaders to vary their retrospective format.&nbsp;

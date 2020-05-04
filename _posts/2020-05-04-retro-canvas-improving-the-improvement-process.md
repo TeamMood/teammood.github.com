@@ -39,3 +39,4 @@ If you want to do it properly, take the time to fill the Retro Canvas soon after
 [Get your free Retro canvas](https://canvas.teammood.com/retro-canvas){: target="_blank"}
 
 Last piece of advice: improving your Retrospectives is a virtuous process, one that can also involve your team members or your peers (on [Reddit](https://www.reddit.com/r/agile/){: target="_blank"}, [Agile Uprising](https://coalition.agileuprising.com/){: target="_blank"}, or directly from your network). Good luck\!
+

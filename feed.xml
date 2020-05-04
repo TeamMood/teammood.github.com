@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 May 2020 08:45:08 +0000</pubDate>
-    <lastBuildDate>Mon, 04 May 2020 08:45:08 +0000</lastBuildDate>
+    <pubDate>Mon, 04 May 2020 12:00:01 +0000</pubDate>
+    <lastBuildDate>Mon, 04 May 2020 12:00:01 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -16,6 +16,8 @@
 &lt;p&gt;But picking a new format is not all. One should know what went well and what needs to improve during the retrospective itself. A “mise en abyme” of the retrospective, crucial to get the full benefit of the process. &lt;/p&gt;
 
 &lt;p&gt;When ending a retrospective, Scrum Masters and other Agile team leaders may have a hard time stepping back and reflecting on what happened. So, to help you improve the improvement meeting (a.k.a. the retro), we’ve created a simple tool: the &lt;strong&gt;Retro Canvas&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/retrospective-outcomes-canvas-v1-1.png&quot; alt=&quot;&quot; width=&quot;1000&quot; height=&quot;647&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;👉The left part can be used as a diary to &lt;strong&gt;introspect and reflect on what happened during the retro&lt;/strong&gt;. It is divided into 3 sections:&lt;/p&gt;
 

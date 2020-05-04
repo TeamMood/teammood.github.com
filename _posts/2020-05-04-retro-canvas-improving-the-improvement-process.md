@@ -36,7 +36,7 @@ When ending a retrospective, Scrum Masters and other Agile team leaders may have
 
 If you want to do it properly, take the time to fill the Retro Canvas soon after the meeting is over. Sprint after Sprint, you will identify areas of improvement and make this important ritual as useful and seamless as possible for the team.
 
-[Get your free Retro canvas](https://canvas.teammood.com/retro-canvas){: target="_blank"}
+[Get your free Retro canvas](https://canvas.teammood.com/retro-canvas){: .button target="_blank"}
 
 Last piece of advice: improving your Retrospectives is a virtuous process, one that can also involve your team members or your peers (on [Reddit](https://www.reddit.com/r/agile/){: target="_blank"}, [Agile Uprising](https://coalition.agileuprising.com/){: target="_blank"}, or directly from your network). Good luck\!
 

@@ -8,6 +8,10 @@ layout: default
     background-image: url('{{ site.url }}/{{ page.image }}');
   }
 
+  .webp .post-header {
+    background-image: url('{{ site.url }}/{{ page.image | to_webp }}');
+  }
+
 
 </style>
 

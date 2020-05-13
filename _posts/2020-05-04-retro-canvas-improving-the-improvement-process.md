@@ -2,7 +2,7 @@
 title: 'Retro Canvas: Improving the Improvement Process'
 date: 2020-05-04 10:00:00
 layout: post
-image: /uploads/Retro-canvas-teammood.png
+image: /uploads/Teammood-improve-retro-canvas.png
 excerpt: Download our free retro canvas and improve your Agile retrospectives
 keywords: 'Retrospective, improving, agile'
 canonical_url:
@@ -40,4 +40,4 @@ If you want to do it properly, take the time to fill the Retro Canvas soon after
 
 Last piece of advice: improving your Retrospectives is a virtuous process, one that can also involve your team members or your peers (on [Reddit](https://www.reddit.com/r/agile/){: target="_blank"}, [Agile Uprising](https://coalition.agileuprising.com/){: target="_blank"}, or directly from your network). Good luck\!
 
-<em><small>Header picture by [Alexa\_Fotos](https://pixabay.com/users/Alexas_Fotos-686414/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=4330453){: target="_blank"}&nbsp;from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=4330453){: target="_blank"}</small></em>
+*<small>Header picture by <a target="_blank" href="https://pixabay.com/users/Alexas_Fotos-686414/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=4330453">Alexa_Fotos</a>&nbsp;from <a target="_blank" href="https://pixabay.com/?utm_source=link-attribution&amp;amp;utm_medium=referral&amp;amp;utm_campaign=image&amp;amp;utm_content=4330453">Pixabay</a></small>*

@@ -299,6 +299,22 @@ Website: [Milanote](https://milanote.com/){: target="_blank"}
 
 ![Milanote, retrospective tool](/uploads/milanote.png){: width="2050" height="1090"}
 
+## Final bonus: Retrospective tool \#18: RetroTool
+
+RetroTool is a free, real-time online retrospective tool that helps teams reflect in an anonymous manner. The team can concurrently brainstorm ideas and problems, group them, vote and create action plans based on the discussion. It enables facilitators to build a retrospective the way they want it with no restrictions on columns or participants numbers.
+
+### Pricing
+
+The tool is free and they promise to always maintain a free version.
+
+### Killing feature
+
+RetroTool is quick to start, simple to use and flexible enough to use for retrospectives, brainstorming or agenda-less meetings.
+
+Website: [RetroTool](https://retrotool.io/){: target="_blank"}
+
+![RetroTool, retrospective tool](/uploads/retroTool.png){: width="2050" height="1090"}
+
 <hr/>
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
 <hr/>

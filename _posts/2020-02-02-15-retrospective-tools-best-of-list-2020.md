@@ -313,7 +313,7 @@ RetroTool is quick to start, simple to use and flexible enough to use for retros
 
 Website: [RetroTool](https://retrotool.io/){: target="_blank"}
 
-![RetroTool, retrospective tool](/uploads/retroTool.png){: width="2050" height="1090"}
+![RetroTool, retrospective tool](/uploads/retrotool.png){: width="2050" height="1090"}
 
 <hr/>
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>

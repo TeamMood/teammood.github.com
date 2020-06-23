@@ -5,9 +5,99 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 May 2020 11:35:31 +0000</pubDate>
-    <lastBuildDate>Mon, 18 May 2020 11:35:31 +0000</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2020 14:51:10 +0000</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2020 14:51:10 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Ecodesign Of Digital Services: Good Practices To Reduce Your Ecological Impact</title>
+        <description>&lt;p&gt;Digital services are often perceived as having a positive impact on the environment through dematerialization. However, the use of digital services can have negative impacts on the environment, in particular in terms of energy consumption, consumption of non-renewable resources, and waste production. &lt;/p&gt;
+
+&lt;p&gt;Indeed, digital technologies – including the internet – are responsible for &lt;a href=&quot;https://theshiftproject.org/en/article/unsustainable-use-online-video/&quot;&gt;4% of greenhouse gas emissions&lt;/a&gt;, a figure that is expected to double by 2025, further accelerating climate change. The global &lt;a href=&quot;https://www.nature.com/articles/d41586-018-06610-y&quot;&gt;information &amp;amp; communication technology ecosystem’s carbon footprint&lt;/a&gt; is actually on par with the entire aviation industry’s emissions from fuel. That’s where the ecodesign of digital services intervene.&lt;/p&gt;
+
+&lt;h2 id=&quot;ecodesign-of-digital-services-what-is-it&quot;&gt;&lt;strong&gt;Ecodesign of digital services: what is it? &lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Ecodesign&lt;/strong&gt; consists of measuring and reducing the impacts of a product or service on the environment throughout its life cycle, from the extraction of raw materials to its production, distribution, use, and end of life. Ecodesign is a globally standardized methodology (ISO 14006 and ISO 14062). &lt;/p&gt;
+
+&lt;p&gt;Applied to digital services, it aims at &lt;strong&gt;reducing environmental impacts&lt;/strong&gt; from the design phase of said service throughout its lifecycle, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the equipment for storing, manipulating and displaying bytes (servers, user terminals, ADSL boxes, etc.);&lt;/li&gt;
+  &lt;li&gt;all infrastructures that host and connect the equipment (networks and data centers in particular);&lt;/li&gt;
+  &lt;li&gt;several software programs stacked on top of each other, which run on top of the equipment;&lt;/li&gt;
+  &lt;li&gt;other possible third-party digital services.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The same service rendered generates less impact if it is eco-designed. And by integrating the social and economic dimensions, it can lead to &lt;strong&gt;responsible digital design&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ecodesign-of-digital-services-a-selection-of-good-practices&quot;&gt;&lt;strong&gt;Ecodesign of digital services: a selection of good practices&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://collectif.greenit.fr/&quot;&gt;GreenIT collective&lt;/a&gt; has produced a checklist of &lt;a href=&quot;https://collectif.greenit.fr/ecoconception-web/&quot;&gt;115 good practices&lt;/a&gt; of digital services ecodesign. Here is a selection of 5 tips easy to implement and that can make a real difference in terms of ecological impact.&lt;/p&gt;
+
+&lt;h3 id=&quot;choosing-a-green-web-host&quot;&gt;&lt;strong&gt;Choosing a “green” web host &lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The data center you choose to host your website or your digital services has a great impact on your overall carbon footprint, between 30 and 40% of environmental impacts according to the Green IT collective. Ideally, host your digital services in the cloud, in a data center with a good level of energy performance or even (partially or totally) powered by local renewable energy. Your hosting plan should be sized on your needs as precisely as possible and offer flexibility to scale up if needed.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://www.thegreenwebfoundation.org/&quot;&gt;Green Web Foundation&lt;/a&gt; maintains a directory of all the world’s servers, data centers and hosting providers which are known to use 100% renewable energy. You can test any website URL and discover whether it’s powered by 100% renewables (“green”) or not (“grey”).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/green-health-check-teammood.png&quot; alt=&quot;&quot; width=&quot;1648&quot; height=&quot;984&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;favoring-a-mobile-first-approach&quot;&gt;&lt;strong&gt;Favoring a “mobile-first” approach&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;A mobile-first approach consists of designing a site or application by first designing the mobile version and gradually adapting it for larger screens. This way of proceeding is contrary to the ordinary way of progressively degrading a website to adapt it to smaller screens.&lt;/p&gt;
+
+&lt;p&gt;By adopting a mobile-first approach designed for low-power mobile terminals and with a non-optimal network connection (3G rather than 4G for instance), you will inevitably focus on the essential and produce a sober and low-impact digital service.&lt;/p&gt;
+
+&lt;h3 id=&quot;simplifying-the-user-experience&quot;&gt;&lt;strong&gt;Simplifying the user experience&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The time spent by a user to manipulate a digital terminal or to read a screen has an environmental impact too: the shorter, the better. To improve the carbon footprint of your digital service, you can invest in a simplification approach and precisely specify what your users need. &lt;/p&gt;
+
+&lt;p&gt;You can for instance:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Remove non-essential / non-used features&lt;/li&gt;
+  &lt;li&gt;Display the main functions or information on your application homepage&lt;/li&gt;
+  &lt;li&gt;Replace the consultation of the web interface by an SMS or email alert &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lightening-the-site&quot;&gt;&lt;strong&gt;Lightening the site&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;When you think that only 2 searches on Google produce around 7 grams of carbon emissions, roughly the same as the &lt;a href=&quot;https://www.theguardian.com/environment/ethicallivingblog/2009/jan/12/carbon-emissions-google&quot;&gt;emissions produced when you boil an electric kettle for a cup of tea&lt;/a&gt;, can you only imagine what a typical website (including pictures and sometimes videos) produces every time a page loads? &lt;/p&gt;
+
+&lt;p&gt;Apart from the type of energy (renewable/fossil) that its hosting data center uses, the other major variable is the size of the data transferred between the server and the device. By lightening the page sizes of your website, you can both lower your emissions and boost your loading time.&lt;/p&gt;
+
+&lt;p&gt;There are many things you can do to put your website or digital service on a diet:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Store static data locally&lt;/li&gt;
+  &lt;li&gt;Compress documents&lt;/li&gt;
+  &lt;li&gt;Reduce image sizes&lt;/li&gt;
+  &lt;li&gt;Minimize the number of CSS files&lt;/li&gt;
+  &lt;li&gt;Use plain text instead of HTML &lt;/li&gt;
+  &lt;li&gt;Adapt videos to the viewing environment (no need for HD on a smartphone)&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For instance, at TeamMood, we have recently decided to migrate our website from Wordpress to a static website. Indeed, Wordpress websites tend to have larger sizes and to use more processor resources. By switching to a static website, we should further decrease our carbon footprint. &lt;/p&gt;
+
+&lt;p&gt;This also works for all our communications: we tend to avoid including images (and even emojis) in our emails in order to reduce their size. &lt;/p&gt;
+
+&lt;h3 id=&quot;reducing-data-collection-and-storage&quot;&gt;&lt;strong&gt;Reducing data collection and storage&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Every byte has an impact. Indeed, storage represents about 40% of the environmental impact of data centers. Therefore, to lower the environmental impact of your digital service, you must reduce the amount of data that is produced, processed, transported, and stored as much as possible. &lt;/p&gt;
+
+&lt;p&gt;What data do you actually need? For how long? In which format? At what intervals? How many copies do you need? Answering these questions will help you define and implement a comprehensive data lifecycle strategy and help you avoid storing duplicate or unnecessary data, including obsolete emails. &lt;/p&gt;
+
+&lt;p&gt;Of course, these good practices are not enough: they should be complemented by individual acts too. We’ll talk about it in our next article :) Stay tuned!&lt;/p&gt;
+
+&lt;p&gt;Photo by&lt;a href=&quot;https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Sarah Dorweiler&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 23 Jun 2020 10:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/retro-canvas-improving-the-improvement-process</link>
+        <guid isPermaLink="true">https://blog.teammood.com/retro-canvas-improving-the-improvement-process</guid>
+        
+        
+      </item>
     
       <item>
         <title>Retro Canvas: Improving the Improvement Process</title>
@@ -982,68 +1072,6 @@
         <pubDate>Wed, 23 Oct 2019 11:00:00 +0000</pubDate>
         <link>https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</link>
         <guid isPermaLink="true">https://blog.teammood.com/2019/10/23/who-should-and-should-not-be-included-in-a-sprint-retrospective.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>6 Management Problems That Dissolve When Using Teammood</title>
-        <description>&lt;p&gt;In the workplace, no challenge is more complex than human relationships. Managing a team requires an incredible amount of so-called “soft-skills” that unfortunately aren’t taught at school: empathy, communication, leadership, intuition, trust, self-improvement, and more. &lt;/p&gt;
-
-&lt;p&gt;In our ever-evolving, complex environment, doing a good job at managing your team can be quite a challenge. Luckily, &lt;a href=&quot;http://teammood.com&quot; target=&quot;_blank&quot;&gt;TeamMood&lt;/a&gt; can help you dissolve some of the most common management issues you may encounter:&lt;/p&gt;
-
-&lt;h2 id=&quot;1-open-communication-and-foster-transparency&quot;&gt;&lt;strong&gt;1. Open communication and foster transparency&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Communication - or the lack of it - is the number one problem in most organizations. Team members don’t always feel in confidence to share issues or concerns with their managers. They may not know how to, nor whether their team leader will listen to them with goodwill. As a result, issues remain unspoken, at the expense of the overall mood and functioning of the team.&lt;/p&gt;
-
-&lt;p&gt;TeamMood is a strong managerial sign that a team leader gives importance to his/her team members’ opinions and well-being. It gives them an official channel to share feedback anonymously and creates a ground for better communications. &lt;/p&gt;
-
-&lt;h2 id=&quot;2-spot-underlying-issues&quot;&gt;&lt;strong&gt;2. Spot underlying issues&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;No organization is perfect - issues are part of the game. But if the manager doesn’t identify the &lt;a href=&quot;https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html&quot;&gt;signs of a crisis&lt;/a&gt;, it may burst in front of his/her eyes - or at least considerably hinder the team’s effectiveness.&lt;/p&gt;
-
-&lt;p&gt;By gathering the mood of the day for each team member, TeamMood helps managers to identify underlying issues. It’s still their responsibility to tackle the issue, but at least, the data provides the ground to open up the discussion with the team and try to &lt;a href=&quot;https://blog.teammood.com/2017/06/29/how-to-defuse-conflicts-at-work-in-5-steps.html&quot; target=&quot;_blank&quot;&gt;defuse the conflict before it bursts&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-empower-an-unmotivated-team&quot;&gt;&lt;strong&gt;3. Empower an unmotivated team&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;There is nothing less motivating than the feeling of powerlessness. Many employees find themselves in this situation: whatever they do or say, nothing will change. Not a great incentive to do their best, is it?&lt;/p&gt;
-
-&lt;p&gt;TeamMood is a great tool to empower your team members. It gives them a voice and the opportunity to warn their manager if something is going wrong. No more long faces and silent resignation. With TeamMood, team members can take their work situation in hand and find solutions to make it better.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-improve-engagement-and-lower-your-turnover&quot;&gt;&lt;strong&gt;4. Improve engagement and lower your turnover&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Turnover can be very costly for a business: between the recruitment costs, the time spent to interview candidates, and the training of the new team member, replacing an employee can add up to tens of thousands of dollars. According to a study commissioned by CPP –publishers of the Myers-Briggs Assessment and the Thomas-Kilmann Conflict Mode Instrument–, &lt;a href=&quot;https://www.entrepreneur.com/article/207196&quot; target=&quot;_blank&quot;&gt;30% of workers state that interpersonal issues have led to someone leaving the organization&lt;/a&gt;. How’s that for unresolved conflicts?&lt;/p&gt;
-
-&lt;p&gt;Once again, using TeamMood can help you improve your team engagement and lower turnover. Your deeds are more important than your words. By listening to them, you are showing a genuine interest in them and their wellbeing – one that will be appreciated. &lt;/p&gt;
-
-&lt;h2 id=&quot;5-convince-candidates-to-join-your-team&quot;&gt;&lt;strong&gt;5. Convince candidates to join your team&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Hiring new employees can be a hassle for managers. Indeed, the competition is fierce to attract the best of the best in critical areas: IT, developers, data scientists, … And candidates can feel little informed about the reality of the team he/she is applying to.&lt;/p&gt;
-
-&lt;p&gt;One of our customers recently shared his tip: by &lt;a href=&quot;https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html&quot; target=&quot;_blank&quot;&gt;showing his TeamMood’s data to the candidate&lt;/a&gt;, he was able to convince him to join his team. By this action, he was able to demonstrate transparency and reflect the team’s culture and what teammates were living daily. From now on, this manager systematically shows his TeamMood’s history to new candidates, so that they can see what happened and how it has been handled. &lt;/p&gt;
-
-&lt;h2 id=&quot;6-gather-bottom-up-feedback&quot;&gt;&lt;strong&gt;6. Gather bottom-up feedback&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;Strategy, assessments, advice… communication streams usually follow the same path in most companies: top-down. Do you see where you could be missing something? Team members are far more than robots that implement a strategy. Their different experiences, reasoning, and ideas are invaluable for the company.&lt;/p&gt;
-
-&lt;p&gt;By inverting the streams and listening to their team members, managers can:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Improve their knowledge and management style&lt;/li&gt;
-  &lt;li&gt;Listen to weak signals from their team&lt;/li&gt;
-  &lt;li&gt;Gather ideas for improvement&lt;/li&gt;
-  &lt;li&gt;and much more!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Want to try it for yourself?&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;button&quot; target=&quot;_blank&quot; href=&quot;https://www.teammood.com/en/continuous-improvement/&quot;&gt;Discover TeamMood&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-</description>
-        <pubDate>Wed, 02 Oct 2019 11:00:00 +0000</pubDate>
-        <link>https://blog.teammood.com/2019/10/02/6-management-problems-that-dissolve-when-using-teammood.html</link>
-        <guid isPermaLink="true">https://blog.teammood.com/2019/10/02/6-management-problems-that-dissolve-when-using-teammood.html</guid>
         
         
       </item>

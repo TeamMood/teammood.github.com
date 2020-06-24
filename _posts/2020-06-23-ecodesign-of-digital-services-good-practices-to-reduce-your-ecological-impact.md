@@ -4,7 +4,7 @@ date: 2020-06-23 10:00:00
 layout: post
 image: /uploads/Ecodesign-teammood.jpg
 excerpt: >-
-  digital technologies are responsible for 4% of greenhouse gas emissions –
+  Digital technologies are responsible for 4% of greenhouse gas emissions –
   ecodesigning your digital services can reduce drastically your environmental
   impact
 keywords: 'Ecodesign, digital services, ecological footprint, environmental impact'
@@ -86,4 +86,4 @@ What data do you actually need? For how long? In which format? At what intervals
 
 Of course, these good practices are not enough: they should be complemented by individual acts too. We’ll talk about it in our next article :) Stay tuned\!
 
-<small><em>Photo by&nbsp;[Sarah Dorweiler](https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}</em></small>
+<small><em>Photo by&nbsp;<a target="_blank" href="https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Sarah Dorweiler</a> on <a target="_blank" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

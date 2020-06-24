@@ -5,15 +5,15 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Jun 2020 14:51:10 +0000</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2020 14:51:10 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2020 10:51:51 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2020 10:51:51 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Ecodesign Of Digital Services: Good Practices To Reduce Your Ecological Impact</title>
         <description>&lt;p&gt;Digital services are often perceived as having a positive impact on the environment through dematerialization. However, the use of digital services can have negative impacts on the environment, in particular in terms of energy consumption, consumption of non-renewable resources, and waste production. &lt;/p&gt;
 
-&lt;p&gt;Indeed, digital technologies – including the internet – are responsible for &lt;a href=&quot;https://theshiftproject.org/en/article/unsustainable-use-online-video/&quot;&gt;4% of greenhouse gas emissions&lt;/a&gt;, a figure that is expected to double by 2025, further accelerating climate change. The global &lt;a href=&quot;https://www.nature.com/articles/d41586-018-06610-y&quot;&gt;information &amp;amp; communication technology ecosystem’s carbon footprint&lt;/a&gt; is actually on par with the entire aviation industry’s emissions from fuel. That’s where the ecodesign of digital services intervene.&lt;/p&gt;
+&lt;p&gt;Indeed, &lt;strong&gt;digital technologies&lt;/strong&gt; – including the internet – &lt;strong&gt;are responsible for &lt;a href=&quot;https://theshiftproject.org/en/article/unsustainable-use-online-video/&quot; target=&quot;_blank&quot;&gt;4% of greenhouse gas emissions&lt;/a&gt;&lt;/strong&gt;, a figure that is expected to double by 2025, further accelerating climate change. The global &lt;a href=&quot;https://www.nature.com/articles/d41586-018-06610-y&quot; target=&quot;_blank&quot;&gt;information &amp;amp; communication technology ecosystem’s carbon footprint&lt;/a&gt; is actually on par with the entire aviation industry’s emissions from fuel. That’s where the ecodesign of digital services intervene.&lt;/p&gt;
 
 &lt;h2 id=&quot;ecodesign-of-digital-services-what-is-it&quot;&gt;&lt;strong&gt;Ecodesign of digital services: what is it? &lt;/strong&gt;&lt;/h2&gt;
 
@@ -32,21 +32,21 @@
 
 &lt;h2 id=&quot;ecodesign-of-digital-services-a-selection-of-good-practices&quot;&gt;&lt;strong&gt;Ecodesign of digital services: a selection of good practices&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://collectif.greenit.fr/&quot;&gt;GreenIT collective&lt;/a&gt; has produced a checklist of &lt;a href=&quot;https://collectif.greenit.fr/ecoconception-web/&quot;&gt;115 good practices&lt;/a&gt; of digital services ecodesign. Here is a selection of 5 tips easy to implement and that can make a real difference in terms of ecological impact.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://collectif.greenit.fr/&quot; target=&quot;_blank&quot;&gt;GreenIT collective&lt;/a&gt; has produced a checklist of &lt;a href=&quot;https://collectif.greenit.fr/ecoconception-web/&quot; target=&quot;_blank&quot;&gt;115 good practices&lt;/a&gt; of digital services ecodesign. Here is a selection of 5 tips easy to implement and that can make a real difference in terms of ecological impact.&lt;/p&gt;
 
 &lt;h3 id=&quot;choosing-a-green-web-host&quot;&gt;&lt;strong&gt;Choosing a “green” web host &lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;The data center you choose to host your website or your digital services has a great impact on your overall carbon footprint, between 30 and 40% of environmental impacts according to the Green IT collective. Ideally, host your digital services in the cloud, in a data center with a good level of energy performance or even (partially or totally) powered by local renewable energy. Your hosting plan should be sized on your needs as precisely as possible and offer flexibility to scale up if needed.&lt;/p&gt;
+&lt;p&gt;The data center you choose to host your website or your digital services has a great impact on your overall carbon footprint, between &lt;strong&gt;30 and 40% of environmental impacts&lt;/strong&gt; according to the Green IT collective. Ideally, host your digital services in the cloud, in a data center with a good level of energy performance or even (partially or totally) powered by local renewable energy. Your hosting plan should be sized on your needs as precisely as possible and offer flexibility to scale up if needed.&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://www.thegreenwebfoundation.org/&quot;&gt;Green Web Foundation&lt;/a&gt; maintains a directory of all the world’s servers, data centers and hosting providers which are known to use 100% renewable energy. You can test any website URL and discover whether it’s powered by 100% renewables (“green”) or not (“grey”).&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://www.thegreenwebfoundation.org/&quot; target=&quot;_blank&quot;&gt;Green Web Foundation&lt;/a&gt; maintains a directory of all the world’s servers, data centers and hosting providers which are known to use &lt;strong&gt;100% renewable energy&lt;/strong&gt;. You can test any website URL and discover whether it’s powered by 100% renewables (“green”) or not (“grey”).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/uploads/green-health-check-teammood.png&quot; alt=&quot;&quot; width=&quot;1648&quot; height=&quot;984&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/green-health-check-teammood.png&quot; alt=&quot;&quot; width=&quot;1648&quot; height=&quot;984&quot; /&gt;&lt;img src=&quot;/uploads/green-health-check-teammood-1.png&quot; alt=&quot;&quot; width=&quot;1648&quot; height=&quot;984&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;favoring-a-mobile-first-approach&quot;&gt;&lt;strong&gt;Favoring a “mobile-first” approach&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;A mobile-first approach consists of designing a site or application by first designing the mobile version and gradually adapting it for larger screens. This way of proceeding is contrary to the ordinary way of progressively degrading a website to adapt it to smaller screens.&lt;/p&gt;
 
-&lt;p&gt;By adopting a mobile-first approach designed for low-power mobile terminals and with a non-optimal network connection (3G rather than 4G for instance), you will inevitably focus on the essential and produce a sober and low-impact digital service.&lt;/p&gt;
+&lt;p&gt;By adopting a mobile-first approach designed for low-power mobile terminals and with a non-optimal network connection (3G rather than 4G for instance), you will inevitably &lt;strong&gt;focus on the essential and produce a sober and low-impact digital service&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;simplifying-the-user-experience&quot;&gt;&lt;strong&gt;Simplifying the user experience&lt;/strong&gt;&lt;/h3&gt;
 
@@ -55,16 +55,16 @@
 &lt;p&gt;You can for instance:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Remove non-essential / non-used features&lt;/li&gt;
-  &lt;li&gt;Display the main functions or information on your application homepage&lt;/li&gt;
-  &lt;li&gt;Replace the consultation of the web interface by an SMS or email alert &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Remove non-essential&lt;/strong&gt; / non-used features&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Display the main functions&lt;/strong&gt; or information on your application &lt;strong&gt;homepage&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Replace&lt;/strong&gt; the consultation of the &lt;strong&gt;web interface by an SMS or email alert &lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;lightening-the-site&quot;&gt;&lt;strong&gt;Lightening the site&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;When you think that only 2 searches on Google produce around 7 grams of carbon emissions, roughly the same as the &lt;a href=&quot;https://www.theguardian.com/environment/ethicallivingblog/2009/jan/12/carbon-emissions-google&quot;&gt;emissions produced when you boil an electric kettle for a cup of tea&lt;/a&gt;, can you only imagine what a typical website (including pictures and sometimes videos) produces every time a page loads? &lt;/p&gt;
+&lt;p&gt;When you think that only 2 searches on Google produce around 7 grams of carbon emissions, roughly the same as the &lt;a href=&quot;https://www.theguardian.com/environment/ethicallivingblog/2009/jan/12/carbon-emissions-google&quot; target=&quot;_blank&quot;&gt;emissions produced when you boil an electric kettle for a cup of tea&lt;/a&gt;, can you only imagine what a typical website (including pictures and sometimes videos) produces every time a page loads? &lt;/p&gt;
 
-&lt;p&gt;Apart from the type of energy (renewable/fossil) that its hosting data center uses, the other major variable is the size of the data transferred between the server and the device. By lightening the page sizes of your website, you can both lower your emissions and boost your loading time.&lt;/p&gt;
+&lt;p&gt;Apart from the type of energy (renewable/fossil) that its hosting data center uses, the other major variable is &lt;strong&gt;the size of the data&lt;/strong&gt; transferred between the server and the device. By lightening the page sizes of your website, you can both lower your emissions and boost your loading time.&lt;/p&gt;
 
 &lt;p&gt;There are many things you can do to put your website or digital service on a diet:&lt;/p&gt;
 
@@ -78,19 +78,19 @@
   &lt;li&gt;…&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;For instance, at TeamMood, we have recently decided to migrate our website from Wordpress to a static website. Indeed, Wordpress websites tend to have larger sizes and to use more processor resources. By switching to a static website, we should further decrease our carbon footprint. &lt;/p&gt;
+&lt;p&gt;For instance, at TeamMood, we have recently decided to &lt;strong&gt;migrate our website from Wordpress to a static website&lt;/strong&gt;. Indeed, Wordpress websites tend to have larger sizes and to use more processor resources. By switching to a static website, we should further decrease our carbon footprint. &lt;/p&gt;
 
 &lt;p&gt;This also works for all our communications: we tend to avoid including images (and even emojis) in our emails in order to reduce their size. &lt;/p&gt;
 
 &lt;h3 id=&quot;reducing-data-collection-and-storage&quot;&gt;&lt;strong&gt;Reducing data collection and storage&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;Every byte has an impact. Indeed, storage represents about 40% of the environmental impact of data centers. Therefore, to lower the environmental impact of your digital service, you must reduce the amount of data that is produced, processed, transported, and stored as much as possible. &lt;/p&gt;
+&lt;p&gt;Every byte has an impact. Indeed, &lt;strong&gt;storage represents about 40% of the environmental impact of data centers&lt;/strong&gt;. Therefore, to lower the environmental impact of your digital service, you must reduce the amount of data that is produced, processed, transported, and stored as much as possible. &lt;/p&gt;
 
-&lt;p&gt;What data do you actually need? For how long? In which format? At what intervals? How many copies do you need? Answering these questions will help you define and implement a comprehensive data lifecycle strategy and help you avoid storing duplicate or unnecessary data, including obsolete emails. &lt;/p&gt;
+&lt;p&gt;What data do you actually need? For how long? In which format? At what intervals? How many copies do you need? Answering these questions will help you &lt;strong&gt;define and implement a comprehensive data lifecycle strategy&lt;/strong&gt; and help you avoid storing duplicate or unnecessary data, including obsolete emails. &lt;/p&gt;
 
 &lt;p&gt;Of course, these good practices are not enough: they should be complemented by individual acts too. We’ll talk about it in our next article :) Stay tuned!&lt;/p&gt;
 
-&lt;p&gt;Photo by&lt;a href=&quot;https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Sarah Dorweiler&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot; target=&quot;_blank&quot;&gt;Sarah Dorweiler&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot; target=&quot;_blank&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 23 Jun 2020 10:00:00 +0000</pubDate>
         <link>https://blog.teammood.com/retro-canvas-improving-the-improvement-process</link>

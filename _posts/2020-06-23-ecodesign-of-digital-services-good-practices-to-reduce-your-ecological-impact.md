@@ -86,4 +86,4 @@ What data do you actually need? For how long? In which format? At what intervals
 
 Of course, these good practices are not enough: they should be complemented by individual acts too. We’ll talk about it in our next article :) Stay tuned\!
 
-Photo by&nbsp;[Sarah Dorweiler](https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}
+<small><em>Photo by&nbsp;[Sarah Dorweiler](https://unsplash.com/@sarahdorweiler?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank"}</em></small>

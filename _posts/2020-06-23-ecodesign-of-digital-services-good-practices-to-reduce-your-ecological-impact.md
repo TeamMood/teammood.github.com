@@ -3,11 +3,14 @@ title: 'Ecodesign Of Digital Services: Good Practices To Reduce Your Ecological 
 date: 2020-06-23 10:00:00
 layout: post
 image: /uploads/Ecodesign-teammood.jpg
-excerpt: Download our free retro canvas and improve your Agile retrospectives
-keywords: 'Retrospective, improving, agile'
+excerpt: >-
+  digital technologies are responsible for 4% of greenhouse gas emissions –
+  ecodesigning your digital services can reduce drastically your environmental
+  impact
+keywords: 'Ecodesign, digital services, ecological footprint, environmental impact'
 canonical_url:
 redirect_from:
-permalink: /retro-canvas-improving-the-improvement-process
+permalink: /ecodesign-digital-services
 ---
 
 Digital services are often perceived as having a positive impact on the environment through dematerialization. However, the use of digital services can have negative impacts on the environment, in particular in terms of energy consumption, consumption of non-renewable resources, and waste production.&nbsp;

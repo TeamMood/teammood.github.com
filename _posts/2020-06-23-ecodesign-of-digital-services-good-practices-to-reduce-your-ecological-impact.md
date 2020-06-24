@@ -40,7 +40,7 @@ The data center you choose to host your website or your digital services has a g
 
 The [Green Web Foundation](https://www.thegreenwebfoundation.org/){: target="_blank"} maintains a directory of all the world’s servers, data centers and hosting providers which are known to use **100% renewable energy**. You can test any website URL and discover whether it’s powered by 100% renewables (“green”) or not (“grey”).
 
-![](/uploads/green-health-check-teammood.png){: width="1648" height="984"}![](/uploads/green-health-check-teammood-1.png){: width="1648" height="984"}
+![TeamMood results](/uploads/green-health-check-teammood.png){: width="1648" height="984"}
 
 ### **Favoring a “mobile-first” approach**
 

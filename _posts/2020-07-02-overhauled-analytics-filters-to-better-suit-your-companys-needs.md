@@ -1,5 +1,5 @@
 ---
-title: Brand New Analytics Filter
+title: Overhauled Analytics filters to better suit your company’s needs
 date: 2020-07-02 10:00:00
 layout: post
 image: /uploads/malin-strandvall-GnMgyhj7Cs8-unsplash.jpg

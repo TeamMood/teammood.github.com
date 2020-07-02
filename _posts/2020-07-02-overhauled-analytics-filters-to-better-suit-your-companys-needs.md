@@ -25,6 +25,8 @@ In the coming months, TeamMood’s UI will gradually evolve with the analytics f
 
 ![TeamMood analytics filter](/uploads/recording.gif "TeamMood analytics filter"){: width="1920" height="996"}
 
+(click to enlarge)
+
 Just [contact us](mailto:support@teammood.com) if you want to be part of ou beta program and try this new filter\!
 
-<small>Header photo by [Malin Strandvall](https://unsplash.com/@malinstrandvall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)</small>
+<small>Header photo by <a href="https://unsplash.com/@malinstrandvall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Malin Strandvall</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></small>

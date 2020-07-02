@@ -27,4 +27,4 @@ In the coming months, TeamMood’s UI will gradually evolve with the analytics f
 
 Just [contact us](mailto:support@teammood.com) if you want to be part of ou beta program and try this new filter\!
 
-Header photo by [Malin Strandvall](https://unsplash.com/@malinstrandvall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
+<small>Header photo by [Malin Strandvall](https://unsplash.com/@malinstrandvall?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)</small>

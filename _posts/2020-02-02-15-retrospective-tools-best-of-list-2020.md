@@ -55,21 +55,22 @@ Website: [Reetro.io](https://reetro.io/){: target="_blank"}
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
 <hr/>
 
-## Retrospective tool \#3: FunRetro
+## Retrospective tool \#3: Retros.work
 
-If you’re looking for optimizing your **sprint retrospective** efficiency, FunRetro is the way to go. With FunRetro, you can easily configure your dashboards and export your data to keep track of your sessions and action plans.
+Retros.work is a beautiful online retrospective tool with HR trends. Post your retro feedback all sprint long. Express how you feel with emoticons and energy scores. Vote and create to-dos. You can use it for remote retrospectives and also for in-office retros.
 
 ### Pricing
 
-FunRetro offers an evolutive pricing: free for up to 3 public boards, and from €22 to €78 per month (billed annually) for 1 to 5 teams. See more [here](https://funretro.io/pricing){: target="_blank"}.
+You can easily start using retros.work with a 30 day free trial. For a team of 10 users you pay €39,90 a month, a team of 25 users costs €84,75 and 50 users costs €134,50 a month. You per user and get unlimited boards.
+
 
 ### Killing feature
 
-FunRetro allows you to toggle your retrospectives to a secret mode in order to allow true honest feedback.&nbsp;&nbsp;
+You can track emotion and energy trends over multiple sprints. It also works well on mobile. Which works great for in-office retros where you post feedback from your mobile.
 
-Website: [FunRetro](https://funretro.io/){: target="_blank"}
+Website: [Retros.work](https://retros.work/){: target="_blank"}
 
-![FunRetro, retrospective tool](/uploads/funretro.png){: width="2206" height="838"}
+![Retros.work, retrospective tool](/uploads/retros_work.png){: width="2206" height="838"}
 
 ## Retrospective tool \#4: goReflect&nbsp;
 
@@ -299,7 +300,24 @@ Website: [Milanote](https://milanote.com/){: target="_blank"}
 
 ![Milanote, retrospective tool](/uploads/milanote.png){: width="2050" height="1090"}
 
-## Final bonus: Retrospective tool \#18: RetroTool
+## Bonus after the bonuses: Retrospective tool \#18: FunRetro
+
+If you’re looking for optimizing your **sprint retrospective** efficiency, FunRetro is the way to go. With FunRetro, you can easily configure your dashboards and export your data to keep track of your sessions and action plans.
+
+### Pricing
+
+FunRetro offers an evolutive pricing: free for up to 3 public boards, and from €22 to €78 per month (billed annually) for 1 to 5 teams. See more [here](https://funretro.io/pricing){: target="_blank"}.
+
+### Killing feature
+
+FunRetro allows you to toggle your retrospectives to a secret mode in order to allow true honest feedback.&nbsp;&nbsp;
+
+Website: [FunRetro](https://funretro.io/){: target="_blank"}
+
+![FunRetro, retrospective tool](/uploads/funretro.png){: width="2206" height="838"}
+
+
+## Final bonus: Retrospective tool \#19: RetroTool
 
 RetroTool is a free, real-time online retrospective tool that helps teams reflect in an anonymous manner. The team can concurrently brainstorm ideas and problems, group them, vote and create action plans based on the discussion. It enables facilitators to build a retrospective the way they want it with no restrictions on columns or participants numbers.
 

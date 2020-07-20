@@ -70,7 +70,7 @@ You can track emotion and energy trends over multiple sprints. It also works wel
 
 Website: [Retros.work](https://retros.work/){: target="_blank"}
 
-![Retros.work, retrospective tool](/uploads/retros_work.png){: width="2206" height="838"}
+![Retros.work, retrospective tool](/uploads/retros_work.png){: width="2756" height="1654"}
 
 ## Retrospective tool \#4: goReflect&nbsp;
 

@@ -61,7 +61,7 @@ Retros.work is a beautiful online retrospective tool with HR trends. Post your r
 
 ### Pricing
 
-You can easily start using retros.work with a 30 day free trial. For a team of 10 users you pay €39,90 a month, a team of 25 users costs €84,75 and 50 users costs €134,50 a month. You per user and get unlimited boards.
+You can easily start using retros.work with a 30 day free trial. For a team of 10 users you pay €39,90 a month, a team of 25 users costs €84,75 and 50 users costs €134,50 a month. You pay per user and get unlimited boards.
 
 
 ### Killing feature

@@ -35,25 +35,21 @@ Website: [TeamMood](https://www.teammood.com/en/)
 
 ![TeamMood, retrospective tool](/uploads/team-mood-barometer-mood-indicator-tool-calendar-mood-meter-chart-teammood.png){: width="1740" height="1146"}
 
-## Retrospective tool \#2: Reetro
+## Retrospective tool \#2: Neatro
 
-Reetro is an **online retrospective tool for remote agile teams**. It fosters collaboration and automates the retrospective process.
+Neatro helps your team grow with a selection of useful and industry-proven retrospectives. Whether you are leading a remote or in-person retrospective, choose a template or build a custom retrospective activity that matches your team's context.
 
 ### Pricing
 
-Free.
+No credit card required to start using the 30-day trial period. Pricing starts at 20$ per month per team. Get a discount on every other team you create.
 
 ### Killing feature
 
-Reetro enables teams to run their retrospectives seamlessly. It integrates with the most used Scrum tools such as JIRA, Trello, Yodiz, and Asana.
+When starting a new retrospective meeting, Neatro will automatically remind you there are incomplete action items from previous activities. Neatro is also a fully responsive web app, making it possible to assist a retrospective meeting from your smartphone, tablet, or laptop.
 
-Website: [Reetro.io](https://reetro.io/){: target="_blank"}
+Website: [Neatro](https://www.neatro.io){: target="_blank"}
 
-![Reetro, retrospective tool](/uploads/retrospective-board-reetro-io.png){: width="845" height="524"}
-
-<hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
-<hr/>
+![Neatro, retrospective tool](/uploads/neatro.png){: width="2050" height="1090"}
 
 ## Retrospective tool \#3: Retros.work
 
@@ -71,6 +67,10 @@ You can track emotion and energy trends over multiple sprints. It also works wel
 Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 ![Retros.work, retrospective tool](/uploads/retros_work.png){: width="2756" height="1654"}
+
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
 
 ## Retrospective tool \#4: goReflect&nbsp;
 
@@ -268,21 +268,25 @@ Website: [Parabol](https://www.parabol.co/){: target="_blank"}
 
 ![Parabol, retrospective tool](/uploads/parabol.png){: width="2050" height="1090"}
 
-## Bonus: Retrospective tool \#16: Neatro
+## Bonus: Retrospective tool \#16: Reetro
 
-Neatro helps your team grow with a selection of useful and industry-proven retrospectives. Whether you are leading a remote or in-person retrospective, choose a template or build a custom retrospective activity that matches your team's context.
+Reetro is an **online retrospective tool for remote agile teams**. It fosters collaboration and automates the retrospective process.
 
 ### Pricing
 
-No credit card required to start using the 30-day trial period. Pricing starts at 20$ per month per team. Get a discount on every other team you create.
+Free.
 
 ### Killing feature
 
-When starting a new retrospective meeting, Neatro will automatically remind you there are incomplete action items from previous activities. Neatro is also a fully responsive web app, making it possible to assist a retrospective meeting from your smartphone, tablet, or laptop.
+Reetro enables teams to run their retrospectives seamlessly. It integrates with the most used Scrum tools such as JIRA, Trello, Yodiz, and Asana.
 
-Website: [Neatro](https://www.neatro.io){: target="_blank"}
+Website: [Reetro.io](https://reetro.io/){: target="_blank"}
 
-![Neatro, retrospective tool](/uploads/neatro.png){: width="2050" height="1090"}
+![Reetro, retrospective tool](/uploads/retrospective-board-reetro-io.png){: width="845" height="524"}
+
+<hr/>
+<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+<hr/>
 
 ## Extra bonus: Retrospective tool \#17: Milanote
 

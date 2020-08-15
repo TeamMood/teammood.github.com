@@ -188,9 +188,9 @@ Website: [Lino](https://en.linoit.com/){: target="_blank"}
 
 ![Lino, retrospective tool](/uploads/linoit.jpg){: width="450" height="269"}
 
-## Retrospective tool \#11: Sensei&nbsp;
+## Retrospective tool \#11: Metro Retro&nbsp;
 
-With Sensei, you begin each retrospective where the previous one ended. Team members can self-assess how well they and the team followed through on their commitments from the previous retro by answering routine questions raised by the facilitator.&nbsp;
+Metro Retro is a real-time retrospective whiteboard, with fun collaboration tools made specifically for the agile retrospective process. Its beautiful templates are completely customisable so you can run any kind of session.
 
 ### Pricing
 
@@ -198,11 +198,11 @@ Free
 
 ### Killing feature
 
-A summary report provides you the average rating of past retrospectives to assess your progress.
+Confetti cannon.
 
-Website: [Sensei](https://www.senseitool.com/){: target="_blank"}
+Website: [Metro Retro](https://metroretro.io/){: target="_blank"}
 
-![Sensei, retrospective tool](/uploads/sensei.png){: width="1670" height="1212"}
+![Metro Retro, retrospective tool](/uploads/MetroRetro.png){: width="1400" height="1132"}
 
 ## Retrospective tool \#12: Sprint Boards
 

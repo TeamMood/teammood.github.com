@@ -172,9 +172,11 @@ Website: [MindMeister](https://www.mindmeister.com/){: target="_blank"}
 
 ![MindMeister, retrospective tool](/uploads/mindmeister.png){: width="1290" height="808"}
 
-## Retrospective tool \#10: Lino
+## Retrospective tool \#10: GoRetro
 
-Lino is an **online corkboard** that enables team members to share ideas with the rest of the team on virtual sticky notes. It encourages ongoing feedback and lets you move the stickies around to sort them.&nbsp;
+GoRetro is a Free agile sprint retrospective tool making the entire retro process seamless, simple, fun, colorful, productive, and unlimited.
+
+It arrives with pre-made templates for a variety of retrospective formats, happiness index for developers, action items, and more.
 
 ### Pricing
 
@@ -182,11 +184,11 @@ Free
 
 ### Killing feature
 
-Lino automatically turns the email message containing your idea into a virtual sticky note on your team board.&nbsp;
+Besides all the foundational retrospective features, GoRetro allows you to add specific action items for assignees, to make sure such meetings will achieve real results.
 
-Website: [Lino](https://en.linoit.com/){: target="_blank"}
+Website: [GoRetro](https://www.goretro.ai//){: target="_blank"}
 
-![Lino, retrospective tool](/uploads/linoit.jpg){: width="450" height="269"}
+![GoRetro, retrospective tool](/uploads/GoRetro.jpg){: width="450" height="269"}
 
 ## Retrospective tool \#11: Metro Retro&nbsp;
 

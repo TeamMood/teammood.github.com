@@ -3,11 +3,13 @@ title: Green Digital Practices That You Can Implement At The Individual Level
 date: 2020-10-06 10:00:00
 layout: post
 image: /uploads/individual-green-digital-practices-teammood.jpg
-excerpt: D
-keywords:
+excerpt: >-
+  Digital technologies account for 4% of greenhouse gas emissions woldwide -
+  here's what you can do about it
+keywords: Green digital practices
 canonical_url:
 redirect_from:
-permalink: /new-analytics-filter
+permalink: /green-digital-practices
 ---
 
 If you’ve read our last article on [Ecodesign of Digital Services](https://blog.teammood.com/ecodesign-digital-services){: target="_blank" rel="noopener"}, you probably remember this alarming figure: **digital technologies** already account for **4% of our greenhouse gas emissions**, which is more than aviation. And both companies and individuals have a role to play to reduce these emissions\! In this article, we share our tips to lower our digital impact at the individual level.&nbsp;
@@ -28,7 +30,7 @@ Of course, this means that the devices themselves must be conceived to be lastin
 
 Besides weighing on the household budget, our electrical consumption also has an impact in terms of the global ecological footprint. The good news is: reducing your electrical consumption is easier than you may think. Here are a few ideas:&nbsp;
 
-* **Unplug unused electronics**\: TV screen, computer, ... For instance, an internet box consumes as much as a fridge, you might as well turn it off when not in use. A study showed that [standby devices waste the equivalent of 2 nuclear plants in France](https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/20130710trib000775040/les-francais-gaspillent-l-equivalent-de-deux-centrales-nucleaires-avec-des-appareils-en-veille.html){: target="_blank" rel="noopener"}.&nbsp;
+* **Unplug unused electronics**\: TV screen, computer, … For instance, an internet box consumes as much as a fridge, you might as well turn it off when not in use. A study showed that [standby devices waste the equivalent of 2 nuclear plants in France](https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/20130710trib000775040/les-francais-gaspillent-l-equivalent-de-deux-centrales-nucleaires-avec-des-appareils-en-veille.html){: target="_blank" rel="noopener"}.&nbsp;
 * **Mutualize the resources**\: do we really need 50 Internet boxes in the 50 apartments of a building?
 * Replace old bulbs with low-energy LEDs.
 * Put on a sweater and set the temperature of the occupied rooms to 19&deg;C in winter.
@@ -58,4 +60,4 @@ If we want to make a change and reduce our carbon emissions, the first step is t
 
 Have you found these tips useful? Tell us what you think in the comment section\!
 
-<em><small>*Photo by*[*Larisa Birta*](https://unsplash.com/@larisabirta?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) *on*[*Unsplash*](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}</small></em>
+*<small><em>Photo by</em><a href="https://unsplash.com/@larisabirta?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Larisa Birta</em></a> <em>on</em><a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></small>*

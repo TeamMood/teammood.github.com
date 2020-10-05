@@ -60,4 +60,4 @@ If we want to make a change and reduce our carbon emissions, the first step is t
 
 Have you found these tips useful? Tell us what you think in the comment section\!
 
-*<small><em>Photo by</em><a href="https://unsplash.com/@larisabirta?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Larisa Birta</em></a> <em>on</em><a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></small>*
+*<small><em>Photo by&nbsp;</em><a href="https://unsplash.com/@larisabirta?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Larisa Birta</em></a> <em>on&nbsp;</em><a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></small>*

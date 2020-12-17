@@ -38,7 +38,7 @@ When defining the concept of radical agility, Jean-Pascal, Claude and Anthony we
 
 Source: *[L'art de devenir une équipe agile](https://www.dunod.com/entreprise-economie/art-devenir-une-equipe-agile){: target="_blank" rel="noopener"}&nbsp;*(The art of becoming an agile team), by Claude Aubry, illustrated by Etienne Appert.
 
-The main idea behind the radical agility manifesto is to develop products and services that bring value to the client and the users, a value that is not only economical but also social and ecological.&nbsp;
+The main idea behind the radical agility manifesto is to develop products and services that bring value to the client and the users, a value that is **not only economical but also social and ecological**.&nbsp;
 
 Let’s dive into the 4 relative values of the agile manifesto and how they evolve in the radical agility manifesto:&nbsp;
 
@@ -58,8 +58,6 @@ Of course, we still value people and interactions more than processes and tools.
 
 ![](/uploads/radical-agility-teammood-illu-1-1.jpg){: width="988" height="149"}
 
-&nbsp;
-
 The second sentence of the agile manifesto states that “seeing the software working \[should be preferred to\] having comprehensive documentation”. According to Claude, Jean-Pascal, and Anthony, this second point of the agile manifesto is probably the least understood. It deals with the way the team works, its approach, its life cycle.&nbsp;
 
 It values light and empirical processes based on an iterative approach more than a heavy and predictive process based on successive phases (like in the waterfall or the V-cycle models). And at the end of each iterative cycle, the software should work on itself, allowing for feedback from users and wider stakeholders: the **feedback loops**. This also implies that there will be some specification, some design, some coding, and some testing in each cycle.
@@ -73,8 +71,6 @@ It is this radical approach that we defend seeing the software work more than ha
 ### **3\. Customer collaboration (over contract negotiation)**
 
 **![](/uploads/radical-agility-teammood-illu-2.jpg){: width="988" height="149"}**
-
-&nbsp;
 
 The third point of the agile manifesto states that “the collaboration with the client \[should count\] more than the negotiation of the contract”. Indeed, a contract implies a precise description of the expected product, including specifications, and the project owner ordering the realization to the project manager.
 
@@ -97,8 +93,6 @@ Radical agility does not stop at the collaboration with the customer to simply i
 ### **4\. Responding to change (over following a plan)**
 
 ![](/uploads/radical-agility-teammood-illu-3.jpg){: width="988" height="149"}
-
-&nbsp;
 
 The last of the 4 relative values of the agile manifesto urges teams to “adapt to change more than follow the plan”.&nbsp;
 
@@ -124,7 +118,7 @@ This *klub* helped Claude, Jean-Pascal, and Anthony realize they were sharing a 
 
 Soon after, Claude, Jean-Pascal, and Anthony were asked to participate in a Keynote organized by the collective “Online agile”. In front of over 300 participants, they laid the first bricks of radical agility, encompassing the social dimension, considering the impacts on living beings, and solving the struggle of false agile.
 
-“The extension of the notion of value is the key we were missing to reconcile the battles we want to lead and to align our personal and professional values. Getting together around these values was easy since we were sharing for almost 10 years a common reading base.”
+“The extension of the notion of value is the key we were missing to reconcile the battles we want to lead and to **align our personal and professional values**. Getting together around these values was easy since we were sharing for almost 10 years a common reading base.”
 
 “In retrospect, defining the concept of radical agility was like finding a seed that germinated during the confinement, and that deserved attention. It is above all our discussions and sharing knowledge that made the initial idea grow, and that also favored our individual growth.”
 
@@ -136,4 +130,4 @@ The entire initiative is based on Anthony, Claude, and Jean-Pascal’s rooted ho
 
 The three experts recommend starting small. “If you share the values of radical agility, you can start by confronting your ideas with your team or with peers. On our website [agileradical.org](https://agileradical.org/){: target="_blank" rel="noopener"} (in French), we try to make the concept of radical agility more accessible and applicable, in order to impact agile teams from the inside. You can find in there the confinement retro and kickoff canvas to set up a team and ask yourselves the right questions before jumping into agile. We picture serious games helping developers ask themselves the right questions. There's still a lot to be invented.”&nbsp;
 
-The website itself is a firefly illuminating these values, hoping that it will turn into a sun.
+The website itself is **a firefly illuminating these values, hoping that it will turn into a sun.**

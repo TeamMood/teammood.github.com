@@ -44,7 +44,7 @@ Let’s dive into the 4 relative values of the agile manifesto and how they evol
 
 ### **1\. Individuals and interactions (over processes and tools)**
 
-![](/uploads/radical-agility-teammood-illu.jpg){: width="988" height="149"}
+![](/uploads/radical-agility-teammood-illu-1.jpg){: width="988" height="149"}
 
 Everyone agrees on the fundamental importance of the human aspect highlighted by the manifesto. However, we can see that processes still play a very important role in organizations and that tools are often imposed on people and constrain their interactions rather than encouraging them.&nbsp;
 
@@ -56,9 +56,9 @@ Of course, we still value people and interactions more than processes and tools.
 
 ### **2\. Working software (over comprehensive documentation)**
 
-&nbsp;
+![](/uploads/radical-agility-teammood-illu-1-1.jpg){: width="988" height="149"}
 
-![](/uploads/radical-agility-teammood-illu-1-2.png){: width="988" height="149"}
+&nbsp;
 
 The second sentence of the agile manifesto states that “seeing the software working \[should be preferred to\] having comprehensive documentation”. According to Claude, Jean-Pascal, and Anthony, this second point of the agile manifesto is probably the least understood. It deals with the way the team works, its approach, its life cycle.&nbsp;
 
@@ -72,7 +72,9 @@ It is this radical approach that we defend seeing the software work more than ha
 
 ### **3\. Customer collaboration (over contract negotiation)**
 
-![](/uploads/radical-agility-teammood-illu-2-1.png){: width="988" height="149"}
+**![](/uploads/radical-agility-teammood-illu-2.jpg){: width="988" height="149"}**
+
+&nbsp;
 
 The third point of the agile manifesto states that “the collaboration with the client \[should count\] more than the negotiation of the contract”. Indeed, a contract implies a precise description of the expected product, including specifications, and the project owner ordering the realization to the project manager.
 
@@ -94,9 +96,9 @@ Radical agility does not stop at the collaboration with the customer to simply i
 
 ### **4\. Responding to change (over following a plan)**
 
-&nbsp;
+![](/uploads/radical-agility-teammood-illu-3.jpg){: width="988" height="149"}
 
-**![](/uploads/radical-agility-teammood-illu-3-1.png){: width="988" height="149"}**
+&nbsp;
 
 The last of the 4 relative values of the agile manifesto urges teams to “adapt to change more than follow the plan”.&nbsp;
 

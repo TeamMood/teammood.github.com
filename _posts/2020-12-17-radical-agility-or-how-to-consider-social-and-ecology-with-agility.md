@@ -44,6 +44,8 @@ Let’s dive into the 4 relative values of the agile manifesto and how they evol
 
 ### **1\. Individuals and interactions (over processes and tools)**
 
+**![](/uploads/radical-agility-teammood-illu.png){: width="988" height="149"}**
+
 Everyone agrees on the fundamental importance of the human aspect highlighted by the manifesto. However, we can see that processes still play a very important role in organizations and that tools are often imposed on people and constrain their interactions rather than encouraging them.&nbsp;
 
 This part of the manifesto tackles the way to work as a team: how? With whom? The team is itself a complex system. In order to better consider individuals and their interactions, reflections have multiplied on the notion of leadership in an agile team, many solutions have emerged to facilitate decision-making in a group, and the notion of collective intelligence has developed strongly. One concept has long been discussed, which would be more evocative of the desired way of working as a team: **self-organization**.
@@ -53,6 +55,8 @@ This part of the manifesto tackles the way to work as a team: how? With whom? Th
 Of course, we still value people and interactions more than processes and tools. But **beyond people and interactions, radical agility promotes self-organization**.
 
 ### **2\. Working software (over comprehensive documentation)**
+
+![](/uploads/radical-agility-teammood-illu-1-1.png){: width="988" height="149"}
 
 The second sentence of the agile manifesto states that “seeing the software working \[should be preferred to\] having comprehensive documentation”. According to Claude, Jean-Pascal, and Anthony, this second point of the agile manifesto is probably the least understood. It deals with the way the team works, its approach, its life cycle.&nbsp;
 
@@ -65,6 +69,8 @@ Thus stakeholders can assess the value that the product brings to them and propo
 It is this radical approach that we defend seeing the software work more than having its full documentation, but **ensuring the social value of the product or service** at each feedback loop **even more than seeing the software work**.
 
 ### **3\. Customer collaboration (over contract negotiation)**
+
+**![](/uploads/radical-agility-teammood-illu-2.png){: width="988" height="149"}**
 
 The third point of the agile manifesto states that “the collaboration with the client \[should count\] more than the negotiation of the contract”. Indeed, a contract implies a precise description of the expected product, including specifications, and the project owner ordering the realization to the project manager.
 
@@ -85,6 +91,8 @@ In our western societies, we usually consider primarily business value, oriented
 Radical agility does not stop at the collaboration with the customer to simply increase business value. **Beyond the collaboration with the client,** we take into account **the impact on living beings.**
 
 ### **4\. Responding to change (over following a plan)**
+
+**![](/uploads/radical-agility-teammood-illu-3.png){: width="988" height="149"}**
 
 The last of the 4 relative values of the agile manifesto urges teams to “adapt to change more than follow the plan”.&nbsp;
 

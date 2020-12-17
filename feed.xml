@@ -5,13 +5,13 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Dec 2020 16:02:02 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2020 16:02:02 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Dec 2020 16:06:38 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2020 16:06:38 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Radical Agility, or How To Consider Social And Ecology With Agility</title>
-        <description>&lt;p&gt;The idea of “Radical agility” was first conceptualized by three Agile experts, &lt;a href=&quot;https://www.linkedin.com/in/jean-pascal-boignard/&quot;&gt;Jean-Pascal Boignard&lt;/a&gt;, &lt;a href=&quot;https://www.aubryconseil.com/&quot;&gt;Claude Aubry&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/acassaigne/&quot;&gt;Anthony Cassaigne&lt;/a&gt;. This concept aims at refocusing agility on its original values while extending it to current preoccupations in order to better prepare for the future. As defined by its creators, radical agility encompasses three dimensions:  &lt;/p&gt;
+        <description>&lt;p&gt;The idea of “Radical agility” was first conceptualized by three Agile experts, &lt;a href=&quot;https://www.linkedin.com/in/jean-pascal-boignard/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Jean-Pascal Boignard&lt;/a&gt;, &lt;a href=&quot;https://www.aubryconseil.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Claude Aubry&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/acassaigne/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Anthony Cassaigne&lt;/a&gt;. This concept aims at refocusing agility on its original values while extending it to current preoccupations in order to better prepare for the future. As defined by its creators, radical agility encompasses three dimensions:  &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;the social,&lt;/li&gt;
@@ -19,9 +19,9 @@
   &lt;li&gt;and the refusal of the “faux-agile”&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;[The term “faux-agile” comes from a &lt;a href=&quot;https://martinfowler.com/articles/agile-aus-2018.html&quot;&gt;conference hosted by Martin Fowler&lt;/a&gt;, one of the authors of the agile manifesto. It includes everything that disregards agile values and principles.]&lt;/p&gt;
+&lt;p&gt;[The term “faux-agile” comes from a &lt;a href=&quot;https://martinfowler.com/articles/agile-aus-2018.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;conference hosted by Martin Fowler&lt;/a&gt;, one of the authors of the agile manifesto. It includes everything that disregards agile values and principles.]&lt;/p&gt;
 
-&lt;p&gt;The will to go back to the roots of agility is not new, nor unique. Several definitions of “the essence of agility” exist: &lt;a href=&quot;https://modernagile.org/&quot;&gt;Modern Agile&lt;/a&gt;, &lt;a href=&quot;https://heartofagile.com/&quot;&gt;Heart of Agile&lt;/a&gt;, … Indeed, over the years, among the teams and the companies that have encompassed the agile principles, many of them have gone astray. For instance: &lt;/p&gt;
+&lt;p&gt;The will to go back to the roots of agility is not new, nor unique. Several definitions of “the essence of agility” exist: &lt;a href=&quot;https://modernagile.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Modern Agile&lt;/a&gt;, &lt;a href=&quot;https://heartofagile.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Heart of Agile&lt;/a&gt;, … Indeed, over the years, among the teams and the companies that have encompassed the agile principles, many of them have gone astray. For instance: &lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;by focusing too much on the rites and rhythms as defined in the different agile methodologies (&lt;a href=&quot;https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html&quot;&gt;sprint planning&lt;/a&gt;, &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;daily stand-up meeting&lt;/a&gt;, &lt;a href=&quot;https://blog.teammood.com/agile-retrospectives&quot;&gt;retrospective&lt;/a&gt;, …)&lt;/li&gt;
@@ -30,25 +30,21 @@
   &lt;li&gt;… &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;But radical agility goes a step further. In addition to being faithful to the original expression of the &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;2001 agile manifesto&lt;/a&gt;, the concept of radical agility strives to make it more explicit, more applicable regarding today’s challenges, which are not quite the same as they were 20 years ago.&lt;/p&gt;
+&lt;p&gt;But radical agility goes a step further. In addition to being faithful to the original expression of the &lt;a href=&quot;https://agilemanifesto.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;2001 agile manifesto&lt;/a&gt;, the concept of radical agility strives to make it more explicit, more applicable regarding today’s challenges, which are not quite the same as they were 20 years ago.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-is-radical-agility&quot;&gt;&lt;strong&gt;What is Radical Agility?&lt;/strong&gt;&lt;/h2&gt;
 
 &lt;p&gt;When defining the concept of radical agility, Jean-Pascal, Claude and Anthony went back to the original agile manifesto and extended its 4 propositions in order to better consider the current situation. Their proposal goes as follow:&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/uploads/radical-agility-teammood-illu-001-1.jpeg&quot; alt=&quot;&quot; width=&quot;1024&quot; height=&quot;535&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://www.dunod.com/entreprise-economie/art-devenir-une-equipe-agile&quot;&gt;&lt;em&gt;L’art de devenir une équipe agile&lt;/em&gt;&lt;/a&gt;(The art of becoming an agile team), by Claude Aubry, illustrated by Etienne Appert.&lt;/p&gt;
+&lt;p&gt;Source: &lt;em&gt;&lt;a href=&quot;https://www.dunod.com/entreprise-economie/art-devenir-une-equipe-agile&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;L’art de devenir une équipe agile&lt;/a&gt; &lt;/em&gt;(The art of becoming an agile team), by Claude Aubry, illustrated by Etienne Appert.&lt;/p&gt;
 
 &lt;p&gt;The main idea behind the radical agility manifesto is to develop products and services that bring value to the client and the users, a value that is not only economical but also social and ecological. &lt;/p&gt;
 
 &lt;p&gt;Let’s dive into the 4 relative values of the agile manifesto and how they evolve in the radical agility manifesto: &lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;individuals-and-interactions-over-processes-and-tools&quot;&gt;&lt;strong&gt;Individuals and interactions (over processes and tools)&lt;/strong&gt;&lt;/h3&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;1-individuals-and-interactions-over-processes-and-tools&quot;&gt;&lt;strong&gt;1. Individuals and interactions (over processes and tools)&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Everyone agrees on the fundamental importance of the human aspect highlighted by the manifesto. However, we can see that processes still play a very important role in organizations and that tools are often imposed on people and constrain their interactions rather than encouraging them. &lt;/p&gt;
 
@@ -58,11 +54,7 @@
 
 &lt;p&gt;Of course, we still value people and interactions more than processes and tools. But &lt;strong&gt;beyond people and interactions, radical agility promotes self-organization&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;working-software-over-comprehensive-documentation&quot;&gt;&lt;strong&gt;Working software (over comprehensive documentation)&lt;/strong&gt;&lt;/h3&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;2-working-software-over-comprehensive-documentation&quot;&gt;&lt;strong&gt;2. Working software (over comprehensive documentation)&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;The second sentence of the agile manifesto states that “seeing the software working [should be preferred to] having comprehensive documentation”. According to Claude, Jean-Pascal, and Anthony, this second point of the agile manifesto is probably the least understood. It deals with the way the team works, its approach, its life cycle. &lt;/p&gt;
 
@@ -74,11 +66,7 @@
 
 &lt;p&gt;It is this radical approach that we defend seeing the software work more than having its full documentation, but &lt;strong&gt;ensuring the social value of the product or service&lt;/strong&gt; at each feedback loop &lt;strong&gt;even more than seeing the software work&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;customer-collaboration-over-contract-negotiation&quot;&gt;&lt;strong&gt;Customer collaboration (over contract negotiation)&lt;/strong&gt;&lt;/h3&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;3-customer-collaboration-over-contract-negotiation&quot;&gt;&lt;strong&gt;3. Customer collaboration (over contract negotiation)&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;The third point of the agile manifesto states that “the collaboration with the client [should count] more than the negotiation of the contract”. Indeed, a contract implies a precise description of the expected product, including specifications, and the project owner ordering the realization to the project manager.&lt;/p&gt;
 
@@ -102,11 +90,7 @@
 
 &lt;p&gt;Radical agility does not stop at the collaboration with the customer to simply increase business value. &lt;strong&gt;Beyond the collaboration with the client,&lt;/strong&gt; we take into account &lt;strong&gt;the impact on living beings.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;responding-to-change-over-following-a-plan&quot;&gt;&lt;strong&gt;Responding to change (over following a plan)&lt;/strong&gt;&lt;/h3&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;4-responding-to-change-over-following-a-plan&quot;&gt;&lt;strong&gt;4. Responding to change (over following a plan)&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;The last of the 4 relative values of the agile manifesto urges teams to “adapt to change more than follow the plan”. &lt;/p&gt;
 
@@ -124,9 +108,9 @@
 
 &lt;p&gt;The idea of radical agility came up to Jean-Pascal, Claude Aubry, and Anthony during the first confinement period in France, in spring 2020.&lt;/p&gt;
 
-&lt;p&gt;“We used to organize in-person book clubs on all topics closely or remotely related to Agile in Toulouse, south of France. With the pandemic, we switched to online, more frequent, and lighter events, focusing on articles rather than books that take longer to read. One of the &lt;em&gt;klubs&lt;/em&gt; (as we call them) that happened in March 2020 was focusing on an article written by the sociologist and philosopher Bruno Latour, ‘Imagining barrier gestures against the return to pre-crisis production’ (originally written in French but &lt;a href=&quot;http://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH.pdf&quot;&gt;here is the English version&lt;/a&gt;). This article was urging each and every one of us to reflect on where we want to go, and how to get out of productivism. It inspired us to create a tool: the Confinement Retro, and it all started from there.”&lt;/p&gt;
+&lt;p&gt;“We used to organize in-person book clubs on all topics closely or remotely related to Agile in Toulouse, south of France. With the pandemic, we switched to online, more frequent, and lighter events, focusing on articles rather than books that take longer to read. One of the &lt;em&gt;klubs&lt;/em&gt; (as we call them) that happened in March 2020 was focusing on an article written by the sociologist and philosopher Bruno Latour, ‘Imagining barrier gestures against the return to pre-crisis production’ (originally written in French but &lt;a href=&quot;http://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;here is the English version&lt;/a&gt;). This article was urging each and every one of us to reflect on where we want to go, and how to get out of productivism. It inspired us to create a tool: the Confinement Retro, and it all started from there.”&lt;/p&gt;
 
-&lt;p&gt;[The Confinement Retro available in French here: &lt;a href=&quot;https://agileradical.org/outils/retroconf/&quot;&gt;https://agileradical.org/outils/retroconf/&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;[The Confinement Retro available in French here: &lt;a href=&quot;https://agileradical.org/outils/retroconf/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://agileradical.org/outils/retroconf/&lt;/a&gt;]&lt;/p&gt;
 
 &lt;p&gt;This &lt;em&gt;klub&lt;/em&gt; helped Claude, Jean-Pascal, and Anthony realize they were sharing a common will to act on the climate and social emergency. As they conceived it, the confinement retro is an opportunity to reflect on the meaning. It goes further than a classic retrospective, focusing on the way of doing things, and challenges what the team produces. &lt;/p&gt;
 
@@ -142,11 +126,9 @@
 
 &lt;p&gt;“We are convinced that a lot of people in the digital and development environment are interested in aligning their work with their ideas, values, and will to act against global warming, for the conservation of biodiversity, and to reduce our impact on the planet. Those will find with what we propose ways to act by themselves in their organization, to make concrete change.” &lt;/p&gt;
 
-&lt;p&gt;The three experts recommend starting small. “If you share the values of radical agility, you can start by confronting your ideas with your team or with peers. On our website &lt;a href=&quot;https://agileradical.org/&quot;&gt;agileradical.org&lt;/a&gt; (in French), we try to make the concept of radical agility more accessible and applicable, in order to impact agile teams from the inside. You can find in there the confinement retro and kickoff canvas to set up a team and ask yourselves the right questions before jumping into agile. We picture serious games helping developers ask themselves the right questions. There’s still a lot to be invented.” &lt;/p&gt;
+&lt;p&gt;The three experts recommend starting small. “If you share the values of radical agility, you can start by confronting your ideas with your team or with peers. On our website &lt;a href=&quot;https://agileradical.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;agileradical.org&lt;/a&gt; (in French), we try to make the concept of radical agility more accessible and applicable, in order to impact agile teams from the inside. You can find in there the confinement retro and kickoff canvas to set up a team and ask yourselves the right questions before jumping into agile. We picture serious games helping developers ask themselves the right questions. There’s still a lot to be invented.” &lt;/p&gt;
 
 &lt;p&gt;The website itself is a firefly illuminating these values, hoping that it will turn into a sun.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;small&gt;&lt;em&gt;Photo by &lt;/em&gt;&lt;a href=&quot;https://unsplash.com/@larisabirta?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;&lt;em&gt;Larisa Birta&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on &lt;/em&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;&lt;em&gt;Unsplash&lt;/em&gt;&lt;/a&gt;&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Dec 2020 10:00:00 +0000</pubDate>
         <link>https://blog.teammood.com/radical-agility</link>

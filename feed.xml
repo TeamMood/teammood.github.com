@@ -5,9 +5,155 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Dec 2020 15:58:47 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Dec 2020 15:58:47 +0000</lastBuildDate>
+    <pubDate>Thu, 17 Dec 2020 16:02:02 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2020 16:02:02 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Radical Agility, or How To Consider Social And Ecology With Agility</title>
+        <description>&lt;p&gt;The idea of “Radical agility” was first conceptualized by three Agile experts, &lt;a href=&quot;https://www.linkedin.com/in/jean-pascal-boignard/&quot;&gt;Jean-Pascal Boignard&lt;/a&gt;, &lt;a href=&quot;https://www.aubryconseil.com/&quot;&gt;Claude Aubry&lt;/a&gt;, and &lt;a href=&quot;https://www.linkedin.com/in/acassaigne/&quot;&gt;Anthony Cassaigne&lt;/a&gt;. This concept aims at refocusing agility on its original values while extending it to current preoccupations in order to better prepare for the future. As defined by its creators, radical agility encompasses three dimensions:  &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the social,&lt;/li&gt;
+  &lt;li&gt;the attention of the living,&lt;/li&gt;
+  &lt;li&gt;and the refusal of the “faux-agile”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[The term “faux-agile” comes from a &lt;a href=&quot;https://martinfowler.com/articles/agile-aus-2018.html&quot;&gt;conference hosted by Martin Fowler&lt;/a&gt;, one of the authors of the agile manifesto. It includes everything that disregards agile values and principles.]&lt;/p&gt;
+
+&lt;p&gt;The will to go back to the roots of agility is not new, nor unique. Several definitions of “the essence of agility” exist: &lt;a href=&quot;https://modernagile.org/&quot;&gt;Modern Agile&lt;/a&gt;, &lt;a href=&quot;https://heartofagile.com/&quot;&gt;Heart of Agile&lt;/a&gt;, … Indeed, over the years, among the teams and the companies that have encompassed the agile principles, many of them have gone astray. For instance: &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;by focusing too much on the rites and rhythms as defined in the different agile methodologies (&lt;a href=&quot;https://blog.teammood.com/2019/09/16/how-to-make-your-sprint-planning-as-easy-as-pie.html&quot;&gt;sprint planning&lt;/a&gt;, &lt;a href=&quot;https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html&quot;&gt;daily stand-up meeting&lt;/a&gt;, &lt;a href=&quot;https://blog.teammood.com/agile-retrospectives&quot;&gt;retrospective&lt;/a&gt;, …)&lt;/li&gt;
+  &lt;li&gt;by executing plans and following processes in a rigid way&lt;/li&gt;
+  &lt;li&gt;by setting fixed goals and contracts instead of adapting to change&lt;/li&gt;
+  &lt;li&gt;… &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But radical agility goes a step further. In addition to being faithful to the original expression of the &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;2001 agile manifesto&lt;/a&gt;, the concept of radical agility strives to make it more explicit, more applicable regarding today’s challenges, which are not quite the same as they were 20 years ago.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-radical-agility&quot;&gt;&lt;strong&gt;What is Radical Agility?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;When defining the concept of radical agility, Jean-Pascal, Claude and Anthony went back to the original agile manifesto and extended its 4 propositions in order to better consider the current situation. Their proposal goes as follow:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Source: &lt;a href=&quot;https://www.dunod.com/entreprise-economie/art-devenir-une-equipe-agile&quot;&gt;&lt;em&gt;L’art de devenir une équipe agile&lt;/em&gt;&lt;/a&gt;(The art of becoming an agile team), by Claude Aubry, illustrated by Etienne Appert.&lt;/p&gt;
+
+&lt;p&gt;The main idea behind the radical agility manifesto is to develop products and services that bring value to the client and the users, a value that is not only economical but also social and ecological. &lt;/p&gt;
+
+&lt;p&gt;Let’s dive into the 4 relative values of the agile manifesto and how they evolve in the radical agility manifesto: &lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;individuals-and-interactions-over-processes-and-tools&quot;&gt;&lt;strong&gt;Individuals and interactions (over processes and tools)&lt;/strong&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Everyone agrees on the fundamental importance of the human aspect highlighted by the manifesto. However, we can see that processes still play a very important role in organizations and that tools are often imposed on people and constrain their interactions rather than encouraging them. &lt;/p&gt;
+
+&lt;p&gt;This part of the manifesto tackles the way to work as a team: how? With whom? The team is itself a complex system. In order to better consider individuals and their interactions, reflections have multiplied on the notion of leadership in an agile team, many solutions have emerged to facilitate decision-making in a group, and the notion of collective intelligence has developed strongly. One concept has long been discussed, which would be more evocative of the desired way of working as a team: &lt;strong&gt;self-organization&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;[As defined by the &lt;a href=&quot;https://scrumdictionary.com/term/self-organization/&quot;&gt;scrum dictionary&lt;/a&gt;, a self-organized team is one that chooses how best to accomplish its work, rather than being directed (micro-managed) by others outside the team.]&lt;/p&gt;
+
+&lt;p&gt;Of course, we still value people and interactions more than processes and tools. But &lt;strong&gt;beyond people and interactions, radical agility promotes self-organization&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;working-software-over-comprehensive-documentation&quot;&gt;&lt;strong&gt;Working software (over comprehensive documentation)&lt;/strong&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The second sentence of the agile manifesto states that “seeing the software working [should be preferred to] having comprehensive documentation”. According to Claude, Jean-Pascal, and Anthony, this second point of the agile manifesto is probably the least understood. It deals with the way the team works, its approach, its life cycle. &lt;/p&gt;
+
+&lt;p&gt;It values light and empirical processes based on an iterative approach more than a heavy and predictive process based on successive phases (like in the waterfall or the V-cycle models). And at the end of each iterative cycle, the software should work on itself, allowing for feedback from users and wider stakeholders: the &lt;strong&gt;feedback loops&lt;/strong&gt;. This also implies that there will be some specification, some design, some coding, and some testing in each cycle.&lt;/p&gt;
+
+&lt;p&gt;Thus stakeholders can assess the value that the product brings to them and propose an evolution for the next cycle so that this value keeps growing. By frequently facing the people concerned by what the team does, the social value of the product or service, as defined by David Graeber in his book &lt;em&gt;Bullshit Jobs&lt;/em&gt;, is ensured:&lt;/p&gt;
+
+&lt;p&gt;“Taking care of each other so that everyone is freer, enjoys life, enjoys freedom, and has a pleasant leisure time”.&lt;/p&gt;
+
+&lt;p&gt;It is this radical approach that we defend seeing the software work more than having its full documentation, but &lt;strong&gt;ensuring the social value of the product or service&lt;/strong&gt; at each feedback loop &lt;strong&gt;even more than seeing the software work&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;customer-collaboration-over-contract-negotiation&quot;&gt;&lt;strong&gt;Customer collaboration (over contract negotiation)&lt;/strong&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The third point of the agile manifesto states that “the collaboration with the client [should count] more than the negotiation of the contract”. Indeed, a contract implies a precise description of the expected product, including specifications, and the project owner ordering the realization to the project manager.&lt;/p&gt;
+
+&lt;p&gt;While this can be reasonable for anyone working in an industry or in a regulated field, this type of organization does not work in the field of knowledge work. Indeed:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;it is impossible to specify in advance what the final product will be,&lt;/li&gt;
+  &lt;li&gt;defining the product specifications in advance is even counterproductive because it pushes to develop features that will not be used,&lt;/li&gt;
+  &lt;li&gt;the separation into two entities – one that writes the contract, the other that executes it – maintains a harmful distrust.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With this in mind, a new position emerged and gained importance with the release of Scrum: the role of Product Owner, representing customers and users inside the team of developers. He is the one responsible for steering the product towards what brings the most value iteration after iteration. Here comes the question of the value.&lt;/p&gt;
+
+&lt;p&gt;In our western societies, we usually consider primarily business value, oriented towards end-users. At first, it seems quite logical: to maximize the benefits for those who use it. However, considering the product business value only can entail biases and pernicious effects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;putting aside its social and ecological usefulness,&lt;/li&gt;
+  &lt;li&gt;making team members involved in the project work against their personal ethics,&lt;/li&gt;
+  &lt;li&gt;and even contributing to the destruction of biodiversity and the acceleration of climate change.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Radical agility does not stop at the collaboration with the customer to simply increase business value. &lt;strong&gt;Beyond the collaboration with the client,&lt;/strong&gt; we take into account &lt;strong&gt;the impact on living beings.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;responding-to-change-over-following-a-plan&quot;&gt;&lt;strong&gt;Responding to change (over following a plan)&lt;/strong&gt;&lt;/h3&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The last of the 4 relative values of the agile manifesto urges teams to “adapt to change more than follow the plan”. &lt;/p&gt;
+
+&lt;p&gt;When the Agile Manifesto was released in 2001, the grail of project management was to finish on time according to the deadlines defined in the original plan. The manifesto does not say that following a plan is wrong. In fact, every sprint following the Scrum methodology has a plan. &lt;strong&gt;The problem is trying to follow the plan at all costs&lt;/strong&gt;. Especially when the original plan was made when the team had little knowledge of the situation and has never been updated to adapt to changes that impact it.&lt;/p&gt;
+
+&lt;p&gt;So, rather than following the original plan, it is better to adapt to change. The second principle of the agile manifesto enlightens us on the intention of its creators: “Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.”&lt;/p&gt;
+
+&lt;p&gt;Agility makes it possible to build the right product by regularly (at each cycle) involving its users. However, it is the team that remains free to accept (or refuse) a proposition from users. What is toxic is when changes are imposed on the team, using power or urgency as an excuse. Indeed, some companies have adopted this mantra to the point that it becomes an injunction (“you have to adapt ») and use it as a &lt;strong&gt;pretext to make agile teams undergo all possible changes&lt;/strong&gt;. &lt;/p&gt;
+
+&lt;p&gt;This behavior can be quite harmful to the team, especially when these changes undermine the team’s self-organization. If everything changes all the time, teams cannot be safe. &lt;/p&gt;
+
+&lt;p&gt;“This is why we propose this evolution of the manifesto: adapting to change more than following the plan, but &lt;strong&gt;beyond adapting to (undergone) change, we want to become the desired change&lt;/strong&gt;”, the three experts explain. “And we hope that the desired change will be more and more concerned with &lt;strong&gt;social value and the impact on living beings&lt;/strong&gt;.”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-origins-of-the-concept-of-radical-agility&quot;&gt;&lt;strong&gt;The origins of the concept of Radical Agility&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The idea of radical agility came up to Jean-Pascal, Claude Aubry, and Anthony during the first confinement period in France, in spring 2020.&lt;/p&gt;
+
+&lt;p&gt;“We used to organize in-person book clubs on all topics closely or remotely related to Agile in Toulouse, south of France. With the pandemic, we switched to online, more frequent, and lighter events, focusing on articles rather than books that take longer to read. One of the &lt;em&gt;klubs&lt;/em&gt; (as we call them) that happened in March 2020 was focusing on an article written by the sociologist and philosopher Bruno Latour, ‘Imagining barrier gestures against the return to pre-crisis production’ (originally written in French but &lt;a href=&quot;http://www.bruno-latour.fr/sites/default/files/downloads/P-202-AOC-ENGLISH.pdf&quot;&gt;here is the English version&lt;/a&gt;). This article was urging each and every one of us to reflect on where we want to go, and how to get out of productivism. It inspired us to create a tool: the Confinement Retro, and it all started from there.”&lt;/p&gt;
+
+&lt;p&gt;[The Confinement Retro available in French here: &lt;a href=&quot;https://agileradical.org/outils/retroconf/&quot;&gt;https://agileradical.org/outils/retroconf/&lt;/a&gt;]&lt;/p&gt;
+
+&lt;p&gt;This &lt;em&gt;klub&lt;/em&gt; helped Claude, Jean-Pascal, and Anthony realize they were sharing a common will to act on the climate and social emergency. As they conceived it, the confinement retro is an opportunity to reflect on the meaning. It goes further than a classic retrospective, focusing on the way of doing things, and challenges what the team produces. &lt;/p&gt;
+
+&lt;p&gt;Soon after, Claude, Jean-Pascal, and Anthony were asked to participate in a Keynote organized by the collective “Online agile”. In front of over 300 participants, they laid the first bricks of radical agility, encompassing the social dimension, considering the impacts on living beings, and solving the struggle of false agile.&lt;/p&gt;
+
+&lt;p&gt;“The extension of the notion of value is the key we were missing to reconcile the battles we want to lead and to align our personal and professional values. Getting together around these values was easy since we were sharing for almost 10 years a common reading base.”&lt;/p&gt;
+
+&lt;p&gt;“In retrospect, defining the concept of radical agility was like finding a seed that germinated during the confinement, and that deserved attention. It is above all our discussions and sharing knowledge that made the initial idea grow, and that also favored our individual growth.”&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-start-with-radical-agility&quot;&gt;&lt;strong&gt;How to start with Radical Agility?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;The entire initiative is based on Anthony, Claude, and Jean-Pascal’s rooted hope towards the new generation to question the meaning of their work, to lift the contradictions on agile, and have a positive social and environmental impact.&lt;/p&gt;
+
+&lt;p&gt;“We are convinced that a lot of people in the digital and development environment are interested in aligning their work with their ideas, values, and will to act against global warming, for the conservation of biodiversity, and to reduce our impact on the planet. Those will find with what we propose ways to act by themselves in their organization, to make concrete change.” &lt;/p&gt;
+
+&lt;p&gt;The three experts recommend starting small. “If you share the values of radical agility, you can start by confronting your ideas with your team or with peers. On our website &lt;a href=&quot;https://agileradical.org/&quot;&gt;agileradical.org&lt;/a&gt; (in French), we try to make the concept of radical agility more accessible and applicable, in order to impact agile teams from the inside. You can find in there the confinement retro and kickoff canvas to set up a team and ask yourselves the right questions before jumping into agile. We picture serious games helping developers ask themselves the right questions. There’s still a lot to be invented.” &lt;/p&gt;
+
+&lt;p&gt;The website itself is a firefly illuminating these values, hoping that it will turn into a sun.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;small&gt;&lt;em&gt;Photo by &lt;/em&gt;&lt;a href=&quot;https://unsplash.com/@larisabirta?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;&lt;em&gt;Larisa Birta&lt;/em&gt;&lt;/a&gt; &lt;em&gt;on &lt;/em&gt;&lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;&lt;em&gt;Unsplash&lt;/em&gt;&lt;/a&gt;&lt;/small&gt;&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Dec 2020 10:00:00 +0000</pubDate>
+        <link>https://blog.teammood.com/radical-agility</link>
+        <guid isPermaLink="true">https://blog.teammood.com/radical-agility</guid>
+        
+        
+      </item>
     
       <item>
         <title>Green Digital Practices That You Can Implement At The Individual Level</title>
@@ -856,128 +1002,6 @@
         <pubDate>Fri, 31 Jan 2020 11:00:00 +0000</pubDate>
         <link>https://blog.teammood.com/agile-retrospectives</link>
         <guid isPermaLink="true">https://blog.teammood.com/agile-retrospectives</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Team Morale, Only One Way: Listening Before Improving</title>
-        <description>&lt;p&gt;Are you worried about your team morale? Would you like to do something about it and improve its productivity? You’re in luck!&lt;/p&gt;
-
-&lt;p&gt;In this article, we will explain how to identify the issues at the bottom of low team morale and how to turn the tide. Are you ready for some introspection?&lt;/p&gt;
-
-&lt;p&gt;Table of content:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#team-morale-definition&quot;&gt;Team morale: definition&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#team-morale-survey&quot;&gt;Team morale: survey your team members to identify issues&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#improving-team-morale&quot;&gt;Improving your team morale in the long term&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#team-moral-boosters&quot;&gt;Team morale boosters: best of&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a name=&quot;team-morale-definition&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;team-morale-definition&quot;&gt;Team Morale: Definition&lt;/h2&gt;
-
-&lt;p&gt;Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure. &lt;/p&gt;
-
-&lt;p&gt;If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, &lt;a href=&quot;http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf&quot; target=&quot;_blank&quot;&gt;researchers&lt;/a&gt; from the University of Warwick in the UK have proven that &lt;strong&gt;happy people are 12% more productive than usual&lt;/strong&gt;, while unhappy workers are 10% less productive. Good team morale can &lt;a href=&quot;https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html&quot;&gt;enhance the company’s overall performance&lt;/a&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;improving employee productivity,&lt;/li&gt;
-  &lt;li&gt;fostering collaboration among colleagues,&lt;/li&gt;
-  &lt;li&gt;boosting employee creativity,&lt;/li&gt;
-  &lt;li&gt;… &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Even if you have the desire to keep your team morale up, reality may not always go your way. As work is getting increasingly complex, employees can suffer from uncountable sources of pressure or dissatisfaction that may not show physically. If you feel something is &lt;a href=&quot;https://blog.teammood.com/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html&quot;&gt;looming among your teammates&lt;/a&gt;, the first thing you need to do is to identify the roots of the problem, in order to find the right solutions to put your team back on tracks.&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;team-morale-survey&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;team-morale-survey-your-team-members-to-identify-issues&quot;&gt;Team Morale: Survey Your Team Members To Identify Issues &lt;/h2&gt;
-
-&lt;p&gt;The first step to improve a low team morale is to gather feedback from all team members. Providing a safe “place” for everyone to express oneself openly is key to identify the roots of the problem. Indeed, as a manager, you might be part of the problem. Or else, your team member might not feel comfortable in spilling the beans in front of everyone. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.teammood.com/&quot; class=&quot;button&quot; target=&quot;_blank&quot;&gt;Try a Survey Now&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here are 3 methods you can implement in your team:&lt;/p&gt;
-
-&lt;h3 id=&quot;1-sending-an-anonymous-survey&quot;&gt;#1 Sending An Anonymous Survey&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Employee morale surveys&lt;/strong&gt; can provide crucial feedback that can lead to measures being taken to increase employee well-being. They give everyone the opportunity to share comments about the company or their team. Surveys can help identify issues before they become a bigger problem. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anonymous surveys&lt;/strong&gt; are even more effective for introverts or any employee fearing to get reproved for their ideas or comments. Anonymity helps to collect more honest feedback.&lt;/p&gt;
-
-&lt;p&gt;By understanding employee opinions, job satisfaction or dissatisfaction, and motivation, you can improve employee well-being, boost team morale in the workplace, and foster a productive environment where your employees thrive.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-measuring-the-team-morale-with-a-niko-niko&quot;&gt;#2 Measuring The Team Morale With A Niko-Niko&lt;/h3&gt;
-
-&lt;p&gt;The &lt;strong&gt;Niko-Niko calendar&lt;/strong&gt;, a.k.a. the smiley calendar or the happiness index is a &lt;a href=&quot;https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html&quot; target=&quot;_blank&quot;&gt;simple tool&lt;/a&gt; to measure team morale over time. It takes the form of a calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy 😄, straight 😬 or frowning 🙁 or color stickers on it. &lt;/p&gt;
-
-&lt;p&gt;The Niko-Niko calendar helps quantify the well-being, morale, and motivation of the team, and identify if something is going wrong.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-using-an-automated-tool-such-as-teammood&quot;&gt;#3 Using An Automated Tool Such As TeamMood&lt;/h3&gt;
-
-&lt;p&gt;If you don’t want to build your own physical Niko-Niko calendar with a stack of color stickers, or if your team is working remotely, you can choose to use an online tool such as TeamMood. An online tool can also help you gather anonymous comments more easily, and provides statistics that can help you analyze trends.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.teammood.com/en/&quot; class=&quot;button&quot;&gt;Start measuring your team health today!&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a name=&quot;improving-team-morale&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;improving-your-team-morale-in-the-long-term&quot;&gt;Improving Your Team Morale In The Long Term&lt;/h2&gt;
-
-&lt;p&gt;If a one-of survey can help solve a specific situation, gathering regular feedback from your collaborators is key to continuously improve your team morale. Indeed, the situation is bound to evolve over time. A deadline moved forward, a change in the organization or a set-back in the project can destabilize the team members. &lt;/p&gt;
-
-&lt;p&gt;Moreover, by measuring team morale over time, you can measure the impact of past optimizations, and verify whether they were useful, or if you need to change them. &lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;&lt;/div&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;a name=&quot;team-morale-boosters&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;team-morale-boosters-best-of&quot;&gt;Team Morale Boosters: Best Of&lt;/h2&gt;
-
-&lt;p&gt;Ideas to improve your team morale are legion, so we’ve selected the top 5 morale boosters that you can apply in all situations:&lt;/p&gt;
-
-&lt;h3 id=&quot;1-celebrate-personal-and-team-achievements&quot;&gt;#1 Celebrate Personal And Team Achievements&lt;/h3&gt;
-
-&lt;p&gt;Taking a moment to recognize your team members for a job well done in their day-to-day work is the easiest and most effective way to boost their morale. You can set a regular time to highlight individual contributions, at staff meetings, or during the annual evaluation of your team members. You can also make ad hoc praises if you want to recognize the stellar work of some team members.&lt;/p&gt;
-
-&lt;p&gt;Don’t underestimate team praise in front of the rest of the company too. Some teams may feel they work in the shadows, with no recognition from their colleagues in other teams. The team as a whole can benefit from feeling valuable to the rest of the company.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-invest-in-employee-training&quot;&gt;#2 Invest In Employee Training&lt;/h3&gt;
-
-&lt;p&gt;The rate of technological change has forced the modern workforce to adopt a continuous learning mindset. From a business standpoint, helping employees master new skills ensures that your employees continue to be at the top of their game. &lt;/p&gt;
-
-&lt;p&gt;Moreover, providing adequate training is a key argument for engaging and retaining your best talents. Indeed, top-notch employees look for opportunities to learn and grow their skillset. If you don’t have enough budget to offer outside training for everyone, you can leverage the diverse skills of each team member and implement a regular “skillshare”. Your team members will benefit from both learning a new skill and being recognized for their specific talents.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-cultivate-a-culture-of-gratitude&quot;&gt;#3 Cultivate A Culture Of Gratitude&lt;/h3&gt;
-
-&lt;p&gt;Employees are more likely to thrive in a positive environment that values individuals and &lt;a href=&quot;https://blog.teammood.com/2018/07/04/how-to-cultivate-a-workplace-culture-of-gratitude.html&quot;&gt;cultivates a culture of gratitude&lt;/a&gt;. Even in the toughest of times, most of us have something to be grateful for. Whether it’s a family back home that supports you or the latest achievement in your team, make sure that you appreciate what you have. By encouraging moments of reflection for your team, they will never lose sight of the positive things in their lives.&lt;/p&gt;
-
-&lt;h3 id=&quot;4-encourage-real-lunch-breaks-and-vacations-or-even-sabbaticals&quot;&gt;#4 Encourage Real Lunch Breaks And Vacations (Or Even Sabbaticals)&lt;/h3&gt;
-
-&lt;p&gt;Your employees need to step away from their desks during the day. According to management professor Kimberly Elsbach, &lt;em&gt;“staying inside, in the same location, is really detrimental to creative thinking.”&lt;/em&gt; Getting team members to take a coffee break, go for a walk, take a real lunch break or practice some sport will improve the overall team morale. &lt;/p&gt;
-
-&lt;p&gt;Likewise, true vacation time – with no work email, no phone calls, no laptop on the beach – can be a true booster of team morale. &lt;/p&gt;
-
-&lt;h3 id=&quot;5-limit-office-hours&quot;&gt;#5 Limit Office Hours&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;“A shorter working week could improve our mental and physical health,’’&lt;/em&gt; &lt;a href=&quot;https://www.economist.com/free-exchange/2013/09/24/get-a-life&quot; target=&quot;_blank&quot;&gt;research shows&lt;/a&gt;. By limiting office hours, you can help your team members meet a work-life balance, and improve their quality of life. By having more time to rest or do a hobby they like, your employees will feel a higher motivation for work, as well as improve their productivity and creativity.&lt;/p&gt;
-
-&lt;p&gt;Do you want more? We’ve listed a few extra ideas in &lt;a href=&quot;https://blog.teammood.com/2018/09/26/10-easy-ways-to-improve-the-mood-in-the-workplace.html&quot;&gt;this article&lt;/a&gt;. &lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Doing your best to improve your team morale can prove the best investment for the future. Don’t miss the coach!&lt;/p&gt;
-
-&lt;p&gt;&lt;small&gt;&lt;em&gt;Photo by &lt;a target=&quot;_blank&quot; href=&quot;https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Amy Hirschi&lt;/a&gt; on &lt;a target=&quot;_blank&quot; href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Dec 2019 11:00:00 +0000</pubDate>
-        <link>https://blog.teammood.com/team-morale</link>
-        <guid isPermaLink="true">https://blog.teammood.com/team-morale</guid>
         
         
       </item>

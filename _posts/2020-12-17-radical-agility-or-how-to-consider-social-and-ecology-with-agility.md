@@ -4,8 +4,9 @@ date: 2020-12-17 10:00:00
 layout: post
 image: /uploads/radical-agility-teammood.png
 excerpt: >-
-  Digital technologies account for 4% of greenhouse gas emissions woldwide -
-  here's what you can do about it
+  What if we mixed agile with social and ecology? That's what Claude Aubry,
+  Jean-Pascal Boignard, and Anthony Cassaigne did by defining the concept of
+  radical agility
 keywords: 'Radical agility, agile, ecology, social'
 canonical_url:
 redirect_from:

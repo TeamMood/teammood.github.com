@@ -2,7 +2,7 @@
 title: 'Radical Agility, or How To Consider Social And Ecology With Agility'
 date: 2020-12-17 10:00:00
 layout: post
-image: /uploads/radical-agility-teammood.png
+image: /uploads/radical-agility-teammood.jpg
 excerpt: >-
   What if we mixed agile with social and ecology? That's what Claude Aubry,
   Jean-Pascal Boignard, and Anthony Cassaigne did by defining the concept of

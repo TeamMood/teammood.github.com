@@ -128,6 +128,10 @@ The entire initiative is based on Anthony, Claude, and Jean-Pascal’s rooted ho
 
 “We are convinced that a lot of people in the digital and development environment are interested in aligning their work with their ideas, values, and will to act against global warming, for the conservation of biodiversity, and to reduce our impact on the planet. Those will find with what we propose ways to act by themselves in their organization, to make concrete change.”&nbsp;
 
-The three experts recommend starting small. “If you share the values of radical agility, you can start by confronting your ideas with your team or with peers. On our website [agileradical.org](https://agileradical.org/){: target="_blank" rel="noopener"} (in French), we try to make the concept of radical agility more accessible and applicable, in order to impact agile teams from the inside. You can find in there the confinement retro and kickoff canvas to set up a team and ask yourselves the right questions before jumping into agile. We picture serious games helping developers ask themselves the right questions. There's still a lot to be invented.”&nbsp;
+The three experts recommend starting small. “If you share the values of radical agility, you can start by confronting your ideas with your team or with peers. On our website [agileradical.org](https://agileradical.org/){: target="_blank"} (in French), we try to make the concept of radical agility more accessible and applicable, in order to impact agile teams from the inside. You can find in there the confinement retro and kickoff canvas to set up a team and ask yourselves the right questions before jumping into agile. We picture serious games helping developers ask themselves the right questions. There's still a lot to be invented.”&nbsp;
 
 The website itself is **a firefly illuminating these values, hoping that it will turn into a sun.**
+
+
+<small><em>Header picture by [Julius Holstein](https://www.pexels.com/fr-fr/@julius-holstein-731621?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){: target="_blank" rel="nofollow"} from [Pexels](https://www.pexels.com/fr-fr/photo/athletes-equipe-gens-individus-1627960/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){: target="_blank" rel="nofollow"}</em></small>
+

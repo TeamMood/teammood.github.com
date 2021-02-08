@@ -13,8 +13,13 @@ permalink: /liberating-leadership
 *As an agile coach for many years and the founder of TeamMood, I have been wondering and inquiring about different types of organizations over the years. Indeed, over the years, agile has become a dogma in many organizations, blindly following the principles of methodologies like Scrum, SAFe or XP, thus distorting the very principles of the Agile Manifesto. Following my last article on*[*Radical agility*](https://blog.teammood.com/radical-agility)*, I wanted to go a step further and share some thoughts on “Teal organizations”, a concept explained by Frederic Laloux in his book*[*Reinventing Organizations*](https://www.reinventingorganizations.com/){: target="_blank" rel="noopener"}*. Could this concept help companies realign with the Agile Manifesto?*
 
 *This article doesn’t claim to summarize nor detail the niceties of such organizations. It is merely an introduction to the book based on my understanding, aiming at convincing its readers to peruse Frederic Laloux’s full manuscript (or its illustrated version, much more digestible, if you ask me).*
+<style>
+div.a {
+	text-align: center;
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
+}
+</style>
 
 If I imagine a dream company, I picture an organization in which employees are aligned with their firm’s purpose, are given the freedom and responsibility to manage the topics they feel called for and are encouraged to be their true selves at work. How would such a company work? And would it work?
 
@@ -56,10 +61,15 @@ I truly believe that if considered as a whole, given the freedom to self-organiz
 
 Does that sound crazy to you? Utopian? Unrealistic? Yet dozens of companies around the world are successfully applying some of these principles: The Morning Star Company 🇺🇸, Patagonia 🇺🇸, AES (international), Buurtzorg 🇳🇱, ESBZ 🇩🇪, FAVI 🇫🇷, Varkey 🇬🇧, and many more.&nbsp;
 
-\*\*\*\*\*\*\*\*\*\*\*
+<style>
+div.a {
+	text-align: center;
+
+\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+}
+</style>
 
 Thanks to Adrien Tardif for his comments 🙏.
 
-Photo by [Karim MANJRA](https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)
 
-<small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://www.pexels.com/fr-fr/@julius-holstein-731621?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Julius Holstein</a> from <a target="_blank" rel="nofollow" href="https://www.pexels.com/fr-fr/photo/athletes-equipe-gens-individus-1627960/?utm_content=attributionCopyText&amp;utm_medium=referral&amp;utm_source=pexels">Pexels</a></em></small>
+<small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JKarim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unspash</a></em></small>

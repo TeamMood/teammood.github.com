@@ -3,7 +3,9 @@ title: 'Liberating Leadership, or the Principles of Self-Organization'
 date: 2021-02-08 10:00:00
 layout: post
 image: /uploads/teammood-liberating-leadership.jpg
-excerpt:
+excerpt: >-
+  Teal, evolutive, freedom-firm... Could these principles help companies realign
+  with the Agile Manifesto?
 keywords: 'Agile, evolutive companies, freedom firm, teal'
 canonical_url:
 redirect_from:

@@ -22,6 +22,8 @@ permalink: /liberating-leadership
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 }</style>
 
+\*\*\*
+
 If I imagine a dream company, I picture an organization in which employees are aligned with their firm’s purpose, are given the freedom and responsibility to manage the topics they feel called for and are encouraged to be their true selves at work. How would such a company work? And would it work?
 
 Companies have long been considered as machines, in which people are defined by their role like a piece in the mechanism, and actions follow processes as machinery of a purring engine. In such companies, people are resources, pushed and monitored to reach goals and to continuously self-improve, with no consideration whatsoever for their psychological state.&nbsp;
@@ -61,6 +63,8 @@ Adopting an evolutionary purpose makes organizations more resilient, like a livi
 I truly believe that if considered as a whole, given the freedom to self-organize and questioned about their purpose, values, and cases, agile (or not) team members will work towards the “desired change”, one that is **concerned with social value and the impact on living beings** – to borrow the [words of Jean-Pascal Boignard, Claude Aubry, and Anthony Cassaigne](https://blog.teammood.com/radical-agility){: target="_blank" rel="noopener"}.
 
 Does that sound crazy to you? Utopian? Unrealistic? Yet dozens of companies around the world are successfully applying some of these principles: The Morning Star Company 🇺🇸, Patagonia 🇺🇸, AES (international), Buurtzorg 🇳🇱, ESBZ 🇩🇪, FAVI 🇫🇷, Varkey 🇬🇧, and many more.&nbsp;
+
+\*\*\*
 
 <style type="text/css">div.a {
 	text-align: center;

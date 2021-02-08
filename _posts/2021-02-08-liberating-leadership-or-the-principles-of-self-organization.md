@@ -12,22 +12,21 @@ redirect_from:
 permalink: /liberating-leadership
 ---
 
-*As an agile coach for many years and the founder of TeamMood, I have been wondering and inquiring about different types of organizations over the years. Indeed, over the years, agile has become a dogma in many organizations, blindly following the principles of methodologies like Scrum, SAFe or XP, thus distorting the very principles of the Agile Manifesto. Following my last article on*[*Radical agility*](https://blog.teammood.com/radical-agility)*, I wanted to go a step further and share some thoughts on “Teal organizations”, a concept explained by Frederic Laloux in his book*[*Reinventing Organizations*](https://www.reinventingorganizations.com/){: target="_blank" rel="noopener"}*. Could this concept help companies realign with the Agile Manifesto?*
+*As an agile coach for many years and the founder of TeamMood, I have been wondering and inquiring about different types of organizations over the years. Indeed, over the years, agile has become a dogma in many organizations, blindly following the principles of methodologies like Scrum, SAFe or XP, thus distorting the very principles of the Agile Manifesto. Following my last article on&nbsp;*[*Radical agility*](https://blog.teammood.com/radical-agility)*, I wanted to go a step further and share some thoughts on “Teal organizations”, a concept explained by Frederic Laloux in his book&nbsp;*[*Reinventing Organizations*](https://www.reinventingorganizations.com/){: target="_blank" rel="noopener"}*. Could this concept help companies realign with the Agile Manifesto?*
 
-*This article doesn’t claim to summarize nor detail the niceties of such organizations. It is merely an introduction to the book based on my understanding, aiming at convincing its readers to peruse Frederic Laloux’s full manuscript (or its illustrated version, much more digestible, if you ask me).*
-<style>
-div.a {
+*This article doesn’t claim to summarize nor detail the niceties of such organizations. It is merely an introduction to the book based on my understanding, aiming at convincing its readers to peruse Frederic Laloux’s full manuscript (or its illustrated version , much more digestible, if you ask me).*
+
+<style type="text/css">div.a {
 	text-align: center;
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-}
-</style>
+}</style>
 
 If I imagine a dream company, I picture an organization in which employees are aligned with their firm’s purpose, are given the freedom and responsibility to manage the topics they feel called for and are encouraged to be their true selves at work. How would such a company work? And would it work?
 
 Companies have long been considered as machines, in which people are defined by their role like a piece in the mechanism, and actions follow processes as machinery of a purring engine. In such companies, people are resources, pushed and monitored to reach goals and to continuously self-improve, with no consideration whatsoever for their psychological state.&nbsp;
 
-The problem is: people are not robots that can blindly and coldly play a part that was written for them, leaving all feelings and personal matters aside. And considering them as such is the best way to a minor (or rather major) glitch in the organization: interpersonal issues, depressions, burnouts, ... are flooding in organizations of all kinds.&nbsp;
+The problem is: people are not robots that can blindly and coldly play a part that was written for them, leaving all feelings and personal matters aside. And considering them as such is the best way to a minor (or rather major) glitch in the organization: interpersonal issues, depressions, burnouts, … are flooding in organizations of all kinds.&nbsp;
 
 I believe that **companies should be considered as living beings, the place of individual and collective deployment** in which we are “called to discover and rejoin our true nature, to deploy our unique potential, to unleash our innate talents” as Laloux says. Of course, such organizations require us to subdue our egos and to no longer allow ourselves to be governed by our fears, ambitions, and desires – but instead, to welcome them. They demand to follow our inner righteousness as a compass – our values and causes. They ask for a new level of consciousness, called “Teal” by American writer Ken Wilber – [pioneer of the integral theory](https://www.kenwilberfund.org/integral-theory/){: target="_blank" rel="noopener"} –, or “evolutive” by Frederic Laloux. And in return, they offer **the end of cognitive dissonance and a path to fullness**.&nbsp;
 
@@ -63,15 +62,12 @@ I truly believe that if considered as a whole, given the freedom to self-organiz
 
 Does that sound crazy to you? Utopian? Unrealistic? Yet dozens of companies around the world are successfully applying some of these principles: The Morning Star Company 🇺🇸, Patagonia 🇺🇸, AES (international), Buurtzorg 🇳🇱, ESBZ 🇩🇪, FAVI 🇫🇷, Varkey 🇬🇧, and many more.&nbsp;
 
-<style>
-div.a {
+<style type="text/css">div.a {
 	text-align: center;
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
-}
-</style>
+}</style>
 
-Thanks to Adrien Tardif for his comments 🙏.
+*Thanks to [Adrien Tardif](https://www.linkedin.com/in/adrien-tardif-3127302a/){: target="_blank" rel="noopener"} for his comments 🙏.*
 
-
-<small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JKarim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unspash</a></em></small>
+<small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Karim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unspash</a></em></small>

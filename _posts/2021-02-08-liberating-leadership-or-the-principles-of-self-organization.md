@@ -74,4 +74,4 @@ Does that sound crazy to you? Utopian? Unrealistic? Yet dozens of companies arou
 
 *Thanks to [Adrien Tardif](https://www.linkedin.com/in/adrien-tardif-3127302a/){: target="_blank" rel="noopener"} for his comments 🙏.*
 
-<small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Karim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unspash</a></em></small>
+<small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Karim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

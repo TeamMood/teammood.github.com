@@ -8,14 +8,14 @@ excerpt: >-
   is who should attend to the retrospectives?
 keywords: 'retrospectives, scrum, remote team, team'
 canonical_url: >-
-  https://blog.funretro.io/who-should-and-should-not-be-included-in-a-sprint-retrospective/
+  https://easyretro.io/blog/who-should-and-should-not-be-included-in-a-sprint-retrospective/
 ---
 
 If run well, a sprint retrospective can help the project team identify areas for improvement for individual roles as well as discuss how to work better as a team. If run poorly, the meeting can turn into a bashing session which ultimately results in missed opportunities for growth.
 
 ## Collaboration: The Essence of a Good Spring Retrospective
 
-Let’s face it, not all teams are collocated. Today, many software development teams are virtual organizations. Good thing there are tons of online tools and platforms to facilitate sprint retrospectives for distributed teams. One good example is [FunRetro](https://funretro.io){: target="_blank"}, which allows teams to collaborate remotely. This is an effective tool that has been used by thousands of teams to improve their retrospectives.
+Let’s face it, not all teams are collocated. Today, many software development teams are virtual organizations. Good thing there are tons of online tools and platforms to facilitate sprint retrospectives for distributed teams. One good example is [EasyRetro](https://easyretro.io){: target="_blank"}, which allows teams to collaborate remotely. This is an effective tool that has been used by thousands of teams to improve their retrospectives.
 
 ## The Sprint Retrospective Attendees
 
@@ -55,4 +55,4 @@ If you are already attending the meeting, make sure to take part in the discussi
 
 Most teams only discuss the negative issues during sprint retrospectives but it’s important to talk about the good stuff as well. Dwelling too much on the negative can decrease team morale. "If your retrospective is an hour long and the whole hour is about what went wrong, no one is going to eagerly participate in them going forward." - Marco Corona for Agile Connection
 
-**About the author:** *This is a guest post by the folks at [FunRetro](https://funretro.io){: target="_blank"}. They know a lot about retrospectives, go check them out.*
+**About the author:** *This is a guest post by the folks at [EasyRetro](https://easyretro.io){: target="_blank"} (previously FunRetro). They know a lot about retrospectives, go check them out.*

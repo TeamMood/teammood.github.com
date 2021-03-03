@@ -318,7 +318,7 @@ FunRetro offers an evolutive pricing: free for up to 3 public boards, and from â
 
 FunRetro allows you to toggle your retrospectives to a secret mode in order to allow true honest feedback.&nbsp;&nbsp;
 
-Website: [FunRetro](https://funretro.io/){: target="_blank"}
+Website: [FunRetro](https://easyretro.io/){: target="_blank"}
 
 ![FunRetro, retrospective tool](/uploads/funretro.png){: width="2206" height="838"}
 

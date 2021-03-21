@@ -2,9 +2,11 @@
 title: '“With TeamMood, people have a voice”'
 date: 2021-03-22 08:00:00
 layout: post
-image:
-excerpt:
-keywords: 'Voice,'
+image: /uploads/teamood-voice-erika.jpg
+excerpt: >-
+  We interviewed one of our clients, who made us beam at the compliments. We
+  love how her team uses TeamMood to improve Health&Wellbeing at work
+keywords: 'Voice, listening, health, wellbeing, feedback, comments'
 canonical_url:
 redirect_from:
 permalink: /teammood-voice-erika

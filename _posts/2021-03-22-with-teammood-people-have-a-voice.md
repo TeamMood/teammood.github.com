@@ -49,6 +49,6 @@ Erika is so enthusiastic that she advertises us to everyone who could benefit fr
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*
 }</style>
 
-Photo by [Artur Rutkowski](https://unsplash.com/@alienowicz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"} on [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}
+<small><em>Header picture by [Artur Rutkowski](https://unsplash.com/@alienowicz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"} on [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}</em></small>
 
 <small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Karim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

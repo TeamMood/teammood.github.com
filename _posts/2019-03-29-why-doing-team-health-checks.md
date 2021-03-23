@@ -86,7 +86,7 @@ It can be at a weekly, monthly or quarterly meeting, during a retrospective, …
 
 Team Health Checks aren’t only issues alerts: they can demonstrate [that your team is currently in a great mood](https://blog.teammood.com/2018/06/12/how-to-leverage-your-teams-good-mood.html){: target="_blank"}. &nbsp;Like for bad moods, taking the time to discuss it with your team will help you understand the causes and better know your team. It can also be a great opportunity to celebrate successes or good news.
 
-![Let's party thanks to regular Team Health Checks](/uploads/team-health-chack-party.png "Let's party thanks to regular Team Health Checks"){: .center width="293" height="290"}
+![Let's party thanks to regular Team Health Checks](/uploads/team-health-check-party.png "Let's party thanks to regular Team Health Checks"){: .center width="293" height="290"}
 
 ## Going further: Suggest improvements from a Team Health Check
 

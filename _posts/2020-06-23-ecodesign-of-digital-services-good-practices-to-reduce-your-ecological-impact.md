@@ -36,7 +36,7 @@ The [GreenIT collective](https://collectif.greenit.fr/){: target="_blank"} has p
 
 ### **Choosing a “green” web host&nbsp;**
 
-The data center you choose to host your website or your digital services has a great impact on your overall carbon footprint, between **30 and 40% of environmental impacts** according to the Green IT collective. Ideally, host your digital services in the cloud, in a data center with a good level of energy performance or even (partially or totally) powered by local renewable energy. Your hosting plan should be sized on your needs as precisely as possible and offer flexibility to scale up if needed.
+The data center you choose to host your website or your digital services has a great impact on your overall carbon footprint, between **3 and 4% of environmental impacts** according to the Green IT collective. Ideally, host your digital services in the cloud, in a data center with a good level of energy performance or even (partially or totally) powered by local renewable energy. Your hosting plan should be sized on your needs as precisely as possible and offer flexibility to scale up if needed.
 
 The [Green Web Foundation](https://www.thegreenwebfoundation.org/){: target="_blank"} maintains a directory of all the world’s servers, data centers and hosting providers which are known to use **100% renewable energy**. You can test any website URL and discover whether it’s powered by 100% renewables (“green”) or not (“grey”).
 

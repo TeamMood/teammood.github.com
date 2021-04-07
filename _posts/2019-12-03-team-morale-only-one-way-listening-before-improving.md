@@ -32,7 +32,7 @@ Table of content:
 
 Happy is the new rich. The culture of happiness has invaded our lives, pressuring us to experience to the fullest our time on earth. But real-life included ups and downs, making an effort to reach one’s goal, bliss and disappointment, success and failure.&nbsp;
 
-If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)\:
+If the promise to be happy in your job (or worse, thanks to your job) can be delusional, the feeling of well-being in the workplace is a more realistic goal – one that can be reached and make a real difference. Indeed, [researchers](http://wrap.warwick.ac.uk/57909/){: target="_blank"} from the University of Warwick in the UK have proven that **happy people are 12% more productive than usual**, while unhappy workers are 10% less productive. Good team morale can [enhance the company’s overall performance](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)\:
 
 * improving employee productivity,
 * fostering collaboration among colleagues,

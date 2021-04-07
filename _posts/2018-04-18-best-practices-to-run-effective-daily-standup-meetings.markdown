@@ -86,6 +86,6 @@ Another client shares his use of TeamMood: “We take the TeamMood results into 
 
 Want to discover how TeamMood can help you improve your Daily Meetings?
 
-Read the full success story [here](https://www.teammood.com/en/success/Success-story-banque-en.pdf) or [try TeamMood for free](https://www.teammood.com/en/continuous-improvement/).
+Read the full success story [here](https://www.teammood.com/wp-content/uploads/2019/01/Success-story-banque-en.pdf) or [try TeamMood for free](https://www.teammood.com/en/continuous-improvement/).
 
 <small><em>Thank you <a href="https://www.linkedin.com/in/andycleff/">Andy Cleff</a> and <a href="https://www.linkedin.com/in/rene-martinussen-a3418216/">Rene Martinussen</a> for your comments and edits of the article.</em></small>

@@ -21,7 +21,7 @@ Retrospectives can follow thousands of formats: Positive & True, Learning Matrix
 
 Some moods can be the result of personal events, which means that the team cannot do anything about them – but it is still valuable to know. Others depend on the team and project itself, and can be food for thoughts to improve the internal functioning for the next spring.
 
-**Getting your Emotional Seismograph to the next level:** By using a tool like [TeamMood](https://www.teammood.com/en/agile-retrospective/), you can track your mood along the sprint and avoid forgetting personal and professional events.
+**Getting your Emotional Seismograph to the next level:** By using a tool like [TeamMood](https://www.teammood.com/en/agile-retrospective-tools-ideas/), you can track your mood along the sprint and avoid forgetting personal and professional events.
 
 *Photo credit: [Crashmaster007](https://visualhunt.com/author2/0e544c){: target="_blank"} on [Visual hunt](https://visualhunt.com/re/6694b1) / [CC BY-NC](http://creativecommons.org/licenses/by-nc/2.0/)*
 

@@ -46,7 +46,7 @@ Thanks to TeamMood, you can have access to daily feedback and comments from your
 
 More than the result of the daily poll on itself, what is important is how you react on it. Indeed, TeamMood provides managers with data and feedback to gauge their team’s feeling and well-being, but they still have to act on it.
 
-Jean-Baptiste, an IT manager at a big French retail outfit company, shares: “I don't just look at the score for each team. What's more important is to see how a Scrum Master responds and helps the team navigate their way through any problems that arise.” (Read the full story [here](https://www.teammood.com/en/success/Success-story-scrum-masters-en.pdf)).
+Jean-Baptiste, an IT manager at a big French retail outfit company, shares: “I don't just look at the score for each team. What's more important is to see how a Scrum Master responds and helps the team navigate their way through any problems that arise.” (Read the full story [here](https://www.teammood.com/wp-content/uploads/2019/01/Success-story-scrum-masters-en.pdf)).
 
 ### Identifying the most urging topics
 

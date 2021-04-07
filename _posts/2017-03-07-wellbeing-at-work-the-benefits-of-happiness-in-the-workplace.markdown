@@ -17,7 +17,7 @@ One thing’s for sure: a good paycheck is no longer enough to attract and retai
 
 ### Happiness at work, the key to increased productivity?
 
-Researchers from the University of Warwick in the UK have actually validated the theory. In 2014, Pr. Andrew J. Oswald, Pr. Eugenio Proto, and Pr. Daniel Sgroi published the striking results of their [study](http://www2.warwick.ac.uk/fac/soc/economics/staff/eproto/workingpapers/happinessproductivity.pdf)\: **happy people were found to be 12% more productive, while unhappy workers proved 10% less productive.** According to the three economists, "human happiness has large and positive causal effects on productivity. Positive emotions appear to invigorate human beings."
+Researchers from the University of Warwick in the UK have actually validated the theory. In 2014, Pr. Andrew J. Oswald, Pr. Eugenio Proto, and Pr. Daniel Sgroi published the striking results of their [study](http://wrap.warwick.ac.uk/57909/)\: **happy people were found to be 12% more productive, while unhappy workers proved 10% less productive.** According to the three economists, "human happiness has large and positive causal effects on productivity. Positive emotions appear to invigorate human beings."
 
 What is true for individuals is all the more true for organizations. Companies that invest in employee support and satisfaction tend to succeed in fostering happier workers. And happy workers tend to work better with others, to have more energy, to be more creative, to fix problems instead of complaining about them, and to make better decisions overall.
 

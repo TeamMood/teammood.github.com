@@ -48,7 +48,7 @@ The Niko-niko must follow some principles:
 
 <img src="/images/posts/sad.gif" alt="Sad worker">
 
-In concrete terms, to use the Niko-niko method, you can build [your own Niko-niko calendar](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html) with a daily calendar and a stack of color stickers. Or [choose to use an online tool](https://www.teammood.com/en/Niko-Niko/) if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.
+In concrete terms, to use the Niko-niko method, you can build [your own Niko-niko calendar](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html) with a daily calendar and a stack of color stickers. Or [choose to use an online tool](https://www.teammood.com/en/niko-niko/) if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.
 
 <hr/>
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
@@ -64,4 +64,4 @@ Data from a Niko-niko calendar is a huge opportunity for reflection. You can get
 
 Are you convinced? Start implementing a Niko-niko calendar in your team, either by [building it yourself](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html), of [using an online one such as TeamMood](https://www.teammood.com/en/niko-niko/) and tell us what you think.
 
-[Run Your Niko-Niko Calendar Online](https://www.teammood.com/en/Niko-Niko/){: .button}
+[Run Your Niko-Niko Calendar Online](https://www.teammood.com/en/niko-niko/){: .button}

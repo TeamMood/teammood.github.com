@@ -44,7 +44,7 @@ Most of us are used to Googling any information without realizing that our inter
 * When listening to music, opt for a music streaming platform (Deezer, Spotify, Soundcloud) rather than a video hosting one such as Youtube.
 * Choose an **ecological search engine** such as [Lilo](http://lilo.org/){: target="_blank" rel="noopener"} or [Ecosia](https://www.ecosia.org/?c=en){: target="_blank" rel="noopener"}.&nbsp;
 * Favor the phone over video calls.
-* Save your tabs as favorites or type the exact URL rather than making repeated searches for the same website or leaving them open. An extension from Google, [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg){: target="_blank" rel="noopener"}, avoids loading inactive tabs continuously.
+* Save your tabs as favorites or type the exact URL rather than making repeated searches for the same website or leaving them open. An extension from Google, [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/jaekigmcljkkalnicnjoafgfjoefkpeg){: target="_blank" rel="noopener"}, avoids loading inactive tabs continuously.
 
 ## **Tip \#4: Don’t overload data centers**
 

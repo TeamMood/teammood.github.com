@@ -5,8 +5,8 @@
     <description>Some words about feeling good at work.</description>
     <link>https://blog.teammood.com/</link>
     <atom:link href="https://blog.teammood.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Apr 2021 06:50:40 +0000</pubDate>
-    <lastBuildDate>Tue, 27 Apr 2021 06:50:40 +0000</lastBuildDate>
+    <pubDate>Tue, 27 Apr 2021 07:17:03 +0000</pubDate>
+    <lastBuildDate>Tue, 27 Apr 2021 07:17:03 +0000</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -63,109 +63,207 @@
 
 &lt;p&gt;&lt;img src=&quot;/uploads/retros_work.png&quot; alt=&quot;Retros.work, retrospective tool&quot; width=&quot;2756&quot; height=&quot;1654&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;
-  &lt;h2&gt;Retrospective tool #4: goReflect &lt;/h2&gt;
-  &lt;p&gt;goReflect is a retrospective tool that promotes &lt;strong&gt;continuous process review&lt;/strong&gt;. With goReflect, teams can share ideas, either in a stream or on customizable boards. Thanks to its smart e dashboard, you can easily monitor the commitments you make as a team.&lt;/p&gt;
-  &lt;h3 id=&quot;pricing&quot;&gt;Pricing&lt;/h3&gt;
-  &lt;p&gt;Free for 100 days then $2.67/user/month.&lt;/p&gt;
-  &lt;h3 id=&quot;killing-feature&quot;&gt;Killing feature&lt;/h3&gt;
-  &lt;p&gt;goReflect adopts a unique way of doing retrospectives: not just at the end of the sprint, but in a permanent way in order to drive continuous improvement. Retrospective boards are available at all times for the team members to share their thoughts.&lt;/p&gt;
-  &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.goreflect.com/&quot;&gt;goReflect&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;img alt=&quot;goReflect, retrospective tool&quot; width=&quot;2824&quot; height=&quot;1064&quot; src=&quot;/uploads/goreflect.png&quot; /&gt;&lt;/p&gt;
-  &lt;h2 id=&quot;retrospective-tool-5-teamretro&quot;&gt;Retrospective tool #5: TeamRetro &lt;/h2&gt;
-  &lt;p&gt;TeamRetro is an enterprise-ready retrospective meeting tool for Agile coaches, Scrum masters, and teams. All actions are stored online, in a single list that you can track from meeting to meeting and access from anywhere. TeamRetro is a great tool to help you run engaging and action-focused retrospectives with remote or co-located teams.&lt;/p&gt;
-  &lt;h3 id=&quot;pricing-1&quot;&gt;Pricing&lt;/h3&gt;
-  &lt;p&gt;Prices range from $25 per month for one team to $90 per month for 6 teams. The Enterprise plan allows for several teams and custom settings.&lt;/p&gt;
-  &lt;h3 id=&quot;killing-feature-1&quot;&gt;Killing feature&lt;/h3&gt;
-  &lt;p&gt;In addition to its retrospective features, TeamRetro allows you to gain insights into what is motivating and challenging your team members through different health dimensions: ownership, goal alignment, communication, …&lt;/p&gt;
-  &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.teamretro.com/&quot;&gt;TeamRetro&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;img alt=&quot;TeamRetro, retrospective tool&quot; width=&quot;2546&quot; height=&quot;532&quot; src=&quot;/uploads/teamretro.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;h2 id=&quot;retrospective-tool-6-scatterspoke&quot;&gt;Retrospective tool #6: ScatterSpoke&lt;/h2&gt;
-  &lt;p&gt;ScatterSpoke allows each team member to launch and share a retrospective with her other team members. Everyone can add cards in real-time, vote on issues, create groups, or pin items to follow them up.&lt;/p&gt;
-  &lt;h3 id=&quot;pricing-2&quot;&gt;Pricing&lt;/h3&gt;
-  &lt;p&gt;The free plan allows for unlimited retros and team members. For premium services (unlimited history, analytics, …), prices start at $25 per month. ScatterSpoke also offers an Enterprise plan with advanced features.&lt;/p&gt;
-  &lt;h3 id=&quot;killing-feature-2&quot;&gt;Killing feature&lt;/h3&gt;
-  &lt;p&gt;ScatterSpoke makes it easy for anyone to play the role of facilitator, which plays an important part in keeping retrospectives as objective as possible.&lt;/p&gt;
-  &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;http://www.scatterspoke.com/&quot;&gt;ScatterSpoke&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;img alt=&quot;ScatterSpoke, retrospective tool&quot; width=&quot;2000&quot; height=&quot;908&quot; src=&quot;/uploads/scatterspoke.png&quot; /&gt;&lt;/p&gt;
-  &lt;h2 id=&quot;retrospective-tool-7-goretro&quot;&gt;Retrospective tool #7: GoRetro&lt;/h2&gt;
-  &lt;p&gt;GoRetro is a free agile sprint retrospective tool that makes the entire retro process seamless, simple, fun, and productive. The tool comes with pre-designed templates that offer a variety of retrospective formats. It measures a happiness index for developers and lists action items.&lt;/p&gt;
-  &lt;h3 id=&quot;pricing-3&quot;&gt;Pricing&lt;/h3&gt;
-  &lt;p&gt;Free&lt;/p&gt;
-  &lt;h3 id=&quot;killing-feature-3&quot;&gt;Killing feature&lt;/h3&gt;
-  &lt;p&gt;Besides all the traditional retrospective features, GoRetro allows you to add specific action items for assignees, in order to make sure the retro achieves results for good.&lt;/p&gt;
-  &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.goretro.ai//&quot;&gt;GoRetro&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;img alt=&quot;GoRetro, retrospective tool&quot; width=&quot;450&quot; height=&quot;269&quot; src=&quot;/uploads/GoRetro.jpg&quot; /&gt;&lt;/p&gt;
-  &lt;h2 id=&quot;retrospective-tool-8-metro-retro&quot;&gt;Retrospective tool #8: Metro Retro &lt;/h2&gt;
-  &lt;p&gt;Metro Retro is a real-time retro whiteboard. It offers fun collaboration tools made specifically for remote or co-located teams to run productive, engaging and fun retrospectives. Its beautiful templates are entirely customisable to let teams choose their retro format.&lt;/p&gt;
-  &lt;h3 id=&quot;pricing-4&quot;&gt;Pricing&lt;/h3&gt;
-  &lt;p&gt;Free&lt;/p&gt;
-  &lt;h3 id=&quot;killing-feature-4&quot;&gt;Killing feature&lt;/h3&gt;
-  &lt;p&gt;Metro Retro allows team members to vote on sticky notes with smileys and celebrate actions with a confetti cannon 🤩.&lt;/p&gt;
-  &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://metroretro.io/&quot;&gt;Metro Retro&lt;/a&gt;&lt;/p&gt;
-  &lt;p&gt;&lt;img alt=&quot;Metro Retro, retrospective tool&quot; width=&quot;1400&quot; height=&quot;1132&quot; src=&quot;/uploads/MetroRetro.png&quot; /&gt;&lt;/p&gt;
-  &lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;
-    &lt;h2 id=&quot;retrospective-tool-9-funretro&quot;&gt;Retrospective tool #9: FunRetro&lt;/h2&gt;
-    &lt;p&gt;FunRetro makes it super easy to optimize your sprint retrospective efficiency and follow up action plans. You can easily configure your dashboards and export your data to keep track of your sessions and action plans.&lt;/p&gt;
-    &lt;h3 id=&quot;pricing-5&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;FunRetro offers an evolutive pricing: free for up to 3 public boards, and from €22 to €78 per month (billed annually) for 1 to 5 teams.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-5&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;You can toggle your retrospectives to a secret mode in order to allow true honest feedback.  &lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://easyretro.io/&quot;&gt;FunRetro&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;FunRetro, retrospective tool&quot; width=&quot;2206&quot; height=&quot;838&quot; src=&quot;/uploads/funretro.png&quot; /&gt;&lt;/p&gt;
-    &lt;h2 id=&quot;retrospective-tool-10-teleretro&quot;&gt;Retrospective tool #10: TeleRetro&lt;/h2&gt;
-    &lt;p&gt;TeleRetro makes it easy for anyone to start an engaging and effective retro with ready prepared and customisable formats. Ensure your team is always improving – surface important issues, review &amp;amp; export actions in real time to the tools you already use.&lt;/p&gt;
-    &lt;h3 id=&quot;pricing-6&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;Free plan available. Paid plans start from £18 per month.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-6&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;TeleRetro has a unique ‘Ice-breakers’ feature which lets facilitators play music or video such as SoundCloud and YouTube directly from the retro board.&lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.google.com/url?q=https://www.teleretro.com&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1618860929542000&amp;amp;usg=AOvVaw2A4LGCe6pR7t-XY7XEBxwF&quot;&gt;teleretro&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;&quot; width=&quot;1600&quot; height=&quot;917&quot; src=&quot;/uploads/teleretro.png&quot; /&gt;&lt;/p&gt;
-    &lt;h2 id=&quot;retrospective-tool-11-sprint-boards&quot;&gt;Retrospective tool #11: Sprint Boards&lt;/h2&gt;
-    &lt;p&gt;Sprint Boards is specifically designed for Agile developers. Retrospectives are simple and easy with Sprint Boards’ keyboard shortcuts for adding and saving cards and support for merging duplicates. And when the retro is over, you can lock boards to prevent further changes.&lt;/p&gt;
-    &lt;h3 id=&quot;pricing-7&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;$7.99 per month per person.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-7&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;You can prevent team members from influencing each other by masking each others’ cards until the end of the retrospective. &lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://sprintboards.io/&quot;&gt;Sprint Boards&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;Sprint Boards, retrospective tool&quot; width=&quot;588&quot; height=&quot;344&quot; src=&quot;/uploads/sprintboards.png&quot; /&gt;&lt;/p&gt;
-    &lt;h2 id=&quot;retrospective-tool-12-retrium&quot;&gt;Retrospective tool #12: Retrium &lt;/h2&gt;
-    &lt;p&gt;Retrium is a retrospective tool specifically designed to identify problems that threaten to derail teamwork. With Retrium, team members can privately look into what went well or bad, vote for propositions, and prioritize discussions. The team can then create action plans out of individual ideas and track progress.&lt;/p&gt;
-    &lt;h3 id=&quot;pricing-8&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;Prices start at $29 per month and per team.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-8&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;Retrium allows Agile teams to run anonymous surveys and take stock on safety, engagement, and team performance.&lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.retrium.com/&quot;&gt;Retrium&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;Retrium, retrospective tool&quot; width=&quot;2228&quot; height=&quot;1282&quot; src=&quot;/uploads/retrium.png&quot; /&gt;&lt;/p&gt;
-    &lt;h2 id=&quot;retrospective-tool-13-parabol&quot;&gt;Retrospective tool #13: Parabol&lt;/h2&gt;
-    &lt;p&gt;Parabol is an &lt;strong&gt;online retrospective tool&lt;/strong&gt; that offers unique features, such as multi-user grouping, customizable retrospective templates, rich formatting and emojis, slack integration, and beautiful meeting summaries. &lt;/p&gt;
-    &lt;h3 id=&quot;pricing-9&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;Parabol is free to use and open-source, but pro and Enterprise plans offer more features.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-9&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;Parabol lets you ask granular questions and dive back into prior experiences. It’s a great tool for prompting people to think about their processes and how they are functioning as part of the team. &lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.parabol.co/&quot;&gt;Parabol&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;Parabol, retrospective tool&quot; width=&quot;2050&quot; height=&quot;1090&quot; src=&quot;/uploads/parabol.png&quot; /&gt;&lt;/p&gt;
-    &lt;h2 id=&quot;bonus-retrospective-tool-14-reetro&quot;&gt;Retrospective tool #14: Reetro&lt;/h2&gt;
-    &lt;p&gt;Reetro is an online retrospective tool specifically designed for remote agile teams. It fosters collaboration from multi-located team members and automates the retrospective process.&lt;/p&gt;
-    &lt;h3 id=&quot;pricing-10&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;Free.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-10&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;Reetro integrates with the most common Scrum tools such as JIRA, Trello, Yodiz, and Asana.&lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://reetro.io/&quot;&gt;Reetro.io&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;Reetro, retrospective tool&quot; width=&quot;845&quot; height=&quot;524&quot; src=&quot;/uploads/retrospective-board-reetro-io.png&quot; /&gt;&lt;/p&gt;
-    &lt;h2 id=&quot;retrospective-tool-15-retrotool&quot;&gt;Retrospective tool #15: RetroTool&lt;/h2&gt;
-    &lt;p&gt;RetroTool is a real-time online retrospective tool that helps teams reflect anonymously. Team members can brainstorm ideas and problems, group them, vote and create action plans based on the discussion. RetroTool is a great asset for facilitators to build their retrospective the way they want it to be. It allows for unlimited columns and participants.&lt;/p&gt;
-    &lt;h3 id=&quot;pricing-11&quot;&gt;Pricing&lt;/h3&gt;
-    &lt;p&gt;The tool is free and will always offer a free version.&lt;/p&gt;
-    &lt;h3 id=&quot;killing-feature-11&quot;&gt;Killing feature&lt;/h3&gt;
-    &lt;p&gt;RetroTool is simple to use and offers the flexibility to use it for retrospectives, brainstorming or agenda-less meetings.&lt;/p&gt;
-    &lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://retrotool.io/&quot;&gt;RetroTool&lt;/a&gt;&lt;/p&gt;
-    &lt;p&gt;&lt;img alt=&quot;RetroTool, retrospective tool&quot; width=&quot;2050&quot; height=&quot;1090&quot; src=&quot;/uploads/retrotool.png&quot; /&gt;&lt;/p&gt;
-    &lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;
-      &lt;p&gt;&lt;small&gt;&lt;em&gt;Header picture &lt;/em&gt;&lt;/small&gt;&lt;small&gt;&lt;em&gt;by &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://unsplash.com/@barnimages?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Barn Images&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2&gt;Retrospective tool #4: goReflect &lt;/h2&gt;
+
+&lt;p&gt;goReflect is a retrospective tool that promotes &lt;strong&gt;continuous process review&lt;/strong&gt;. With goReflect, teams can share ideas, either in a stream or on customizable boards. Thanks to its smart e dashboard, you can easily monitor the commitments you make as a team.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Free for 100 days then $2.67/user/month.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;goReflect adopts a unique way of doing retrospectives: not just at the end of the sprint, but in a permanent way in order to drive continuous improvement. Retrospective boards are available at all times for the team members to share their thoughts.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.goreflect.com/&quot;&gt;goReflect&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;goReflect, retrospective tool&quot; width=&quot;2824&quot; height=&quot;1064&quot; src=&quot;/uploads/goreflect.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-5-teamretro&quot;&gt;Retrospective tool #5: TeamRetro &lt;/h2&gt;
+
+&lt;p&gt;TeamRetro is an enterprise-ready retrospective meeting tool for Agile coaches, Scrum masters, and teams. All actions are stored online, in a single list that you can track from meeting to meeting and access from anywhere. TeamRetro is a great tool to help you run engaging and action-focused retrospectives with remote or co-located teams.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-1&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Prices range from $25 per month for one team to $90 per month for 6 teams. The Enterprise plan allows for several teams and custom settings.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-1&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;In addition to its retrospective features, TeamRetro allows you to gain insights into what is motivating and challenging your team members through different health dimensions: ownership, goal alignment, communication, …&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.teamretro.com/&quot;&gt;TeamRetro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;TeamRetro, retrospective tool&quot; width=&quot;2546&quot; height=&quot;532&quot; src=&quot;/uploads/teamretro.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-6-scatterspoke&quot;&gt;Retrospective tool #6: ScatterSpoke&lt;/h2&gt;
+
+&lt;p&gt;ScatterSpoke allows each team member to launch and share a retrospective with her other team members. Everyone can add cards in real-time, vote on issues, create groups, or pin items to follow them up.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-2&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;The free plan allows for unlimited retros and team members. For premium services (unlimited history, analytics, …), prices start at $25 per month. ScatterSpoke also offers an Enterprise plan with advanced features.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-2&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;ScatterSpoke makes it easy for anyone to play the role of facilitator, which plays an important part in keeping retrospectives as objective as possible.&lt;/p&gt;
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;http://www.scatterspoke.com/&quot;&gt;ScatterSpoke&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;ScatterSpoke, retrospective tool&quot; width=&quot;2000&quot; height=&quot;908&quot; src=&quot;/uploads/scatterspoke.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-7-goretro&quot;&gt;Retrospective tool #7: GoRetro&lt;/h2&gt;
+
+&lt;p&gt;GoRetro is a free agile sprint retrospective tool that makes the entire retro process seamless, simple, fun, and productive. The tool comes with pre-designed templates that offer a variety of retrospective formats. It measures a happiness index for developers and lists action items.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-3&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Free&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-3&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;Besides all the traditional retrospective features, GoRetro allows you to add specific action items for assignees, in order to make sure the retro achieves results for good.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.goretro.ai//&quot;&gt;GoRetro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;GoRetro, retrospective tool&quot; width=&quot;450&quot; height=&quot;269&quot; src=&quot;/uploads/GoRetro.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-8-metro-retro&quot;&gt;Retrospective tool #8: Metro Retro &lt;/h2&gt;
+
+&lt;p&gt;Metro Retro is a real-time retro whiteboard. It offers fun collaboration tools made specifically for remote or co-located teams to run productive, engaging and fun retrospectives. Its beautiful templates are entirely customisable to let teams choose their retro format.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-4&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Free&lt;/p&gt;
+&lt;h3 id=&quot;killing-feature-4&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;Metro Retro allows team members to vote on sticky notes with smileys and celebrate actions with a confetti cannon 🤩.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://metroretro.io/&quot;&gt;Metro Retro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Metro Retro, retrospective tool&quot; width=&quot;1400&quot; height=&quot;1132&quot; src=&quot;/uploads/MetroRetro.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;retrospective-tool-9-funretro&quot;&gt;Retrospective tool #9: FunRetro&lt;/h2&gt;
+
+&lt;p&gt;FunRetro makes it super easy to optimize your sprint retrospective efficiency and follow up action plans. You can easily configure your dashboards and export your data to keep track of your sessions and action plans.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-5&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;FunRetro offers an evolutive pricing: free for up to 3 public boards, and from €22 to €78 per month (billed annually) for 1 to 5 teams.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-5&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;You can toggle your retrospectives to a secret mode in order to allow true honest feedback.  &lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://easyretro.io/&quot;&gt;FunRetro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;FunRetro, retrospective tool&quot; width=&quot;2206&quot; height=&quot;838&quot; src=&quot;/uploads/funretro.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-10-teleretro&quot;&gt;Retrospective tool #10: TeleRetro&lt;/h2&gt;
+
+&lt;p&gt;TeleRetro makes it easy for anyone to start an engaging and effective retro with ready prepared and customisable formats. Ensure your team is always improving – surface important issues, review &amp;amp; export actions in real time to the tools you already use.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-6&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Free plan available. Paid plans start from £18 per month.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-6&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;TeleRetro has a unique ‘Ice-breakers’ feature which lets facilitators play music or video such as SoundCloud and YouTube directly from the retro board.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://www.google.com/url?q=https://www.teleretro.com&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1618860929542000&amp;amp;usg=AOvVaw2A4LGCe6pR7t-XY7XEBxwF&quot;&gt;teleretro&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;&quot; width=&quot;1600&quot; height=&quot;917&quot; src=&quot;/uploads/teleretro.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-11-sprint-boards&quot;&gt;Retrospective tool #11: Sprint Boards&lt;/h2&gt;
+
+&lt;p&gt;Sprint Boards is specifically designed for Agile developers. Retrospectives are simple and easy with Sprint Boards’ keyboard shortcuts for adding and saving cards and support for merging duplicates. And when the retro is over, you can lock boards to prevent further changes.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-7&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;$7.99 per month per person.&lt;/p&gt;
+&lt;h3 id=&quot;killing-feature-7&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;You can prevent team members from influencing each other by masking each others’ cards until the end of the retrospective. &lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://sprintboards.io/&quot;&gt;Sprint Boards&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Sprint Boards, retrospective tool&quot; width=&quot;588&quot; height=&quot;344&quot; src=&quot;/uploads/sprintboards.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-12-retrium&quot;&gt;Retrospective tool #12: Retrium &lt;/h2&gt;
+
+&lt;p&gt;Retrium is a retrospective tool specifically designed to identify problems that threaten to derail teamwork. With Retrium, team members can privately look into what went well or bad, vote for propositions, and prioritize discussions. The team can then create action plans out of individual ideas and track progress.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-8&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Prices start at $29 per month and per team.&lt;/p&gt;
+&lt;h3 id=&quot;killing-feature-8&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;Retrium allows Agile teams to run anonymous surveys and take stock on safety, engagement, and team performance.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.retrium.com/&quot;&gt;Retrium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Retrium, retrospective tool&quot; width=&quot;2228&quot; height=&quot;1282&quot; src=&quot;/uploads/retrium.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-13-parabol&quot;&gt;Retrospective tool #13: Parabol&lt;/h2&gt;
+
+&lt;p&gt;Parabol is an &lt;strong&gt;online retrospective tool&lt;/strong&gt; that offers unique features, such as multi-user grouping, customizable retrospective templates, rich formatting and emojis, slack integration, and beautiful meeting summaries. &lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-9&quot;&gt;Pricing&lt;/h3&gt;
+
+&lt;p&gt;Parabol is free to use and open-source, but pro and Enterprise plans offer more features.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-9&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;Parabol lets you ask granular questions and dive back into prior experiences. It’s a great tool for prompting people to think about their processes and how they are functioning as part of the team. &lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://www.parabol.co/&quot;&gt;Parabol&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Parabol, retrospective tool&quot; width=&quot;2050&quot; height=&quot;1090&quot; src=&quot;/uploads/parabol.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-retrospective-tool-14-reetro&quot;&gt;Retrospective tool #14: Reetro&lt;/h2&gt;
+
+&lt;p&gt;Reetro is an online retrospective tool specifically designed for remote agile teams. It fosters collaboration from multi-located team members and automates the retrospective process.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-10&quot;&gt;Pricing&lt;/h3&gt;
+&lt;p&gt;Free.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-10&quot;&gt;Killing feature&lt;/h3&gt;
+
+&lt;p&gt;Reetro integrates with the most common Scrum tools such as JIRA, Trello, Yodiz, and Asana.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://reetro.io/&quot;&gt;Reetro.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;Reetro, retrospective tool&quot; width=&quot;845&quot; height=&quot;524&quot; src=&quot;/uploads/retrospective-board-reetro-io.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;retrospective-tool-15-retrotool&quot;&gt;Retrospective tool #15: RetroTool&lt;/h2&gt;
+&lt;p&gt;RetroTool is a real-time online retrospective tool that helps teams reflect anonymously. Team members can brainstorm ideas and problems, group them, vote and create action plans based on the discussion. RetroTool is a great asset for facilitators to build their retrospective the way they want it to be. It allows for unlimited columns and participants.&lt;/p&gt;
+
+&lt;h3 id=&quot;pricing-11&quot;&gt;Pricing&lt;/h3&gt;
+&lt;p&gt;The tool is free and will always offer a free version.&lt;/p&gt;
+
+&lt;h3 id=&quot;killing-feature-11&quot;&gt;Killing feature&lt;/h3&gt;
+&lt;p&gt;RetroTool is simple to use and offers the flexibility to use it for retrospectives, brainstorming or agenda-less meetings.&lt;/p&gt;
+
+&lt;p&gt;Website: &lt;a target=&quot;_blank&quot; href=&quot;https://retrotool.io/&quot;&gt;RetroTool&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;RetroTool, retrospective tool&quot; width=&quot;2050&quot; height=&quot;1090&quot; src=&quot;/uploads/retrotool.png&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;wishpond-campaign&quot; data-wishpond-id=&quot;2520447&quot; data-wishpond-href=&quot;https://embedded.wishpondpages.com/lp/2520447/&quot;&gt;&lt;/div&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;small&gt;&lt;em&gt;Header picture &lt;/em&gt;&lt;/small&gt;&lt;small&gt;&lt;em&gt;by &lt;a target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://unsplash.com/@barnimages?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Barn Images&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=unsplash&amp;amp;utm_medium=referral&amp;amp;utm_content=creditCopyText&quot;&gt;Unsplash&lt;/a&gt;&lt;/em&gt;&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&amp;lt;/div&amp;gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 19 Apr 2021 10:00:00 +0000</pubDate>
         <link>https://blog.teammood.com/retrospective-tools-2021</link>

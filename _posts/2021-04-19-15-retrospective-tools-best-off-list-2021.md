@@ -254,4 +254,4 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 <hr/>
 
 
-<p><small><em>Header picture </em></small><small><em>by <a target="_blank" rel="noopener" href="https://unsplash.com/@barnimages?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barn Images</a>&nbsp;on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small></p></div></div></div>
+<p><small><em>Header picture </em></small><small><em>by <a target="_blank" rel="noopener" href="https://unsplash.com/@barnimages?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barn Images</a>&nbsp;on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small></p>

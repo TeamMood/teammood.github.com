@@ -177,7 +177,7 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 <p>TeleRetro has a unique &lsquo;Ice-breakers&rsquo; feature which lets facilitators play music or video such as SoundCloud and YouTube directly from the retro board.</p>
 
-<p>Website:&nbsp;<a target="_blank" rel="noopener" href="https://www.google.com/url?q=https://www.teleretro.com&amp;sa=D&amp;source=editors&amp;ust=1618860929542000&amp;usg=AOvVaw2A4LGCe6pR7t-XY7XEBxwF">teleretro</a></p>
+<p>Website:&nbsp;<a target="_blank" rel="noopener" href="https://www.teleretro.com/">teleretro</a></p>
 
 <p><img alt="" width="1600" height="917" src="/uploads/teleretro.png" /></p>
 

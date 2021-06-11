@@ -18,6 +18,8 @@ Great success and achievements do not come overnight, and are rarely the result 
 
 The ability to work together, as a true team, is far better than the expertise of each individual.
 
+[Check Your Team Health Online](https://www.teammood.com/){: .button target="_blank"}
+
 ## But what makes a team great?
 
 For instance, Google did [its own research](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/){: target="_blank"} and found these 5 characteristics:

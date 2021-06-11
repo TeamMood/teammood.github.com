@@ -15,6 +15,8 @@ In team management, you can have all sorts of KPIs to measure and display how we
 
 That’s the reason why, a few years ago (in 2006 more precisely), [Akinori SAKATA](http://www.geocities.jp/nikonikocalendar/index_en.html) invented the **Niko Niko calendar**, a.k.a. the smiley calendar or the happiness index.
 
+[Try A Niko-Niko Calendar For Free](https://www.teammood.com/en/niko-niko){: .button target="_blank"}
+
 <img src="/images/posts/happy.gif" alt="Happy worker">
 
 

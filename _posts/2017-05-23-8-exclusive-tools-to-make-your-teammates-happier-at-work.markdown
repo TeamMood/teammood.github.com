@@ -81,13 +81,13 @@ That’s what [TeamMood](https://www.teammood.com/) can do for you. Simply by se
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
 <hr/>
 
-### Hivy – brings happiness to your workplace
+### (RETIRED) Hivy – brings happiness to your workplace
 
 What do coffee, notepads and a ping-pong table have in common? The same person in your company is probably responsible for buying all of  them, along with all the other everyday purchases for the office. Gathering requests and placing orders can be quite tedious  for your office manager or personal assistant or whoever is charged with the task.
 
-This is where Hivy comes in. [Hivy](https://hivyapp.com/) is an office management platform that creates a unique workplace experience. With a web and smartphone app or through a simple Slack command, all the wonderful people in your office can submit requests and make suggestions using Hivy. Office managers can handle their projects and manage the building within the app: get IT support, catering for an event, a cleaning company, etc.
+This is where Hivy comes in. Hivy is an office management platform that creates a unique workplace experience. With a web and smartphone app or through a simple Slack command, all the wonderful people in your office can submit requests and make suggestions using Hivy. Office managers can handle their projects and manage the building within the app: get IT support, catering for an event, a cleaning company, etc.
 
-<a target="_blank" href="https://hivyapp.com/"><img src="/images/posts/8-tools/hivy.jpg"></a>
+<img src="/images/posts/8-tools/hivy.jpg">
 
 And with all the material and snacks they need/want, your team members can relax and focus on getting their work done.
 

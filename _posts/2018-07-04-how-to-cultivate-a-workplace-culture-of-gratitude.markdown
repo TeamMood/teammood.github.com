@@ -15,7 +15,7 @@ The question is, how do you bring a culture of gratitude into your workplace? Th
 
 Whenever you want to implement a change in your company culture, the first thing you need to do is think about how you can set the right example. Remember, as the owner or manager of your business, you're not just someone who cuts pay-checks and tells people what to do every day. You're the leader that your employees turn to when they're looking for advice and guidance.
 
-<img src="/images/posts/thanks.gif" alt="Showing gratitude">
+<img src="/images/posts/thanks.mp4" alt="Showing gratitude">
 
 When people see you [practicing gratitude every day](https://www.forbes.com/sites/karlsun/2017/12/18/how-to-create-a-culture-of-gratitude-in-the-workplace/), they'll start to embrace the concept as a natural part of your workplace culture. So, how do you bring gratitude into your life? That's simple. All you need to do is start showing your appreciation for things - both little and big.
 

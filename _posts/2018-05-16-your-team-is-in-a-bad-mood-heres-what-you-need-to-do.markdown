@@ -15,7 +15,7 @@ So, if a bad situation arises, here is what you need to do.
 
 If you feel some tension among team members, unspoken issues or a general growing discontent, you need to understand where it’s coming from. Small quarrels or disagreements are usually fueled by a deeper issue. 
 
-<img src="/images/posts/why.gif" alt="Chicken and pigs">
+<img src="/images/posts/why.mp4" alt="Chicken and pigs">
 
 Is there a stressful deadline coming up? Were there a change in the strategic orientation of the product? Is the company to be going through a bad patch? A specific individual driving everyone’s morale down?
 

@@ -26,7 +26,7 @@ Visualiser à tout moment les statistiques et les critères de filtrage appliqu�
 Au cours des prochains mois, TeamMood évoluera progressivement, les filtres des statistiques étant les premiers d'une série d'améliorations. Et voici comment cela fonctionne :
 
 
-![TeamMood analytics filter](/uploads/recording.gif "TeamMood analytics filter"){: width="1920" height="996"}
+![TeamMood analytics filter](/uploads/recording.mp4 "TeamMood analytics filter"){: width="1920" height="996"}
 <small>(cliquer pour élargir)</small>
 
 Interessé•e ? [Faites nous signe](mailto:support@teammood.com) afin de les activer pour votre / vos équipes.

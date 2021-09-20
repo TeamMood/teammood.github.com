@@ -23,7 +23,7 @@ Don’t worry, you can still keep all stakeholders in the loop and send them the
 
 ## 3\.&nbsp;**…and let attendees leave the meeting if they don’t feel useful**
 
-<img src="/images/posts/leave-meeting.gif" alt="Goodbye">
+<img src="/images/posts/leave-meeting.mp4" alt="Goodbye">
 
 Even if you’ve carefully prepared the list of participants to the meeting, some of them may feel out of place anyway. After all, to err is human. To avoid wasting their time, make it a rule in your company that **attendees can leave a meeting at any time,** without having to explain themselves. Those who decide to stay will feel all the more involved.
 

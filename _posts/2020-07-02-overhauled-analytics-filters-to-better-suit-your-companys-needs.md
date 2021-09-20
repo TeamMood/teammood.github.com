@@ -23,7 +23,7 @@ As of today we are rolling out the first fruits of these improvements: Our new A
 
 In the coming months, TeamMood’s UI will gradually evolve with the analytics filters being the first one of a series of improvements. Here is how it works:
 
-![TeamMood analytics filter](/uploads/recording.gif "TeamMood analytics filter"){: width="1920" height="996"}
+![TeamMood analytics filter](/uploads/recording.mp4 "TeamMood analytics filter"){: width="1920" height="996"}
 <small>(click to enlarge)</small>
 
 Just [contact us](mailto:support@teammood.com) if you want to be part of ou beta program and try this new filter\!

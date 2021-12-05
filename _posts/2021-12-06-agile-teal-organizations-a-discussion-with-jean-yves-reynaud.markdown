@@ -1,6 +1,6 @@
 ---
 title: 'Agile Teal organizations: a discussion with Jean-Yves Reynaud'
-date: 2021-12-06 15:07:00
+date: 2021-12-06 10:07:00
 categories:
   - leanstartup
   - agile
@@ -33,7 +33,7 @@ Rotating the role of the Scrum Master brings even more equity between team membe
 
 "In self-organized Agile teams, individuals have to learn how to handle conflicts and to provide constructive feedback. This doesn’t come innate, we all need to learn and train in order to experiment this way of working together. Non-violent communication can be of huge help if used correctly.
 
-But the “soft skills” are not enough. By implementing delegated processes in meetings and improvement rituals such as the “[feedforward](https://marshallgoldsmith.com/articles/try-feedforward-instead-feedback/)”, team members can rely on the group to improve over time. I find the feedforward&nbsp; such a powerful tool to boost a mutual aid relationship inside the team. One person can hold this role for a specific meeting, or the group can share suggestions for the next meeting. Generally, it develops the team’s autonomy and fluidity. Moreover, it tends to spread to other teams inside the company, including the Executive Committee."
+But the “soft skills” are not enough. By implementing delegated processes in meetings and improvement rituals such as the “[feedforward](https://marshallgoldsmith.com/articles/try-feedforward-instead-feedback/)”, team members can rely on the group to improve over time. I find the feedforward such a powerful tool to boost a mutual aid relationship inside the team. One person can hold this role for a specific meeting, or the group can share suggestions for the next meeting. Generally, it develops the team’s autonomy and fluidity. Moreover, it tends to spread to other teams inside the company, including the Executive Committee."
 
 ## **Self-evolutionary purpose: living with alignment**
 
@@ -43,8 +43,4 @@ In (fake) Agile, the vision usually belongs to the Product Owner. I like to say 
 
 Instead, individuals are in search of alignment between who they are, what they do, how they contribute to their team and to their company. This is where a tool like [Business models for teams](https://www.businessmodelsforteams.com/) can be of great help."
 
-&nbsp;
-
 Implementing Agile principles, or worse, the SAFe Framework, can become quite dogmatic in some companies. Organizations and their leaders must be careful to remain (or become) living systems, relevant for the world we live in and a fertile ground for the individuals that compose them.
-
-&nbsp;

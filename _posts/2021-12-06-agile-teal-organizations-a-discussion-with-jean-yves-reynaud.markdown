@@ -6,7 +6,7 @@ categories:
   - agile
   - teal
 comments: true
-image: images/headers/the-idea.jpg
+image: /uploads/teal-org-jy-reynaud.jpg
 redirect_from:
 layout: post
 ---

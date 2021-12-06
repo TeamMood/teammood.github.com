@@ -7,7 +7,7 @@ categories:
   - teal
 comments: true
 image: /uploads/teal-org-jy-reynaud.jpg
-redirect_from: agile-team-organizations
+redirect_from:
 layout: post
 ---
 The more I think about the principles of [Radical Agility](https://blog.teammood.com/radical-agility), the more I see how they relate to the three [pillars of Teal organizations](https://blog.teammood.com/liberating-leadership)\: self-management, wholeness, and self-evolutionary purpose.

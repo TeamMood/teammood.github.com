@@ -7,6 +7,9 @@ categories:
   - teal
 comments: true
 image: /uploads/teal-org-jy-reynaud.jpg
+excerpt: >-
+  How does an Agile team that wants to apply the 3 teal pillars work? In this article, Jean-Ybes Reynaud, Systemic Coach and Agile Consultant, shares his thoughts and experiences.
+permalink: /agile-teal-organizations 
 redirect_from:
 layout: post
 ---

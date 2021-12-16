@@ -249,6 +249,17 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 <p><img alt="RetroTool, retrospective tool" width="2050" height="1090" src="/uploads/retrotool.png" /></p>
 
+<h2 id="retrospective-tool-16-scrumbuddy">Retrospective tool #16: ScrumBuddy</h2><p>ScrumBuddy is a multi-paged whiteboard that lets you easily create a retrospective from many existing templates or by creating your own pages. It contains many agile methods out-of-the-box, amazing moderation tools and helps you collect output using an evaluation page which contains all contents added by your participants.</p>
+
+<h3 id="pricing-12">Pricing</h3><p>During the beta phase all features are available for free. All participants of the beta get a 50% discount on their 1 st license. By the end of the beta phase (likely March 2022) there will be a free license for small teams and a basic license for 4€ each user / month.</p>
+
+<h3 id="killing-feature-12">Killing feature</h3><p>Unlike a simple whiteboard, you can create multiple pages in ScrumBuddy and navigate all your participants through them, like on an interactive flipchart. This helps keep everyone focused on the current task. With the evaluation feature, all notes, note groups and boxes are summarized at the end of a retro and can be easily copied &amp; pasted into your documentation tool of choice.</p>
+
+<p>Website: <a target="_blank" href="https://scrumbuddy.org/?ref=teammood/">ScrumBuddy</a></p>
+
+<p><img alt="ScrumBuddy, retrospective tool" width="1200" height="910" src="/uploads/scrumbuddy.png" /></p>
+
+
 <hr/>
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
 <hr/>

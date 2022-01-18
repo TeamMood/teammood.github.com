@@ -66,4 +66,4 @@ In addition to the environmental impact, this led to:
 
 So, are you going to test your own website and app?
 
-*Photo by [Edgar Castrejon](https://unsplash.com/@edgarraw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}*
+<small>*Photo by [Edgar Castrejon](https://unsplash.com/@edgarraw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}*</small>

@@ -17,7 +17,7 @@ layout: post
 ---
 Today, the digital sector's share of greenhouse gas emissions is estimated at 3.5% worldwide and 3.2% in France (according to [The Shift Project \[FR\]](https://theshiftproject.org/article/impact-environnemental-du-numerique-5g-nouvelle-etude-du-shift/){: target="_blank" rel="noopener"} and [Green IT \[FR\]](https://www.greenit.fr/2020/06/23/quels-sont-les-impacts-environnementaux-du-numerique-en-france/){: target="_blank" rel="noopener"}, the figures vary depending on the source). This share may seem insignificant in comparison with [electricity and transportation](https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data){: target="_blank" rel="noopener"} (respectively 25 and 14%). Yet with an annual growth rate of around 6%, it is expected to represent **8% of greenhouse gas emissions by 2025**, more than the global civil aviation sector.
 
-I was curious to know our environmental impact at TeamMood, so I contacted the company [Webvert](https://www.lewebvert.fr/){: target="_blank" rel="noopener"} to get a diagnosis and see how they could help us **decarbonize our website**. And I had an insightful chat with Youen Chéné, founder of Webvert.
+I was curious to know our environmental impact at TeamMood, so I contacted the company [Webvert](https://www.lewebvert.fr/){: target="_blank" rel="noopener"} to get a diagnosis and see how they could help us **decarbonize our website**. And I had an insightful chat with [Youen Chéné](https://www.linkedin.com/in/youenchene/){: target="_blank" rel="noopener"}, founder of Webvert.
 
 ## **Discussing the environmental impact of the web with Youen Chéné (Webvert)**
 
@@ -66,4 +66,4 @@ In addition to the environmental impact, this led to:
 
 So, are you going to test your own website and app?
 
-<small>*Photo by [Edgar Castrejon](https://unsplash.com/@edgarraw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"} on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}*</small>
+<small><em>Photo by <a target="_blank" rel="noopener" href="https://unsplash.com/@edgarraw?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Edgar Castrejon</a> on <a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

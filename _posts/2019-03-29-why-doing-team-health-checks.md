@@ -52,7 +52,7 @@ There are many ways to run a Team Health Check.
 
 A [Niko-Niko Calendar](https://blog.teammood.com/2018/07/24/evaluating-your-teams-health-with-the-niko-niko-calendar.html){: target="_blank"} is a simple calendar with everybody’s name on it. At the end of the day, each team member is invited to share their mood of the day, sticking smilies happy :-), straight :-, or frowning :-( or color stickers on it.
 
-[Try A Niko-Niko Calendar](https://www.teammood.com/en/niko-niko){: .button target="_blank"}
+[Try A Niko-Niko Calendar](https://www.teammood.com/en/Niko-Niko){: .button target="_blank"}
 
 ### Create an Emotional Seismograph with the team
 
@@ -103,7 +103,7 @@ As proposed by Aaron Gallagher from [his article about Team Health Check](https:
 > If somebody rates the value as 5, (s)he will have to provide suggestions on how to make it a 10. People can only withhold points if they provide suggestions to improve it.”
 >
 >
-> From Ben Linders, [https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/)
+> From Ben Linders, [https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/](https://www.benlinders.com/2014/getting-feedback-with-the-perfection-game/){: target="_blank"}
 
 Starting from a Team Health Check, Aaron proposes to think about what we could do so that people would feel better in the workplace.
 

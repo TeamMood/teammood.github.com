@@ -13,9 +13,9 @@ Would you go out of your house with a rain coat if it wasn’t for the weather f
 
 In team management, you can have all sorts of KPIs to measure and display how well your team is doing: productivity, lead time, bugs, … Tracking those metrics helps the team to identify problems early and improve. The only one that is missing is the actual mood and motivation of your team members. And I don’t need to tell you [how important it is for the good of the project](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)\!
 
-That’s the reason why, a few years ago (in 2006 more precisely), [Akinori SAKATA](http://www.geocities.jp/nikonikocalendar/index_en.html) invented the **Niko Niko calendar**, a.k.a. the smiley calendar or the happiness index.
+That’s the reason why, a few years ago (in 2006 more precisely), [Akinori SAKATA](https://web.archive.org/web/20150329002947/http://www.geocities.jp/nikonikocalendar/index_en.html) invented the **Niko Niko calendar**, a.k.a. the smiley calendar or the happiness index.
 
-[Try A Niko-Niko Calendar For Free](https://www.teammood.com/en/niko-niko){: .button target="_blank"}
+[Try A Niko-Niko Calendar For Free](https://www.teammood.com/en/Niko-Niko){: .button target="_blank"}
 
 <img src="/images/posts/happy.gif" alt="Happy worker">
 
@@ -37,7 +37,7 @@ The Niko-niko doesn’t provide an exact measure of the team’s mood, but it he
 
 The [team’s spirit](/2019/03/29/why-doing-team-health-checks.html) is even more important for an Agile team as the success of the project relies on it. It’s the reason why the Niko-niko calendar was first invented for Agile teams. It provides a general view of how well the team is doing, and not just at individual level.
 
-[Try A Niko-Niko Calendar](https://www.teammood.com/en/niko-niko){: .button target="_blank"}
+[Try A Niko-Niko Calendar](https://www.teammood.com/en/Niko-Niko){: .button target="_blank"}
 
 ## How to use the Niko-niko method?
 
@@ -50,7 +50,7 @@ The Niko-niko must follow some principles:
 
 <img src="/images/posts/sad.gif" alt="Sad worker">
 
-In concrete terms, to use the Niko-niko method, you can build [your own Niko-niko calendar](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html) with a daily calendar and a stack of color stickers. Or [choose to use an online tool](https://www.teammood.com/en/niko-niko/) if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.
+In concrete terms, to use the Niko-niko method, you can build [your own Niko-niko calendar](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html) with a daily calendar and a stack of color stickers. Or [choose to use an online tool](https://www.teammood.com/en/Niko-Niko/) if your team is working remotely, or simply if you want to be able to analyze trends. An online tool can also help you gather comments more easily.
 
 <hr/>
 <div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
@@ -64,6 +64,6 @@ Don’t let your Niko-niko hang there for nothing\! Quantifying your team’s mo
 
 Data from a Niko-niko calendar is a huge opportunity for reflection. You can get instant feedback from changes that are altering the work environment. It can also be included in a reporting for top management (leaving it anonymous).
 
-Are you convinced? Start implementing a Niko-niko calendar in your team, either by [building it yourself](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html), of [using an online one such as TeamMood](https://www.teammood.com/en/niko-niko/) and tell us what you think.
+Are you convinced? Start implementing a Niko-niko calendar in your team, either by [building it yourself](https://blog.teammood.com/niko-niko/diy/2013/05/07/build-your-own-niko-niko-calendar.html), of [using an online one such as TeamMood](https://www.teammood.com/en/Niko-Niko/) and tell us what you think.
 
-[Run Your Niko-Niko Calendar Online](https://www.teammood.com/en/niko-niko/){: .button}
+[Run Your Niko-Niko Calendar Online](https://www.teammood.com/en/Niko-Niko/){: .button}

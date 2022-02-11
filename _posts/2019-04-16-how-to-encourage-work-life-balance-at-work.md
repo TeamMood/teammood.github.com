@@ -9,7 +9,7 @@ excerpt: >-
 keywords: 'Work-life balance, flexibility, well-being, work'
 ---
 
-Stress and burnout have become an increasing phenomenon worldwide over the last decade. According to a [YouGov survey](https://www.virgin.com/disruptors/infographic-how-stressed-are-uk-employees){: target="_blank"}, 51% of full-time UK employees said they have experienced anxiety or burnout in their current job. In France, [53% of employees and 68% of managers find their job too stressful](https://www.ringover.com/en/blog/burnout-the-epidemic-of-the-century){: target="_blank"}.
+Stress and burnout have become an increasing phenomenon worldwide over the last decade. According to a [YouGov survey](https://www.virgin.com/disruptors/infographic-how-stressed-are-uk-employees){: target="_blank"}, 51% of full-time UK employees said they have experienced anxiety or burnout in their current job. In France, [53% of employees and 68% of managers find their job too stressful](https://www.ringover.com/blog/burnout-the-epidemic-of-the-century){: target="_blank"}.
 
 The situation seems contradictory with the fact that [happy employees are more productive](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html){: target="_blank"} than unhappy ones. If someone’s health is his or her own responsibility, employers have an important part to play in their employees’ well-being. Here are **7 policies you can implement to help your team members achieve work-life balance**\:
 

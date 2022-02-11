@@ -50,7 +50,7 @@ Everyone agrees on the fundamental importance of the human aspect highlighted by
 
 This part of the manifesto tackles the way to work as a team: how? With whom? The team is itself a complex system. In order to better consider individuals and their interactions, reflections have multiplied on the notion of leadership in an agile team, many solutions have emerged to facilitate decision-making in a group, and the notion of collective intelligence has developed strongly. One concept has long been discussed, which would be more evocative of the desired way of working as a team: **self-organization**.
 
-\[As defined by the [scrum dictionary](https://scrumdictionary.com/term/self-organization/), a self-organized team is one that chooses how best to accomplish its work, rather than being directed (micro-managed) by others outside the team.\]
+\[As defined by the scrum dictionary, a self-organized team is one that chooses how best to accomplish its work, rather than being directed (micro-managed) by others outside the team.\]
 
 Of course, we still value people and interactions more than processes and tools. But **beyond people and interactions, radical agility promotes self-organization**.
 

@@ -62,7 +62,7 @@ It’s an easy and fun way to get an overview of your team's health.
 
 ### Run Team Health Check like Spotify
 
-The Team Health Check has been popularized by Spotify with their [Squad Health Check model](https://labs.spotify.com/2014/09/16/squad-health-check-model/){: target="_blank"}, where people are asked to score 11 different areas (Easy to release, Suitable process, Tech quality, Value, Speed, Mission, Fun, Learning, Support, Pawns or players) on three levels:
+The Team Health Check has been popularized by Spotify with their [Squad Health Check model](https://engineering.atspotify.com/squad-health-check-model/){: target="_blank"}, where people are asked to score 11 different areas (Easy to release, Suitable process, Tech quality, Value, Speed, Mission, Fun, Learning, Support, Pawns or players) on three levels:
 
 * green: good
 * yellow: some problems

@@ -2,13 +2,11 @@
 title: 'Digital Nomadism, Neoruralism, … The New Ways Of Working '
 date: 2022-03-09 10:07:00
 categories:
-  - ecology
   - workplace
+  - ecology
 comments: true
 image: /uploads/teammood-digital-nomadism.jpg
-excerpt: >-
-  Do you know the environmental impact of your website or app? I asked Youen
-  Chéné from Webvert to come and have a look
+excerpt: 'Is the place you''re living influenced by the place you''re working? '
 keywords: Work
 permalink: /digital-nomadism-neoruralism-working
 redirect_from:
@@ -18,7 +16,7 @@ The trend was already there to free oneself from the physical constraints of a j
 
 ## **The appeal of digital nomadism**
 
-With the spread of 3 and 4G, coworking spaces, and coffee shops with wifi, working from anywhere has never been so easy. From a family cottage on a lake, an island paradise in Thailand, or on the road in a camper van, you choose your setting… as long as your job allows you to. In fact, more and more freelancers have joined the great community of digital nomads, making the world their office in order to combine work and pleasure.&nbsp;
+With the spread of 3 and 4G, coworking spaces, and coffee shops with wifi, working from anywhere has never been so easy. From a family cottage on a lake, an island paradise in Thailand, or on the road in a camper van, you choose your setting… as long as your job allows you to. In fact, more and more freelancers have joined the great community of digital nomads, making the world their office in order to combine work and pleasure.
 
 Likewise, many startups and Tech companies, inspired by the trend in Silicon Valley, have made their working conditions more flexible for their employees who want it in order to attract the best profiles – as well as to reduce the rent of their offices. Companies like Automatic, Buffer, or Todoist are leading the way by hiring hundreds of digital nomads around the world.
 
@@ -26,7 +24,7 @@ Likewise, many startups and Tech companies, inspired by the trend in Silicon Val
 
 Digital nomad communities have flourished all around the world, usually in countries where the cost of living is more affordable than that of the country of origin. According to the Lonely Planet, [the Lisbon Digital Nomads Facebook group gathers nearly 19,000 members](https://www.lonelyplanet.com/articles/digital-nomads-remote-working-lisbon){: target="_blank" rel="noopener"}, and arranges weekly meetups for networking, socializing, eating…
 
-But this urge for freedom only concerned a handful of happy few two years ago, until the pandemic came along...
+But this urge for freedom only concerned a handful of happy few two years ago, until the pandemic came along…
 
 ## **The “Great Resignation” and the new expectations of the workers**
 
@@ -34,7 +32,7 @@ You may have heard about this trend called the “[Great Resignation](https://ww
 
 So, why were (and are) people suddenly quitting their jobs without securing another one? One general theory is that the pandemic has triggered a fundamental shift in the relationship between workers and bosses. Indeed, employers and employees have had to be extremely flexible during the pandemic, in particular in terms of work environments and hours. This has allowed for new realities at work that used to be unthinkable. Workers have realized that flexibility and freedom at work were worth fighting for – or quitting their job if they couldn’t get it.
 
-The Great Resignation sparks optimism for workers: a hope to improve their working conditions and to find more meaning at work. Derek Thompson, a writer for The Atlantic, wrote: [“The Great Resignation, is literally, great. For workers, that is.”](https://www.theatlantic.com/ideas/archive/2021/10/great-resignation-accelerating/620382/){: target="_blank" rel="noopener"} However, it is not so great news for businesses as resignations lead to high turnover costs and business disruptions.&nbsp;
+The Great Resignation sparks optimism for workers: a hope to improve their working conditions and to find more meaning at work. Derek Thompson, a writer for The Atlantic, wrote: [“The Great Resignation, is literally, great. For workers, that is.”](https://www.theatlantic.com/ideas/archive/2021/10/great-resignation-accelerating/620382/){: target="_blank" rel="noopener"} However, it is not so great news for businesses as resignations lead to high turnover costs and business disruptions.
 
 The pandemic, on a global level, has given people the opportunity to reflect on what’s important to them. What if the important thing was to live more simply, surrounded by your loved ones, in a healthy and resourcing environment?
 
@@ -46,9 +44,9 @@ In a [recent survey conducted by the Harris Poll](https://theharrispoll.com/wp-c
 
 ![Houses in the countryside](/uploads/teammood-countryside.jpg "Photo by Sven Fischer (Unsplash)"){: width="640" height="359"}
 
-This is exactly what prompted my wife and me to move from our apartment in Toulouse to a house in the countryside. This change allows us to reconnect with nature – and to discover the joys of growing our own vegetables. I still return to Toulouse once or twice a month for work and to keep in touch with friends. Fortunately, the train network allows me to reach the city in an hour without adding too much to my carbon footprint...
+This is exactly what prompted my wife and me to move from our apartment in Toulouse to a house in the countryside. This change allows us to reconnect with nature – and to discover the joys of growing our own vegetables. I still return to Toulouse once or twice a month for work and to keep in touch with friends. Fortunately, the train network allows me to reach the city in an hour without adding too much to my carbon footprint…
 
-For all that, the expansion of remote work has not caused the expected mass exodus.&nbsp;
+For all that, the expansion of remote work has not caused the expected mass exodus.
 
 More than a will to move, the pandemic and The Great Resignation have hailed [a new golden age for worker power](https://medium.com/future-of-work/the-great-resignation-what-does-this-mean-for-the-future-of-work-37b342ce4e59){: target="_blank" rel="noopener"}. “After providing security, an increasing number of people are now demanding ‘good work’, \[that is\]:
 
@@ -62,4 +60,4 @@ More than a will to move, the pandemic and The Great Resignation have hailed [a 
 
 The coming years will be decisive for the future of work.
 
-<small><em>Header picture by <a target="_blank" rel="noopener" href="https://unsplash.com/@mantashesthaven?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mantas Hesthaven</a>&nbsp;on <a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>
+<small><em>Header picture by <a target="_blank" rel="noopener" href="https://unsplash.com/@mantashesthaven?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mantas Hesthaven</a> on <a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

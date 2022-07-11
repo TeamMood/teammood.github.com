@@ -5,7 +5,7 @@ categories:
   - workplace
   - teal
 comments: true
-image:
+image: /uploads/teammood-wholeness-organizations.jpg
 excerpt: >-
   Wholeness might be the hardest principle of "teal organizations" to
   implement.  Discover some practices that foster wholeness.
@@ -14,7 +14,7 @@ permalink: /wholeness-workplace
 redirect_from:
 layout: post
 ---
-*After discussing the*[*principles of “teal organizations”*](https://blog.teammood.com/liberating-leadership) *as described by French author Frederic Laloux, I wanted to dive a bit deeper into one of these 3 pillars: the practice of****wholeness****. Indeed, there is no single definition of wholeness, let alone a set of instructions that can be applied to all and to all organizations. So I went to see Dimitri and Marie-Pierre, both leaders of organizations that want to be as living and evolutive as possible, and who practice wholeness on a daily basis, to discuss the topic. In this article, I share with you the lessons I learned. *
+*After discussing the&nbsp;*[*principles of “teal organizations”*](https://blog.teammood.com/liberating-leadership) *as described by French author Frederic Laloux, I wanted to dive a bit deeper into one of these 3 pillars: the practice of&nbsp;****wholeness***. *Indeed, there is no single definition of wholeness, let alone a set of instructions that can be applied to all and to all organizations. So I went to see Dimitri and Marie-Pierre, both leaders of organizations that want to be as living and evolutive as possible, and who practice wholeness on a daily basis, to discuss the topic. In this article, I share with you the lessons I learned.&nbsp;*
 
 Why practice wholeness in an organization? What are the conditions to test it in a safe way? What are the difficulties? What rituals can be used to practice wholeness with your team? These are some of the questions I had the opportunity to discuss with Dimitri, founder of Scholanova, and Marie-Pierre, co-founder of Ze.game and France Apprenante. To know more about my inspirers, go to the bottom of the article.
 
@@ -74,6 +74,6 @@ In the end, I’m convinced of one thing: wholeness is the key to the future of 
 
 [*Dimitri Dagot*](https://www.linkedin.com/in/dimitridagot){: target="_blank" rel="noopener"} *is an innovative explorer who’s been through many work changes: entrepreneurship, teaching innovation, leadership… In 2014, he created the Schola Nova school, a Social and Solidarity Economy project that aims to integrate young people into the workforce in a positive and hopeful way through work-study programs. During his experiences, he has had the opportunity to test different modes of organization. He is inspired by Peter Senge's learning organization and Oto Scharmer's Theory U.*
 
-[*Marie-Pierre Dequier*](https://www.linkedin.com/in/mpdequier/){: target="_blank" rel="noopener"} *is the co-founder of*[*Ze.game*](https://ze.game){: target="_blank" rel="noopener"}*, a serious game that helps transform organizations through developing collaborators’ soft skills: communication, collaboration, critical thinking, creativity, and mind-body alignment. She also co-founded France Apprenante, a collective of players in the fields of support, education, learning, innovation, digital, and training who want to better support the transformation of territories and companies. She is very inspired by Frederic Laloux’s writings. What motivates her is to give everyone the means to emancipate themselves from limiting beliefs.*
+[*Marie-Pierre Dequier*](https://www.linkedin.com/in/mpdequier/){: target="_blank" rel="noopener"} *is the co-founder of&nbsp;*[*Ze.game*](https://ze.game){: target="_blank" rel="noopener"}*, a serious game that helps transform organizations through developing collaborators’ soft skills: communication, collaboration, critical thinking, creativity, and mind-body alignment. She also co-founded France Apprenante, a collective of players in the fields of support, education, learning, innovation, digital, and training who want to better support the transformation of territories and companies. She is very inspired by Frederic Laloux’s writings. What motivates her is to give everyone the means to emancipate themselves from limiting beliefs.*
 
-<small><em>Header photo by <a target="_blank" rel="noopener" href="https://unsplash.com/@erol?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Erol Ahmed</a> on <a target="_blank" rel="noopener" href="https://unsplash.com/s/photos/teal?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>
+<small><em>Header photo by <a target="_blank" rel="noopener" href="https://unsplash.com/@erol?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Erol Ahmed</a>&nbsp;on <a target="_blank" rel="noopener" href="https://unsplash.com/s/photos/teal?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

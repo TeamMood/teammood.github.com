@@ -1,6 +1,6 @@
 ---
 title: How to live wholeness in the workplace?
-date: 2022-07-12 10:00:00
+date: 2022-07-11 16:00:00
 categories:
   - workplace
   - teal

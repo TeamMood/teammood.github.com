@@ -35,6 +35,8 @@ Now, Robin systematically shows the TeamMood's history to new candidates, so tha
 
 *Header picture by [Tim Mossholder](https://unsplash.com/photos/GOMhuCj-O9w?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/hiring?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).*
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}

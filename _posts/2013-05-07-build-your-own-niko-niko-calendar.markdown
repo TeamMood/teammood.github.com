@@ -48,6 +48,8 @@ Let each team member put a sticker on the calendar at the end of each working da
 
 But if you're too busy to build your own, take a look at our service : [TeamMood](http://www.teammood.com/en/niko-niko/), an easy way to get a glimpse of the happiness of your coworkers !
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}

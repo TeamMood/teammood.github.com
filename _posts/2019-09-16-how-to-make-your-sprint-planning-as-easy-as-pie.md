@@ -36,9 +36,11 @@ The complexity assessment is a great way to estimate the time to spend on a task
 
 In this exercise, the most important isn’t just the number of points you get, but the discussion around that helps everyone understand clearly what needs to be done.&nbsp;
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## **Pitfalls of the sprint planning**
 

@@ -77,9 +77,11 @@ That’s what [TeamMood](https://www.teammood.com/) can do for you. Simply by se
 
 <a target="_blank" href="https://www.teammood.com/"><img src="/images/posts/8-tools/teammood.png"></a>
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ### (RETIRED) Hivy – brings happiness to your workplace
 

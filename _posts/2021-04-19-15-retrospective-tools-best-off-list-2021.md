@@ -146,9 +146,11 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 <p><img alt="Metro Retro, retrospective tool" width="1400" height="1132" src="/uploads/MetroRetro.png" /></p>
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 <h2 id="retrospective-tool-9-funretro">Retrospective tool #9: FunRetro</h2>
 
@@ -261,9 +263,11 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 <p><img alt="ScrumBuddy, retrospective tool" width="1200" height="910" src="/uploads/scrumbuddy.png" /></p>
 
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 
 <p><small><em>Header picture </em></small><small><em>by <a target="_blank" rel="noopener" href="https://unsplash.com/@barnimages?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Barn Images</a>&nbsp;on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small></p>

@@ -126,9 +126,11 @@ During the vote, you can also ask for volunteers to be responsible for an action
 
 Finally, you should consider these actions as fully-fledged tasks. You can even add them to the backlog and prioritize them accordingly (in agreement with the Product Owner).&nbsp;
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## Conclusion
 

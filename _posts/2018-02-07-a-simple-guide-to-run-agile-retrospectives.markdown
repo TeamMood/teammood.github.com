@@ -45,9 +45,11 @@ There are plenty of tools available there, those are the ones we enjoy the most.
 
 As I said earlier, it’s better to use a new format for each of your retrospectives in order to maintain their efficiency. Retromat is an online tool which helps you find inspiration for your retrospectives. You can browse around or select a random plan, change it to fit the team's situation, print it and share the URL to your teammates. It’s that easy!
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## [Retrium](https://www.retrium.com/) – to run retrospectives with distributed teams
 

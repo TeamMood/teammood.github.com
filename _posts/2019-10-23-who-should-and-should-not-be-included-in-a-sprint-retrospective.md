@@ -37,9 +37,11 @@ If the Product Owner is not considered to be a part of the team, then this is an
 
 The meeting should be a “safe place” where the Scrum team discusses their recent sprint and the improvements they are going to implement for the next one. According to The Disciplined Agile Framework, the "safe place” is affected by the presence of people with positional authority, potential agendas or other implicit impacts. Having outsiders as guests at the retrospective will change the dynamics. However, it is the decision of the team if they will allow outsiders in their sprint retrospectives.
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## Tips for Product Owners in a Sprint Retrospective
 

@@ -68,9 +68,11 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 ![Retros.work, retrospective tool](/uploads/retros_work.png){: width="2756" height="1654"}
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## Retrospective tool \#4: goReflect&nbsp;
 
@@ -120,9 +122,11 @@ Website: [ScatterSpoke](http://www.scatterspoke.com/){: target="_blank"}
 
 ![ScatterSpoke, retrospective tool](/uploads/scatterspoke.png){: width="2000" height="908"}
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## Retrospective tool \#7: Retrium&nbsp;
 
@@ -286,9 +290,11 @@ Website: [Reetro.io](https://reetro.io/){: target="_blank"}
 
 ![Reetro, retrospective tool](/uploads/retrospective-board-reetro-io.png){: width="845" height="524"}
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 ## Extra bonus: Retrospective tool \#17: Milanote
 
@@ -339,8 +345,10 @@ Website: [RetroTool](https://retrotool.io/){: target="_blank"}
 
 ![RetroTool, retrospective tool](/uploads/retrotool.png){: width="2050" height="1090"}
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}
 
 <small><em>Header picture by <a href="https://unsplash.com/@yer_a_wizard?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Fleur</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

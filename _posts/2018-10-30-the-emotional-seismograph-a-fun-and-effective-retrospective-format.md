@@ -25,6 +25,8 @@ Some moods can be the result of personal events, which means that the team canno
 
 *Photo credit: [Crashmaster007](https://visualhunt.com/author2/0e544c){: target="_blank"} on [Visual hunt](https://visualhunt.com/re/6694b1) / [CC BY-NC](http://creativecommons.org/licenses/by-nc/2.0/)*
 
+{::nomarkdown}
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
+{:/nomarkdown}

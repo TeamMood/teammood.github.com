@@ -64,10 +64,11 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 ![Retros.work, retrospective tool](/uploads/retros_work.png){: width="2756" height="1654"}
 
+{::nomarkdown} 
 <hr/>
-<div class="wishpond-campaign" data-wishpond-id="2520447" data-wishpond-href="https://embedded.wishpondpages.com/lp/2520447/"></div>
+  {% include get-retro-canvas.html %}
 <hr/>
-
+{:/nomarkdown}
 
 <h2>Retrospective tool #4: goReflect&nbsp;</h2>
 

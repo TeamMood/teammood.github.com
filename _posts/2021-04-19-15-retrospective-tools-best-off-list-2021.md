@@ -16,6 +16,12 @@ Our [best off list for 2020](https://blog.teammood.com/retrospective-tools)&nbsp
 
 Indeed, choosing the right tool can make all the difference for your [Agile retrospectives](https://blog.teammood.com/agile-retrospectives). With remote working being the new norm for most companies around the world, choosing the right Agile retrospective tool (or switching between a handful of them) can help enhance your retrospectives, better organize them, boost participation and improve the follow-up after the meeting.
 
+{::nomarkdown}
+<hr/>
+  {% include get-retro-canvas.html %}
+<hr/>
+{:/nomarkdown}
+
 ## Retrospective tool \#1: TeamMood 🏆
 
 TeamMood is the best tool to help you **gather daily insights on how your team members are feeling** and what may bother them. It can be a great source of insights for your retrospectives and You can then use your team mood chart and feedback as a basis to open up discussions in your retrospectives.

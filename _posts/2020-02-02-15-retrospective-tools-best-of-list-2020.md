@@ -19,6 +19,12 @@ Especially useful for multi located teams, these Agile retrospective online tool
 
 In this article, we share **the 15 best retrospective tools.**
 
+{::nomarkdown}
+<hr/>
+  {% include get-retro-canvas.html %}
+<hr/>
+{:/nomarkdown}
+
 ## Retrospective tool \#1: TeamMood 🏆
 
 TeamMood helps you gather daily insights on **how your team members are feeling**. You can then use your team mood chart and feedback as a basis to open up discussions in your retrospectives.

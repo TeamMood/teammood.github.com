@@ -351,6 +351,22 @@ Website: [RetroTool](https://retrotool.io/){: target="_blank"}
 
 ![RetroTool, retrospective tool](/uploads/retrotool.png){: width="2050" height="1090"}
 
+## Final bonus after the final: Retrospective tool \#20: RetroTeam
+
+RetroTeam is a tool that makes retrospectives fun, easy and **painless** to set up remotely. Users can set up their **retrospective format** and **begin collaborating in minutes**. Participants say what went well, what didn’t go well and pinpoint action items for the next sprint. 
+
+### Pricing
+
+Free to participate in retrospectives, $2 a month to create 2 teams and 20 users, and $50 a month for 20 teams and 200 boards.
+
+### Killing feature
+
+RetroTeam allows users to vote on rule changes or courses of action to keep the team focused. Board owners can set time limits, privacy settings and export boards to external sources as well. 
+
+Website: [RetroTeam](https://retroteam.app){: target="_blank"}
+
+![RetroTeam, retrospective tool](/uploads/retroteam.png){: width="1199" height="750"}
+
 {::nomarkdown}
 <hr/>
   {% include get-retro-canvas.html %}

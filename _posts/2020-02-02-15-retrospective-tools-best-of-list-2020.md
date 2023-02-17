@@ -367,6 +367,22 @@ Website: [RetroTeam](https://retroteam.app){: target="_blank"}
 
 ![RetroTeam, retrospective tool](/uploads/retroteam.png){: width="1199" height="750"}
 
+## Surprise Final Bonus: Retrospective tool #21: Canva Whiteboards
+
+Canva Whiteboards is a super versatile, all-in-one retrospective tool, giving you an infinite virtual whiteboard where you can brainstorm ideas, gather feedback from teammates, and lock future plans. There’s a built-in timer, and you can tag teammates in the comments. Plus, unlimited sticky notes and emojis!
+
+### Pricing
+
+Free, but you’ll unlock more if you subscribe to Pro or Canva for Teams.
+
+### Killing feature
+
+Gorgeous templates for just about any graph — tables, flowcharts, decision trees, Gantt charts, fishbone diagrams, affinity diagrams, site maps, etc. 
+
+Website: [Canva Whiteboards](https://www.canva.com/online-whiteboard/){: target="_blank"}
+
+![Canva Whiteboards, an infinite virtual whiteboard](/uploads/canva.png){: width="1199" height="680"}
+
 {::nomarkdown}
 <hr/>
   {% include get-retro-canvas.html %}

@@ -383,6 +383,18 @@ Website: [Canva Whiteboards](https://www.canva.com/online-whiteboard/){: target=
 
 ![Canva Whiteboards, an infinite virtual whiteboard](/uploads/canva.png){: width="1199" height="680"}
 
+## Retrospective tool #22: Kumospace
+
+Kumospace is a virtual platform that allows users to meet, communicate and collaborate in a 3D environment. With customizable avatars and different spaces, users can create or participate in private or public events. Kumospace also offers the ability to create interactive experiences such as games and quizzes.
+
+### Pricing
+
+Kumospace pricing varies by plan and subscription length. The basic plan is free and provides access to basic features like creating rooms and customizing avatars. The premium plan costs $15 per month or $150 per year and offers advanced features like private rooms and the ability to use custom logos. There is also a business plan for businesses that is customized.
+
+Website: [Kumospace](https://www.kumospace.com/){: target="_blank"}
+
+![Canva Whiteboards, an infinite virtual whiteboard](/uploads/kumospace.png){: width="1199" height="805"}
+
 {::nomarkdown}
 <hr/>
   {% include get-retro-canvas.html %}

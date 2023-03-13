@@ -2,7 +2,7 @@
 title: The OKR approach to managing the team's wellbeing
 date: 2023-03-13 14:00:00
 comments: true
-image: /uploads/okr-title.jpg
+image: /uploads/okr-header.jpg
 excerpt: >-
   After explaining OKRs, we propose a way to use them efficiently with your teammates to make the team work environment better.
 keywords: OKR, wellbeing

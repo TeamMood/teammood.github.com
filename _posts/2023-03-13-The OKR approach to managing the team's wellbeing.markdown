@@ -80,3 +80,5 @@ OKRs bring many benefits but also require quite a bit of maintenance. On a small
 The OKR Board integrates into your project management software and automatically tracks your OKRs by linking Key Results to tasks and metrics. It also automates reports with real-time Dashboards that can be focused on any individual, team, or department. With the OKR Board, your employee’s workflow is almost unaffected by the OKRs, yet you get to reap all the benefits nonetheless.
 
 Over 2 000 companies — including S&P 500 companies — have already adopted Oboard’s OKR Board, and we are making it better every day based on their feedback. If you have any questions about this topic, contact the Oboard team at [hello@oboard.io](mailto:hello@oboard.io).
+
+<small><em>Header photo by <a target="_blank" rel="noopener" href="https://unsplash.com/fr/@modernafflatusphotography/">Ash from Modern Afflatus</a></em></small>

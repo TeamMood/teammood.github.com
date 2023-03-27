@@ -4,8 +4,8 @@ date: 2023-03-27 10:00:00
 comments: true
 image: /uploads/being-organized-header.jpg
 excerpt: >-
-  After explaining OKRs, we propose a way to use them efficiently with your teammates to make the team work environment better.
-keywords: OKR, wellbeing
+    In any organization or team, one of the critical factors that can impact the overall productivity and success of the team is organization. 
+keywords: self-organisation, wellbeing
 permalink: /being-organized-team-wellbeing
 redirect_from:
 layout: post

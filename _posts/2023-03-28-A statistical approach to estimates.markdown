@@ -1,6 +1,6 @@
 ---
 title: A statistical approach to estimates
-date: 2023-03-28 10:00:00
+date: 2023-03-28 07:00:00
 comments: true
 image: /uploads/estimates-with-stats.jpg
 excerpt: >-

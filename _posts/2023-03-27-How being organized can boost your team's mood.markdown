@@ -11,7 +11,7 @@ redirect_from:
 layout: post
 ---
 
-*Disclaimer: This is a guest post from our friends at Routine. They know a lot about self organization and productivity and have built a great (and free) product about it. You can sign up for access [here](https://www.routine.co/){: target="_blank"}.*
+*This is a guest post from our friends at Routine. They know a lot about self organization and productivity and have built a great (and free) product about it. You can sign up for access [here](https://www.routine.co/){: target="_blank"}.*
 
 In any organization or team, one of the critical factors that can impact the overall productivity and success of the team is organization. 
 

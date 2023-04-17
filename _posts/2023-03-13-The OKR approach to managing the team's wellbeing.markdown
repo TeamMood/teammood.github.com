@@ -11,7 +11,7 @@ redirect_from:
 layout: post
 ---
 
-*Disclaimer: this is a guest post from our friends at [Oboard](https://oboard.io/?utm_source=teammood.com&utm_medium=blog&utm_campaign=guest_post.Team-wellbeing-with-OKRs&utm_term=march2023){: target="_blank"}. They know a lot about OKRs and have built a great product about them. Feel free to reach out to them at [hello@oboard.io](mailto:hello@oboard.io)*
+*This is a guest post from our friends at [Oboard](https://oboard.io/?utm_source=teammood.com&utm_medium=blog&utm_campaign=guest_post.Team-wellbeing-with-OKRs&utm_term=march2023){: target="_blank"}. They know a lot about OKRs and have built a great product about them. Feel free to reach out to them at [hello@oboard.io](mailto:hello@oboard.io)*
 
 Just hiring a great team is not enough — you also need to motivate them, engage them, and make sure that they are satisfied with their job. Otherwise, you end up with a team that is technically capable of great things but somehow ends up underperforming to a ridiculous degree. According to Gallup research, the difference in profitability between an engaged and disengaged [employee can reach 23%](https://www.gallup.com/workplace/321032/employee-engagement-meta-analysis-brief.aspx) — and companies worldwide [pay 34% of their annual salary to actively disengaged employees](https://www.gallup.com/workplace/285674/improve-employee-engagement-workplace.aspx).
 

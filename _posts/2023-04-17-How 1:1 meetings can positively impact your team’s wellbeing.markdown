@@ -11,7 +11,7 @@ redirect_from:
 layout: post
 ---
 
-*Disclaimer: This is a guest post from our friends at [Strateamic](https://strateamic.com). They know a lot about 1:1s and have built a great product to facilitate them. Feel free to reach out to them at [hello@strateamic.com](mailto:hello@strateamic.com).*
+*This is a guest post from our friends at [Strateamic](https://strateamic.com). They know a lot about 1:1s and have built a great product to facilitate them. Feel free to reach out to them at [hello@strateamic.com](mailto:hello@strateamic.com).*
 
 The world of work has undergone a seismic shift in recent years, with the rise of hybrid and remote teams becoming the new norm. While this transition has brought with it numerous benefits, such as increased flexibility and productivity, it has also highlighted the importance of employee well-being. These days, it’s important that companies prioritize the well-being of their employees to ensure that they are able to perform at their best and maintain a healthy work-life balance.
 

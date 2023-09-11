@@ -13,6 +13,10 @@ redirect_from:
 permalink: /agile-retrospectives
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 In an Agile team, work is punctuated by different team meetings and rituals, in particular: the [sprint planning](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), [standup daily meetings](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html), the sprint review, and the retrospective.&nbsp;
 
 The main objective of an Agile retrospective is to identify potential improvements in the way the team works, based on the past weeks’ events. Thus, their success is essential for the well-being (and functioning) of the team in the long run. However, they require a great deal of preparation and some key success factors.
@@ -135,5 +139,9 @@ Finally, you should consider these actions as fully-fledged tasks. You can even 
 ## Conclusion
 
 Retrospectives help identify the small "pebbles in the shoe" of your team that, if unaddressed, can become real frustrations and brakes to the overall productivity. They don’t have to shake everything up. Common actions such as reviewing the DoD (Definition of Done) or changing the time of the daily meeting can have a real positive impact in the long run\!
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
 
 <small><em>Photo by <a target="_blank" href="https://unsplash.com/@marcbustier?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Marc Bustier</a> on <a target="_blank" href="https://unsplash.com/s/photos/steps-sand?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

@@ -14,6 +14,11 @@ permalink: /agile-teal-organizations
 redirect_from:
 layout: post
 ---
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 The more I think about the principles of [Radical Agility](https://blog.teammood.com/radical-agility), the more I see how they relate to the three [pillars of Teal organizations](https://blog.teammood.com/liberating-leadership)\: self-management, wholeness, and self-evolutionary purpose.
 
 * Individuals and interactions (over processes and tools) → Wholeness & Self-management
@@ -48,3 +53,7 @@ In (fake) Agile, the vision usually belongs to the Product Owner. I like to say 
 Instead, individuals are in search of alignment between who they are, what they do, how they contribute to their team and to their company. This is where a tool like [Business models for teams](https://www.businessmodelsforteams.com/) can be of great help."
 
 Implementing Agile principles, or worse, the SAFe Framework, can become quite dogmatic in some companies. Organizations and their leaders must be careful to remain (or become) living systems, relevant for the world we live in and a fertile ground for the individuals that compose them.
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>

@@ -13,6 +13,10 @@ redirect_from:
 permalink: /radical-agility
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 The idea of “Radical agility” was first conceptualized by three Agile experts, [Jean-Pascal Boignard](https://www.linkedin.com/in/jean-pascal-boignard/){: target="_blank" rel="noopener"}, [Claude Aubry](https://www.aubryconseil.com/){: target="_blank" rel="noopener"}, and [Anthony Cassaigne](https://www.linkedin.com/in/acassaigne/){: target="_blank" rel="noopener"}. This concept aims at refocusing agility on its original values while extending it to current preoccupations in order to better prepare for the future. As defined by its creators, radical agility encompasses three dimensions:&nbsp;&nbsp;
 
 * the social,
@@ -132,6 +136,9 @@ The three experts recommend starting small. “If you share the values of radica
 
 The website itself is **a firefly illuminating these values, hoping that it will turn into a sun.**
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
 
 <small><em>Header picture by [Julius Holstein](https://www.pexels.com/fr-fr/@julius-holstein-731621?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){: target="_blank" rel="nofollow"} from [Pexels](https://www.pexels.com/fr-fr/photo/athletes-equipe-gens-individus-1627960/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels){: target="_blank" rel="nofollow"}</em></small>
 

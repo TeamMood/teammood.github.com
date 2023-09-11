@@ -12,6 +12,10 @@ keywords: >-
   meeting best practices, agile stand up best practices
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 The Daily Meeting (or Daily Scrum) is one of the key elements of Scrum and some other agile methods. It is set to happen every day of a Sprint (= a set period of time during which specific work has to be completed) in order to foster **communication and collaboration between the whole team**. In order to be effective, a Daily standup Meeting should follow these 8 rules.
 
 # 8 rules to run effective Daily Standup Meetings:
@@ -91,3 +95,7 @@ Want to discover how TeamMood can help you improve your Daily Meetings?
 Read the full success story [here](https://www.teammood.com/wp-content/uploads/2019/01/Success-story-banque-en.pdf) or [try TeamMood for free](https://www.teammood.com/en/continuous-improvement/).
 
 <small><em>Thank you <a href="https://www.linkedin.com/in/andycleff/">Andy Cleff</a> and <a href="https://www.linkedin.com/in/rene-martinussen-a3418216/">Rene Martinussen</a> for your comments and edits of the article.</em></small>
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>

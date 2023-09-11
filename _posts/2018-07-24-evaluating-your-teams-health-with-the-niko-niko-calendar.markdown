@@ -9,6 +9,10 @@ keywords: >-
   team health, team morale, niko niko calendar online
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 Would you go out of your house with a rain coat if it wasn’t for the weather forecast to warn you of the rain coming up? How about the stock market: would you invest in shares without checking their values and trend? Probably not.
 
 In team management, you can have all sorts of KPIs to measure and display how well your team is doing: productivity, lead time, bugs, … Tracking those metrics helps the team to identify problems early and improve. The only one that is missing is the actual mood and motivation of your team members. And I don’t need to tell you [how important it is for the good of the project](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)\!

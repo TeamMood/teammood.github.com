@@ -10,6 +10,10 @@ excerpt: >-
 keywords: 'Team Health Check, Squad Health Check model'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 ## Importance of a team health check
 
 Great success and achievements do not come overnight, and are rarely the result of a person alone, but rather by a group of individuals what we commonly call a “team”.
@@ -117,4 +121,11 @@ I’m still amazed by the fact that however simple the concept of Team Health Ch
 
 [Run Your First Team Health Check](https://www.teammood.com/en/continuous-improvement/){: .button}
 
-*Thank you to James Willis for his previous comments and review of the article.<br>Illustrations from&nbsp;[https://undraw.co](https://undraw.co){: target="_blank"}*
+*Thank you to James Willis for his previous comments and review of the article.*
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
+<small>*Illustrations from&nbsp;[https://undraw.co](https://undraw.co){: target="_blank"}*</small>
+

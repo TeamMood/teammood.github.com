@@ -9,6 +9,10 @@ excerpt: >-
   retrospectives!
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 Knowledge is good, but you still need to act on it. Many of our customers have asked us advice on how to make the best use of the data collected thanks to TeamMood. So, here comes a compilation of the best practices to leverage TeamMood and have a real impact on your team.
 
 ### Giving the floor to team members during daily meetings…
@@ -56,4 +60,8 @@ This way, he can directly pinpoint his efforts to the most recurring and urging 
 
 ### Attract undecided candidates
 
-You can also use TeamMood to convince a potential hire to join your team. [Learn more…](https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html)
+You can also use TeamMood to [convince a potential hire to join your team](https://blog.teammood.com/2019/04/16/convincing-candidates-to-join-your-team.html).
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>

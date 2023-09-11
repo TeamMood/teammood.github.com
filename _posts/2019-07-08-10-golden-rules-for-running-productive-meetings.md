@@ -7,6 +7,10 @@ excerpt: A 10-point checklist to drastically improve your meetings
 keywords: 'meetings, productivity, rules'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 Do you know how much time you spend on meetings? According to [Atlassian](https://www.atlassian.com/time-wasting-at-work-infographic), most employees attend 62 meetings in a month on average, half of which are considered “time wasted”. In total, **31 hours a month wasted** on unnecessary meetings account for **$37 Billion of salary loss** for U.S. businesses.&nbsp;
 
 To avoid pouring money (and hours) down the drain, here is a list of **10 best practices to improve your meetings.**&nbsp;
@@ -62,5 +66,9 @@ Cell-phones and computers can be a great source of distraction. According to a [
 If you’ve prepared your meeting carefully, your objectives for each topic should be clearly defined and charged with all the attendees. While wrapping up each topic, make sure you capture the key points and action items, and clearly define who is in charge of each action. At the end of the meeting, send the minutes and follow up on the actions that were decided.
 
 I can assure you that if you try to adopt some of these rules, your meetings will drastically improve. Feel free to **share your difficulties and successes in the comment section**&nbsp;below.
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
 
 <small><em>Photo by&nbsp;</em><a href="https://unsplash.com/@dylandgillis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Dylan Gillis</em></a> <em>on&nbsp;</em><a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"><em>Unsplash</em></a></small>

@@ -7,6 +7,10 @@ excerpt: 'Discover one of our favorite retrospective formats: the emotional seis
 keywords: retrospectives emotional seismograph
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 [Retrospectives](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html){: target="_blank"} are fundamental to Agile teams, and very important to all kinds of organization that wants to adapt over time and continuously improve the way they work. 
 
 The principle is simple: every set of time (a sprint or a period you decide), the team gathers to reflect on what happened in the timeframe and to identify actions for improvement going forward.
@@ -30,3 +34,7 @@ Some moods can be the result of personal events, which means that the team canno
   {% include get-retro-canvas.html %}
 <hr/>
 {:/nomarkdown}
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>

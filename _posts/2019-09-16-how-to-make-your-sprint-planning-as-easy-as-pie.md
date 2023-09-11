@@ -9,6 +9,10 @@ excerpt: >-
 keywords: 'meetings, agile, sprint planning, Scrum'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 In Agile methodologies, one of the most important meetings along with the [daily standup](https://blog.teammood.com/2018/04/18/best-practices-to-run-effective-daily-standup-meetings.html){: target="_blank"} and the [retrospective](https://blog.teammood.com/2018/02/07/a-simple-guide-to-run-agile-retrospectives.html){: target="_blank"} is the **sprint planning**. Its objective: getting a shared understanding of what there is to be done for the time of the sprint, and how to do it. The functionalities that are supposed to be developed are defined in “user stories”, a simple sentence that describes it including 3 elements: who? what? Why? It looks like this: “As a customer, I want to add an item to my shopping cart so that I can buy it.”
 
 Many Agile teams dread this moment, as they find it difficult to divide up the work into well-defined stories that are achievable during the sprint. But with some advice and a little practice, you’ll soon find it as easy as pie\!
@@ -52,3 +56,7 @@ Preparing the sprint planning can be more difficult than it seems. Two usual tra
 However well prepared the sprint planning may be, discussions around the complexity assessment can easily veer off track when people disagree. Be careful not to let the discussion move on to technical details or endless arguing about complexity levels. The time spent on a user story shouldn’t exceed 10 minutes or so. Make sure that everyone participates. The animation of the sprint planning relies on the scrum master – he/she has to make sure that the most “mouthy” team members don’t hog the debate.&nbsp;
 
 If you apply these pieces of advice, I can assure you your sprint planning will run more smoothly. Let us know how the next one goes in the comment section below\!
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>

@@ -11,6 +11,10 @@ canonical_url: >-
   https://easyretro.io/blog/who-should-and-should-not-be-included-in-a-sprint-retrospective/
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 If run well, a sprint retrospective can help the project team identify areas for improvement for individual roles as well as discuss how to work better as a team. If run poorly, the meeting can turn into a bashing session which ultimately results in missed opportunities for growth.
 
 ## Collaboration: The Essence of a Good Spring Retrospective
@@ -45,16 +49,14 @@ The meeting should be a “safe place” where the Scrum team discusses their re
 
 ## Tips for Product Owners in a Sprint Retrospective
 
-* Be part of the Scrum Team
+* **Be part of the Scrum Team:** As stated above, there are instances where product owners are not invited in the sprint retrospective. If you are a product owner and you’re not being invited to the meetings, discuss this issue with the team first. If you are deliberately not attending the meetings, you are wasting opportunities to strengthen your relationship with them.
 
-As stated above, there are instances where product owners are not invited in the sprint retrospective. If you are a product owner and you’re not being invited to the meetings, discuss this issue with the team first. If you are deliberately not attending the meetings, you are wasting opportunities to strengthen your relationship with them.
+* **Take part in the discussions:** If you are already attending the meeting, make sure to take part in the discussions in the improvement of the team’s work. If you have any concerns, say it constructively. Don’t attend just to tell everybody what to do.
 
-* Take part in the discussions
-
-If you are already attending the meeting, make sure to take part in the discussions in the improvement of the team’s work. If you have any concerns, say it constructively. Don’t attend just to tell everybody what to do.
-
-* Talk about what went well
-
-Most teams only discuss the negative issues during sprint retrospectives but it’s important to talk about the good stuff as well. Dwelling too much on the negative can decrease team morale. "If your retrospective is an hour long and the whole hour is about what went wrong, no one is going to eagerly participate in them going forward." - Marco Corona for Agile Connection
+* **Talk about what went well:** Most teams only discuss the negative issues during sprint retrospectives but it’s important to talk about the good stuff as well. Dwelling too much on the negative can decrease team morale. "If your retrospective is an hour long and the whole hour is about what went wrong, no one is going to eagerly participate in them going forward." - Marco Corona for Agile Connection
 
 **About the author:** *This is a guest post by the folks at [EasyRetro](https://easyretro.io){: target="_blank"} (previously FunRetro). They know a lot about retrospectives, go check them out.*
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>

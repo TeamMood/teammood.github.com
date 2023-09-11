@@ -9,3 +9,4 @@ gem 'jekyll-paginate'
 gem 'nokogiri'
 gem 'fastimage'
 gem 'jekyll-webp'
+gem "webrick", "~> 1.8"

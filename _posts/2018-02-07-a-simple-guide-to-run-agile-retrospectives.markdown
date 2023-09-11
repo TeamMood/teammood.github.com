@@ -12,6 +12,10 @@ keywords: >-
   scrum, xp
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 In our ever-evolving environment, we hear more and more about Scrum, XP, and other Agile methods. If they have their differences, they all have in common one principle: teams must adapt over time and continuously improve the way they work. And **retrospectives** are the cornerstone to this principle.
 
 # What is a retrospective?

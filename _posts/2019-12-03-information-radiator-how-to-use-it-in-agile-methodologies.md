@@ -15,6 +15,10 @@ redirect_from:
 permalink: /information-radiator
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 You are convinced that representing project key information in an information radiator can be beneficial in an Agile organization, and you’d like to know how to implement it in your Scrum team? In this article, we explain in detail the requirements for an efficient and agile Information Radiator. We also prove how it can be beneficial for your organization, and explain how to exploit its data in a Scrum team.
 
 Table of content:
@@ -104,5 +108,9 @@ By using a [tool](https://www.teammood.com/en/agile-retrospective-tools-ideas/) 
 **Conclusion&nbsp;**
 
 An information radiator culture can improve collaboration within the team, with other Scrum teams, and other parts of the organization. It can also help the Agile team adopt deeper ownership of its processes, of its decisions, and of the product. So, what are you waiting for?
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
 
 <small><em>Main illustration by&nbsp;<a target="_blank" href="https://unsplash.com/@joszczepanska?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jo Szczepanska</a>&nbsp;on&nbsp;<a target="_blank" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

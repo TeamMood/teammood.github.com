@@ -12,6 +12,11 @@ canonical_url:
 redirect_from:
 permalink: /retrospective-tools-2021
 ---
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
+
 Our [best off list for 2020](https://blog.teammood.com/retrospective-tools)&nbsp;was so successful that we decided to update it for 2021.
 
 Indeed, choosing the right tool can make all the difference for your [Agile retrospectives](https://blog.teammood.com/agile-retrospectives). With remote working being the new norm for most companies around the world, choosing the right Agile retrospective tool (or switching between a handful of them) can help enhance your retrospectives, better organize them, boost participation and improve the follow-up after the meeting.
@@ -268,6 +273,10 @@ Website: [Retros.work](https://retros.work/){: target="_blank"}
 
 <p><img alt="ScrumBuddy, retrospective tool" width="1200" height="910" src="/uploads/scrumbuddy.png" /></p>
 
+<hr>
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/agile-hub/">This article belongs to our <span>Agile Content Hub</span> and includes 21 articles and interviews about retrospectives, sprint planning, dailies, and best practices.</a>
+</section>
 
 {::nomarkdown}
 <hr/>

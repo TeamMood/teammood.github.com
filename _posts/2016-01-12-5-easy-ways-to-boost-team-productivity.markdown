@@ -11,6 +11,10 @@ keywords:
   - well­being at work
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 As studies have shown time and time again, [happy teams are productive teams](http://www2.warwick.ac.uk/newsandevents/pressreleases/new_study_shows/). So if you want to boost your team’s productivity, team happiness is definitely one of the goals that you should be setting yourself. It’s not just a matter of teamwork. When people are happy&shy; they work better and faster, whether as a team [or as individuals](http://www.inc.com/jessica-stillman/happiness-makes-your-brain-work-better.html).
 
 So now you know how to boost your team’s productivity. Make them happy. How do you make them happy? Here are a few ways.
@@ -52,3 +56,7 @@ And how does the team to that? By prioritizing. But how does your team know what
 Successful teamwork – and one of the keys to happy teams – is delegation. You can’t do everything yourself, and you shouldn’t have to. Share responsibilities with your key workers, give tasks to individuals and share the workload in general with your team, and not only will it be easier for you to get your job done, they will feel more appreciated and trusted. And team members that feel like the team leader trusts them&shy; will try harder.
 
 All in all, you see that making people feeling better at the workplace can be pretty easily done.
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

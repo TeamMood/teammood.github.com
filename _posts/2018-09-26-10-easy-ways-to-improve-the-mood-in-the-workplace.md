@@ -9,6 +9,10 @@ excerpt: >-
 keywords: improve mood workplace
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Your team’s mood depends on hundreds of criteria – many of whom you can’t control. But some simple gimmicks can lighten the mood and generate a better spirit in the long term, with little investment from your part.&nbsp;
 
 Here are some **simple and concrete ways to improve your team’s mood**.
@@ -75,8 +79,11 @@ Taking on some personal projects can provide an energizing break from regular re
 
 If you grant some free time to your employees to work on personal projects, some may lead to new ideas for the company, most of them will probably not. But most of all, you are giving them a breath of fresh air they will be thankful for.
 
-&nbsp;
 
 Your turn now. **Have you implemented any other technique to improve your team’s mood?**
 
 [Tell us by starting a discussion on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}
+<br>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

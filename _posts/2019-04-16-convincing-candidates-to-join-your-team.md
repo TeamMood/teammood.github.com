@@ -11,6 +11,10 @@ keywords: >-
   level
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 You screened hundreds of CVs, had a lot of recruitment interviews, presented her•him to the team, negotiated the offer, and you finally found the perfect candidate.
 
 But s•he is having second thoughts?
@@ -33,10 +37,15 @@ The Robin's team is mainly happy, with some rough periods, as all teams have. Bu
 
 Now, Robin systematically shows the TeamMood's history to new candidates, so that they can see what happened and how it has been handled. No more bad surprises ;)
 
-*Header picture by [Tim Mossholder](https://unsplash.com/photos/GOMhuCj-O9w?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/hiring?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).*
-
 {::nomarkdown}
 <hr/>
   {% include get-retro-canvas.html %}
 <hr/>
 {:/nomarkdown}
+
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
+<small><em>Header picture by [Tim Mossholder](https://unsplash.com/photos/GOMhuCj-O9w?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/hiring?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).</em></small>

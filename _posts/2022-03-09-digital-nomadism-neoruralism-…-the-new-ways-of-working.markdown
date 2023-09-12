@@ -12,6 +12,11 @@ permalink: /digital-nomadism-neoruralism-working
 redirect_from:
 layout: post
 ---
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 The trend was already there to free oneself from the physical constraints of a job to work from anywhere: across the country, on the other side of the planet, even while traveling as a [digital nomad](https://www.systancia.com/en/definition-digital-nomadism/){: target="_blank" rel="noopener"}. But if this flexibility was confined to freelance roles and to startups and tech companies looking to attract the best profiles, the widespread use of telecommuting due to the pandemic has reshuffled the cards of work.
 
 ## **The appeal of digital nomadism**
@@ -59,5 +64,9 @@ More than a will to move, the pandemic and The Great Resignation have hailed [a 
 * fair and decent with safe working conditions”
 
 The coming years will be decisive for the future of work.
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <small><em>Header picture by <a target="_blank" rel="noopener" href="https://unsplash.com/@mantashesthaven?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Mantas Hesthaven</a> on <a target="_blank" rel="noopener" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

@@ -9,6 +9,10 @@ excerpt: >-
 keywords: 'management, issues, engagement, feedback, teammood'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 In the workplace, no challenge is more complex than human relationships. Managing a team requires an incredible amount of so-called “soft-skills” that unfortunately aren’t taught at school: empathy, communication, leadership, intuition, trust, self-improvement, and more.&nbsp;
 
 In our ever-evolving, complex environment, doing a good job at managing your team can be quite a challenge. Luckily, [TeamMood](http://teammood.com){: target="_blank"} can help you dissolve some of the most common management issues you may encounter:
@@ -57,5 +61,7 @@ By inverting the streams and listening to their team members, managers can:
 Want to try it for yourself?
 
 <a class="button" target="_blank" href="https://www.teammood.com/en/continuous-improvement/">Discover TeamMood</a>
-
 &nbsp;
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

@@ -7,6 +7,10 @@ excerpt: Some tips of what you need to do when people are feeling good.
 keywords: improve well-being, gratitude, culture, team
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Around [88% of employees and 94% of executives](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-core-beliefs-and-culture.pdf) say that they believe company culture is crucial to success. If you want to create a powerful environment for your business, then you need to be willing to prize and prioritize the right ideas for your employees. For instance, one value worth cultivating is "gratitude". Employees who are thankful for where they are and what they accomplish will constantly go above and beyond to serve their employers.
 
 The question is, how do you bring a culture of gratitude into your workplace? The following steps could help.
@@ -55,4 +59,8 @@ A team should have clear, achievable milestones with a good plan, eg prioritized
 
 **About the author**: *Raj Jana is the CEO of [JavaPresse](https://www.javapresse.com/pages/subscriptions-gifts) and a strong advocate of the power of company culture. He enjoys sharing his advice on how to build a successful company and often uses his experiences to help him write insightful articles for blogs across the internet. Company culture has quickly become one of the most important components of a successful business. After all, your people can either make or break your company. If they're happy and satisfied with their jobs, then they're sure to be more productive and focused in their roles. On the other hand, if they're constantly looking forward to the moment that they can clock out and go home, then your organization will struggle to thrive.*
 
-*Kuddos to [Tobias Flanders](https://www.linkedin.com/in/tobias-flanders-5a031656/){: target="_blank"}&nbsp;and [Emily Sattout](https://www.linkedin.com/in/emily-sattout-4a03b77b/){: target="_blank"} for the comments and edits of the article* 🙌
+*Kudos to [Tobias Flanders](https://www.linkedin.com/in/tobias-flanders-5a031656/){: target="_blank"}&nbsp;and [Emily Sattout](https://www.linkedin.com/in/emily-sattout-4a03b77b/){: target="_blank"} for the comments and edits of the article* 🙌
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

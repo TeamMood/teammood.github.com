@@ -9,6 +9,10 @@ excerpt: >-
 keywords: 'Management, leadership, benevolent'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 *This article is a translation of a [French article](https://www.linkedin.com/pulse/osez-le-management-bienveillant-julien-rigoulay/){: target="_blank"}, written by [Julien Rigoulay](https://www.linkedin.com/in/julienrigoulay/){: target="_blank"}.*
 {: .present-before-paste}
 
@@ -90,5 +94,9 @@ Fostering this perspective requires managers who know how to listen. When an emp
 <br>Many changes have to be made before benevolent leadership can become more than just a good intention. The outdated practices of previous generations will no longer suffice. If companies fail to adapt their approach, productivity will decline. Balance has become all important in the employee-company relationship: managers will have to step up their efforts to implement benevolence if they want to grow company profits!
 {: .present-before-paste}
 
-What about you, have you taken the plunge? Share your experience in the comments section below!<br> 
+What about you, have you taken the plunge? Share your experience in the comments section below!
 {: .present-before-paste}
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

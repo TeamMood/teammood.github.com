@@ -13,6 +13,10 @@ redirect_from:
 permalink: /employee-loyalty
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 While employees used to make a career in the same company a few decades ago, the [median number of years](https://www.bls.gov/news.release/tenure.nr0.htm){: target="_blank"} that workers have dedicated to their current company is currently 4.6 years – 3.2 years for workers aged 25 to 34. Are workers less loyal to their employers than they used to be? Are expectations shifting?&nbsp;
 
 One thing is sure: **hiring and training new employees is costly for companies**. Understanding what makes your best talents loyal to your company can’t help but improve your internal (and external functioning) in the long run\!
@@ -48,5 +52,9 @@ The world of business can make us to forget who we are in the first place: human
 For instance in France, some 250 companies have signed a “[Parental Act](https://www.parentalact.com/fr){: target="_blank"}”, offering at least 4 weeks of paid leave to the second parent of a newly born child – quite a revolution for most OECD countries. Not only will this initiative participate in restoring greater equality between men and women in terms of salaries, recruitment, and career management, but it will also help new parents live this new challenge more at ease. And I can assure you that a dad who can spend the first weeks by his new-born child and wife will truly appreciate the gesture.
 
 In the end, team members will always have personal interests in staying at your company or taking up new challenges. Don’t consider resigning as a betrayal. If you’ve followed all the points above, your team members will keep their sense of loyalty beyond your company walls. They may end up as clients, business partners, referrers for candidates, … who knows\!
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <small><em>Photo by&nbsp;<a target="_blank" href="https://unsplash.com/@chrisliverani?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Liverani</a>&nbsp;on&nbsp;<a target="_blank" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

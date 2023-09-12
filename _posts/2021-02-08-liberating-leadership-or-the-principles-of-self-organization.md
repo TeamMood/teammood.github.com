@@ -12,14 +12,16 @@ redirect_from:
 permalink: /liberating-leadership
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 *As an agile coach for many years and the founder of TeamMood, I have been wondering and inquiring about different types of organizations over the years. Indeed, over the years, agile has become a dogma in many organizations, blindly following the principles of methodologies like Scrum, SAFe or XP, thus distorting the very principles of the Agile Manifesto. Following my last article on&nbsp;*[*Radical agility*](https://blog.teammood.com/radical-agility)*, I wanted to go a step further and share some thoughts on “Teal organizations”, a concept explained by Frederic Laloux in his book&nbsp;*[*Reinventing Organizations*](https://www.reinventingorganizations.com/){: target="_blank" rel="noopener"}*. Could this concept help companies realign with the Agile Manifesto?*
 
 *This article doesn’t claim to summarize nor detail the niceties of such organizations. It is merely an introduction to the book based on my understanding, aiming at convincing its readers to peruse Frederic Laloux’s full manuscript (or its illustrated version , much more digestible, if you ask me).*
 
-<style type="text/css">div.a {
+<style>div.a {
 	text-align: center;
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 }</style>
 
 \*\*\*
@@ -66,12 +68,14 @@ Does that sound crazy to you? Utopian? Unrealistic? Yet dozens of companies arou
 
 \*\*\*
 
-<style type="text/css">div.a {
+<style>div.a {
 	text-align: center;
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 }</style>
 
 *Thanks to [Adrien Tardif](https://www.linkedin.com/in/adrien-tardif-3127302a/){: target="_blank" rel="noopener"} for his comments 🙏.*
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <small><em>Header picture by </em></small><small><em><a target="_blank" rel="nofollow" href="https://unsplash.com/@karim_manjra?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Karim MANJRA</a> on <a target="_blank" rel="nofollow" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

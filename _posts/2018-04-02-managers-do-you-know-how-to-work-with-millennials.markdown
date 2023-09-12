@@ -8,6 +8,10 @@ keywords: millenials, management, millenials management, millenials managers, mi
   expectations
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 The key motivation factors in the workplace have shifted along generations, from job security to promotions and career evolution. But more recently, even high paychecks and bonuses don’t seem to matter that much for the new generation. 
 
 # Managing millennials: a new challenge
@@ -64,7 +68,11 @@ In this futuristic world, managers are conductors of a multi-located team of wor
 
 **Managers, be prepared: your job is about to change drastically.**
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
-<small>*Special thanks to our hipster friends, [Tristan Laffontas](https://www.linkedin.com/in/tristanlaffontas/) and [Nicolas Noullet](https://www.linkedin.com/in/noullet/), for their feedback on this article.*</small>
+*Special thanks to our hipster friends, [Tristan Laffontas](https://www.linkedin.com/in/tristanlaffontas/) and [Nicolas Noullet](https://www.linkedin.com/in/noullet/), for their feedback on this article.*
+
 
 

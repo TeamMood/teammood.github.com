@@ -8,13 +8,17 @@ excerpt: Feeling the deadlines and work stress build up? Take back control with 
 keywords: reduce stress at work
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Overwhelmed. Nervous. Exhausted. Agitated. Pained. All at once.
 
 Yep, if you’re like, well, pretty much every worker ever, you know what we’re talking about: stress. No matter your job, work stress is like the zero on a roulette wheel: it’s coming around eventually.
 
 Luckily, as a species we’ve developed a host of strategies — large and small — for managing stress. We’re going to share 12 with you. Why 12? Because it’s the least stressful number, of course!\*
 
-\*Note: scientific backing for this may be minimal.
+*\*Note: scientific backing for this may be minimal.*
 
 ## 1. The Biggies: Sleep, Eat right, Exercise
 
@@ -97,3 +101,7 @@ There are lots of ways to do this. Keep a gratitude journal. Force yourself to s
 Whichever of these you choose, keep doing it. In a short period of time, you’ll notice how much better you feel.
 
 **About the author**: *This is a guest post by the folks at [ClickTime](https://www.clicktime.com/). They know a lot about the stress stuffs as they work on time management.*
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

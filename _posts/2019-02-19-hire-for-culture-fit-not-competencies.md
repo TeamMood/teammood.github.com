@@ -10,6 +10,10 @@ excerpt: >-
 keywords: 'Management, hiring, culture, values'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 In the relentlessly competitive global climate, the key to success in business isn’t what you do but how you do it. Providing the best product or service isn’t enough – you need to differentiate yourself from the competition at team, department and company level. But how? That’s where your company culture can make all the difference.
 
 ## Aligning your culture and brand
@@ -44,3 +48,8 @@ Hiring for culture fit involves defining your company, department or team cultur
 Have you defined your company/department/team culture? Do you leverage it in your hiring process? 
 
 [Tell us by starting a post on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}
+
+<p></p>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

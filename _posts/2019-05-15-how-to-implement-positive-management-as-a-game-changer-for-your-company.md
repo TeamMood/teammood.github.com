@@ -9,6 +9,10 @@ excerpt: >-
 keywords: 'positive management, well-being, workplace'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 If you’re reading this blog, you are probably aware of the **benefits of fostering [well-being in the workplace](https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html)**, in terms of employee engagement and productivity.
 
 *(Note that we talk about well-being rather than happiness, which would be rather presumptuous as happiness depends on a number of factors that companies and managers cannot control).*
@@ -49,4 +53,8 @@ And to measure the positive impact of all these changes on your teammates, you c
 
 If you feel some of these pieces of advice were especially useful to you, feel free to highlight them in the comment section and to share them on your favorite social media 😉&nbsp;
 
-*Photo by&nbsp;[Pineapple Supply Co.](https://unsplash.com/photos/qWlkCwBnwOE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)*
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
+<small><em>>Photo by&nbsp;[Pineapple Supply Co.](https://unsplash.com/photos/qWlkCwBnwOE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)&nbsp;on&nbsp;[Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)</em></small>

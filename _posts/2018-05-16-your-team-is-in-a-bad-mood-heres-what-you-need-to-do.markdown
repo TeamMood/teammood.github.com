@@ -7,6 +7,10 @@ excerpt: Some tips of what you need to do when people are feeling bad.
 keywords: bad mood, improve well-being
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Either you are sensing there is an issue in your team or you are using a <a href="https://www.teammood.com/">tool</a> that tells you so, you can’t afford to ignore it. Indeed, <a href="https://blog.teammood.com/en/2017/03/07/wellbeing-at-work-the-benefits-of-happiness-in-the-workplace.html">a bad mood will affect your team productivity</a>: unhappy people are proven to be **10% less productive** than usual. 
 
 So, if a bad situation arises, here is what you need to do.
@@ -51,4 +55,10 @@ Simply by acknowledging their issues and recognizing their effort and/or results
 
 In my next article, I will share my advice on how to react to a good mood, instead of resting on one’s laurels. <!-- Subscribe to our newsletter to receive our articles directly in your inbox!-->
 
-<a class="button" href="https://www.teammood.com/">Start Using TeamMood To Monitor The Mood Of Your Team</a>
+<p>
+    <a class="button" href="https://www.teammood.com/">Start Using TeamMood To Monitor The Mood Of Your Team</a>
+</p>
+<br>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

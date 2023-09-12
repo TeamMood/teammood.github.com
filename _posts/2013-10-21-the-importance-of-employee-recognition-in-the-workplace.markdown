@@ -10,6 +10,10 @@ comments: true
 image: images/headers/field.jpg
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 According to the Canadian HR Council[^1], employee recognition is the "the acknowledgement of an individual or team's behavior, effort and accomplishments that support the organization's goals and values." 
 
 Employee recognition usually takes a couple of forms, either informal or formal. Informal recognition is very spontaneous and helps encouraging certain behaviors that you want to reinforce in the workplace. On the other hand, formal recognition takes place when employees or departments are rewarded for exceeding strategic goals and objectives. 
@@ -39,6 +43,10 @@ It goes without saying that employee recognition will have a positive impact on 
 Employees who are intrinsically motivated by their job will achieve more in a shorter amount of time. Teamwork will be enhanced within and across departments. By establishing the right culture, employees will be inclined to share their innovative ideas to improve a particular process or create a brand new product. The possibilities are endless, and the upside potential for your bottom line is unlimited.
 
 To understand the importance of employee recognition, one must understand the psychology behind it. Whichever their level in the organizational chart, people like to be valued for their contribution. One of the components of an amazing workplace is the gratitude towards every single employee. Unfortunately, appreciation is often undervalued in organizations of all sizes. However, as one of the most powerful management technique, employee recognition should be a no-brainer.
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 [^1]: [http://hrcouncil.ca/](http://hrcouncil.ca/)
 [^2]: [http://www.glassdoor.com/index.htm](http://www.glassdoor.com/index.htm)

@@ -7,6 +7,10 @@ excerpt: Some tips of what you need to do when people are feeling good.
 keywords: good mood, improve well-being
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Is happiness in the air? Are your teammates smiling and joking around? Is your team productivity skyrocketing? Congratulations, your team is in a good mood! And the results are there: your team delivers in no time, the job is well-done, they are more creative and thorough… The dream comes true :)
 
 So, what’s next? If you rest on your laurels and hope for the situation to go on forever, you will most certainly be disappointed. Just like [when your team is experiencing a bad mood](https://blog.teammood.com/2018/05/16/your-team-is-in-a-bad-mood-heres-what-you-need-to-do.html), you must understand the causes for this happy mood in order to keep it going.
@@ -45,3 +49,8 @@ As a manager, you can [boost wellbeing and happiness at work](https://blog.teamm
 And more than anything else, don’t forget to take the time to celebrate successes or good news with your team. These moments of commemoration and gratitude are essential to keep your team’s motivation up and pave the way to new challenges.
 
 Of course, you cannot manage everything, some external sources can cause a happy or bad mood, beyond your control. The best thing you can do? <a href="https://www.teammood.com/">Ask your team members</a>.
+
+<p></p>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

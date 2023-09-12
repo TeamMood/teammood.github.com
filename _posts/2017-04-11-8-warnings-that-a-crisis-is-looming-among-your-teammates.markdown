@@ -11,6 +11,10 @@ keywords:
 - Team worker
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 My mum always told me: the most difficult thing about the workplace is not the work itself, but the relationships. Indeed, according to a [study](http://img.en25.com/Web/CPP/Conflict_report.pdf) conducted in 2008 in Europe, the US and Brazil, 85% of employees at all levels experience some degree of conflict.
 
 If conflict is not dealt with as it arises, months or years of tension and unspoken conflict will take a toll on teamwork, and can eventually degenerate into an open altercation. I have even witnessed a situation in which years of frustration, lack of understanding, and unspoken tension ended in moral harassment charges. **Burying your head in the sand is never a solution.**
@@ -67,3 +71,6 @@ Whether you’ve noticed some of these signs or not, you should always strive to
 
 In the next article, we will provide some of the solutions that can prevent or resolve a crisis in the workplace. **Subscribe to our newsletter and receive the article directly in your inbox** (and only our articles).
 
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

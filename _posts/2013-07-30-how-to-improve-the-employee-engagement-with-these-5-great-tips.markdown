@@ -9,6 +9,10 @@ comments: true
 image: images/headers/spring-flowers.jpg
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Each company works hard towards improvement.
 
 As time pass by, business keeps on improving and keeps on growing which opens great chances of hiring people. These people will play a big role for the growth of the business. Being an employee, you must possess a qualification that each company requires. You must be a happy people, willing to do the work, begin the engagement as an action not as survey, and you must know how to engage yourself from the bottom and not to the top.
@@ -30,3 +34,7 @@ But why is it that employees need to be engaged at work? There is a good objecti
 Being a **good facilitator** in managing a company is also a scalable approach to making every detail of the task well streamlined thus [maximizing efficiency and resolving conflicts](/2019/03/29/why-doing-team-health-checks.html).
 
 Following the tips above will help you become a good example. At the same time, it will create a better result of being productive at work. Above all, dedication and strategic management are keys to reach success.
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

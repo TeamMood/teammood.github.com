@@ -11,6 +11,11 @@ canonical_url:
 redirect_from:
 permalink: /teammood-voice-erika
 ---
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Erika is Team Engagement Manager and Health & Wellbeing Champion at a global pharmaceutical company. As such, her main focus is to support the health and wellbeing and continuous development of her teams. In her own words, she is *“passionate about ensuring \[her\] colleagues have the tools needed to look after themselves and their teams*”. A colleague recommended TeamMood and after seeing the ease of use, Erika’s manager agreed to implement the tool, and they never looked back.
 
 ## **Fostering honest feedback**
@@ -43,10 +48,12 @@ Erika is so enthusiastic that she advertises us to everyone who could benefit fr
 
 *Disclaimer: This is Erika’s personal story about her experience using the tool and does not relate to her employer or their view.*
 
-<style type="text/css">div.a {
+<style>div.a {
 	text-align: center;
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 }</style>
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <small><em>Header picture by [Artur Rutkowski](https://unsplash.com/@alienowicz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"} on [Unsplash](/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText){: target="_blank" rel="noopener"}</em></small>

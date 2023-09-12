@@ -5,6 +5,10 @@ layout: post
 image: images/headers/tools.jpg
 excerpt: Discover those not so well know tools to craft a better workplace.
 ---
+<p></p>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <blockquote>
 “Work it harder, make it better, do it faster, makes us stronger
@@ -110,3 +114,7 @@ What started as an internal tool just turned into a project all of its own. Briq
 And you, do you have other tools for wellbeing at the office you'd like to share?
 
 [Tell us on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

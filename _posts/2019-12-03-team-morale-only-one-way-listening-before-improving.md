@@ -15,6 +15,10 @@ redirect_from:
 permalink: /team-morale
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Are you worried about your team morale? Would you like to do something about it and improve its productivity? You’re in luck\!
 
 In this article, we will explain how to identify the issues at the bottom of low team morale and how to turn the tide. Are you ready for some introspection?
@@ -119,8 +123,13 @@ Likewise, true vacation time – with no work email, no phone calls, no laptop o
 
 Do you want more? We’ve listed a few extra ideas in [this article](https://blog.teammood.com/2018/09/26/10-easy-ways-to-improve-the-mood-in-the-workplace.html).&nbsp;
 
-**Conclusion**
+
+### Conclusion
 
 Doing your best to improve your team morale can prove the best investment for the future. Don’t miss the coach\!
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <small><em>Photo by&nbsp;<a target="_blank" href="https://unsplash.com/@amyhirschi?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Amy Hirschi</a>&nbsp;on&nbsp;<a target="_blank" href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

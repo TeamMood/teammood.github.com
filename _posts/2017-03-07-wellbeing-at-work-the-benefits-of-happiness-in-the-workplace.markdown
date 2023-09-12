@@ -11,6 +11,10 @@ keywords:
   - well­being at work
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 The world has never before seen such high levels of productivity – even in France with our 5 weeks of vacation – and it is very much a consequence of the digital revolution and the automatization of many tasks. But the side effects of this faster work pace are not always welcome: burnout, depression, lack of purpose… Is being “sick on the job” the scourge of our age?
 
 One thing’s for sure: a good paycheck is no longer enough to attract and retain the best talent. And companies know this: chief happiness officers, stress management coaches, and wellbeing programs are emerging to improve happiness in the workplace. So, what is actually at stake?
@@ -64,3 +68,8 @@ Contrary to what most people may think, procrastination is actually good for pro
 Set up a healthy lunch or snacks program, sponsor gym membership, dedicate a room to yoga or fitness… Did you know that exercise actually stimulates endorphins (endorphins are neurotransmitters that induce a feeling of euphoria) (what better way to get happy?).
 
 Now it’s your turn to be creative. What are your top tips for [improving well being](/2019/03/29/why-doing-team-health-checks.html) at your workplace?
+
+<p></p>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

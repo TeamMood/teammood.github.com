@@ -9,6 +9,10 @@ excerpt: >-
 keywords: 'Management, micromanagement, tips'
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Every employee needs guidance and direction in order to translate the company’s vision and strategy in his•her day to day job. That’s where managers play a key role – and good ones can really make a difference in an organization. Issues arise when someone shifts from managing to micromanaging.
 
 ## What is micromanagement?
@@ -85,3 +89,7 @@ As [Brigette Hyacinth](https://www.linkedin.com/pulse/micromanagement-make-best-
 
 
 [Start a discussion about micromanagement on LinkedIn](https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.id }}&title={{page.title | cgi_escape}}){: .button}
+<br>
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

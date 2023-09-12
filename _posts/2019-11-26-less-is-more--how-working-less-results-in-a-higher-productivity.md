@@ -8,6 +8,10 @@ keywords: 'work-life balance, productivity'
 canonical_url:
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 In a world ruled by economics, the cult of productivity is omnipresent in most companies. Productivity gurus share their rules, hacks and morning routines to newbies eager to better manage their time. Days are sliced into time slots and carefully monitored. But what if the solution was simply to work fewer hours?
 
 *“A shorter working week could improve our mental and physical health,''* [research shows](https://www.economist.com/free-exchange/2013/09/24/get-a-life). And this is far from being a novelty. At the beginning of the XXth century, Ford’s original workers were found less productive working more than 40 hours a week – a situation likely to be even more the case for people who work with knowledge rather manually. When you think about it, whoever had their best ideas when they were exhausted?
@@ -69,5 +73,9 @@ With his book [The 4-hour workweek](https://fourhourworkweek.com/), Tim Ferris h
 In his 1932 essay, “In Praise of Idleness”, British philosopher Bertrand Russel reckoned that if society were better managed the average person would only need to work four hours a day. Such a small working day would *“entitle a man to the necessities and elementary comforts of life.”* The rest of the day could be devoted to the pursuit of science, painting, and writing.
 
 Some people say that robots are going to replace most jobs in companies. Are the coming decades going to see the end of work as we know it? Only the future will tell. Until them, it’s up to you (or your company) to preserve [a good work-life balance – as we did at TeamMood](https://www.teammood.com/en/about/).
+
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
 
 <small><em>Photo by <a href="https://unsplash.com/@giulia_bertelli?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Giulia Bertelli</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></em></small>

@@ -7,6 +7,10 @@ excerpt: How to deal with conflicts in the workplace, and 5 strategies to resolv
   them.
 ---
 
+<section class="hub-content-link">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>
+
 Once you’ve [identified the signs of an upcoming conflict at work](/en/2017/04/11/8-warnings-that-a-crisis-is-looming-among-your-teammates.html), you need to resolve it before it burst. I’m going to kill the dream right away: conflicts don’t resolve by themselves. You have to make it happen.
 
 Conflicts are sensitive subjects for most people, whether they fight it or decide to flight. Some cultures even find it rude and disrespectful to disagree or oppose someone, especially at work, in a situation of hierarchy. Wouldn’t be easier to consider conflicts like any other problem to be solved, with a specific methodology? You’re in luck, we’ve gathered all the literature on the topic to craft you the perfect guide to solve conflicts at work.
@@ -54,3 +58,7 @@ As I said before, Alex might be interested in working on this new project that i
 Conflicts should be handled with diligence yet precaution. The good thing about a conflict is that when overtaken, it can create an even better work relationship, based on communication and trust. But in order to reach this situation, you must act with kindness and respect, and inspire the other person to do so: those are the principles of [NonViolent Communication](http://firstround.com/review/power-up-your-team-with-nonviolent-communication-principles/), a communication process I strongly encourage you to go into.
 
 **Stop fearing conflicts and start handling them!**
+
+<section class="hub-content-link hub-content-link-end">
+  <a href="https://www.teammood.com/en/hub/hr-hub/">This article belongs to our <span>HR Content Hub</span> and includes 30 articles and interviews about leadership, wellbeing & mental health, employee experience, and recruitment.</a>
+</section>

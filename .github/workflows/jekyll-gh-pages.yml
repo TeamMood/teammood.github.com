@@ -35,6 +35,7 @@ jobs:
           ruby --version
           sudo apt-get install ruby-bundler 
           bundle --version
+          bundle install
           jekyll --version
       - name: Build with Jekyll
 #        run: jekyll build

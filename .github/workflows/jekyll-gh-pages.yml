@@ -36,10 +36,11 @@ jobs:
           sudo apt-get install rvm
           sudo usermod -a -G rvm $USER
           source "/etc/profile.d/rvm.sh"
+          rvm pkg install openssl
           rvm install 2.5.5
           rvm use 2.5.5 -default
           rvm -v
-          rvm gemset update
+#          rvm gemset update
           gem install jekyll
           jekyll -v
       - name: Setup Pages

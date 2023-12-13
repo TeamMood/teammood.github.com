@@ -33,7 +33,7 @@ jobs:
       - name: Env info
         run: |
           ruby --version
-          sude apt-get install ruby-bundler 
+          sudo apt-get install ruby-bundler 
           bundle --version
           jekyll --version
       - name: Build with Jekyll

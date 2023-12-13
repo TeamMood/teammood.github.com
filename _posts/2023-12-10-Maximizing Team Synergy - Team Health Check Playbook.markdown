@@ -6,7 +6,7 @@ image: /uploads/morning-routine.jpg
 excerpt: >-
     Everything you need for successful team health checks: 15 key dimensions for assessment, 6 ready-to-use formats, essential setup requirements, and a step-by-step meeting agenda.
 keywords: Team Health Check, wellbeing, team morale
-permalink: /morning-routine
+permalink: /team-health-check
 redirect_from:
 layout: post
 ---

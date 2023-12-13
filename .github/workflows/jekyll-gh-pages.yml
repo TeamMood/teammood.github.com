@@ -28,6 +28,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Install Jekyll
+        run: |
+          curl -sSL https://get.rvm.io | bash -s stable --ruby
+          rvm install 3.0
+          rvm use 3.0.0 -default
+          rvm -v
+          rvm gemset update
+          gem install jekyll
+          jekyll -v
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll

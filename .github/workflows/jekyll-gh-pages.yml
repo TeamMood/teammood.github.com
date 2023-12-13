@@ -56,6 +56,7 @@ jobs:
           sudo gem install kramdown-parser-gfm -v '1.1.0' --source 'https://rubygems.org/'
           sudo gem install liquid -v '4.0.4' --source 'https://rubygems.org/'
           sudo gem install mercenary -v '0.4.0' --source 'https://rubygems.org/'
+          sudo gem install pathutil -v '0.16.2' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

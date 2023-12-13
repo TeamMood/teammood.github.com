@@ -28,20 +28,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Install Jekyll
-        run: |
-          sudo apt-get install software-properties-common
-          sudo apt-add-repository -y ppa:rael-gc/rvm
-          sudo apt-get update
-          sudo apt-get install rvm
-          sudo usermod -a -G rvm $USER
-          source "/etc/profile.d/rvm.sh"
-          rvm pkg install openssl
-          rvm install 2.5.5
-          rvm use 2.5.5 -default
-          rvm -v
-          gem install jekyll
-          jekyll -v
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll

@@ -42,6 +42,7 @@ jobs:
           sudo gem install em-websocket -v '0.5.3' --source 'https://rubygems.org/'
           sudo gem install fastimage -v '1.8.1' --source 'https://rubygems.org/'
           sudo gem install ffi -v '1.16.3' --source 'https://rubygems.org/'
+          sudo gem install forwardable-extended -v '2.6.0' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

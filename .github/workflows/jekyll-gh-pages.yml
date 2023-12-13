@@ -66,6 +66,7 @@ jobs:
           sudo gem install rack -v '1.6.13' --source 'https://rubygems.org/'
           sudo gem install tilt -v '1.4.1' --source 'https://rubygems.org/'
           sudo gem install sprockets -v '2.12.5' --source 'https://rubygems.org/'
+          sudo gem install sprockets-helpers -v '1.4.0' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

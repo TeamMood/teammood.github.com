@@ -49,6 +49,7 @@ jobs:
           sudo gem install jekyll-sass-converter -v '2.2.0' --source 'https://rubygems.org/'
           sudo gem install rb-fsevent -v '0.11.2' --source 'https://rubygems.org/'
           sudo gem install rb-inotify -v '0.10.1' --source 'https://rubygems.org/'
+          sudo gem install listen -v '3.8.0' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

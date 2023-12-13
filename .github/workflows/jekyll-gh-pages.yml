@@ -33,6 +33,7 @@ jobs:
       - name: Install Ruby Bundler 
         run: |
           sudo apt-get install ruby-bundler 
+          gem install public_suffix -v '4.0.7' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

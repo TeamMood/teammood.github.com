@@ -45,6 +45,7 @@ jobs:
           sudo gem install forwardable-extended -v '2.6.0' --source 'https://rubygems.org/'
           sudo gem install hike -v '1.2.3' --source 'https://rubygems.org/'
           sudo gem install i18n -v '1.14.1' --source 'https://rubygems.org/'
+          sudo gem install sassc -v '2.4.0' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

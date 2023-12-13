@@ -54,6 +54,7 @@ jobs:
           sudo gem install rexml -v '3.2.6' --source 'https://rubygems.org/'
           sudo gem install kramdown -v '2.4.0' --source 'https://rubygems.org/'
           sudo gem install kramdown-parser-gfm -v '1.1.0' --source 'https://rubygems.org/'
+          sudo gem install liquid -v '4.0.4' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

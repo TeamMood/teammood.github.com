@@ -34,6 +34,7 @@ jobs:
         run: |
           sudo apt-get install ruby-bundler 
           sudo gem install public_suffix -v '4.0.7' --source 'https://rubygems.org/'
+          sudo gem install colorator -v '1.1.0' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

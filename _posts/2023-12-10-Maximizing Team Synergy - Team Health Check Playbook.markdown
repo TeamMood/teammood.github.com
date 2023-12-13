@@ -1,5 +1,5 @@
 ---
-title: Maximizing Team Synergy: Team Health Check Playbook
+title: "Maximizing Team Synergy: Team Health Check Playbook"
 date: 2023-12-10 11:00:00
 comments: true
 image: /uploads/morning-routine.jpg

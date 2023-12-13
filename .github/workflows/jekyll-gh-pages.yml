@@ -37,6 +37,7 @@ jobs:
           sudo gem install colorator -v '1.1.0' --source 'https://rubygems.org/'
           sudo gem install addressable -v '2.8.6' --source 'https://rubygems.org/'
           sudo gem install concurrent-ruby -v '1.2.2' --source 'https://rubygems.org/'
+          sudo gem install eventmachine -v '1.2.7' --source 'https://rubygems.org/'
           bundle install
       - name: Env info
         run: |

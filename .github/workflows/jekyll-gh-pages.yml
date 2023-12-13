@@ -68,7 +68,7 @@ jobs:
           sudo gem install sprockets -v '2.10.0' --source 'https://rubygems.org/'
           sudo gem install sprockets-helpers -v '1.4.0' --source 'https://rubygems.org/'
           sudo gem install sprockets-sass -v '1.3.1' --source 'https://rubygems.org/'
-          sudo gem install jekyll-assets -v '1.0.0' --source 'https://rubygems.org/'
+          sudo gem install jekyll-assets -v '2.0.0' --source 'https://rubygems.org/'
           sudo 
           bundle install
       - name: Env info

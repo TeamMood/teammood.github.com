@@ -34,7 +34,9 @@ jobs:
       - name: Env info
         run: |
           ruby --version
-          bundle --version
+      - name: Run bundle
+        run: |
+          bundle install
           jekyll --version
 #        - name: Setup Pages
 #          uses: actions/configure-pages@v4

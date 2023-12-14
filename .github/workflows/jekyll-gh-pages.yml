@@ -24,24 +24,26 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ruby:2.5.5-alpine
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Install Ruby Bundler 
-        run: apk update && apk add --no-cache build-base
-      - name: Env info
-        run: |
-          ruby --version
-          bundle --version
-          jekyll --version
-      - name: Build with Jekyll
-#        run: jekyll build
-        uses:  lemonarc/jekyll-action@1.0.0
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+    container-test-job:
+      runs-on: ubuntu-latest
+      container: ruby:2.5.5-alpine
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4
+        - name: Setup Pages
+          uses: actions/configure-pages@v4
+        - name: Install Ruby Bundler 
+          run: apk update && apk add --no-cache build-base
+        - name: Env info
+          run: |
+            ruby --version
+            bundle --version
+            jekyll --version
+        - name: Build with Jekyll
+  #        run: jekyll build
+          uses:  lemonarc/jekyll-action@1.0.0
+        - name: Upload artifact
+          uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:

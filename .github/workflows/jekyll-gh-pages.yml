@@ -24,52 +24,14 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ruby:2.5.5-alpine
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install Ruby Bundler 
-        run: |
-          sudo apt-get install ruby-bundler 
-          sudo gem install public_suffix -v '4.0.7' --source 'https://rubygems.org/'
-          sudo gem install colorator -v '1.1.0' --source 'https://rubygems.org/'
-          sudo gem install addressable -v '2.8.6' --source 'https://rubygems.org/'
-          sudo gem install concurrent-ruby -v '1.2.2' --source 'https://rubygems.org/'
-          sudo gem install eventmachine -v '1.2.7' --source 'https://rubygems.org/'
-          sudo gem install http_parser.rb -v '0.8.0' --source 'https://rubygems.org/'
-          sudo gem install em-websocket -v '0.5.3' --source 'https://rubygems.org/'
-          sudo gem install fastimage -v '1.8.1' --source 'https://rubygems.org/'
-          sudo gem install ffi -v '1.16.3' --source 'https://rubygems.org/'
-          sudo gem install forwardable-extended -v '2.6.0' --source 'https://rubygems.org/'
-          sudo gem install hike -v '1.2.3' --source 'https://rubygems.org/'
-          sudo gem install i18n -v '1.14.1' --source 'https://rubygems.org/'
-          sudo gem install sassc -v '2.4.0' --source 'https://rubygems.org/'
-          sudo gem install jekyll-sass-converter -v '2.2.0' --source 'https://rubygems.org/'
-          sudo gem install rb-fsevent -v '0.11.2' --source 'https://rubygems.org/'
-          sudo gem install rb-inotify -v '0.10.1' --source 'https://rubygems.org/'
-          sudo gem install listen -v '3.8.0' --source 'https://rubygems.org/'
-          sudo gem install jekyll-watch -v '2.2.1' --source 'https://rubygems.org/'
-          sudo gem install rexml -v '3.2.6' --source 'https://rubygems.org/'
-          sudo gem install kramdown -v '2.4.0' --source 'https://rubygems.org/'
-          sudo gem install kramdown-parser-gfm -v '1.1.0' --source 'https://rubygems.org/'
-          sudo gem install liquid -v '4.0.4' --source 'https://rubygems.org/'
-          sudo gem install mercenary -v '0.4.0' --source 'https://rubygems.org/'
-          sudo gem install pathutil -v '0.16.2' --source 'https://rubygems.org/'
-          sudo gem install rouge -v '3.30.0' --source 'https://rubygems.org/'
-          sudo gem install safe_yaml -v '1.0.5' --source 'https://rubygems.org/'
-          sudo gem install webrick -v '1.8.1' --source 'https://rubygems.org/'
-          sudo gem install jekyll -v '4.3.2' --source 'https://rubygems.org/'
-          sudo gem install sass-listen -v '4.0.0' --source 'https://rubygems.org/'
-          sudo gem install sass -v '3.7.4' --source 'https://rubygems.org/'
-          sudo gem install rack -v '1.6.13' --source 'https://rubygems.org/'
-          sudo gem install tilt -v '1.4.1' --source 'https://rubygems.org/'
-          sudo gem install sprockets -v '2.12.5' --source 'https://rubygems.org/'
-          sudo gem install sprockets-helpers -v '1.4.0' --source 'https://rubygems.org/'
-          sudo gem install sprockets-sass -v '2.0.0.beta2' --source 'https://rubygems.org/'
-          sudo gem install jekyll-assets -v '1.0.0' --source 'https://rubygems.org/'
-          bundle install
+        run: apk update && apk add --no-cache build-base
       - name: Env info
         run: |
           ruby --version

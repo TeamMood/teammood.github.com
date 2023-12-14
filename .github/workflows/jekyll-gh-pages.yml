@@ -29,15 +29,15 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-#        - name: Setup Pages
-#          uses: actions/configure-pages@v4
       - name: Install Ruby Bundler 
         run: apk update && apk add --no-cache build-base
-        - name: Env info
-          run: |
-            ruby --version
-            bundle --version
-            jekyll --version
+      - name: Env info
+        run: |
+          ruby --version
+          bundle --version
+          jekyll --version
+#        - name: Setup Pages
+#          uses: actions/configure-pages@v4
 #        - name: Build with Jekyll
 #          run: jekyll build
 #          uses:  lemonarc/jekyll-action@1.0.0

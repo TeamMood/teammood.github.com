@@ -40,7 +40,7 @@ jobs:
             bundle --version
             jekyll --version
         - name: Build with Jekyll
-#         run: jekyll build
+          run: jekyll build
 #          uses:  lemonarc/jekyll-action@1.0.0
 #        - name: Upload artifact
 #          uses: actions/upload-pages-artifact@v2

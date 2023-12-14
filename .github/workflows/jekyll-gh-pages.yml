@@ -37,14 +37,15 @@ jobs:
       - name: Env info
         run: |
           ruby --version
+          bundle --version
           jekyll --version
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
-        run: jekyll build
-#          uses:  lemonarc/jekyll-action@1.0.0
-#        - name: Upload artifact
-#          uses: actions/upload-pages-artifact@v2
+#        run: jekyll build
+        uses:  lemonarc/jekyll-action@1.0.0
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:

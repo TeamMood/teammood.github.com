@@ -24,16 +24,15 @@ concurrency:
 jobs:
   # Build job
   build:
-    container-test-job:
-      runs-on: ubuntu-latest
-      container: ruby:2.5.5-alpine
-      steps:
+    runs-on: ubuntu-latest
+    container: ruby:2.5.5-alpine
+    steps:
 #        - name: Checkout
 #          uses: actions/checkout@v4
 #        - name: Setup Pages
 #          uses: actions/configure-pages@v4
-        - name: Install Ruby Bundler 
-          run: apk update && apk add --no-cache build-base
+      - name: Install Ruby Bundler 
+        run: apk update && apk add --no-cache build-base
 #        - name: Env info
 #          run: |
 #            ruby --version

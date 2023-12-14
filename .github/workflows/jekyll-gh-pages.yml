@@ -29,11 +29,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-#      - name: Install Ruby Bundler 
-#        run: apk update && apk add --no-cache build-base
-#      - name: Run bundle
-#        run: |
-#          bundle install
       - name: Env info
         run: |
           ruby --version
@@ -43,7 +38,6 @@ jobs:
         uses: actions/configure-pages@v4
       - name: Build with Jekyll
         run: jekyll build
-#        uses:  lemonarc/jekyll-action@1.0.0
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 

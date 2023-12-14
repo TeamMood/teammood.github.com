@@ -34,7 +34,7 @@ jobs:
 #      - name: Run bundle
 #        run: |
 #          bundle install
-#      - name: Env info
+      - name: Env info
         run: |
           ruby --version
           jekyll --version

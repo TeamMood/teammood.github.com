@@ -306,7 +306,7 @@ By comparing with the previous period, you will see if the current period has av
 
 Leverage tags to segment data even further.
 
-![mood_distribution (1).png](/images/posts/mood_distribution.png)
+![mood_distribution](/images/posts/mood_distribution.png)
 
 **3/ Check the calendar view**
 
@@ -314,7 +314,7 @@ Analytics tells you what the mood was but not why it was the way it was. Also, t
 
 So on the calendar view, select the current period and see if there is anything particular. Here too, you can use the previous period for comparison.
 
-![feedback-history (2).png](/images/posts/feedback-history.png)
+![feedback-history](/images/posts/feedback-history.png)
 
 **4/ Review word cloud, written feedback, and take notes**
 
@@ -322,7 +322,7 @@ See for the selected period what are the most used words. Write them down and an
 
 Review all written feedback and take notes on anything that could help with the retrospective.
 
-![analytics-comments (1).png](/images/posts/analytics-comments.png)
+![analytics-comments](/images/posts/analytics-comments.png)
 
 **5/ Use insights to write a great team meeting agenda**
 

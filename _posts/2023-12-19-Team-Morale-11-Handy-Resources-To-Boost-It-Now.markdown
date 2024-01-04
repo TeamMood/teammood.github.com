@@ -391,7 +391,7 @@ This one is a classic in retrospectives. Here instead of adding marks, each team
 
 ![Mad Sad Glad](/images/posts/mad-sad-glad.png)
 
-### ****How do you feel?****
+### **How do you feel?**
 
 Similar to “Mad Sad Glad” but with more emotions to dive deeper and get more nuanced comments.
 
@@ -415,51 +415,6 @@ You might wonder how to run team health checks, so here’s a cheatsheet that wi
 - **Voting process:** That’s the most important part of the meeting, don’t forget any step here.
 
 ![team-health-checks-cheatsheet.png](/images/posts/team-health-checks-cheatsheet.png)
-
-**Health indicators**
-
-*Pick the indicators you want to monitor.*
-
-- **Collaboration:** We communicate regularly and respectfully.
-- **Fun:** Our team enjoys working together.
-- **Learnings:** We always seek to improve our skills.
-- **Goal alignment:** We all know our purpose and believe we can make valuable solutions.
-- **Ownership:** Our team makes decisions independently and takes responsibility.
-- **Process:** Our methods help us add value without delays.
-- **Resources:** We have everything needed to complete our tasks.
-- **Roles:** Everyone knows their job and has the skills for team success.
-- **Speed:** We deliver on time while maintaining quality.
-- **Value:** We clearly provide measurable benefits to the business and users.
-- **Communication:** We speak clearly, reducing conflicts and boosting efficiency.
-
-**Meeting requirements**
-
-*Set up team health check meetings properly.*
-
-- Frequency
-- Meeting time
-- Voting tool
-- Video conferencing
-- Note-taking app
-
-**Meeting agenda**
-
-*Here’s how to proceed during the meeting.*
-
-- **Set the stage (5min):** thank teammates, reiterate program, ask about expectations.
-- **Vote & discuss (30min)**
-- **Debriefing (10min):** Celebrate top health indicators and make a plan to improve the lowest ones.
-
-**Voting process**
-
-*How the voting system works.*
-
-- State the indicator and its description
-- Ask the team to think how they will vote on the indicator
-- Vote
-- Ask teammates for feedback
-- Discuss thoughts
-- Repeat for each indicator
 
 **Health indicators**
 

@@ -379,7 +379,7 @@ A variation of the happiness radar is to replace areas by the important steps of
 
 ![Happiness Radar Timeline](/images/posts/Happiness_Radar_Timeline.png)
 
-### E**motional seismograph**
+### **Emotional seismograph**
 
 It’s similar to the happiness radar timeline but more precise. By tracing a line instead of adding marks in cells, the team can be more nuanced into their moods over time.
 

@@ -24,6 +24,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://blog.teammood.com
 paginate: 8
 
+encoding: utf-8
+
 author:
   name: Nicolas Deverge
   twitter: ndeverge

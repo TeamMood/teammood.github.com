@@ -76,6 +76,12 @@ All the solutions with the price hidden are like that. But there are also a few 
 - [Lattice](https://lattice.com/)
 - [Empuls](https://www.empuls.io/)
 
+## But beware of the survey fatigue
+
+While employee survey tools have become more prevalent, their tendency toward feature overload can hinder their effectiveness by overwhelming employees and managers, ultimately leading to slower decision-making and reduced employee engagement.
+
+We explain in details why [in this article](/survey-fatigue).
+
 ## Top 5 employee survey tools
 
 After disqualifying all these products, we ended up with these 5 tools:

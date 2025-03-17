@@ -56,4 +56,4 @@ When teams make space for constructive disagreement, they do better work and bui
 
 <a href="https://www.teammood.com/en/" class="button">Learn more about TeamMood<br/> and sign up here</a>
 
-<small><em>Header photo by <a target="_blank" rel="noopener" href="https://unsplash.com/@cg">Nasa</a></em></small>
+<small><em>Header photo by <a target="_blank" rel="noopener" href="https://unsplash.com/@nasa">Nasa</a></em></small>

@@ -1,5 +1,5 @@
 ---
-title: "7 coaching techniques to stop solving your team’s problems"
+title: "7 essential emotional intelligence skills technical professionals need for management success"
 date: 2025-06-16
  02:00:00
 comments: true
@@ -12,8 +12,6 @@ redirect_from:
 layout: post
 published: true
 ---
-
-# **7 essential emotional intelligence skills technical professionals need for management success**
 
 You crushed that technical interview. Your code was elegant, your system designs were bulletproof, and your deep expertise impressed everyone. The promotion to management seemed like the natural next step.
 

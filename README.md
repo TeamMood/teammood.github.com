@@ -4,6 +4,7 @@
 ## Build the image
 
 rm Gemfile.lock 
+mv dockerfile.build dockerfile
 docker build -t jekyll-site-blog .
 
 ## Run the image with

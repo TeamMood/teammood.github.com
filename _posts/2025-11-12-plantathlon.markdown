@@ -19,7 +19,7 @@ At TeamMood, we are convinced that the well-being and commitment of our teams ar
 
 The Plantathlon is a concrete and inclusive initiative led by the association Foretvert (to learn more about their work, visit [https://foretvert.com/i/plantathlon](https://foretvert.com/i/plantathlon)). It’s not just a race, but a real planting marathon! The goal is to mobilize companies and citizens to provide the human and financial resources necessary for the agroecological transition of agricultural operations.
 
-![Plantathlon 2025]({{ site.baseurl }}/uploads/plantathlon-photo.jpg "Plantathlon 2025")
+![Plantathlon 2025]({{ site.baseurl }}/uploads/plantathlon-photo.jpg "Plantathlon 2025"){: width="625" height="366"}
 
 Specifically, TeamMood will participate in a large-scale effort to plant kilometers of country hedges. These hedges are absolutely vital: they combat biodiversity erosion, regenerate soils, and help mitigate environmental risks related to climate change and the disruption of the water cycle.
 

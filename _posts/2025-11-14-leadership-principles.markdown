@@ -6,7 +6,7 @@ comments: true
 image: /uploads/leadership-principles.jpg
 excerpt: >-
     Discover the 5 essential leadership principles that separate real leaders from pretenders: complete ownership of problems, caring about people before work, strategic failure, protecting your team's finances, and giving credit while taking blame. Learn why "lead from the front" isn't just theory, how to avoid compassion exploitation, and why treating everyone equally actually fails. Based on insights from experienced leaders managing teams of all sizes.
-keywords: team building, plantathlon
+keywords: leadership principles
 permalink: /leadership-principles
 redirect_from:
 layout: post

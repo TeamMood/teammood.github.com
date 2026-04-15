@@ -33,10 +33,6 @@ layout: default
           You liked this article? Please share it on
           <span class="icon icon--twitter">{% include icon-linkedin.svg %}</span>
         </a>
-        <a class="icon" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&text={{page.title | cgi_escape}}&via={{ site.twitter.username }}" target="_blank">
-          , on 
-          <span class="icon icon--twitter">{% include icon-twitter.svg %}</span>
-        </a>
         <a class="icon" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}&p[title]={{page.title | cgi_escape}}&via={{ site.twitter.username }}" target="_blank">
           or on 
           <span class="icon icon--twitter">{% include icon-facebook.svg %}</span>
@@ -72,7 +68,6 @@ layout: default
           <section class="poweredby">
             <a href="https://www.linkedin.com/company/teammood/" target="_blank">LinkedIn</a> |
             <a href="https://www.facebook.com/teammood" target="_blank">Facebook</a> | 
-            <a href="https://twitter.com/teammood" target="_blank">Twitter</a> | 
             <a href="mailto:{{ site.email }}">Email</a>
           </section>
           <div class="inner">
